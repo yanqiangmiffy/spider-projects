@@ -1,0 +1,1549 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:17:25 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 15,
+                    "TestItems": [
+                        {
+                            "Title": "33099750aa41f945109e4d65bf4b6b8a58b7f568cdc65f1aa19119c9ec3dc57d",
+                            "Explain": "肝素是体内正常的抗凝成分，在体内、体外均有强大的抗凝作用，可延长凝血时间，故A项和B项所述不正确。肝素为注射用抗凝血药，因为其是带大量负电荷的高极性大分子，不宜通过生物膜，故口服和直肠直接给药均无效，C项口服不正确。静脉注射后，肝素能延长凝血酶原时间，但不具有激活纤溶酶原的活性，D项所述不符合题意，肝素的抗凝作用主要依赖于增强抗凝血酶Ⅲ的作用，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "仅在体内有抗凝血作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "仅在体外有抗凝血作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "口服后立即发挥抗凝血作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "能激活纤溶酶原的活性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "增强抗凝血酶Ⅲ的作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000600,
+                            "ATestID": 35000600,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5fe162b2ec9d8648b8584022c4ff2d452f31303c3adcdedd0b56d18388fe750d824e5f4162221182c4d339b7400f9183f463476582d3a89cef4eeb9e7adc85d26dd187f1bbb10699715b760f52a7275e612dd155b4581b94bef45ddfab415b3944e0164688ea02c4",
+                            "Explain": "铁剂用于治疗缺铁性贫血，疗效甚佳。口服铁剂1周，血液中网织红细胞即可上升。10～14天达高峰，2～14周血红蛋白明显增加。但达正常值需1～13个月，为使体内铁贮存恢复正常，待血红蛋白正常后，尚需减半量继续服药2～13个月。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "3～7天"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "1～2周"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "3～4周"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "2～3个月"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "6个月～1年"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000603,
+                            "ATestID": 35000603,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "66d957b6e9d3ef176256589fd5b30a5c",
+                            "Explain": "尿激酶是从人尿中分离而得的一种纤维蛋白溶解药，可直接激活纤溶酶原转变为纤溶酶，发挥溶血栓作用。尿激酶无抗原性，不引起过敏，可用于对链激酶过敏者。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "促凝血药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗血小板药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗贫血药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抗凝血药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "纤维蛋白溶解药"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000538,
+                            "ATestID": 43000538,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e9c9d922f48e6043461ba84d0f930678d16c912c6d4f41aa4f31a3ac76f8c4cf6c9a59d2a637f3798a2536d2efe365fbcfbb219fbd03d34b190511efc853b608",
+                            "Explain": "硫酸鱼精蛋白注射液，抗肝素药。用于因注射肝素过量所引起的出血。",
+                            "TestPoint": "抗凝药物",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "维生素K"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "维生素C"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "垂体后叶素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "鱼精蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "右旋糖酐"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002699,
+                            "ATestID": 43002699,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cd8024eb4459c95b324e54c44dafccb6f0af9310b8de459e87e214a626f6c1b3b2d9e28c6f2f7e9e",
+                            "Explain": "为人工合成的抗凝血药物。其凝血作用与肝素不同，主要与维生素K发生可逆性竞争，抑制依赖维生素K的Ⅱ、Ⅶ、Ⅸ、Ⅹ凝血因子在肝细胞中合成，使凝血酶原含量降低，防止血栓形成。",
+                            "TestPoint": "抗凝药物",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "能对抗凝血因子Ⅱa、Ⅶa、Ⅸa、Ⅹa的作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "影响凝血因子Ⅱ、Ⅶ、Ⅸ、Ⅹ的合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "加速ATⅢ对凝血因子的灭活作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "激活纤溶酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抑制血小板的聚集反应"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002700,
+                            "ATestID": 43002700,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ef4cc5a379870c895d1ff868deba01c217bd7d83f353b8c1d646765a0ef0d7f4a8ba6b5b0e99f3efea5da13b74e13a48",
+                            "Explain": "能降低凝血酶诱导的血小板聚集反映，但无外抗凝血作用。",
+                            "TestPoint": "抗凝药物",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "发挥作用慢，维持时间长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "维生素K能对抗其抗凝血作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "体内外都有抗凝血作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "口服就有抗凝血作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "华法林的作用比双香豆素出现作用快，维持时间短"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002701,
+                            "ATestID": 43002701,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f41753973db9d4465a99b50ccb5a1e7eb669b9273dbbf22d0e1de6ce19a9f478773f59aa247c718c7f60aafbdf529f88",
+                            "Explain": "可以用胶体液治疗失血性休克，常用的有右旋糖酐，706代血浆。",
+                            "TestPoint": "扩容药物",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "硫酸亚铁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "叶酸"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "维生素B[12.gif]"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "右旋糖酐"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "红细胞生成素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002702,
+                            "ATestID": 43002702,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cd8024eb4459c95bb153e3307e9e8835bdc9fa2a61cd0fb3ca62516293a5b8c8bcbc6f111bbc6d25",
+                            "Explain": "在肝脏合成凝血酶原和其他凝血因子（如Ⅶ、Ⅸ和Ⅹ因子）时，需有维生素K存在，由于双香豆素的化学结构和维生素K相似，与之竞争，阻抑肝脏对维生素K的利用，故可干扰肝脏对凝血因子的正常合成，而起抗凝血作用。在双香豆素过量引起的出血可用维生素K治疗。",
+                            "TestPoint": "抗凝药物",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "硫酸鱼精蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "叶酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "维生素K"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "尿激酶"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "维生素B[12.gif]"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002703,
+                            "ATestID": 43002703,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52fdd7f8a3bc798f9c110b4f140ba72f41910b6c438d6a6fe204eb60e481ea2c5fbf749dfcdaa670",
+                            "Explain": "肝素有抗凝作用，但不能溶解血栓，在体内外均有作用，静脉应用有效。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "能溶解血栓"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "仅口服有作用"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "仅在体外有作用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "仅在体内有作用"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "在体内体外均有作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015472,
+                            "ATestID": 43015472,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "968091b59086e46506d9a6a4002d3caaa5f114f4047118654a5452ba3e11005bdcd6e3211953306e78989207543851f1f684486231288f65",
+                            "Explain": "肝素可加速ATⅢ-凝血酶复合物的形成达千倍以上，使酶失活。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肝素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "蛋白质C"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "组织因子途径抑制物"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "凝血酶调制素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "δ[XB2.gif]-巨球蛋白"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015474,
+                            "ATestID": 43015474,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "222375300d10e5ff99abb7076b219e4110e96a0ea57aca4ed2148e4ee7da278e",
+                            "Explain": "尿激酶、链激酶属于溶血栓药物，阿司匹林、双嘧达莫属于抗血小板聚集药物。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "尿激酶",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "低分子肝素",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "阿司匹林",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "链激酶",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "双嘧达莫",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015475,
+                            "ATestID": 43015475,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bc3d817df270af7c4ba91115e29c888d73f314eff11536e017d950cdae37f706",
+                            "Explain": "肝素抗凝血主要是由于增强抗凝血酶Ⅲ的活性.",
+                            "TestPoint": "作用于血液及造血器官的药物",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "抑制Ⅹ因子的激活"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "增强抗凝血酶Ⅲ的活性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "去除Ca[SB2jia.gif]"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抑制血小板的作用"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "促进纤维蛋白溶解"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015477,
+                            "ATestID": 43015477,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "50ae17164388fe73859b96c2038ccc555918f8191f1409b4748bb07630f0babb",
+                            "Explain": "华法林钠（香豆素类）、肝素、低分子肝素属于抗凝剂。阿司匹林、氯吡格雷、双嘧达莫属于抗血小板聚集药。尿激酶、链激酶、组织型纤溶酶原激活物属于溶栓剂。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "尿激酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "阿司匹林"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "双嘧达莫"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "低分子量肝素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "组织型纤溶酶原激活剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015478,
+                            "ATestID": 43015478,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8887586b89ee52e32ae50f0a493ad543fb389a09f7cd35a314311cdd083152f6305100996cc59f63c23b488cb62c5f7aa5f46645bb4bbbe0",
+                            "Explain": "肝药酶诱导剂苯巴比妥、苯妥英钠、利福平、口服避孕药等能加速香豆素类的代谢，降低其抗凝作用。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "甲苯磺丁脲"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "奎尼丁"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "阿司匹林"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "日服避孕药"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "羟基保泰松"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015479,
+                            "ATestID": 43015479,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "daf5df901412406b7ba376b289eed5704a8d249332cf81ad54330b6efdfd4d29",
+                            "Explain": "在体内、体外，肝素均有强大的抗凝作用，可使多种凝血因子灭活。静脉注射后10分钟内血液凝固时间及部分凝血酶时间均明显延长。肝素的抗凝作用主要依赖于抗凝血酶Ⅲ（antithrombinⅢ，AT-Ⅲ）。肝素可加速AT-Ⅲ-凝血酶复合物的形成达千倍以上，使酶失活。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "肝素过量能引起骨质疏松",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "肝素不能口服",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "肝素是通过抗凝血酶起作用",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "肝素用量越大，其抗凝活性t[XB1chuyi2.gif]越长",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "肝素只在体外有抗凝血作用",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015480,
+                            "ATestID": 43015480,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "b7cf3bc30f4c2fa7ffe318b318e538d2",
+                            "Explain": "链激酶具有促进体内纤维蛋白溶解系统活性的作用，能使纤维蛋白溶酶原激活因子前体物转变为激活因子，后者再使纤维蛋白原转变为有活性的纤维蛋白溶酶，使血栓溶解，故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "香豆素类抗凝血药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "纤维蛋白溶解药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗血小板药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "促凝血药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抗凝血酶Ⅲ活性药"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000548,
+                            "ATestID": 41000548,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "f904573063d9266c4f93337f0dab0050a918358d3494554623723a241b3a5fce",
+                            "Explain": "氨甲苯酸同6-氨基己酸、氨甲环酸，其立体构型与赖氨酸相似，能竞争性阻抑纤溶酶原吸附在纤维蛋白网上，保护纤维蛋白不被纤溶酶降解而达到止血作用。",
+                            "TestPoint": "作用于血液及造血器官的药物",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "氨甲苯酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "链激酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "组织纤溶酶原激活因子"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "双嘧达莫"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "华法林"
+                                }
+                            ],
+                            "AllTestID": 43002704,
+                            "BTestID": 43000690,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000690,
+                                    "Title": "f904573063d9266c4f93337f0dab0050a918358d3494554623723a241b3a5fce",
+                                    "Explain": "氨甲苯酸同6-氨基己酸、氨甲环酸，其立体构型与赖氨酸相似，能竞争性阻抑纤溶酶原吸附在纤维蛋白网上，保护纤维蛋白不被纤溶酶降解而达到止血作用。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000691,
+                                    "Title": "a65fe2390c161489fcdd43beb41719e9cea01ab397895e520595622b6ab845a768e763f20b2ed0a64fa2af76517a112c86bfe14d9643a0e3",
+                                    "Explain": "对血栓部位有一定选择性的溶栓药是组织纤溶酶原激活因子。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000692,
+                                    "Title": "d53f309688ff70ce59fd3c1a5545b644d83cc9e2501e773e9d52e918bdd2e1c7ceb6e909bc13e266f570f5d062c056c1",
+                                    "Explain": "双嘧达莫抑制血小板第一相和第二相聚集。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "b7755c4312038814256c4cd544f083c4a6dab1e13b3ce5b125b09c53185c7cea",
+                            "Explain": "长期缓慢失血致贫血用铁剂，补充血液。",
+                            "TestPoint": "作用于血液及造血器官的药物",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "铁剂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "叶酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "维生素B[12.gif]"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "维生素K"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肝素"
+                                }
+                            ],
+                            "AllTestID": 43002705,
+                            "BTestID": 43000693,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 373,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000693,
+                                    "Title": "b7755c4312038814256c4cd544f083c4a6dab1e13b3ce5b125b09c53185c7cea",
+                                    "Explain": "长期缓慢失血致贫血用铁剂，补充血液。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000694,
+                                    "Title": "da8a6a64def2691009170e202c6be931b602fd240f131a23c59a23fcf404b184",
+                                    "Explain": "预防新生儿出血用维生素K。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000695,
+                                    "Title": "fb37695d3b867932f0334a3a7a52052d",
+                                    "Explain": "恶性贫血用维生素B[12.gif]。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000696,
+                                    "Title": "a734cbbcc559840a46b64798b902d32e4205e2cc95b2b9c83bbdc528d3b724cc",
+                                    "Explain": "巨幼红细胞性贫血用叶酸。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000697,
+                                    "Title": "35b94ff0f5d9cd0c3de2f96b84be3e23501f0a3e99e95bbbe818b47b717efb2c",
+                                    "Explain": "香豆素类过量中毒选用维生素K。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000600,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000600,
+                        "ChildTableID": -1,
+                        "UserCount": 1475,
+                        "RightCount": 920,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000600,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 35000603,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000603,
+                        "ChildTableID": -1,
+                        "UserCount": 1587,
+                        "RightCount": 909,
+                        "FavCount": 54,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000603,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000538,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000538,
+                        "ChildTableID": -1,
+                        "UserCount": 1424,
+                        "RightCount": 1085,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000538,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002699,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002699,
+                        "ChildTableID": -1,
+                        "UserCount": 1519,
+                        "RightCount": 837,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002699,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002700,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002700,
+                        "ChildTableID": -1,
+                        "UserCount": 1419,
+                        "RightCount": 968,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002700,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43002701,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002701,
+                        "ChildTableID": -1,
+                        "UserCount": 1445,
+                        "RightCount": 889,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002701,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002702,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002702,
+                        "ChildTableID": -1,
+                        "UserCount": 1266,
+                        "RightCount": 1132,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002702,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002703,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002703,
+                        "ChildTableID": -1,
+                        "UserCount": 1356,
+                        "RightCount": 967,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002703,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015472,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015472,
+                        "ChildTableID": -1,
+                        "UserCount": 1190,
+                        "RightCount": 1046,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015472,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015474,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015474,
+                        "ChildTableID": -1,
+                        "UserCount": 1201,
+                        "RightCount": 1063,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015474,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015475,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015475,
+                        "ChildTableID": -1,
+                        "UserCount": 1255,
+                        "RightCount": 935,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015475,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015477,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015477,
+                        "ChildTableID": -1,
+                        "UserCount": 1169,
+                        "RightCount": 1066,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015477,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015478,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015478,
+                        "ChildTableID": -1,
+                        "UserCount": 1164,
+                        "RightCount": 1081,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015478,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015479,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015479,
+                        "ChildTableID": -1,
+                        "UserCount": 1312,
+                        "RightCount": 611,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015479,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015480,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015480,
+                        "ChildTableID": -1,
+                        "UserCount": 1243,
+                        "RightCount": 1008,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015480,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000548,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000548,
+                        "ChildTableID": -1,
+                        "UserCount": 1286,
+                        "RightCount": 1110,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000548,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002704,
+                "ChildTableID": 43000690,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002704,
+                        "ChildTableID": 43000690,
+                        "UserCount": 1799,
+                        "RightCount": 679,
+                        "FavCount": 59,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002704,
+                    "ChildTableID": 43000690
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002704,
+                "ChildTableID": 43000691,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002704,
+                        "ChildTableID": 43000691,
+                        "UserCount": 1659,
+                        "RightCount": 897,
+                        "FavCount": 53,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002704,
+                    "ChildTableID": 43000691
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002704,
+                "ChildTableID": 43000692,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002704,
+                        "ChildTableID": 43000692,
+                        "UserCount": 1605,
+                        "RightCount": 909,
+                        "FavCount": 59,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002704,
+                    "ChildTableID": 43000692
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002705,
+                "ChildTableID": 43000693,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002705,
+                        "ChildTableID": 43000693,
+                        "UserCount": 1264,
+                        "RightCount": 1036,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002705,
+                    "ChildTableID": 43000693
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002705,
+                "ChildTableID": 43000694,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002705,
+                        "ChildTableID": 43000694,
+                        "UserCount": 1271,
+                        "RightCount": 1046,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002705,
+                    "ChildTableID": 43000694
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002705,
+                "ChildTableID": 43000695,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002705,
+                        "ChildTableID": 43000695,
+                        "UserCount": 1364,
+                        "RightCount": 806,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002705,
+                    "ChildTableID": 43000695
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002705,
+                "ChildTableID": 43000696,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002705,
+                        "ChildTableID": 43000696,
+                        "UserCount": 1300,
+                        "RightCount": 1001,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002705,
+                    "ChildTableID": 43000696
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002705,
+                "ChildTableID": 43000697,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002705,
+                        "ChildTableID": 43000697,
+                        "UserCount": 1257,
+                        "RightCount": 966,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002705,
+                    "ChildTableID": 43000697
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

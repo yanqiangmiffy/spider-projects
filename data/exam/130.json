@@ -1,0 +1,770 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 14:01:46 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "8d2f283c1a3c2d534fdd3792899a07cb538329aa037dc6c2dbec60d0cf4039120b60a2a1f227efc9d35ba3cdc46e8223a142ae557ca6231c",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "解除平滑肌痉挛",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "制止腺体分泌",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "用于局部麻醉前给药",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "治疗缓慢型心律失常",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "抗休克",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000488,
+                            "ATestID": 43000488,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。\n",
+                            "OperateTime": "2018年9月28日"
+                        },
+                        {
+                            "Title": "6caf0e08305ae0938946da8096cdf2f49a60ae91fa0a0be7ca28ab38b5b4cc3749908252ba13e7a071498ddd7d7876e45fe082463fd25400",
+                            "Explain": "腺体分泌减少，瞳孔扩大和调节麻痹，心率加快，膀胱和胃肠道平滑肌的兴奋性降低，胃液分泌抑制，中毒剂量则出现中枢症状。对胃肠道平滑肌的松弛作用最强。",
+                            "TestPoint": "胆碱受体激动药",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "胃肠道"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胆管"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "支气管"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "输尿管"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "幽门括约肌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002592,
+                            "ATestID": 43002592,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6caf0e08305ae093fdf6e9dfb2f67af1e4ddc638d1539a73",
+                            "Explain": "对眼的作用包括瞳孔扩大、眼压升高和调节麻痹（滴眼时就可产生）。",
+                            "TestPoint": "胆碱受体激动药",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "心率加快"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "眼内压下降"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "口干"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "视物模糊"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "扩瞳"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002593,
+                            "ATestID": 43002593,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6caf0e08305ae0936ca12e357f159e4797a502c27e745d77debbb8850487466ac2e8437cab0a445de2eea51754706d94",
+                            "Explain": "阿托品的常见不良反应为口干、皮肤干燥、便秘、视力模糊、心悸等，大剂量时出现呼吸加深加快、高热、谵妄、惊厥，严重中毒时出现昏迷和呼吸麻痹。毒扁豆碱能特异性地解除抗胆碱能神经药物的毒性，如眼科使用强力抗胆碱能神经药物(阿托品、东莨菪碱等)可能引起中枢神经毒性，表现为：谵妄、精神错乱、幻觉、嗜睡等。皮下或静脉注射本品，数分钟内即可消除抗胆碱能神经药物的毒性。能抑制胆碱脂酶，有兴奋平滑肌及横纹肌的作用，能缩小瞳孔、降低眼内压，主用于青光眼等。效果较毛果芸香碱强而持久。",
+                            "TestPoint": "胆碱受体激动药",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "Content": "毒扁豆碱",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "酚妥拉明",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "东莨菪碱",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "后马托品",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "山莨菪碱",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002594,
+                            "ATestID": 43002594,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "",
+                            "OperateTime": "2018年11月15日",
+                            "OldTestJson": "{\"Title\":\"阿托品中毒时可用下列何药治疗\",\"Explain\":\"解毒及对抗剂的应用1．新斯的明：可用新斯的明0.05～0.08mg/kg·次，皮下或肌肉注射，每3～4小时1次。2．可用绿豆2009、甘草259，银花1009，连翘509，加水1000ml，煎至200mL，每次服20ml，每2小时1次。3．水杨酸毒扁豆碱：0.03～0.06mg/kg·次，皮下注射，严重者可静脉注射，每15～30分钟1次，有对抗阿托品的作用。4．眼内接触毒物者可用硼酸水洗眼。毛果芸香碱会导致疾病的加重\",\"TestPoint\":\"胆碱受体激动药\",\"Answer\":\"A\",\"Difficulty\":\"易\",\"SelectedItems\":[{\"HasImg\":1,\"ItemName\":\"A\",\"Content\":\"毛果芸香碱\"},{\"HasImg\":0,\"ItemName\":\"B\",\"Content\":\"酚妥拉明\"},{\"HasImg\":0,\"ItemName\":\"C\",\"Content\":\"东莨菪碱\"},{\"HasImg\":0,\"ItemName\":\"D\",\"Content\":\"后马托品\"},{\"HasImg\":0,\"ItemName\":\"E\",\"Content\":\"山莨菪碱\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "6caf0e08305ae0939ed3581163dc8617b7b3184abb15d8bf",
+                            "Explain": "（1)抢救感染中毒性休克（2)治疗锑剂引起的阿-斯综合征（3)治有机磷农药中毒（4)缓解内脏绞痛（5)用为麻醉前给药（6)用于眼科：可使瞳孔放大，调节功能麻痹，用于角膜炎、虹膜睫状体炎。用1%～3%眼药水滴眼或眼膏涂眼。滴时按住内眦部，以免流入鼻腔吸收中毒。",
+                            "TestPoint": "胆碱受体激动药",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "心源性休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "过敏性休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "失血性休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "感染中毒性休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "神经源性休克"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002595,
+                            "ATestID": 43002595,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6caf0e08305ae093aa84cc5ba76781bcb374cdd66f20cda9b3802972a9eb2c067b035a00d4820382",
+                            "Explain": "阿托品常见的不良反应有口干、视力模糊、心率加快、瞳孔扩大及皮肤潮红等。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "瞳孔轻度扩大、皮肤潮红"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "中枢抑制、心率减慢"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "调节痉挛、心率加快"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肠蠕动减少、唾液分泌增加"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肠蠕动增加、烦躁不安"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015380,
+                            "ATestID": 43015380,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "4657f97c38de765f1b9f07f1e0d6dff4d22bf1549f0c19c55d05f82a472b19bfeb5545ef11babad13fb44d3270bd9441603b0c999064e3cd2fc25e3f1115ee4b",
+                            "Explain": "阿托品为阻断M胆碱受体的抗胆碱药，抑制受体节后胆碱能神经支配的平滑肌与腺体活动，常有口干、眩晕等症状，严重时瞳孔散大、皮肤潮红、心率加快、兴奋、烦躁、谵语、惊厥等，若夏季使用会影响人体的散热，使人体温升高，故不宜在夏季使用。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "阿托品"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "六甲溴铵"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "十烃溴铵"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "酚妥拉明"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "普萘洛尔"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000496,
+                            "ATestID": 41000496,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6caf0e08305ae093a1f43ddcdded98057451b2afb5ebe231b30a4fd3ed7506ae59463ae5c93a2bf4",
+                            "Explain": "阿托品为阻断M胆碱受体的抗胆碱药，能解除平滑肌的痉挛（包括解除血管痉挛、改善微血管循环）；抑制腺体分泌；解除迷走神经对心脏的抑制，使心跳加快；散大瞳孔，调节麻痹，使眼压升高；兴奋呼吸中枢。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "升高眼内压、扩瞳、调节痉挛、腺体分泌增加"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "降低眼内压、缩瞳、调节麻痹、腺体分泌增加"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "升高眼内压、缩瞳、调节麻痹、腺体分泌减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "降低眼内压、扩瞳、调节痉挛、腺体分泌减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "升高眼内压、扩瞳、调节麻痹、腺体分泌减少"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000497,
+                            "ATestID": 41000497,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "d11c546fbdd19d8a46fcda8ce562f59f69469b742352019c13b1d886ae6f264b13ea98e5145d000eaaeadb990ef3db4e7c172bec970806eae3612883867c839c",
+                            "Explain": "能扩张肾血管增加尿量及升高血压的药物是多巴胺。",
+                            "TestPoint": "多巴胺",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肾上腺素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "阿托品"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "去甲肾上腺素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "多巴胺"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "以上都不是"
+                                }
+                            ],
+                            "AllTestID": 43015379,
+                            "BTestID": 43002834,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 130,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002834,
+                                    "Title": "d11c546fbdd19d8a46fcda8ce562f59f69469b742352019c13b1d886ae6f264b13ea98e5145d000eaaeadb990ef3db4e7c172bec970806eae3612883867c839c",
+                                    "Explain": "能扩张肾血管增加尿量及升高血压的药物是多巴胺。",
+                                    "TestPoint": "多巴胺",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002835,
+                                    "Title": "1c07646ca9058272f50d49579d866440ebbdb5dd3fa2a099f9381ddd24c2ec4c9e7d688ff40b5137500228a33159242684b660a0a2b5f4751a24c95f0900359b",
+                                    "Explain": "能松弛支气管及减轻支气管黏膜水肿的药物是肾上腺素。",
+                                    "TestPoint": "肾上腺素",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002836,
+                                    "Title": "85920879ce446f4b871aebd224070402a8f4f741a762a50fefcd37bb20da947ee43bea2ae63750fa26e304d062c833e19a5feaec352757c9152ce4374a0e1f39",
+                                    "Explain": "能解除迷走神经活性且对血压影响不大的药物是阿托品。",
+                                    "TestPoint": "M胆碱受体阻断药",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000488,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000488,
+                        "ChildTableID": -1,
+                        "UserCount": 4392,
+                        "RightCount": 2180,
+                        "FavCount": 133,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 1,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000488,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 1,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 43002592,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002592,
+                        "ChildTableID": -1,
+                        "UserCount": 3777,
+                        "RightCount": 2954,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002592,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002593,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002593,
+                        "ChildTableID": -1,
+                        "UserCount": 3852,
+                        "RightCount": 2993,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002593,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002594,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002594,
+                        "ChildTableID": -1,
+                        "UserCount": 3767,
+                        "RightCount": 3045,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002594,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43002595,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002595,
+                        "ChildTableID": -1,
+                        "UserCount": 4074,
+                        "RightCount": 2148,
+                        "FavCount": 131,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002595,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43015380,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015380,
+                        "ChildTableID": -1,
+                        "UserCount": 3564,
+                        "RightCount": 2409,
+                        "FavCount": 60,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015380,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000496,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000496,
+                        "ChildTableID": -1,
+                        "UserCount": 3403,
+                        "RightCount": 2889,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000496,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 41000497,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000497,
+                        "ChildTableID": -1,
+                        "UserCount": 3739,
+                        "RightCount": 2568,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000497,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015379,
+                "ChildTableID": 43002834,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015379,
+                        "ChildTableID": 43002834,
+                        "UserCount": 3670,
+                        "RightCount": 2068,
+                        "FavCount": 98,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015379,
+                    "ChildTableID": 43002834
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43015379,
+                "ChildTableID": 43002835,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015379,
+                        "ChildTableID": 43002835,
+                        "UserCount": 3675,
+                        "RightCount": 2191,
+                        "FavCount": 92,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 1,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015379,
+                    "ChildTableID": 43002835
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 1,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43015379,
+                "ChildTableID": 43002836,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015379,
+                        "ChildTableID": 43002836,
+                        "UserCount": 3614,
+                        "RightCount": 2105,
+                        "FavCount": 96,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015379,
+                    "ChildTableID": 43002836
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

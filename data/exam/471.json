@@ -1,0 +1,184 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:16:57 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "714418bb154be6526ac4802ff9c4ca32e4941b322a0081a0af8db255af407bb6488b6ab79fd9f3ee7aae6d8a11878bb73c76683272002623",
+                            "Explain": "给高热患者使用冰帽的散热方式属于传导散热。",
+                            "TestPoint": "散热",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "辐射散热",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "对流散热",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "传导散热",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "蒸发散热",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "传导和蒸发散热",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43002090,
+                            "BTestID": 43000458,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 471,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000458,
+                                    "Title": "714418bb154be6526ac4802ff9c4ca32e4941b322a0081a0af8db255af407bb6488b6ab79fd9f3ee7aae6d8a11878bb73c76683272002623",
+                                    "Explain": "给高热患者使用冰帽的散热方式属于传导散热。",
+                                    "TestPoint": "散热",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000459,
+                                    "Title": "def0c5d0df59f36fbab65ff8692c770712d99bdd507875199d60484a4fcdcff1bbb942f9b5e4283714a7c3e7b322252958e1553a9e1ca652",
+                                    "Explain": "用酒精给高热患者擦浴的散热方式属于蒸发散热。",
+                                    "TestPoint": "散热",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000460,
+                                    "Title": "df50c7011d4e1aa1f29e1c050e761fb01829c47c97446a631120f4e4d9cd1a10443720c10c4c6c46b5fa33e2305aea97",
+                                    "Explain": "通过游泳使机体散热的方式属于传导散热。",
+                                    "TestPoint": "散热",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43002090,
+                "ChildTableID": 43000458,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002090,
+                        "ChildTableID": 43000458,
+                        "UserCount": 2279,
+                        "RightCount": 1648,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002090,
+                    "ChildTableID": 43000458
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002090,
+                "ChildTableID": 43000459,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002090,
+                        "ChildTableID": 43000459,
+                        "UserCount": 2153,
+                        "RightCount": 1858,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002090,
+                    "ChildTableID": 43000459
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002090,
+                "ChildTableID": 43000460,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002090,
+                        "ChildTableID": 43000460,
+                        "UserCount": 2502,
+                        "RightCount": 1313,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002090,
+                    "ChildTableID": 43000460
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

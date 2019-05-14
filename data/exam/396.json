@@ -1,0 +1,1035 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:19:25 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 10,
+                    "TestItems": [
+                        {
+                            "Title": "182a47f59a4d838d8a0f7421349f449492c143d36ad8e54afeef36e958892b1b53d14a624af6bea82dbc330359e1905e3fc79fdf165e44916c2cdc6684a8ec9983775e158138c8bb15bbe0b1cab29c0e8045568ef14f7841",
+                            "Explain": "氯霉素可引起二重感染、再生障碍性贫血和灰婴综合征。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "灰黄霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "二性霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "制霉菌素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "氯霉素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000562,
+                            "ATestID": 43000562,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "66e728575662550972af184e40508f40eaaaf59873bc5607ccd1f05e4e79e8ee",
+                            "Explain": "氯霉素四环素多西环素(强力霉素)等对各种立克次体病均有相当疗效多四环素在国内某些报告中的疗效尤为突出可使发热和其它症状及早消退病程明显缩短病死率大幅度下降。",
+                            "TestPoint": "四环素类抗生素",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "链霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "磺胺嘧啶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "阿奇霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "多黏菌素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002769,
+                            "ATestID": 43002769,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b46426b150e0c2e5296b9b9347922904",
+                            "Explain": "氯霉素，属抑菌性广谱抗生素。是治疗伤寒、副伤寒的首选药，治疗厌氧菌感染的特效药物之一，其次用于敏感微生物所致的各种感染性疾病的治疗。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "A",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "B",
+                                    "Content": "多西环素"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "C",
+                                    "Content": "氯霉素"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "D",
+                                    "Content": "氨苄西林"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "E",
+                                    "Content": "白霉素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002770,
+                            "ATestID": 43002770,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "25c568d719826d2f696c420d95b157290c2e052648573126",
+                            "Explain": "大环内酯类是支原体肺炎的首选抗菌药物，阿奇霉素为治疗首选。此外，尚有林可霉素、氯林可霉素、万古霉素及磺胺类等可供选用。",
+                            "TestPoint": "四环素类抗生素",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "青霉素",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "氯霉素",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "土霉素",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "多西环素",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "万古霉素",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002771,
+                            "ATestID": 43002771,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b46b6dc5992169110638d24219abb815acc3f99c189eacde7112fff5b9e6ca9a6cfd796929b1242b3adfc2008c30b807",
+                            "Explain": "四环素对革兰阳性菌的抑制作用强于阴性菌，但是对革兰阳性菌的作用不如青霉素类和头孢菌素类，对革兰阴性菌的作用不如氨基糖苷类及氯霉素类。对于立克次体感染，为首选药物。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "妥布霉素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "氟康唑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "林可霉素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015533,
+                            "ATestID": 43015533,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7c1c1e44bd64096de5823902be81547f0228f7e00a49846c0fc3e389bc54ae57ac2a2eb76d09366bbb9e37a4d9f390c4771dce13967dc632",
+                            "Explain": "妥布霉素主要对革兰阴性菌，如铜绿假单胞菌、大肠埃希菌、克雷伯杆菌、肠杆菌属、变形杆菌、枸橼酸杆菌有效。",
+                            "TestPoint": "抗生素",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "妥布霉素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "氟康唑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "林可霉素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015534,
+                            "ATestID": 43015534,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1d005f8426b81ebaf93d638339a2d885aaedba2af9947ab210803e316a9b3b79",
+                            "Explain": "利巴韦林对RNA病毒(HAV/HCV)及DNA病毒均具有抑制作用。",
+                            "TestPoint": "抗病毒药",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "妥布霉素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "氟康唑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "林可霉素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015535,
+                            "ATestID": 43015535,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "27e110371de3293bb3bc733af8e7b8895a0f3772fb32b147d99b43888f692c5f785dee253c72976d",
+                            "Explain": "链霉素为氨基苷类抗生素，其主要不良反应为耳毒性，包括前庭功能障碍和耳蜗听神经损害。",
+                            "TestPoint": "氨基糖苷类抗生素",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃肠道反应"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "二重感染"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "对第8对脑神经损害"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肾损害"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "过敏性休克"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015536,
+                            "ATestID": 43015536,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c0d1b41012636629765b3a334679ad26e4547fb18885519b1739860e7508f861fe0b602834b36923",
+                            "Explain": "四环素最严重的不良反应是二度感染。",
+                            "TestPoint": "四环素类抗生素",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃肠道反应"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "二重感染"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "对第8对脑神经损害"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肾损害"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "过敏性休克"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015537,
+                            "ATestID": 43015537,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f317daf48ba3a9ab721e8397aa69e2a709022170766f56e901cab3dcb829200f",
+                            "Explain": "青霉素的不良反应是过敏性休克。",
+                            "TestPoint": "青霉素",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃肠道反应"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "二重感染"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "对第8对脑神经损害"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肾损害"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "过敏性休克"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015538,
+                            "ATestID": 43015538,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d09035010e03556293827742b8b44e93d82dc273850291dbe40363590f884a89eb0df47577b9507e0625c10a190a3a6e5f7d695c355d28824d98a",
+                            "Explain": "可以考虑红霉素和阿奇霉素，克拉霉素需调整剂量，药理机制参看大环内酯类抗生素-药代-排泄，多西环素红霉素和阿奇霉素主要以活性形式聚集和分泌在胆汁中，同时肾脏排泄不多，对肾脏功能影响不大。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "头孢唑啉"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "多西环素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "庆大霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "多黏菌素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002772,
+                            "ATestID": 43002772,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09035010e035562938275faf0f800c2a6663cae42e189c2ca63c9dae7573c54fe47f81ce1e1a941cd8612e65c69231de2c6d2117a4a8e6867b6cc557f1345040dfe0010321433dab6d79aab39fe3487b2bfb9ceff7b29e190c0fa9ca694d5ffbb60c5b1fe458d5d7b0ff162cf9e1803c7606e68c08b3f821e285261941a141d25b10fa2fa355c0ec0e7176d72a269037e091baafe9a0922ea66e06e6c13d069064079bb8bb5c5b754aa43ca481626290fdf4c7704f108431548a2b10695a05312c44cec20fc2295d21b14257ed21483b9a2141a1aecdb1b9cefb4013c0872cf9e0d9b00f50fcac129f3e1837392686c6f6b396bcbb98720633bf",
+                            "Explain": "（1）大环内酯类：包括红霉素（erythromycin）、罗红霉素（roxithromycin）、阿奇霉素（azithromycin）、克拉霉素（克拉红霉素）等，对斑疹伤寒有良好疗效。（2）四环素类：包括四环素（tetracycline）、多西环素（doxycycline）、米诺环素（minocycline）等，对斑疹伤寒亦有良好疗效。（3）氯霉素：氯霉素（chloramphenicol）对斑疹伤寒有良好疗效。",
+                            "TestPoint": "四环素类抗生素",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "庆大霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "磺胺嘧啶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "头孢他定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "链霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "多西环素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002773,
+                            "ATestID": 43002773,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "b46b6dc5992169110638d24219abb815acc3f99c189eacde7112fff5b9e6ca9a6cfd796929b1242b3adfc2008c30b807",
+                            "Explain": "四环素为广谱抑菌剂，作为首选药物应用于立克次体病，故1题选A。妥布霉素主要对革兰阴性菌，如铜绿假单胞菌、大肠埃希菌、克雷伯杆菌、肠杆菌属、变形杆菌、枸橼酸杆菌有效，故2题选C。氟康唑为氟代三唑类抗真菌药，林可霉素对革兰阳性球菌有较好抑制作用。利巴韦林对RNA病毒(HAV/HCV)及DNA病毒均具有抑制作用，故3题选D。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "氟康唑"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "妥布霉素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "林可霉素"
+                                }
+                            ],
+                            "AllTestID": 41000586,
+                            "BTestID": 41000181,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 396,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000181,
+                                    "Title": "b46b6dc5992169110638d24219abb815acc3f99c189eacde7112fff5b9e6ca9a6cfd796929b1242b3adfc2008c30b807",
+                                    "Explain": "四环素为广谱抑菌剂，作为首选药物应用于立克次体病，故1题选A。妥布霉素主要对革兰阴性菌，如铜绿假单胞菌、大肠埃希菌、克雷伯杆菌、肠杆菌属、变形杆菌、枸橼酸杆菌有效，故2题选C。氟康唑为氟代三唑类抗真菌药，林可霉素对革兰阳性球菌有较好抑制作用。利巴韦林对RNA病毒(HAV/HCV)及DNA病毒均具有抑制作用，故3题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000182,
+                                    "Title": "7c1c1e44bd64096de5823902be81547f0228f7e00a49846c0fc3e389bc54ae57ac2a2eb76d09366bbb9e37a4d9f390c4771dce13967dc632",
+                                    "Explain": "四环素为广谱抑菌剂，作为首选药物应用于立克次体病，故1题选A。妥布霉素主要对革兰阴性菌，如铜绿假单胞菌、大肠埃希菌、克雷伯杆菌、肠杆菌属、变形杆菌、枸橼酸杆菌有效，故2题选C。氟康唑为氟代三唑类抗真菌药，林可霉素对革兰阳性球菌有较好抑制作用。利巴韦林对RNA病毒(HAV/HCV)及DNA病毒均具有抑制作用，故3题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000183,
+                                    "Title": "1d005f8426b81ebaf93d638339a2d885aaedba2af9947ab210803e316a9b3b79",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000562,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000562,
+                        "ChildTableID": -1,
+                        "UserCount": 1484,
+                        "RightCount": 908,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000562,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002769,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002769,
+                        "ChildTableID": -1,
+                        "UserCount": 1360,
+                        "RightCount": 1002,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002769,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002770,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002770,
+                        "ChildTableID": -1,
+                        "UserCount": 1550,
+                        "RightCount": 870,
+                        "FavCount": 54,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002770,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43002771,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002771,
+                        "ChildTableID": -1,
+                        "UserCount": 1604,
+                        "RightCount": 797,
+                        "FavCount": 57,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002771,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43015533,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015533,
+                        "ChildTableID": -1,
+                        "UserCount": 1244,
+                        "RightCount": 1006,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015533,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015534,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015534,
+                        "ChildTableID": -1,
+                        "UserCount": 1226,
+                        "RightCount": 903,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015534,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015535,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015535,
+                        "ChildTableID": -1,
+                        "UserCount": 1190,
+                        "RightCount": 1027,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015535,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015536,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015536,
+                        "ChildTableID": -1,
+                        "UserCount": 1188,
+                        "RightCount": 1022,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015536,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015537,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015537,
+                        "ChildTableID": -1,
+                        "UserCount": 1176,
+                        "RightCount": 958,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015537,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015538,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015538,
+                        "ChildTableID": -1,
+                        "UserCount": 1163,
+                        "RightCount": 1108,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015538,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002772,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002772,
+                        "ChildTableID": -1,
+                        "UserCount": 1451,
+                        "RightCount": 643,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002772,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002773,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002773,
+                        "ChildTableID": -1,
+                        "UserCount": 1407,
+                        "RightCount": 819,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002773,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41000586,
+                "ChildTableID": 41000181,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000586,
+                        "ChildTableID": 41000181,
+                        "UserCount": 1261,
+                        "RightCount": 1045,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000586,
+                    "ChildTableID": 41000181
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41000586,
+                "ChildTableID": 41000182,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000586,
+                        "ChildTableID": 41000182,
+                        "UserCount": 1240,
+                        "RightCount": 1090,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000586,
+                    "ChildTableID": 41000182
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 41000586,
+                "ChildTableID": 41000183,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000586,
+                        "ChildTableID": 41000183,
+                        "UserCount": 1205,
+                        "RightCount": 1147,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000586,
+                    "ChildTableID": 41000183
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

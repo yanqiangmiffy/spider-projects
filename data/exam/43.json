@@ -1,0 +1,3696 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 20:37:15 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 25,
+                    "TestItems": [
+                        {
+                            "Title": "a6811575747882e70d2f1bb4ddabee73eefc139240fe9158ce891dca6e5e7a79885059913cd946a2340ab1a16553f66e9c8ae39414965905899f2b6ce99a5484c66de2204bc34b49bdfd2b9eece57e8eaf24ad4759299c82a7b3c5ba8ef4e6b6",
+                            "Explain": "使用利尿剂导致代谢性碱中毒，主要是由于低钾离、低氯性碱中毒，而使用呼吸兴奋剂是由于过度呼吸，造成体内二氧化碳呼出过多，造成的呼吸性碱中毒",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "低盐饮食",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "严重低氧血症",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "使用噻嗪类利尿剂",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "高浓度吸氧",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "使用呼吸兴奋剂",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001119,
+                            "ATestID": 35001119,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题修改答案为C\n",
+                            "OperateTime": "2018年6月12日"
+                        },
+                        {
+                            "Title": "77403553dc11c85c3c0a1be65d3d1f3d5759556b006cecdd262c30784e168c2a253b3c88acd1b22af809345488b094d085ebabc5eca06ff95c1a6a781df0ff4c40e73448f9c93e3a48c4f8c69d7762fa5e17182c301f4ee4",
+                            "Explain": "右心衰竭以体循环淤血的表现为主：水肿、颈静脉怒张、肝大、腹水以及心脏相关体征。故选D。\n",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "下肢水肿",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "肝大",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "颈静脉怒张",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "脾大",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "腹水",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001120,
+                            "ATestID": 35001120,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2019年1月28日",
+                            "OldTestJson": "{\"Title\":\"COPD患者，肺部感染诱发右心功能不全，最不可能出现的体征是\",\"Explain\":\"右心衰竭主要表现为体循环淤血，如颈静脉怒张、肝大、下肢水肿、消化道淤血症状（如食欲减退、恶心呕吐等）、泌尿道症状（尿少、尿中可出现蛋白、红、白细胞及管型）。还可出现胸腔积液，主要与体静脉和肺静脉压同时升高及胸膜毛细血管通透性增加有关。\",\"TestPoint\":\"\",\"Answer\":\"E\",\"Difficulty\":\"\",\"SelectedItems\":[{\"Content\":\"下肢水肿\",\"ItemName\":\"A\"},{\"Content\":\"肝大\",\"ItemName\":\"B\"},{\"Content\":\"颈静脉怒张\",\"ItemName\":\"C\"},{\"Content\":\"脾大\",\"ItemName\":\"D\"},{\"Content\":\"胸水\",\"ItemName\":\"E\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "02b50e5b583d0903114b9dd3a4601e3676cb439f20b172504e40f1ff935b933c7933f0e328a93545468e48048c6ef34562880a93f0cf2cb0a7901b09f6c3f0f36be5c57d06e3ecb5b140b420775218aff1794ddf19c9c947cd0d0f6d067dbf8807dffdaf24514f550ee116954aaa082366366a3cf19d8c98cd981272d57786eab250468929e1cc1c39217d3936e6721b5b8309655b03fd5280eceb54f0a1fd3ca94ea5d4325e0e9b17def97edb1a94e83fefc9ed4657e664ae0c0bac86cd83e3d3cccb669f5ee77aff73d27b49ef6c6896e71e81e353e9c23dd798a8c94bc4c9ec7bfbabf2db2e2bf9c6f16df28ecfe0119c8957592c669b7f609a0dae39c4d817f07ef98ffc5e9c608e147de401e49d31569e2b36027d73c45efc356a0cd88c2a4abe88fc8530addef1f12538ebe2926243476e4e3469d0934c3b79eb4ff406d82c2828fce114b1",
+                            "Explain": "超声心动图通过测定度右心室流出道内径（≥30mm），右心室内径（≥20mm）、右心室前壁的厚度、右心室内径比值、右肺动脉内径或肺动脉干及右心房增大等指标，可诊断慢性肺心病，故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "超声心动图"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺功能"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "支气管镜"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血气分析"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胸部高分辨CT"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001124,
+                            "ATestID": 35001124,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903cfdb12a93d82e6438d6354fb28e973f7d4916c3c578a109a8b45b0435a9415151b76bc123f7d5dbc6bd9ba17fefa77b68326afa4e37ad8057f077111385c3c3ba326ad2b3c8945fb42faf1f9d14203700b417f55c330759f527c0700cb1f33d9b970ea1b3e78428ef0e7839256153ee740b323d7203160bd94a2a09eb651b2cb97aaa7d73fbec6e5ff33c91b08142205c6ddaf97069386204e4b8b041d3073f9a82637abbfe3bb15e06c7e8f0009cec0c710f147ae878901879bdac962fe3c1720709bbd8bad12c0d314a667b0879d185471fb50bc429102ee763bff0276fb495a2fee6aacd410167c776651f1280bcd61637304eb052b07b5ebcdc8cc6df2144213a06661dd03b3ebd6968bd918d635054caaadf7730b7899c0f773c5e997ac586cf612bc193df8c45a133dd8dc4270b3120ff447f6cf42ceaa1d3a31f10a732208511c04af6391c9a067cf5cbd950b3477cfbc93973ac3db5f6f574fd0c8688d7bf7faf7e9e5aa10b8d76e803d827ae8e6bb68d410ee1c",
+                            "Explain": "慢性肺心病失代偿期患者PaCO[XB2.gif]58mmHg提示呼吸性酸中毒诊断，另根据HCO[SBjianXB3.gif]39mmol/L，K[SBjia.gif]2.89mmol/L提示有代谢性碱中毒表现，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "呼吸性酸中毒+代谢性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "代谢性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "呼吸性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "代谢性酸中毒+代谢性碱中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "呼吸性酸中毒+代谢性碱中毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001125,
+                            "ATestID": 35001125,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903cfdb12a93d82e643b9b9f10820f4b36e2aa961b9f79f974d382dc9508befb0a05356004468f9ccd9a9f4f7208490f3708fe45d5b5bfbe6bb2323d9675f0bf6f1ad1bca3375b64708ab02487d78e84ed2a71efb8309b4be12dc6cd73d22cb2ec407c0326f95756761415a2463f968e6bc5f41363d611afedbe8de272293f019acca285b8dcd08d0b94b0b1c81ae84d3d5f7df19f4da9c89c13479fd361bad1899f782e1a720eeeb8e7b770664629337fb1be2647ce4dac40382f10a158caa1b2672b06a1cedfd11dad7469c4eff475243289b6c44bdf6c0b78c6723e2ceb3eeba94cd65e83239d2602b68b5ff07c15c155e0ba4357759d4ec166e9ca8d9107ec359d7676cc56229e7d643a15c2f755bc7ae3fa3c9d4660a78",
+                            "Explain": "肺源性心脏病发病缓慢，除原有肺病外，主要是逐步出现的肺心功能衰竭征象。肺源性心脏病心功能失代偿期的临床表现：呼吸衰竭、呼吸困难、明显发绀、皮肤潮红多汗等表现，右心衰见上题。题干中给出的症状符合上述，故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "右心衰竭"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "左心衰竭"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "心包积液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "缩窄性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "上腔静脉阻塞综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001128,
+                            "ATestID": 35001128,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2b17b062703b9d70b9f1afc4b2cffd2c9a8a0f954d0313b786cdfc739091e130735b045f0869143115999dae1abb6ff22c16c7178441a85f",
+                            "Explain": "引起慢性肺心病失代偿的最常见诱因是急性呼吸道感染。主要表现为呼吸衰竭和心力衰竭，主要为右心衰竭。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "过度劳累"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "营养不良"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "空气污染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "全身血容量不足"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "急性呼吸道感染"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000770,
+                            "ATestID": 43000770,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52c2ce2eef56031614131549c9764aa704ffd28270582a7d8f91f66596256f8fbc63b3f584c40b8267f85400ce3a64da0b2437ecdd96d812",
+                            "Explain": "慢性肺源性心脏病并发酸碱失衡时，最常见为呼吸性酸中毒：pH下降，PaCO[XB2.gif]升高。其次为呼吸性酸中毒合并代谢性酸中毒。亦可为呼吸性酸中毒合并代谢性碱中毒：pH可正常，低血钾、低血氯，多为治疗不当所致。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "代谢性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "代谢性碱中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "呼吸性碱中毒合并代谢性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "呼吸性碱中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "呼吸性酸中毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000771,
+                            "ATestID": 43000771,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ae0fe6fd45ceadda25f655368522e49abdfbcadb1dc9663a2addca9697fc5a07214a53c87d9b9d14fa719253b36146dc1f2bc18ae774df5f",
+                            "Explain": "在有呼吸系统原发病如慢支、阻塞性肺气肿存在的基础上，如有能确定肺动脉高压、右心室肥大（体征、X线、心电图等）或右心衰竭的征象，即可诊断为慢性肺源性心脏病。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "慢性支气管-肺疾病病史",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "双肺满布湿啰音",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "发绀、呼吸困难",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "两肺干湿啰音",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "肺动脉高压、右心室肥大",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000772,
+                            "ATestID": 43000772,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。\n",
+                            "OperateTime": "2017年8月23日"
+                        },
+                        {
+                            "Title": "52c2ce2eef56031614131549c9764aa7cf8876aa1549804e4d013e8fe7f1ac8ee26e1e96285ebd43dc022ac947a6954df45160fb1fc2584c7237bbc19133894e",
+                            "Explain": "在慢性肺心病急性加重期，积极控制感染，畅通呼吸道，控制呼吸和心力衰竭，以改善肺、心功能是治疗的关键。其中，积极控制感染是最重要的环节之一。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "解痉、平喘药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "化痰药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "利尿剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "强心剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000773,
+                            "ATestID": 43000773,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "685c580911e8f13e5aaa8abf51b186262521d064c5bbb757e4db1a189e189b1f1e4f60653b64943f37100333038826aed861b9c8a009e182",
+                            "Explain": "慢性肺源性心脏病患者肺动脉瓣第二心音亢进提示有肺动脉高压，剑突下如有明显收缩期心脏搏动，提示存在右心室肥大。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "胸闷、呼吸困难"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "心悸、心音遥远"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "发绀、乏力易疲劳"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "双下肢水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可见剑突下明显心脏搏动"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000774,
+                            "ATestID": 43000774,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52c2ce2eef560316d92a94e494ee1804b46136e2b8f541f022db61e909abf2344f0180dd6fcd0c01c5fa9ac046adf0ea",
+                            "Explain": "慢性肺源性心脏病大多由支气管、肺疾病引起，以慢支并发阻塞性肺气肿最为多见，约占80%～90%，其次为支气管哮喘、支气管扩张、重症肺结核、尘肺等。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "支气管扩张"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺脓肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "慢性支气管炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000775,
+                            "ATestID": 43000775,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52c2ce2eef560316d92a94e494ee1804b46136e2b8f541f08e280f7ee3a65a936799879f602e77868ddb7ff1d0b6d364176b9e9eee4082bc",
+                            "Explain": "肺源性心脏病患者由于缺氧产生肺血管阻力增加，肺动脉压力增高，使右心室扩张和（或）肥厚，伴或不伴右心功能衰竭。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺动脉分支血栓栓塞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺气肿"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺动脉高压"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺间质纤维化"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺部缺氧"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016192,
+                            "ATestID": 43016192,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2b17b062703b9d707775da4f40bef1638c43939cf29834281db895c11ef9bc4171bb6a59ef06ff654fd6726121f2dda8d20d87dd121061e64fb753dac6b6c2dff0a5d8e0349bcf47b5c934cee3ae8e6f",
+                            "Explain": "引起慢性阻塞性肺疾病（COPD）肺动脉高压最重要的原因是肺小动脉痉挛，选C。",
+                            "TestPoint": "慢性阻塞性肺疾病临床表现",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺小动脉内膜增厚"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺小动脉原位血栓形成"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺小动脉痉挛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺小动脉壁纤维化"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺静脉血栓"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016193,
+                            "ATestID": 43016193,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52c2ce2eef560316d92a94e494ee1804b46136e2b8f541f08a3aeb78ff328bc2429974b21da662cd6c8cdff19f0e16b5fce637969d86f91f4cd5d1c8f52831f682cabacfcda38854",
+                            "Explain": "肺血管阻力增加的功能性因素有缺氧、高碳酸血症和呼吸性酸中毒，使肺血管收缩、痉挛，其中缺氧是肺动脉高压形成的最重要的因素。",
+                            "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血容量增加"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "血液黏稠度增加"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "慢性炎症所致的肺动脉狭窄"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺静脉血栓"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "缺氧性肺血管收缩"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016194,
+                            "ATestID": 43016194,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2611459807e57dc96319aeb9c4ac886b396f222156881530ce40f856a6985ff4ad33e05cca77f0b7541796ac7779378a9285339aeeec067685e9100606f8185578dc94acafcaa46e1d7dbaf324c18fa69a3385e1f8384e2f83f8beb87fcf3d5fa3fe70f35090cf4ebd969be25b8f2426",
+                            "Explain": "缺氧、高碳酸血症和呼吸性酸中毒使肺血管收缩痉挛，其中缺氧是肺动脉高压形成的最重要因素。",
+                            "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "慢支所致血管炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "缺氧性肺血管收缩"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺气肿压迫肺毛细血管"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "慢性缺氧所致肺血管重建"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺泡壁破裂所致肺循环阻力增大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016195,
+                            "ATestID": 43016195,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "89b00e5c9335b86d20cef91bbda234d025216b361b8daca361300d847553f1614df4b44386c8999792e0395f43e5d22bb3d7999ac24166e3",
+                            "Explain": "肺血管收缩和舒张是由肺血管内皮分泌的收缩和舒张因子共同调控，收缩因子主要为血栓素A[XB2.gif]（TXA[XB2.gif]）和内皮素-1（ET-1），舒张因子主要是前列环素和一氧化氮（NO）。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "前列腺素增加"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "白三烯增加"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "血栓素增加"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "内皮素释放增加"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "一氧化氮生成增加"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016196,
+                            "ATestID": 43016196,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "10dccf72c389589ad597650b300d47105ef4b57989f2d0324301217db4664432",
+                            "Explain": "发生下肢水肿的机制是体循环淤血。",
+                            "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "水钠潴留"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "淋巴回流障碍"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "体循环淤血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "毛细血管通透性增加"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "白蛋白增多"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016199,
+                            "ATestID": 43016199,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a922ddc72949d04689def7fba34071c7d9b3df6c68639f3c893e29c0c6723a87f9f24a48e1b06b6e42f4ffb6fd5b3a399e93d9ec873ee9c4417a43c8f96a5339dc7ed8e3826a85f08e56",
+                            "Explain": "肺源性心脏病心律失常多表现为房性期前收缩及阵发性室上性心动过速，其中以紊乱性房性心动过速最具特征性。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "房性期前收缩和房性心动过速"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心房颤动"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "室性期前收缩"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "室性心动过速"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心室颤动"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016202,
+                            "ATestID": 43016202,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9f7ce7fa16011e6c4e960fa23024a54b648dcdd2e296caee30ecb0eb3f55acfe7259849a9459e9b2f0099faf60f4a40ad886376df4bd4bb1",
+                            "Explain": "慢性肺源性心脏病最常见者为慢性缺氧性肺源性心脏病，又称阻塞性肺气肿性心脏病，简称肺心病，是指由肺部胸廓或肺动脉的慢性病变引起的肺循环阻力增高，致肺动脉高压和右心室肥大，伴或不伴有右心衰竭的一类心脏病。肺源性心脏病在我国是常见病、多发病。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "支气管扩张"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慢性阻塞性肺疾病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "严重胸廓畸形"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺血栓栓塞症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016203,
+                            "ATestID": 43016203,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52c2ce2eef560316d92a94e494ee1804b46136e2b8f541f08b6a71670751162b4946c45e3f1f9136572e5202fd95d48a12be99b8a2dda50e1d552cfb662773cc80679b2cca51f3867ac520546bbdea9c",
+                            "Explain": "慢性肺心病右心增大，左心上翘。",
+                            "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "心尖上翘"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心脏向右扩大"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心脏向左下扩大"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心脏普大"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心腰部凹陷"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016204,
+                            "ATestID": 43016204,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6b0d03f6d2ba34362411abc989ad20208e4e3c51e582e5445c2f22933d1688a82dcf55846bec15b55150b661c239b5413c4b64c4e0cd40a2bbeb8615c9dd62e8c81ef54fc30d28d4e5308548204aafc82eba4ae8c3c139f6b53a5cb28faed417a5193267f0c409c69d1a2687d2c6681696e45427214beef72cbc72d42eee151475b08f93c7c11355173fcfd8d49f852dc116641b437d3879b61cae8205fad3d66420d4fd9f81af3c1836b5bac09a938a8e5be08e02e7d0c3464d2163e5a51f92b270f662fc78467393717ade90fc28922bc35a562e612bead7e4601d12cd0734209e29e171f6103ca72ff50f001c29cd29927e5a59e7756512b040085f7c0f9374a3979e3a0e680d6550e27096e559fc6186b084914dc22bdd5bed05c7f69f4d",
+                            "Explain": "特发性肺动脉高压称为原发性肺动脉高压。它是指经详细体格检查及完善实验室检查均未发现引起肺动脉高压的其他系统疾病及相关线索，并且经右心导管检查发现肺毛细血管嵌压<20mmHg。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "特发性肺动脉高压",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "风湿性心脏瓣膜病",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "房间隔缺损",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "室间隔缺损",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "扩张型心肌病",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016205,
+                            "ATestID": 43016205,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52c2ce2eef560316d92a94e494ee1804b46136e2b8f541f062feadcdab20cd201a62e3812e51a8c34435be759789c76fb7f862d2e0497193700e5b17715128adbed123fb8145f945",
+                            "Explain": "慢性肺源性心脏病肺心功能代偿期的体征包括：①不同程度的发绀和肺气肿体征，偶有干、湿性啰音；②心脏体征：心音遥远，P[XB2.gif]>A[XB2.gif]，三尖瓣区可出现收缩期杂音或剑突下心脏搏动增强；③部分患者因肺气肿使胸腔内压升高，阻碍腔静脉回流，可有颈静脉充盈。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺气肿征"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺动脉瓣区第二心音亢进"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "颈静脉充盈"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "剑突下心脏收缩期搏动"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "右心室奔马律"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016206,
+                            "ATestID": 43016206,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b415902a2ab9a2a3c7572e267714b3606f1078de02558528bd3db2ae4b9799449386698ecd0eed7738df8da2c196d47d586cbe88ff8a4fca71ed3833efccb2cf5b5fe7b06d07586209f1f94a229e3c27eaefbf9c8d4bcf1d88baeb6cb1e0f320ea249159802eb5e6e533a70a907006dfc4f3528eb342802d0e1610ed0cc1107c9eb317138f5cf25a1b3f639b8b99aa69615faab12b7904efde7f28d6530cf561a3f282419e697db9",
+                            "Explain": "慢性肺源性心脏病是由肺组织、肺动脉血管或胸廓的慢性病变引起肺组织结构和功能的异常，造成肺血管阻力增加，肺动脉压力增高，使右心扩张、肥大、伴或不伴右心衰竭的心脏病。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "阻塞性肺气肿",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "支气管哮喘",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "慢性肺源性心脏病",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "风湿性心脏病二尖瓣狭窄",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "房间隔缺损",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016207,
+                            "ATestID": 43016207,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "abf670e4a5e1bf314ec725886f45e78b1ac8b989f7f9601522f6b09fb59564119d4df87591d34d195467fc5259e8d3a175b0eed96b40537395253aa1734dd6f28eedb8a2c847a4082e510ab972e07503cbd8644b9c4d91a4b0ae48fc589abefef657c2bfa9bc2cedefd5e3ab292fd63f3aa1a38c69cd97429277a9b94e41fa33ef0b5844039c3960a0e1e82d4dfd679295b1d1e388486b7f02caf1ad1ed90d6e0c7333bc49ae72cb3c1e412c2bfbd10dc0b343a9d26bd14fd1fd0471979eea7fca1341e1b942ff47763dfe64e9e2953ccb8e80fe7e2515275891148c0dbe0c71466032664a23e147a4fcf1e540605c30d711b6b055b43c1951691c0322b60338",
+                            "Explain": "PaCO[XB2.gif]是指二氧化碳分压，正常值是：动脉血35～46mmHg；静脉血37～50mmHg。代谢性碱中毒：因血浆HCO[SBjianXB3.gif]增多造成的碱中毒。酸中毒：pH下降或低于正常下限7.35。碱中毒：pH上升或高于正常上限7.45。①通过pH的值来判断为酸中毒还是碱中毒，7.35～7.45；②通过PaCO[XB2.gif]的值来判断是否存在呼吸性酸中毒还是呼吸性碱中毒；③通过BE和HCO[SBjianXB3.gif]来判断是否存在代谢性酸中毒或是代谢性碱中毒。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "呼吸性酸中毒",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "呼吸性碱中毒",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "代谢性酸中毒",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "呼吸性碱中毒+代谢性酸中毒",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "呼吸性酸中毒+代谢性碱中毒",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016208,
+                            "ATestID": 43016208,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ef397c43506d28eab613c52e0a5591b59749bf577509d6978d4d08424571324b8a63d54589dba1e179db4c117afa40b0842f8d78bf0b6665",
+                            "Explain": "肺源性心脏病心电图表现：主要条件：①电轴右偏、额面平均电轴≥90°；②V[XB1.gif]R/S≥1；③重度顺钟向转位；④RV[XB1.gif]+SV[XB5.gif]≥1.05mV；⑤V[XB1.gif]～V[XB3.gif]导联QRS波呈qR、QS、qr（需除外心肌梗死）；⑥肺型P波。次要条件：①右束支传导阻滞；②肢体导联低电压。符合1个主要条件或2个次要条件可以诊断。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "电轴右偏",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "SV[XB1.gif]+RV[XB5.gif]≥1.05mV",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "右束支传导阻滞",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "V[XB1.gif]和V[XB2.gif]导联出现QS波",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "肺型P波",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016209,
+                            "ATestID": 43016209,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "9c6a6a0d9877063ff2b1ecf4b91b6e2318e410307b999d88eb61d1fc4d8981f308ee9ced0f34d69223778b51c042a0dac77de62fb78ddd2070d910169f09bf3fa17055f5ad89a7f3",
+                            "Explain": "临床上测定肺动脉压，如在静息时肺动脉平均压≥2.67kPa(20mmHg)，即为显性肺动脉高压；若静息肺动脉平均压<2.67kPa，而运动后肺动脉平均压>4.0kPa(30mmHg)时，则为隐性肺动脉高压，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "5mmHg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "10mmHg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "15mmHg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "20mmHg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "30mmHg"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000914,
+                            "ATestID": 41000914,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2611459807e57dc96319aeb9c4ac886b24306f55fa8ef36786b13189d3bd36e4c830be1985cbcf604f47b321ed323ac7eaa254c7c09ccd4cc7dd467146d65089dbbd6c83ac54f0c289c6dd5dc783ade4b2bd7be7cafcd232fb8baccf6c7fa39d1f95b90e553a53a94e34377471d7c9f2b05ae79d614ea6d3f0af060098996d1e7be9d064df07b8d9bf178fec20f8770371979bb6a03ca811c69a8b9e6b4880812ddfb4336db2376958873535ed3f98145cdd4743e66c7e74",
+                            "Explain": "代谢性酸中毒血气改变是pH接近或达到正常，BE负值增大，PaO[XB2.gif]下降。故不选A。慢性呼吸性酸中毒的血气改变：PaCO[XB2.gif]升高，pH正常或降低，BE正值增大。故不选B。呼吸性酸中毒合并代谢性酸中毒血气改变：PaCO[XB2.gif]升高、正常或轻度下降，pH明显降低，AB、SB、BB减少、正常或轻度升高，BE负值增大，故选C。代谢性碱中毒血气改变：pH接近正常，BE正值增大，PaCO[XB2.gif]升高。故不选D。呼吸性酸中毒合并代谢性碱中毒血气改变：PaCO[XB2.gif]升高，pH升高、正常或下降，AB明显增加，故不选E。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "代谢性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "呼吸性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "呼吸性酸中毒合并代谢性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "代谢性碱中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "呼吸性酸中毒合并代谢性碱中毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000915,
+                            "ATestID": 41000915,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52c2ce2eef560316d92a94e494ee1804b46136e2b8f541f06029d4325b4e39434f44ded43bf4ea64cc55033b673ecb4d018e898e26e042a5beeb80b4a8aa9bfabbc64019190d56ef09d015327bcf0f82",
+                            "Explain": "右心功能不全的体征包括：①水肿，因体静脉压力增高，也导致胸腔积液；②颈静脉征：颈静脉搏动增强、充盈、怒张是主要体征，肝颈静脉回流征阳性更具特征性，故选B；③肝大；④心脏体征：出现三尖瓣关闭不全的反流性杂音。A、E非主要体征故不选。C、D不是右心功能不全的体征。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "双下肢水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肝颈静脉回流征阳性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "心脏向左扩大"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "肺动脉瓣区第二心音(P[XB2.gif])亢进"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肝大，触痛阳性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000916,
+                            "ATestID": 41000916,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878e47db10e97fa707af639903ff97dbbfd940819e11c0be4f32f768c5032d3d27e35436a6196ccd0509c6424738491ac9d17fb3dea5fc8b94cac80b27e4c2f0d2676f88376cf1906d12e5d008c37425d39cea58dab5034c6871abf8ff73e37d97c75be199620b72ae11b3048273b81d603cc1ccec29eef7c085df026bf4eaa76d7da04c87f1fe94e20871abd5cf7c8da064edcc903ba718d1458ef657c6c710707c741a53062441fbd7adc60f02b8541809e68e9b05a320498d18cd1e3e8f65c13cc12283086d207b30d18c4f3daebe39f3e0c6f4f7bcdeb4835f67116de869375cca3f2c7b731ecf673c938561aef4c8629370bd58b09a6dabc4c5f4bc8d5e1134",
+                            "Explain": "本患者为COPD并发Ⅱ型呼吸衰竭、肺性脑病。对于伴有严重的通气和（或）换气功能障碍，且神志模糊的患者，应行机械通气，故选E。尼可刹米为呼吸兴奋剂，COPD不宜使用。故不选A。静脉注射毛花苷丙是洋地黄制剂，用于心力衰竭治疗。其他治疗应在保持呼吸道通畅的前提下进行，故不选B、C、D。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "静脉滴注尼可刹米"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "静脉注射毛花苷丙"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "静脉滴注4%碳酸氢钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "静脉注射呋塞米（速尿）"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "人工机械通气"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000919,
+                            "ATestID": 41000919,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fcbefbf5734f7840aae47667342e0f79a52e0103f53618bd76360e4bbd988cb2d297516249c42f090375b4b6bdaba41b0bfad6e5922d2ed1c9d28c9868fc90b2907e5896a22a3d4c64eee8a1acf91cfbaa7ca7b103323e1ae3b8838640d1e75beaad5d7a677958566aa1445f0611a801b6d13407b7ea7ef93354af2765c37dd9f651980904fa38d78a4b59e5db9e09b97fe6681122fd7dded8f0c914c6350c2883a1421d275aa0d6d779153ef3667972c6f07a09fc0250e1393c91ec9a014591319b0aeb681f8d96708e1a52cc59ff9aa885444c078a39a32af61f51916a0e38634810be9d901363a186a41334718b44c0e5ff4cbcc42bf2f33c693f8a2b7eccc4565f7a62738ce90193b6fee48bb2549da10dcce7a11a4f571e1f96370010739a49d8bf0b0592b4e3a129fb7b0207997d37e417dd9278db3f7b93b8f9012fa7839ff289903f8fe7337ea11ec9815d8",
+                            "Explain": "患者的诊断考虑是肺源性心脏病，急性呼吸道感染是诱发肺源性心脏病失代偿和病情加重的重要因素，先依据具体情况选择抗生素，然后根据痰培养及药物敏感试验调整，可适当应用利尿剂、强心剂或血管扩张药。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "强心剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "利尿剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "血管扩张剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抗生素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "祛痰剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000921,
+                            "ATestID": 41000921,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "7b152f764e1cb121f2a53890636bcdc54a3f9c97885e14ea36b2e88f12179aad0b43ffe0405ea246ad883f412789211a893cf8e01bf08313b53befa953da8941bdfbc90adbe831c60320f487cfcdf0636c1f8e9d423b0943dcdac859091968e9ac388271e1309ae18ec0a98821ca143dff6955af20d778d594a79f7b367ff532fcb972341bb8824cd02043f5960b1f495ba99de69e03a4e661fa0fc50af92449f25b2c9479d4e616228f0426a09c934de9210213fba8b3aea9bf5913a5f8429582df939c22eeeecea3a1b44fa668dae917dcff2dd8a5ae5f18601daae78f4947bf94081677e4a834aa8ef1af724cd13e",
+                            "Explain": "此例为慢阻肺，肺源性心脏病，心功能不全，并肺部感染，最主要的治疗措施是控制肺部感染。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "利尿剂适度利尿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "给予解痉平喘药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "给予止咳祛痰药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "低浓度持续吸氧"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "控制肺部感染"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000776,
+                            "ATestID": 43000776,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "347a7c0d80b8d4f7b510573e4819bc22e0009f6a817b6f2eb21a7f8caa891807f10e262b85c664c55276468ba32e880262f2c5e011c7152b568bd30f1d4e80be3a049dce812cf91b98282f5ff60d01f15a40905de31531bf5f6e684e2cfbace3886e41f7f103632602bdf929894e62126307439123c639463c71d7d5a8841dc407fbd4f14428309c3411cfe505c91aee8029713052b58788747672be60de642b7aa6971eda4b44be131f871fc43e9231c8622e1a205682dd93efaa5fecf4d3dc63ace1036b1c2ac226950f9b5868ca75b9df7a2b61ee5794edb979291452f8d768b0c0d4ffec0539d72f535ee73878d5aae87d063281ee5b3782a1fb4ebe62acb307c17abba2f16fb72905b3ef07e9859a779e0c0fc11e82683c9aba4b154c03dcfea09ff3a31f32f4a420ab3c24c0d2ff142b7c458a3bf712cbc36440265443ed869aa1b4b9f02968a6cfe29bc19381231308666b4bdd0234e4303c04ae4cc84f644d4437662382",
+                            "Explain": "咳嗽咳痰气喘，下肢水肿，血压高，口唇发绀，下肺散在湿啰音音和哮鸣音，最可能诊断为急性右心衰竭。",
+                            "TestPoint": "心力衰竭的分类分期与心功能分级",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性右心衰竭"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "慢性阻塞性肺病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支气管扩张"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016211,
+                            "ATestID": 43016211,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "95e1a403cb1a4156c9cf83eba2a2290d306100fdf186b2171cf33fe8370ce5c6561f6a75f36566884cde27c19fb4f9b25a22285798571ba98f8b9c8b1f61d3b365e0f864c99e10c2fa2c1422a6164246bdf9198f9107826317348bf18718cf2589ad871c72305df10950c16dbc6b0ce772dd6f49517af281fb5723e023c21dcb81fd17e1ac5bf32acf8b3a1637a73366ce554f9441d7369e5d9227f97a6655bc2d6116664ff04498dc5675864914fbf3f60d5b8e76b54064a8dd728bc9042d3828c27f59deea82cf1d8dc19fede8e7d8d86ae5da6ef1cc626c1e097578443e5ad7b0341c55ce299e73341b1e9ae5410e390f14c70b67657a26a1121b1856adfcfb23958695b416fe6d0bdfd012bf688e522172cca002524ef2a1815e18a7ce95",
+                            "Explain": "此患者为肺源性心脏病，肺型P波，说明右心房肥大。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "右心房扩大",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "右心室肥大",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "左心房扩大",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "左心室肥大",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "室间隔肥厚",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016212,
+                            "ATestID": 43016212,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题修改为A",
+                            "OperateTime": "2018年8月14日"
+                        },
+                        {
+                            "Title": "de503e80b6d59158d58b30162feb90067761a74e0a39884cae280d941ea46717612e9b4075926663680e94ac33afeac7ba17129316ee9f224a79339c0e937e740804bc46da258171285f6e24567a3af8b64832005c76facdcff393645dee1c4327baaaf22252fce72db3dd96acdaff338e56e2a448fe5ea755e252104547cde4c574b709dc25d552886170480a5a9fd6eeebcb59b5d7a276b64f2c24c648d003fb31694629170fd3c1cff967cf62a5636c50ee6e5c2d44210ecae13bd87113da761ed9a03a829680c78ee742f58f2738bc28417f0befbd1acd88abd958b36c691a35efb89aef93e67509ebdbf1c7675210a095cc9b74f59abe20acb92fdd52a93092defcb487c21545dc8a8f2752d02d",
+                            "Explain": "下肢水肿，颈静脉怒张，左下肺可闻及干、湿啰音，心界向左扩大，诊断为慢性肺源性心脏病。",
+                            "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肥厚型心肌病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "风湿性心脏瓣膜病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "冠心病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "慢性肺源性心脏病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺纤维化"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016215,
+                            "ATestID": 43016215,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0ea235fe6a30feaa2e9439f0e022db6ba92f8537f3f8ed0db6670344a5db088199291bd4e4d3f4ab5854562207d143f20ec4750939ebbd1f1cf13d286d2eaf3a768e14ad6f7d381b9c682eb703b1272ec6d4f97d509a2ff192c36802db4ddad9cb34c7ee7bacff396dcff2c9552972e156a83a831ab8189e2ec19bbec28b0ed1c1992ad52a21c6f8bd3bfadb7d2897c11edaf8e04fcf1e896f16a50780edeefdae713788b1c60e0f3a367abe808a742c93f92e69b54fccf10660b9bb2eb5f8155465061cebbc9d402d70b26afa0f9139cee3ddfbbad57ab335f4a47d8890bbe293f63c37d787dfd2fd906bd927a2adae9e3f39f70283fd45869fd68b084db3bb41e22da87a1b3bde8e58a80e4ec775099bc57298f6c7300cbb02a56c8665d972e188beea79b15cc41597df63b0b11e1bc91cd8a3daf5a7f8ef06287b00c7ea0cb63c99ec3be89f19cceb54e0319c7b8541e44156bbf2a53a036af4093557b5837e899a967c8940f644deabd62130481b6eadba16905a4c1d048e25c8f8cc921df45b60d6fdd79a2bdcfa848d750a4f8e2611bbdc38a224ca58f5405c2173e188485f0b0768321597",
+                            "Explain": "患者为长期慢性阻塞性肺疾病导致肺动脉高压和肺源性心脏病，其肺动脉高压形成的最主要机制为：缺氧、高碳酸血症和呼吸性酸中毒使肺血管收缩、痉挛，其中缺氧是肺动脉高压形成的最重要因素。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "缺氧、CO[XB2.gif]潴留致血管收缩"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "原位血栓形成"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺毛细血管静水压升高"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺小动脉结构重塑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血红蛋白浓度升高"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016216,
+                            "ATestID": 43016216,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "该病人诊断应考虑为下列哪项",
+                            "Explain": "1.患者有长期慢支、肺气肿痛史，近来出现急性呼吸道感染和右心衰竭的症状、体征。心电图RV[XB1.gif]+SV[XB5.gif]>1.05mV，胸片右下肺动脉干横径>15mm，均提示有肺源性心脏病，为急性加重期。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "慢性支气管炎，肺气肿，肺部感染"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慢性肺心病呼吸衰竭"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "慢性肺心病缓解期"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "慢性支气管炎，肺部感染"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "慢性肺心病急性加重期"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "e807b047f5563d04007d97d39f06abf355257fdb9d1eb7d4973dc8439d5bf5b4754ee26fea5ac58a989603d4ea7c31ed3c5fa43a8bed5ef3b63366fda0f6f8917dbbb9f7469143f86e883954b1aeb633916f3a5bcf9412d3c48d6982b9fbae9acf3defe28376dc119efcbed1b9986775949612c85b5eb2e64e43056407de3123b7c61f6ecbfdf341e62c5efe418e41b50d558758d5f85772d999d2454f9617bd150cbf48adad1de869e8de4791beb3094d589a5fe3e7750c048bbc6294c43d6a75910a5354624bc00dbde256f4dd8710e4ea5832a5d070a7826c5fce361e52b6b1f10281d9d59ade578eae4de6ca7a2ff62262b96dbde883c55aca5ad489a85190be4fa90c6aa6cd37a4abfdf56ef51e1743e7b2b8687626b1c71e3434bfaeba333e098c3545953fe3b3b9ca8f9d5d09d3d490b29a5fed6d8f9453e689cdfc7220f6a88a5d10b5836b14f0baa2d84a9e8a3e96fc2ba30899702916bb5fd652801ce8093eb6dcdb921e0ad1eccdf297fc81f7464c545a7523978c6b1553766f4a23d666643b5d8fc48a3c03a92bba055978f48a3a0b11d4c1e1d44d9556eb5121",
+                            "AllTestID": 43000778,
+                            "A3TestID": 43000006,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000006,
+                                    "Title": "02779edc6d067699d475e590ecfc220b33270f052ca1d663a7b416e767e9a7d6bc2dc4a9a7469390",
+                                    "Explain": "1.患者有长期慢支、肺气肿痛史，近来出现急性呼吸道感染和右心衰竭的症状、体征。心电图RV[XB1.gif]+SV[XB5.gif]>1.05mV，胸片右下肺动脉干横径>15mm，均提示有肺源性心脏病，为急性加重期。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "慢性支气管炎，肺气肿，肺部感染"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "慢性肺心病呼吸衰竭"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "慢性肺心病缓解期"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "慢性支气管炎，肺部感染"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "慢性肺心病急性加重期"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000007,
+                                    "Title": "305db2782904c509f476303bec7cb3b3905f862b1bd8ef2a3aa7c822a8896cb5c34d25471a1cb2e2a7b35b820646f50a20595c15f44149bb57e939a02369d290",
+                                    "Explain": "2.在慢性肺心痛急性加重期，积极控制感染是最重要的环节，宜行痰培养+药敏寻找感染菌和敏感抗生素。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "痰培养+药敏"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "心功能测定"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺部B超"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺功能"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺部CT"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000008,
+                                    "Title": "02779edc6d06769965cdcd5a39f3aa2d4cf72950897aec571aad3e680e8c2f04a898a91618383f42",
+                                    "Explain": "3.在慢性肺心痛急性加重期，积极控制感染是最重要的环节，宜行痰培养+药敏寻找感染菌和敏感抗生素。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "洋地黄强心"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "氨茶碱解痉"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "安体舒通利尿"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "保持电解质平衡"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "广谱抗生素抗感染"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "Title": "患者意识障碍最可能的原因是",
+                            "Explain": "患者咳嗽、咳痰伴喘息20余年，考虑为COPD，在此基础上出现昏睡、腱反射减弱等神经精神症状，符合肺脑病的诊断，故22题选A。肺性脑病经吸氧不能纠正，应及早进行机械通气，故23题选B。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺性脑病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脑血管病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "低钠血症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "低血糖"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "感染中毒性脑病"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d0903cfdb12a93d82e643d505debbc72b87cb4cbfe7a691943dc5714fb6d8e790b72f94f1bf3c2794f9bfd9550b34c5a083491366bbd35d01df722eaf7f4db0c28316c33e284a7753b0a5eee4f37c751f3653f6a928d3324894957c7d3673cf52b4b8e2f610c72e473ce60f2088de67b2e4c26db21340c66a826940a20ed0285cbe03551435df4c68801655fa4c48fdc9dc918c71baa15de126bd43976a70c5cb3468faa4fe3374cd26405d4daa342c3f5754020272f9aab966e25215153796e562994659f83afe6d0c56047cc6d35b33a239623e9a5e11b2676c694b71a870b5979f415e8cdfb3ce5105ce57857d876da2595e051e485e131d23a407f643352d84856c96912ddc416a6c8845c3799e3229475117f324604cd963f880fa874691e50a0e109094ba94801f296851529ff35ec0b8e1d030efbb54081a7c289e3d76df3aa8725f9e8489a9b62604f064a8a1cfdcae9df5a4abeea5c2aae5fcf7e98d1dcc0ae8a2b880caf0763c3d7d7ef652da024b3912247e85dc48",
+                            "AllTestID": 35001133,
+                            "A3TestID": 35000036,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000036,
+                                    "Title": "ae21d2b6f5fe70a018afbae163f0aceac897c227dd83f6c2254e5fdef0188cfbf3df83fe259287bc",
+                                    "Explain": "患者咳嗽、咳痰伴喘息20余年，考虑为COPD，在此基础上出现昏睡、腱反射减弱等神经精神症状，符合肺脑病的诊断，故22题选A。肺性脑病经吸氧不能纠正，应及早进行机械通气，故23题选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "肺性脑病"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "脑血管病"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "低钠血症"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "低血糖"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "感染中毒性脑病"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000037,
+                                    "Title": "f42983e73394c0405ea334b1b9bfc2158a9f7e06c6739c36ee0e47676d387c42ff2e1620c1d274255131121a864e0ba6",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "静脉点滴3%氧化钠溶液"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "机械通气"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "静脉点滴甘露醇"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "静脉注射10%葡萄糖"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "静脉点滴呼吸兴奋剂"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "1.根据患者有慢性支气管炎、肺气肿、除外其他胸肺疾病或肺血管病变，并引起肺动脉高压、右心室增大或右心功能不全，如颈静脉怒张、肝大压痛、肝颈静脉回流征阳性、下肢水肿及体静脉压升高等，可作出判定。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "冠状动脉硬化性心脏病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慢性肺源性心脏病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "风湿性心脏病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "原发性心肌病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "高血压心脏病"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7670f462bf2a878e234897c04cd6266cc9caddc4e76417658abc726457fcdade8a481cea4b604dc58b74f62b0e5651200a9a90362d58caaab7bea60e87ba0810cb466fe6de4fc95237e82a2eca84e4379663eb3466c3101f8b6af6c149661c86158b793fe6dd58c8f8fa2dd4a264d1f373610af8f8de2169a63c7a3863498832011896fb584cc92e3116b49300e64227bd37b17a92aa55423599eee6c488b5239b2c596ed77199ce1bda5deae14ffe1feebf7ac6a630d0ce422b93f1e8ed320ac05cb95ccf853f27eecc60675f523098298699794aed0f5c0e05a4a3d9cb4436cde7bfe672e97bbaca87ab44c542d605957c4987f88d9a1bb6d7030a200c5839e5f385b4efe9f27228e87865d8ca12d4dc60a46397b07d5c1314e0b3261517951fed5cd220dd4d939b36c04e03efd4433c2402f82d96c1506e7a1144c534dafecbf9f49a735fc02662e281a27495b5088bb4f88958e39919ffdb686682415b1d9de86297e981ad6488270831e847e6231fb974e3d61f0f2551d3d2762b6231e8",
+                            "AllTestID": 41000922,
+                            "A3TestID": 41000040,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000040,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "1.根据患者有慢性支气管炎、肺气肿、除外其他胸肺疾病或肺血管病变，并引起肺动脉高压、右心室增大或右心功能不全，如颈静脉怒张、肝大压痛、肝颈静脉回流征阳性、下肢水肿及体静脉压升高等，可作出判定。故选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "冠状动脉硬化性心脏病"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "慢性肺源性心脏病"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "风湿性心脏病"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "原发性心肌病"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "高血压心脏病"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000041,
+                                    "Title": "384bb0d8315a8e8d47d2e73a50859c8766c55d0530c9949cf0d703673f7199d9c55ab400fa65deeee77c3c7f8e8c692b88d800713ab4d6a47d954f04f3134d3b5e8273d82940711e40aba90431940e30",
+                                    "Explain": "2.肺源性心脏病的主要体征是P[XB2.gif]>A[XB2.gif]，所以答案为D。B为心房颤动的体征，A为左心室增大的体征，C为全心增大的体征，肺源性心脏病可在剑突下闻及3/6级收缩期杂音，故不选择E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "心界向左下扩大"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "心音强弱快慢不等"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "心界向左、右两侧扩大"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺动脉瓣区第二心音亢进"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "心尖区可闻及3/6级粗糙吹风样全收缩期杂音"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000042,
+                                    "Title": "384bb0d8315a8e8d47d2e73a50859c8766c55d0530c9949cedd066c40b92ed8f82cde386b15e34bee6b1fa0601712531bc3209f2f1d170968383a78b1b1c813b",
+                                    "Explain": "3.慢性肺源性心脏病常见并发症有肺性脑病，是由于呼吸功能衰竭所致缺氧、二氧化碳潴留引起的精神障碍、神经系统症状。故选C。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "代谢性碱中毒"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "中毒性脑病"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺性脑病"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "脑梗死"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "脑出血"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000043,
+                                    "Title": "7774d7eff980409541dce077e56cf711bdb3c02c053f75721a41d0dc1b2d727737b41d96cbf7a83ced21a0cec7caecab",
+                                    "Explain": "4.COPD主要的发病机制是由于长时间的低氧、CO[XB2.gif]潴留引起的高碳酸血症、呼吸性酸中毒使肺小动脉收缩，从而引起肺动脉高压，其中缺氧是形成肺动脉高压的最重要因素。故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "低氧、CO[XB2.gif]潴留所致肺小动脉收缩"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肺小动脉内膜广泛增厚"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺小动脉内原位血栓形成"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺毛细血管断裂所致血管阻力增加"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "慢性缺氧所致血液黏滞度增加"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000044,
+                                    "Title": "a6811575747882e70d2f1bb4ddabee73eefc139240fe9158ce891dca6e5e7a79885059913cd946a2340ab1a16553f66e9c8ae39414965905899f2b6ce99a5484c66de2204bc34b49bdfd2b9eece57e8eaf24ad4759299c82a7b3c5ba8ef4e6b6",
+                                    "Explain": "5.噻嗪类利尿剂长期使用后容易出现低钾、低氯性碱中毒，故C为答案。严重的低氧血症会造成细胞无氧呼吸的增加，血中乳酸增加，从而出现代谢性酸中毒，故E错误。慢性肺源性心脏病患者呼吸靠的是低氧对呼吸中枢的刺激，高浓度吸氧会减弱这种刺激，导致呼吸性酸中毒，故D错误。使用呼吸兴奋剂兴奋呼吸中枢，对患者是有利措施，同样不会导致代谢性碱中毒，故B错误。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "低盐饮食"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "使用呼吸兴奋剂"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "使用噻嗪类利尿剂"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "高浓度吸氧"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "严重低氧血症"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "138478eb4c4c2d447e77a9fde8f6314ad12ca88aefba83cdcf07a480ae1c3fd2f00061ee0f90594a66c29262a0e6a71629345200b3203b5b",
+                            "Explain": "镇静药抑制呼吸，可加重通气障碍，故导致Ⅱ型呼吸衰竭加重，故16题选E；袢利尿剂速尿属排钾性利尿剂，大量排尿导致低钾血症，致代谢性碱中毒，故17题选D。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血管扩张剂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "呼吸兴奋剂"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "强心剂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "袢利尿剂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "镇静剂"
+                                }
+                            ],
+                            "AllTestID": 35001130,
+                            "BTestID": 35000203,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000203,
+                                    "Title": "138478eb4c4c2d447e77a9fde8f6314ad12ca88aefba83cdcf07a480ae1c3fd2f00061ee0f90594a66c29262a0e6a71629345200b3203b5b",
+                                    "Explain": "镇静药抑制呼吸，可加重通气障碍，故导致Ⅱ型呼吸衰竭加重，故16题选E；袢利尿剂速尿属排钾性利尿剂，大量排尿导致低钾血症，致代谢性碱中毒，故17题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000204,
+                                    "Title": "d63f508eff670a1eadd1f3b05c471b31236fc52fe2eade2f62bd9bbf1c8826bb7bd04f0f2f34d1cfe3b76d39bd0d0155d902c0cca6185bbddcac06093d74c1266fa4a08d1e9cb99d",
+                                    "Explain": "镇静药抑制呼吸，可加重通气障碍，故导致Ⅱ型呼吸衰竭加重，故16题选E；袢利尿剂速尿属排钾性利尿剂，大量排尿导致低钾血症，致代谢性碱中毒，故17题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "2611459807e57dc96319aeb9c4ac886b217b198db103c834da8a1741ea09e6ad09388114b464c5d4015d205f354bcb91",
+                            "Explain": "肺源性心脏病发病的发病机制包括肺功能和结构的不可逆性改变，发生反复的气道感染和低氧血症，导致一系列体液因子和肺血管的变化，使肺血管阻力增加，肺动脉血管重塑，产生肺动脉高压，故1题选D。肺源性心脏病的失代偿期常可引起表情淡漠、神志恍惚等肺性脑病的临床表现，故2题选E。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺泡毛细血管急性损伤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支气管肺感染和阻塞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺弥散功能障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺动脉高压"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺性脑病"
+                                }
+                            ],
+                            "AllTestID": 41000923,
+                            "BTestID": 41000240,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000240,
+                                    "Title": "2611459807e57dc96319aeb9c4ac886b217b198db103c834da8a1741ea09e6ad09388114b464c5d4015d205f354bcb91",
+                                    "Explain": "肺源性心脏病发病的发病机制包括肺功能和结构的不可逆性改变，发生反复的气道感染和低氧血症，导致一系列体液因子和肺血管的变化，使肺血管阻力增加，肺动脉血管重塑，产生肺动脉高压，故1题选D。肺源性心脏病的失代偿期常可引起表情淡漠、神志恍惚等肺性脑病的临床表现，故2题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000241,
+                                    "Title": "2611459807e57dc96319aeb9c4ac886b530541b94229a7148b8431f32ba73e5c1231ded50b6e99f2ab9a41d6153122a4ddc7cd66cb78b63d",
+                                    "Explain": "肺源性心脏病发病的发病机制包括肺功能和结构的不可逆性改变，发生反复的气道感染和低氧血症，导致一系列体液因子和肺血管的变化，使肺血管阻力增加，肺动脉血管重塑，产生肺动脉高压，故1题选D。肺源性心脏病的失代偿期常可引起表情淡漠、神志恍惚等肺性脑病的临床表现，故2题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "2611459807e57dc96319aeb9c4ac886b530541b94229a7148b8431f32ba73e5c1231ded50b6e99f2ab9a41d6153122a4ddc7cd66cb78b63d",
+                            "Explain": "肺源性心脏病的失代偿期常可引起表情淡漠、神志恍惚等肺性脑病的临床表现，选E。",
+                            "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺弥散功能障碍"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "通气功能障碍"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺泡毛细血管急性损伤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺动脉高压"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺性脑病"
+                                }
+                            ],
+                            "AllTestID": 43016217,
+                            "BTestID": 43002963,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002963,
+                                    "Title": "2611459807e57dc96319aeb9c4ac886b530541b94229a7148b8431f32ba73e5c1231ded50b6e99f2ab9a41d6153122a4ddc7cd66cb78b63d",
+                                    "Explain": "肺源性心脏病的失代偿期常可引起表情淡漠、神志恍惚等肺性脑病的临床表现，选E。",
+                                    "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002964,
+                                    "Title": "2611459807e57dc96319aeb9c4ac886b217b198db103c834da8a1741ea09e6ad09388114b464c5d4015d205f354bcb91",
+                                    "Explain": "肺源性心脏病发病的发病机制包括肺功能和结构的不可逆性改变，发生反复的气道感染和低氧血症，导致一系列体液因子和肺血管的变化，使肺血管阻力增加，肺动脉血管重塑，产生肺动脉高压，选D。",
+                                    "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "2611459807e57dc96319aeb9c4ac886b396f222156881530ce40f856a6985ff4ad33e05cca77f0b7ba91692c78a6529815144b61ae064db59c44218ccbd4f5e6",
+                            "Explain": "肺源性心脏病发病的发病机制包括肺功能和结构的不可逆性改变，发生反复的气道感染和低氧血症，导致一系列体液因子和肺血管的变化，使肺血管阻力增加，肺动脉血管重塑，产生肺动脉高压，所以选A。",
+                            "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "慢性缺氧所致肺血管重建"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "缺氧性肺血管收缩"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "支气管肺感染和阻塞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "血液黏稠度增加"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "气道高反应性"
+                                }
+                            ],
+                            "AllTestID": 43016218,
+                            "BTestID": 43002965,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 43,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002965,
+                                    "Title": "2611459807e57dc96319aeb9c4ac886b396f222156881530ce40f856a6985ff4ad33e05cca77f0b7ba91692c78a6529815144b61ae064db59c44218ccbd4f5e6",
+                                    "Explain": "肺源性心脏病发病的发病机制包括肺功能和结构的不可逆性改变，发生反复的气道感染和低氧血症，导致一系列体液因子和肺血管的变化，使肺血管阻力增加，肺动脉血管重塑，产生肺动脉高压，所以选A。",
+                                    "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002966,
+                                    "Title": "2611459807e57dc96319aeb9c4ac886b396f222156881530ce40f856a6985ff4ad33e05cca77f0b75adb343ea24ff864521fa37ce33a90bbe2cc78b7d3044cf7",
+                                    "Explain": "缺氧、高碳酸血症和呼吸性酸中毒均可导致肺血管收缩、痉挛，肺血管阻力增高，形成肺动脉高压，所以选B。",
+                                    "TestPoint": "慢性肺源性心脏病临床表现及治疗",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35001119,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001119,
+                        "ChildTableID": -1,
+                        "UserCount": 11387,
+                        "RightCount": 4412,
+                        "FavCount": 545,
+                        "DiscussionCount": 14,
+                        "ExplainCount": 0,
+                        "ConcernCount": 84
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001119,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 14,
+                "ExplainCount": 0,
+                "ConcernCount": 84
+            },
+            {
+                "AllTestID": 35001120,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 35001120,
+                            "ChildTableID": -1,
+                            "Answer": "E",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001120,
+                        "ChildTableID": -1,
+                        "UserCount": 10711,
+                        "RightCount": 5348,
+                        "FavCount": 310,
+                        "DiscussionCount": 8,
+                        "ExplainCount": 0,
+                        "ConcernCount": 41
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001120,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 8,
+                "ExplainCount": 0,
+                "ConcernCount": 41
+            },
+            {
+                "AllTestID": 35001124,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001124,
+                        "ChildTableID": -1,
+                        "UserCount": 9911,
+                        "RightCount": 5713,
+                        "FavCount": 236,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 33
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001124,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 33
+            },
+            {
+                "AllTestID": 35001125,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001125,
+                        "ChildTableID": -1,
+                        "UserCount": 9546,
+                        "RightCount": 6031,
+                        "FavCount": 299,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 104
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001125,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 104
+            },
+            {
+                "AllTestID": 35001128,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001128,
+                        "ChildTableID": -1,
+                        "UserCount": 8261,
+                        "RightCount": 7545,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001128,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43000770,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000770,
+                        "ChildTableID": -1,
+                        "UserCount": 7952,
+                        "RightCount": 7097,
+                        "FavCount": 78,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000770,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43000771,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000771,
+                        "ChildTableID": -1,
+                        "UserCount": 8885,
+                        "RightCount": 5196,
+                        "FavCount": 305,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000771,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43000772,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43000772,
+                            "ChildTableID": -1,
+                            "Answer": "A",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000772,
+                        "ChildTableID": -1,
+                        "UserCount": 7892,
+                        "RightCount": 6329,
+                        "FavCount": 110,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000772,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000773,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000773,
+                        "ChildTableID": -1,
+                        "UserCount": 8224,
+                        "RightCount": 5912,
+                        "FavCount": 145,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000773,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43000774,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000774,
+                        "ChildTableID": -1,
+                        "UserCount": 8640,
+                        "RightCount": 3765,
+                        "FavCount": 394,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000774,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43000775,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000775,
+                        "ChildTableID": -1,
+                        "UserCount": 7419,
+                        "RightCount": 6943,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000775,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43016192,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016192,
+                        "ChildTableID": -1,
+                        "UserCount": 7414,
+                        "RightCount": 6333,
+                        "FavCount": 96,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016192,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016193,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016193,
+                        "ChildTableID": -1,
+                        "UserCount": 7717,
+                        "RightCount": 5850,
+                        "FavCount": 212,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016193,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43016194,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016194,
+                        "ChildTableID": -1,
+                        "UserCount": 8331,
+                        "RightCount": 4786,
+                        "FavCount": 277,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016194,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016195,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016195,
+                        "ChildTableID": -1,
+                        "UserCount": 7639,
+                        "RightCount": 5566,
+                        "FavCount": 154,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016195,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43016196,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016196,
+                        "ChildTableID": -1,
+                        "UserCount": 7950,
+                        "RightCount": 4320,
+                        "FavCount": 386,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 52
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016196,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 52
+            },
+            {
+                "AllTestID": 43016199,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016199,
+                        "ChildTableID": -1,
+                        "UserCount": 7833,
+                        "RightCount": 5344,
+                        "FavCount": 157,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016199,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016202,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016202,
+                        "ChildTableID": -1,
+                        "UserCount": 7810,
+                        "RightCount": 4634,
+                        "FavCount": 349,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 37
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016202,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 37
+            },
+            {
+                "AllTestID": 43016203,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016203,
+                        "ChildTableID": -1,
+                        "UserCount": 6941,
+                        "RightCount": 6651,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016203,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016204,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016204,
+                        "ChildTableID": -1,
+                        "UserCount": 7901,
+                        "RightCount": 3866,
+                        "FavCount": 343,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016204,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43016205,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016205,
+                        "ChildTableID": -1,
+                        "UserCount": 7014,
+                        "RightCount": 6061,
+                        "FavCount": 118,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016205,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43016206,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016206,
+                        "ChildTableID": -1,
+                        "UserCount": 7482,
+                        "RightCount": 4760,
+                        "FavCount": 279,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016206,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 43016207,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016207,
+                        "ChildTableID": -1,
+                        "UserCount": 6698,
+                        "RightCount": 6257,
+                        "FavCount": 100,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016207,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43016208,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016208,
+                        "ChildTableID": -1,
+                        "UserCount": 6876,
+                        "RightCount": 6044,
+                        "FavCount": 140,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016208,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43016209,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016209,
+                        "ChildTableID": -1,
+                        "UserCount": 7854,
+                        "RightCount": 3592,
+                        "FavCount": 349,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 0,
+                        "ConcernCount": 35
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016209,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 0,
+                "ConcernCount": 35
+            },
+            {
+                "AllTestID": 41000914,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000914,
+                        "ChildTableID": -1,
+                        "UserCount": 7981,
+                        "RightCount": 3427,
+                        "FavCount": 449,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 78
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000914,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 78
+            },
+            {
+                "AllTestID": 41000915,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000915,
+                        "ChildTableID": -1,
+                        "UserCount": 7861,
+                        "RightCount": 4421,
+                        "FavCount": 319,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000915,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000916,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000916,
+                        "ChildTableID": -1,
+                        "UserCount": 7461,
+                        "RightCount": 4918,
+                        "FavCount": 214,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000916,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 41000919,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000919,
+                        "ChildTableID": -1,
+                        "UserCount": 7038,
+                        "RightCount": 5479,
+                        "FavCount": 124,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000919,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 41000921,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000921,
+                        "ChildTableID": -1,
+                        "UserCount": 7082,
+                        "RightCount": 5227,
+                        "FavCount": 112,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000921,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43000776,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000776,
+                        "ChildTableID": -1,
+                        "UserCount": 6585,
+                        "RightCount": 6137,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000776,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016211,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016211,
+                        "ChildTableID": -1,
+                        "UserCount": 7001,
+                        "RightCount": 4838,
+                        "FavCount": 120,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016211,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016212,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016212,
+                        "ChildTableID": -1,
+                        "UserCount": 7352,
+                        "RightCount": 4202,
+                        "FavCount": 267,
+                        "DiscussionCount": 18,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016212,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 18,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43016215,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016215,
+                        "ChildTableID": -1,
+                        "UserCount": 6214,
+                        "RightCount": 5972,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016215,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016216,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016216,
+                        "ChildTableID": -1,
+                        "UserCount": 6455,
+                        "RightCount": 5402,
+                        "FavCount": 99,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016216,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000778,
+                "ChildTableID": 43000006,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000778,
+                        "ChildTableID": 43000006,
+                        "UserCount": 7328,
+                        "RightCount": 5813,
+                        "FavCount": 117,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000778,
+                    "ChildTableID": 43000006
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43000778,
+                "ChildTableID": 43000007,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000778,
+                        "ChildTableID": 43000007,
+                        "UserCount": 7490,
+                        "RightCount": 5020,
+                        "FavCount": 149,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000778,
+                    "ChildTableID": 43000007
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000778,
+                "ChildTableID": 43000008,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000778,
+                        "ChildTableID": 43000008,
+                        "UserCount": 7115,
+                        "RightCount": 6284,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000778,
+                    "ChildTableID": 43000008
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 35001133,
+                "ChildTableID": 35000036,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001133,
+                        "ChildTableID": 35000036,
+                        "UserCount": 6393,
+                        "RightCount": 6090,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001133,
+                    "ChildTableID": 35000036
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 35001133,
+                "ChildTableID": 35000037,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001133,
+                        "ChildTableID": 35000037,
+                        "UserCount": 6487,
+                        "RightCount": 6030,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001133,
+                    "ChildTableID": 35000037
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000922,
+                "ChildTableID": 41000040,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000922,
+                        "ChildTableID": 41000040,
+                        "UserCount": 6388,
+                        "RightCount": 6164,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000922,
+                    "ChildTableID": 41000040
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 41000922,
+                "ChildTableID": 41000041,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000922,
+                        "ChildTableID": 41000041,
+                        "UserCount": 7065,
+                        "RightCount": 4826,
+                        "FavCount": 184,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000922,
+                    "ChildTableID": 41000041
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41000922,
+                "ChildTableID": 41000042,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000922,
+                        "ChildTableID": 41000042,
+                        "UserCount": 6361,
+                        "RightCount": 6065,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000922,
+                    "ChildTableID": 41000042
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 41000922,
+                "ChildTableID": 41000043,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000922,
+                        "ChildTableID": 41000043,
+                        "UserCount": 6376,
+                        "RightCount": 5995,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000922,
+                    "ChildTableID": 41000043
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000922,
+                "ChildTableID": 41000044,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000922,
+                        "ChildTableID": 41000044,
+                        "UserCount": 7342,
+                        "RightCount": 4428,
+                        "FavCount": 282,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000922,
+                    "ChildTableID": 41000044
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 35001130,
+                "ChildTableID": 35000203,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001130,
+                        "ChildTableID": 35000203,
+                        "UserCount": 7409,
+                        "RightCount": 3806,
+                        "FavCount": 300,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001130,
+                    "ChildTableID": 35000203
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 35001130,
+                "ChildTableID": 35000204,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001130,
+                        "ChildTableID": 35000204,
+                        "UserCount": 6763,
+                        "RightCount": 5735,
+                        "FavCount": 144,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001130,
+                    "ChildTableID": 35000204
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 41000923,
+                "ChildTableID": 41000240,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000923,
+                        "ChildTableID": 41000240,
+                        "UserCount": 7088,
+                        "RightCount": 5347,
+                        "FavCount": 113,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000923,
+                    "ChildTableID": 41000240
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000923,
+                "ChildTableID": 41000241,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000923,
+                        "ChildTableID": 41000241,
+                        "UserCount": 6568,
+                        "RightCount": 6101,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000923,
+                    "ChildTableID": 41000241
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016217,
+                "ChildTableID": 43002963,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016217,
+                        "ChildTableID": 43002963,
+                        "UserCount": 6088,
+                        "RightCount": 5792,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016217,
+                    "ChildTableID": 43002963
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43016217,
+                "ChildTableID": 43002964,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016217,
+                        "ChildTableID": 43002964,
+                        "UserCount": 6323,
+                        "RightCount": 5630,
+                        "FavCount": 28,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016217,
+                    "ChildTableID": 43002964
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016218,
+                "ChildTableID": 43002965,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016218,
+                        "ChildTableID": 43002965,
+                        "UserCount": 6996,
+                        "RightCount": 3720,
+                        "FavCount": 291,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016218,
+                    "ChildTableID": 43002965
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016218,
+                "ChildTableID": 43002966,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016218,
+                        "ChildTableID": 43002966,
+                        "UserCount": 6833,
+                        "RightCount": 4527,
+                        "FavCount": 211,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016218,
+                    "ChildTableID": 43002966
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

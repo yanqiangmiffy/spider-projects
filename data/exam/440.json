@@ -1,0 +1,564 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:17:43 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "6be83788e0c37275b6697bebe1efa959bee32f36c5f0c8e69682794124cfe20ab2baea5877ccec0f",
+                            "Explain": "干啰音系由于气管、支气管或细支气管狭窄或部分阻塞，空气吸入或呼出时发生湍流所产生的声音。特点是音调较高，持续时间较长，吸气和呼气时均可听到，但以呼气时更为明显，部位易变换。因此答案是E。",
+                            "TestPoint": "干啰音的特点",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "音调较高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "持续时间较长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "吸气时也可听到"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "呼气时更为明显"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "部位多较固定"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000024,
+                            "ATestID": 42000024,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 440,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "274d4ce7508363ae03d29535e12b830b",
+                            "Explain": "喘鸣音属于干啰音的一种，发生在主支气管以上的大气道的干啰音，有时不用听诊器亦可听及，称为喘鸣音。答案是C。",
+                            "TestPoint": "喘鸣音",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "胸语音"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "湿啰音"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "干啰音"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "羊鸣音"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "爆裂音"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000025,
+                            "ATestID": 42000025,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 440,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "7b152f764e1cb1213763f539dcf3206a6beb7e9b6990ff51c21bc8437df7c09c946fd11ad5647da04fa9e76e5758ed23ebc966ae53ed6024425e9f95e820b7cf9ac37472393d0c20742d842321476f7a3368389914541c071b392036f3563954c4441d68d544e012deb16788e6a6b0914c10f8e13cc7d1f4363ef7af5eb5dea37567ad9d20d301f963accdc126b5adf3afac67dd42dd82e06329436c037d32f24c2dce2b44ea255063ed556ab5100a79c27dae6b885f02f1",
+                            "Explain": "胸腔积液时，积液的上界呈一弓线，称Damoiseau曲线；该线与脊柱之间可以叩得一轻度浊鼓音的倒三角区，叫Garland三角区；同样，叩诊前胸时在积液区浊音界上方靠近肺门处可叩得一浊鼓音区，为Skoda叩响；此外，健侧的脊柱旁还可叩得一个三角形的浊音区为Grocco三角区。Traube是胃泡鼓音区，与胸腔积液无关。故答案是C。",
+                            "TestPoint": "胸腔积液体征",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "Damoiseau线"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "Garland三角区"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "Traube区"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "Skoda浊鼓音区"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "Grocco三角区"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000026,
+                            "ATestID": 42000026,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 440,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "86bc085470290ec8032c17bc74bbed14052cbbca119e66d418cfd9d95275a65ca296e6e4bd9266557af06d4a0a44c1269084542cd692ce29d246f9524d3c92f21fc26996e24156a2aa2f4775d6e2ab513a80a98694b667e119ba8065595bb59024e3006418210fe3c6f856b48c479199898747380248b0a401cc94b065885ea79d6998c9ab6536c4f07429fa45165edf9077ecbf28ab61af",
+                            "Explain": "病人发冷发热、咳嗽、咳铁锈色痰，可诊断为肺炎链球菌肺炎（大叶性肺炎），大叶性肺炎的典型临床表现为发热、胸痛、铁锈色痰，病变部位叩浊，可闻及管状呼吸音，X线可表现为肺实变。故答案是D。",
+                            "TestPoint": "大叶性肺炎的体征",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "大水泡音",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "中水泡音",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "捻发音",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "支气管呼吸音",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "支气管肺泡呼吸音",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000027,
+                            "ATestID": 42000027,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 440,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。",
+                            "OperateTime": "2017年8月23日"
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "该患者的呼吸困难属于",
+                            "Explain": "突发呼吸困难伴窒息感，呼气延长，双肺哮鸣音，提示可能诊断为支气管哮喘。呼吸困难分为：1.吸气性呼吸困难（急性喉炎、喉水肿、喉痉挛、白喉、喉癌、气管肿瘤、气管异物或气管受压）。2.呼气性呼吸困难（支气管哮喘、喘息型慢性支气管炎、慢性阻塞性肺气肿）。3.混合性呼吸困难（重症肺炎、重症肺结核、大片肺不张、大块肺梗死、弥漫性肺间质纤维化、大量胸腔积液和气胸）。故正确答案为B。",
+                            "TestPoint": "呼吸困难",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "吸气性呼吸困难"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "呼气性呼吸困难"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "混合性呼吸困难"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "阵发性呼吸困难"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性左心功不全"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "e807b047f5563d04118a5ba952d04c987ec82bf8bb5cd6d1e61972a49e38e113ac6ff9dc9233a6828d377acfac5c17c4eb60b17e56b57f63fc7da1788402e4c1194bd965cf4a086a78f7207ed7609437e7f27524e858da7c9b6e60b7a3045c05f0d37b0ce7f017b82a1b9f915b241a861e8083da77c232169e5300355f6a2467",
+                            "AllTestID": 42000028,
+                            "A3TestID": 42000001,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 440,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 42000001,
+                                    "Title": "b8ebb5662d0ea15b77bd6954159eaacf5d4deabf2465bb324e53c0c4138db7c3",
+                                    "Explain": "突发呼吸困难伴窒息感，呼气延长，双肺哮鸣音，提示可能诊断为支气管哮喘。呼吸困难分为：1.吸气性呼吸困难（急性喉炎、喉水肿、喉痉挛、白喉、喉癌、气管肿瘤、气管异物或气管受压）。2.呼气性呼吸困难（支气管哮喘、喘息型慢性支气管炎、慢性阻塞性肺气肿）。3.混合性呼吸困难（重症肺炎、重症肺结核、大片肺不张、大块肺梗死、弥漫性肺间质纤维化、大量胸腔积液和气胸）。故正确答案为B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "吸气性呼吸困难"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "呼气性呼吸困难"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "混合性呼吸困难"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "阵发性呼吸困难"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "急性左心功不全"
+                                        }
+                                    ],
+                                    "TestPoint": "呼吸困难",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 42000002,
+                                    "Title": "b8ebb5662d0ea15b06a1a53f52b7bf1bb6e79f411542f4422f46876c6422c8b3",
+                                    "Explain": "1.病人突发呼吸困难伴窒息感，呼气延长，双肺哮鸣音，提示可能诊断为支气管哮喘。2.自发性气胸：表现为突发胸痛、干咳。3.急性左心衰竭：表现为呼吸困难、肺淤血咳粉红色泡沫痰。4.气管异物：突然发生呛咳、剧烈的阵咳及梗气、出现气喘、声嘶、紫绀和呼吸困难。5.肺气肿：多有慢性咳嗽、咳痰史，在原有的咳嗽、咳痰等症状的基础上出现逐渐加重的呼吸困难。故正确答案为B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "自发性气胸"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "支气管哮喘"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "急性左心衰竭"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "气管异物"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺气肿"
+                                        }
+                                    ],
+                                    "TestPoint": "呼吸系统疾病。",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 42000003,
+                                    "Title": "d0573f0abd6f0fe36ec606d86e646993d40e532c5825bf1d58fbfecc2d1b92e7959cd94b3ec29db0a14751c6f6dc54b275176eed0993b858de1f3a45c5ed5249",
+                                    "Explain": "急性左心衰竭引起肺水肿，表现为咳粉红色泡沫样痰，双肺满布大中水泡音伴哮鸣音。故正确答案为E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "性别"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "年龄"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "突然发病"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "呼吸未达40次／分"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺内无湿啰音"
+                                        }
+                                    ],
+                                    "TestPoint": "急性左心功能不全的特点",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 42000024,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000024,
+                        "ChildTableID": -1,
+                        "UserCount": 1882,
+                        "RightCount": 1223,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000024,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 42000025,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000025,
+                        "ChildTableID": -1,
+                        "UserCount": 1810,
+                        "RightCount": 1210,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000025,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 42000026,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000026,
+                        "ChildTableID": -1,
+                        "UserCount": 1841,
+                        "RightCount": 782,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 65
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000026,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 65
+            },
+            {
+                "AllTestID": 42000027,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 42000027,
+                            "ChildTableID": -1,
+                            "Answer": "E",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000027,
+                        "ChildTableID": -1,
+                        "UserCount": 1899,
+                        "RightCount": 854,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000027,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 42000028,
+                "ChildTableID": 42000001,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000028,
+                        "ChildTableID": 42000001,
+                        "UserCount": 1733,
+                        "RightCount": 1342,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000028,
+                    "ChildTableID": 42000001
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 42000028,
+                "ChildTableID": 42000002,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000028,
+                        "ChildTableID": 42000002,
+                        "UserCount": 1578,
+                        "RightCount": 1300,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000028,
+                    "ChildTableID": 42000002
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 42000028,
+                "ChildTableID": 42000003,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000028,
+                        "ChildTableID": 42000003,
+                        "UserCount": 1547,
+                        "RightCount": 1284,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000028,
+                    "ChildTableID": 42000003
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

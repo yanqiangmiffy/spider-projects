@@ -1,0 +1,2436 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:32:26 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 17,
+                    "TestItems": [
+                        {
+                            "Title": "11acc88e1f1c10bb6e0bef33b6de896a801f523415f5f4dd069877c8e0eb11286dc868b3597beced4102e3e3239c6ae31af54797ec9b43ca63105faaee9c00db",
+                            "Explain": "医疗机构的药剂人员调配处方，必须经过核对，对处方所列药品不得擅自更改或代用。对有配伍禁忌或者超剂量的处方，应当拒绝调配；必要时，经处方医师更正或者重新签字，方可调配。根据上述，A、C、D、E的行为都是正确行为，故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "处方须经过核对，对所有药品不得擅自更改"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "处方所列药品缺货时用同类药品代用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "对有配伍禁忌的处方，应当拒绝调配"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "对有超剂量的处方，应当拒绝调配"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "必要时，经处方医师更正或者重新签字，方可调整"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000911,
+                            "ATestID": 35000911,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "736d15b5e6fe3f192b2481022c5c7910f1a3199fb2f267f5599aaacff19c183846ff1066dcf89924ec4daf333336a58bf76fbaed80ccab9b0e43bf2483c02ae8d02d6ac4188ae0d4d1782f8c9b4b9ebe603a2ea50cffdd4d16cc09dcfd111186d5d4c774eb16d07d365827cd1fadc21ae3d079c4d00fa23dc0eab8b5d37d6dbefb372d25465e55f937dd65b8f2a4ac2f4b29623065dd51c12ef15cf01edbc119bb102bc22e0ed406f1ed8db8c17ba0dc",
+                            "Explain": "为门（急）诊癌症疼痛患者和中、重度慢性疼痛患者开具的麻醉药品、第一类精神药品注射剂，每张处方不得超过3日常用量；控制缓释剂，每张处方不得超过15日用量。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "15"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "5"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "7"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "10"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000915,
+                            "ATestID": 35000915,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "75453484edb8beec25e6e33e318910baec4aee23a807fd8441dfff014b3927f1d7e5767c6d871e29",
+                            "Explain": "医师取得医师资格证书和医师执业证书以后，在医疗机构给予备案签证后取得处方权。故正确答案为E。",
+                            "TestPoint": "处方权",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医师执业注册"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "卫生部"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "卫生局"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "药监局"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "医疗机构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000688,
+                            "ATestID": 43000688,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "75bff31249fc2dab46f73c6af85a68b49479c1b073f366ff6f5c1123d2d7f55506ec4093808aa281",
+                            "Explain": "经注册的执业医师在执业地点取得相应的处方权",
+                            "TestPoint": "医师执业注册制度",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医师执业注册"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "医院考核合格"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "医师资格考试合格"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "卫生行政部门授予"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "医师协会专业培训考核合格"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002983,
+                            "ATestID": 43002983,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8b8351d73c4eb7094bfbb42a37ef5e44f4b2663eb42591e7caeb8a74acfa80a642383aaa22288eb57352f104bf7f0a5fbfb2f91725ba160618dade756388d4897bd73d8dbd5f284dc2437086e01e2e7e",
+                            "Explain": "国务院卫生主管部门负责全国处方的开具、调剂、保管等相关工作",
+                            "TestPoint": "处方管理办法",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "国务院"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "国务院卫生主管部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "国务院药品监督管理部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "国务院疾病预防控制机构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "国务院办公厅"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002984,
+                            "ATestID": 43002984,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "efd054ec5626010933a2990e96153d1c5fee5a977fb9bebd5a7173eecfff376547d84bcd2457289a",
+                            "Explain": "1、处方记载的患者一般项目应清晰、完整，并与病历记载相一致。2、每张处方只限于一名患者的用药3、处方字迹应当清楚，不得涂改。如有修改，必须在修改处签名及注明修改日期。4、处方一律用规范的中文或英文名称书写。医疗、预防、保健机构或医师、药师不得自行编制药品缩写名或用代号。书写药品名称、剂量、规格、用法、用量要准确规范，不得使用“遵医嘱”、“自用”等含糊不清字句。5、年龄必须写实足年龄，婴幼儿写日、月龄。必要时，婴幼儿要注明体重。西药、中成药、中药饮片要分别开具处方。6、西药、中成药处方，每一种药品另起一行。每张处方不得超过五种药品。7、中药饮片处方的书写，可按君、臣、佐、使的顺序排列；药物调剂、煎煮的特殊要求注明在药品之后上方，并加括号，如布包、先煎、后下等；对药物的产地、炮制有特殊要求，应在药之前写出。8、用量。一般应按照药品说明书中的常用剂量使用，特殊情况需超剂量使用时，应注明原因并再次签名。",
+                            "TestPoint": "处方管理办法",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "Content": "西药和中成药开具在一张处方上",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "中药饮片处方的书写，一般应当按照\"君、臣、佐、使\"的顺序排列",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "处方有修改，并且在修改处签名并注明修改日期",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "患者年龄填写的是虚岁",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "西药和中药饮片分别开具处方",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002986,
+                            "ATestID": 43002986,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改",
+                            "OperateTime": "2017年8月29日"
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a1e1987d08d2617fa4a55f047877300515efdff92dfb726b72a036f8ef25391f0f00327553285565115dc7b975c849c79",
+                            "Explain": "1、处方记载的患者一般项目应清晰、完整，并与病历记载相一致。2、每张处方只限于一名患者的用药3、处方字迹应当清楚，不得涂改。如有修改，必须在修改处签名及注明修改日期。4、处方一律用规范的中文或英文名称书写。医疗、预防、保健机构或医师、药师不得自行编制药品缩写名或用代号。书写药品名称、剂量、规格、用法、用量要准确规范，不得使用“遵医嘱”、“自用”等含糊不清字句。5、年龄必须写实足年龄，婴幼儿写日、月龄。必要时，婴幼儿要注明体重。西药、中成药、中药饮片要分别开具处方。6、西药、中成药处方，每一种药品另起一行。每张处方不得超过五种药品。7、中药饮片处方的书写，可按君、臣、佐、使的顺序排列；药物调剂、煎煮的特殊要求注明在药品之后上方，并加括号，如布包、先煎、后下等；对药物的产地、炮制有特殊要求，应在药之前写出。8、用量。一般应按照药品说明书中的常用剂量使用，特殊情况需超剂量使用时，应注明原因并再次签名。",
+                            "TestPoint": "处方管理办法",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "药品剂量与数量用阿拉伯数字书写"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "中药饮片以袋为单位"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "片剂以袋为单位"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胶囊剂以丸为单位"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "颗粒剂以粒为单位"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002987,
+                            "ATestID": 43002987,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a0637762a3a49a650004c915ac4ba7bbbc87dee1eba8562f1a30bc6b7ead6a08818606085cd0f3f0b",
+                            "Explain": "经注册的执业医师在执业地点取得处方权",
+                            "TestPoint": "处方管理办法",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "试用期人员开具的处方一律无效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "进修医师在进修的医疗机构不可能获得处方权"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "执业助理医师开具的处方一律无效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "医师取得麻醉药品处方权后可以为自己开具该类药品处方"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "经注册的执业医师在执业地点取得处方权"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002988,
+                            "ATestID": 43002988,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a4d3eeecbfe2a21eb9256f568e0985dafa89e020821e7ac6e6c68309bfc93e641e4e9de93909f5337416b1f44a0e80bd4",
+                            "Explain": "使用麻醉药品和第一类精神药品的医务人员必须是取得主治医师任职资格，或按规定经麻醉药品和精神药品使用知识的培训、考核，经考核合格，并在医院注册从业的执业医师，才具有麻醉药品和第一类精神药品的处方权（资格）。",
+                            "TestPoint": "处方管理办法",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "执业医师获得麻醉药品处方权之前必须经过麻醉药品使用知识和规范化管理的培训"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "执业医师经考核合格后才能取得麻醉药品的处方权"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "执业医师取得麻醉药品处方权后，方可在本机构开具麻醉药品处方"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "执业医师取得麻醉药品处方权后，不得为自己开具该类药品处方"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "执业医师不需考核，只要注册就可以具有麻醉药品的处方权"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002989,
+                            "ATestID": 43002989,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699abd9b66d0dd72ec185a69fece225086b495313039874a0eb2f0167641b5c24112c9acc23e8dec56ed1584aa04f66adb55bd4a0b5c2d90345e179d7d42b96f9787c90a5c804cd390bb",
+                            "Explain": "医师开具院内制剂处方时应当使用经省级卫生行政部门审核、药品监督管理部门批准的名称。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医疗机构应当根据本机构性质、功能、任务，制定药品处方集"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "医师开具处方应当使用经药品监督管理部门批准并公布的药品通用名称、新活性化合物的专利药品名称和复方制剂药品名称"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "医师可以使用由卫生部公布的药品习惯名称开具处方"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "开具医疗用毒性药品、放射性药品的处方应当严格遵守有关法律、法规和规章的规定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "医师开具院内制剂处方时应当使用经县级以上卫生行政部门审核、药品监督管理部门批准的名称"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002990,
+                            "ATestID": 43002990,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e93a808f09b283e0731931f23b30b7babc6df7894b5382c28a467e5a6e975739d5fe31a0411b4431a189020663d30b3684cf1a7a347601794c6822a3f2a60d9bcdfb4254ba0b6505a96d8523048575915ff09c120d1708e45b9d6991ddb9fba07dfb158e9387121d96ffa2f9e40562cbda17ff8a999ff200c35c0d48a0b46e6886861f09caf5b92db0cffac071fde7fa2a666a0e8799bdb7009c92901dbc966031af8de3f5176216d046f4218d1bbb9c013baa6ba31d71aafb3c4f6b350c48438db26e41443e453a828f47c4635cc627aa01c1a791b9bf37",
+                            "Explain": "医疗机构应当按照经药品监督管理部门批准并公布的药品通用名称购进药品。同一通用名称药品的品种，注射剂型和口服剂型各不得超过2种，处方组成类同的复方制剂1～2种。因特殊诊疗需要使用其他剂型和剂量规格药品的情况除外。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "2种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "3种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "4种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "5种"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002991,
+                            "ATestID": 43002991,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "96be65fcdfaeba324f26fd37af6d71ebc74514b49263b9279d730af17ea012b063fc8ac9d0021c446732f2284e950cb0783bdda86f67610c1e2d815daf5fbccf133dbd8cdf23ece1d7011771a579fdd869d0e51f1c1dbf3f207f74b64ea5dd7046ffda20a90753a6b1fea2b5da94fe54651a1b79d4b90a969c1c5b9a314355ce3da025c7cb045e79e9843548e2e50c9a",
+                            "Explain": "处方开具当日有效。特殊情况下需延长有效期的，由开具处方的医师注明有效期限，但有效期最长不得超过3天。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1天"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "2天"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "3天"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "4天"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "5天"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002992,
+                            "ATestID": 43002992,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "27d1f02cead7061e21dc5c83c2526a2179b48766aa44f32a6dbf9e2227737c41f3008d657213c845237ffbac888a674b",
+                            "Explain": "处方一般不得超过7日用量；急诊处方一般不得超过3日用量；对于某些慢性病、老年病或特殊情况，处方用量可适当延长，但医师应当注明理由。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1日"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "3日"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "5日"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "7日"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "10日"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002993,
+                            "ATestID": 43002993,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "156f9db6cbb34864deec86e40226bec7b0b2caefc3dc1f759ccbbdd79f60d4a6e513972a7d7a5c56a9d466342ebedc7c",
+                            "Explain": "（一）患者一般情况、临床诊断填写清晰、完整，并与病历记载相一致。（二）每张处方限于一名患者的用药。（三）字迹清楚，不得涂改；如需修改，应当在修改处签名并注明修改日期。（四）药品名称应当使用规范的中文名称书写，没有中文名称的可以使用规范的英文名称书写；医疗机构或者医师、药师不得自行编制药品缩写名称或者使用代号；书写药品名称、剂量、规格、用法、用量要准确规范，药品用法可用规范的中文、英文、拉丁文或者缩写体书写，但不得使用“遵医嘱”、“自用”等含糊不清字句。（五）患者年龄应当填写实足年龄，新生儿、婴幼儿写日、月龄，必要时要注明体重。（六）西药和中成药可以分别开具处方，也可以开具一张处方，中药饮片应当单独开具处方。（七）开具西药、中成药处方，每一种药品应当另起一行，每张处方不得超过5种药品。（八）中药饮片处方的书写，一般应当按照“君、臣、佐、使”的顺序排列；调剂、煎煮的特殊要求注明在药品右上方，并加括号，如布包、先煎、后下等；对饮片的产地、炮制有特殊要求的，应当在药品名称之前写明。（九）药品用法用量应当按照药品说明书规定的常规用法用量使用，特殊情况需要超剂量使用时，应当注明原因并再次签名。（十）除特殊情况外，应当注明临床诊断。（十一）开具处方后的空白处划一斜线以示处方完毕。（十二）处方医师的签名式样和专用签章应当与院内药学部门留样备查的式样相一致，不得任意改动，否则应当重新登记留样备案。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医师利用计算机开具、传递普通处方时，应当同时打印出纸质处方，其格式与手写处方一致"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "急诊处方一般不超过5日用量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "为住院患者开具的麻醉药品处方最长不超过3日"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "为门(急)诊癌症疼痛患者和中、重度慢性疼痛患者开具的麻醉药品、第一类精神药品注射剂，每张处方不得超过5日常用量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "第二类精神药品一般每张处方不得超过15日常用量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002994,
+                            "ATestID": 43002994,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bbfe8e3cf52a633ae851a571d0beb253b21d57045041bfdabdb69716f91c43e54d31ec5cec42821eccc836b31fff1a354660149a1a31b11ee8f406380748cd7b1cf26123bca09d55a82089e1405c33f8ba67300e2f7d703f677ea424ce7fb7784f402e7c81edc42f7ba59586095f919ecaaccfc058a203dd04750824007c940293784c36733afb4ac9",
+                            "Explain": "医疗机构限制处方权后，对仍连续2次以上出现超常处方且无正当理由的医师，进行的处罚是取消其处方权。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "Content": "1次",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "2次",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "3次",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "4次",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "5次",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002995,
+                            "ATestID": 43002995,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改",
+                            "OperateTime": "2017年8月29日"
+                        },
+                        {
+                            "Title": "222375300d10e5ffc1d8647770729e9f613ab54dd4425db657b7145710119eed9f1e3386e25a2e35",
+                            "Explain": "《处方管理办法》第45条规定，医疗机构应当对出现超常处方〉3次且无正当理由的医师提出警告，限制其处方权。①限制处方权：主要是对某些药物限制其开具处方用药，如在一定时间内不准其开具三线药或二线药，或麻醉药品和精神药品处方。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "被责令暂停执业"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "考核不合格离岗培训"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "被吊销执业证书"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "出现超常处方3次以上且无正当理由的医师"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "因开具处方牟取私利"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002996,
+                            "ATestID": 43002996,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e070b722e8e0b63ea3cc73d58ebc92ae616929ac25e707843e873cf65d3db66f11289360d37e8be9",
+                            "Explain": "《处方管理办法》规定，经注册的执业医师在执业地点取得相应的处方权。经注册的执业助理医师在乡、民族乡、镇的医疗、预防、保健机构执业，在注册的执业地点取得相应的处方权，也就是说医师在非执业地点不具有处方权。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "被医疗机构聘用后取得"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "在注册的执业地点取得"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "在上级医院进修后取得"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "医师资格考试合格后取得"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "参加卫生行政部门培训后取得"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015951,
+                            "ATestID": 43015951,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "156f9db6cbb34864b32e07f374ad3e8cf13b36ef51e266787960627ac801492b8986d7523a3d83d1",
+                            "Explain": "处方管理办法第六条规定了处方书写的十二条规则，其中规定，西药和中成药可以分别开具处方，也可以开具一张处方，但中药饮片应当单独开具处方，所以A正确，E错误；中药饮片处方的书写，一般应当按照\"君、臣、佐、使\"的顺序排列，所以B错；处方一般不得涂改，但确有需要，也可以修改，但是应当在修改处签名并注明修改日期，所以C错；D错在患者年龄填写的应当是实足年龄。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "西药和中成药可以开具一张处方"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "中药饮片处方的书写，一般应当按照\"臣、君、佐、使\"的顺序排列"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "处方不得有任何涂改"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "患者年龄填写的是虚岁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "西药和中药饮片可以开具一张处方"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000785,
+                            "ATestID": 41000785,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ac9eef7c7d8a4a184960cf958e72f26f201b3a8c7edddc5bb85d562a9438b778f51d7370cc1333c63703980dddab11fd44f5fa2dde37da8176d43796743cdd4c28777ea8dc7e4d8ff24841a347e8cecc053a6b45c5ee2946c971083986c4de980fdaa91df16fb36134f53bfffb407f8474b577303385862165ec9e19443d780bc098816c1355932bc69fe8c6d43141c139892c31193bcfc699471f01ae8654cf815c03951c0393db128bae53916e0ef4",
+                            "Explain": "处方管理办法第五十七条规定，医师被取消处方权后开具药品处方的，按照《执业医师法》第三十七条的规定，由县级以上卫生行政部门给予警告或者责令暂停六个月以上一年以下执业活动；情节严重的，吊销其执业证书。本案属于情节严重的情形，所以选择E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "给予警告"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "责令暂停执业活动8个月"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "罚款"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "责令暂停执业活动1年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "吊销其执业证书"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000787,
+                            "ATestID": 41000787,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "7ea58b6073bcf78d6b7077268ecf93b89342a9f97a31852700d21043fb7a567678bb5cdec0b9c34a0a3ab96fa44a0d75add1b6e6edc43af03929730b815aef547e66312a042b487412d116ebd9a0877e0f5d1c9c8a284690cf61652601ba676b47f257ee040dbababdb9ab05b00c639b08ac7e25d9f96022dc854639fd22aeda6a3db7783ab2a32ba2890bff2f6b4f680cdeda47f690712b",
+                            "Explain": "（一）患者一般情况、临床诊断填写清晰、完整，并与病历记载相一致。（二）每张处方限于一名患者的用药。（三）字迹清楚，不得涂改；如需修改，应当在修改处签名并注明修改日期。（四）药品名称应当使用规范的中文名称书写，没有中文名称的可以使用规范的英文名称书写；医疗机构或者医师、药师不得自行编制药品缩写名称或者使用代号；书写药品名称、剂量、规格、用法、用量要准确规范，药品用法可用规范的中文、英文、拉丁文或者缩写体书写，但不得使用“遵医嘱”、“自用”等含糊不清字句。（五）患者年龄应当填写实足年龄，新生儿、婴幼儿写日、月龄，必要时要注明体重。（六）西药和中成药可以分别开具处方，也可以开具一张处方，中药饮片应当单独开具处方。（七）开具西药、中成药处方，每一种药品应当另起一行，每张处方不得超过5种药品。（八）中药饮片处方的书写，一般应当按照“君、臣、佐、使”的顺序排列；调剂、煎煮的特殊要求注明在药品右上方，并加括号，如布包、先煎、后下等；对饮片的产地、炮制有特殊要求的，应当在药品名称之前写明。（九）药品用法用量应当按照药品说明书规定的常规用法用量使用，特殊情况需要超剂量使用时，应当注明原因并再次签名。（十）除特殊情况外，应当注明临床诊断。（十一）开具处方后的空白处划一斜线以示处方完毕。（十二）处方医师的签名式样和专用签章应当与院内药学部门留样备查的式样相一致，不得任意改动，否则应当重新登记留样备案。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "在一张处方上开具了两名患者的用药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "处方上药品用法上写的是\"自用\""
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "将中药饮片和中成药开具在一张处方上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "在一张处方上开具了六种中成药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "患者年龄填写的是实足年龄"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002997,
+                            "ATestID": 43002997,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2e017a44d5800651a19d9ce5b6c336e4727d386d5736370dce1b74c7cde59357a8758cf86774ab85bd4ce00cbc7c89ab50257a568d7ae66fe6fd967761604d6a552de2f89971cb4cf9d28c9875e9a36328cc7408db842560a44779b2e83d5810482e5203835ee731a3f47d878f3d379ef5570e43efbd6f730d63de715a4cca7a41a7598185a73a4f7d9e3d091a5de31b8c0493cd104b939151b2f685a3b5c5ec",
+                            "Explain": "试用期人员开具处方,应当经所在医疗机构有处方权的执业医师审核、并签名或加盖专用签章后方有效。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "李某在试用期不可能获得处方权"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "李某开具的处方经所在执业地点执业医师签名或加盖专用签章后方有效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "李某开具的处方有效，不需其他条件"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "李某开具的处方应当经所在医疗机构有处方权的执业医师审核、并签名或加盖专用签章后方有效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "李某开具的处方经所在执业地点执业医师签名后方有效"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002998,
+                            "ATestID": 43002998,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e900295176f152cea16d86dbca0eec5c122fcbc5e1045e5577419dce83dfc946418d140ed367860c1e93984b219c7e5ac4f34fdc409203012dffeb13e20bc71fe58d469d562f79b00da984f028dde7d6f0fdb42c5e2042ba785508c093eef5e9c9d264932be2788232c7c496b3dec052015fa2ca9d950a935b94b054489c4212d1a4842aecbdab134ae9e2a487ac9dae013485d06c4a3b5cc4877b77beb4f5be7805364cfa167d723291fde01a85be5aaea64cdae5b301e6442b3b1ba90f2f2c",
+                            "Explain": "《处方管理办法》第45条规定，医疗机构应当对出现超常处方〉3次且无正当理由的医师提出警告，限制其处方权。①限制处方权：主要是对某些药物限制其开具处方用药，如在一定时间内不准其开具三线药或二线药，或麻醉药品和精神药品处方。",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "罚款"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "罚款，限制其处方权"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "警告"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "警告，限制其处方权"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "吊销执业医师资格证书"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002999,
+                            "ATestID": 43002999,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5ec02252bef9a05eaaae84175e12e4b6a36d4634e590a0eb7f2cabf0a4734857b17e3beae94d472bc3bdd4cba7d1f86d2c3ae7a543186d50387f5ce21adbdec9e6d38fb1866e99e69762b9af66405790472596b1c730af56387ff760d8a0f19a11d810c34c204d05caa12586e2695834198e8deef8ca279a672704b7742fc8110f8898dd48abef32ac85a3cf15049eaf0b5fc6bd9f5c995ae6e27c53eabbe9ba275b3d70de429ac884ed87dc2a795ecf1404db18fb2330a47a804f704a33703b0d28ba8d1ce04f2738741961d4c1435d8184e1159c7c8086957a8e1a5e4b21ad",
+                            "Explain": "不按照《处方管理办法》的规定为患者开具处方药品，结果患者造成损害的处罚是吊销执业证书",
+                            "TestPoint": "《处方管理办法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "给予警告"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "责令暂停执业活动8个月"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "罚款"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "责令暂停执业活动1年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "吊销执业证书"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003000,
+                            "ATestID": 43003000,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "df60dcd580a5ec87b62412f47dfe2f069bbd23e7917ca40b97080222736a51b06b2d1f61a41e28b42a7e2511455917cb195ea4f0b1afae80f8ad5f4ddb0b8d161020ca6aaaa22a94a9430e1c681a18a2be67871350248663d77f3fdf85c37221775d5ed0ee80242d7722aa766f77d4f1a2ef4f70050ec61f41b026019d9afb96fe1d859c5f16cd4bb56b912323a329f42bc2cfeace2bfae0e2727b2ed7e88f91bb1fc4e147cd81081c3f297801938b98",
+                            "Explain": "医师出现下列情形之一的，按照《执业医师法》第三十七条的规定，由县级以上卫生行政部门给予警告或者责令暂停六个月以上一年以下执业活动；情节严重的，吊销其执业证书：（1）未取得处方权或者被取消处方权后开具药品处方的；（2）未按照本办法规定开具药品处方的；（3）违反本办法其他规定的。",
+                            "TestPoint": "《执业医师法》",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "给予警告"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "责令暂停执业活动3个月"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "罚款"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "责令暂停执业活动2年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "吊销执业证书"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003001,
+                            "ATestID": 43003001,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "此时应当由谁亲自诊查患者并建立相应的病历",
+                            "Explain": "首诊医师亲自诊查患者并建立相应的病历长期使用麻醉药品",
+                            "TestPoint": "《中华人民共和国药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "主治医师"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "主任医师"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "治疗医师"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "住院医师"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "首诊医师"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "ecf7cdfa58bc3f1715cc36d8a217e71795967ddaf43659f73455610167b7447027cc21f76c95f108d60908c0e7cdc2325433bf8eeb5a360b1239747a1efffff98727f3f6a69a20acd1962fdd5e98c7514a3b210f2bd04dbc938772283fb9e12e94a45c7eb560047459d1ab9424e0cdea94efee4437349fbd",
+                            "AllTestID": 43003002,
+                            "A3TestID": 43000280,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000280,
+                                    "Title": "123f620531392e6d7be6adebf82f1613c3734ad41e2c7f1984080ac4ff9cd08a03b5de6a11da43770b2c1e68314fd3ad9ab8371cb33f0d48a88bd2dbfe935219",
+                                    "Explain": "首诊医师亲自诊查患者并建立相应的病历长期使用麻醉药品",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "主治医师"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "主任医师"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "治疗医师"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "住院医师"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "首诊医师"
+                                        }
+                                    ],
+                                    "TestPoint": "《中华人民共和国药品管理法》",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000281,
+                                    "Title": "83e89ec6cd1a49516be81ce2386eac2dad161cb8e533a795a18f855a41a64a951d55b6c6a9a1eac6d4700b882c796c10e81aef236dec710327adf96a5297af94d6ddd99779650581d07f41abe8a5f919c48450d8cf0a3fcb662410a0d2ffa5b13a6d6b3d898b6c0c5258653be1a363a75336ae846b05314400451c7bbba4feaa317f93114dc1a23a",
+                                    "Explain": "1、二级以上医院开具的诊断证明；2、患者户籍簿、身份证或者其他相关有效身份证明文件；3、为患者代办人员身份证明文件",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "一级以上医院"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "二级以上医院"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "三级以上医院"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "接诊的医院"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "以上都不是"
+                                        }
+                                    ],
+                                    "TestPoint": "《中华人民共和国药品管理法》",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000282,
+                                    "Title": "e99c5a96b6dd2829bb2dac325a416818534a79da33e2f3d9378fc0123dfdd33a1ec2a644266bae6e0b311d3c29e55311f70f14799220c7ff21e843001b134774956091e6086ce757",
+                                    "Explain": "长期使用麻醉药品的患者需要3个月复诊一次",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "1个月"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "2个月"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "3个月"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "4个月"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "6个月"
+                                        }
+                                    ],
+                                    "TestPoint": "《中华人民共和国药品管理法》",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "ff1131a5970fc8e898b48d0926a971d7274f19da1d8be28f6a8af40c8ab12aba2d5c09b9ea118283",
+                            "Explain": "1.精神类药品处方保存时间为2年。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1年"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "2年"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "7天"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "14天"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "30天"
+                                }
+                            ],
+                            "AllTestID": 43000689,
+                            "BTestID": 43000216,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000216,
+                                    "Title": "ff1131a5970fc8e898b48d0926a971d7274f19da1d8be28f6a8af40c8ab12aba2d5c09b9ea118283",
+                                    "Explain": "1.精神类药品处方保存时间为2年。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000217,
+                                    "Title": "f8e7065a04d84c9a1ce74db8ea88b38fd7ed13b10f6f7d7dde594d95fcd363e032c64488601b1b93",
+                                    "Explain": "2.处方一般不得超过7日用量；急诊处方一般不得超过3日用量。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "5979344e21591e0338460628bc2691b47b32b77c9bfa8d752023e0f1250686445da4b0067163bfdef8070849d2f51cfbc5ff863118370603b12f9c09c13696b65ae206a6742931bbbe2d374c7937c6e2f4c0844ef4cbcca1e5e3475566b0bbfea2d956bcddf0e31a",
+                            "Explain": "(急)诊癌症疼痛和中、重度慢性疼痛患者：麻醉药品和第一类精神药品注射剂，每张处方不超过3日常用量;控缓释制剂为不得超过15日常用量;其他剂型不得超过7日常用量，故选C。",
+                            "TestPoint": "处方管理办法",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1日"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "2日"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "3日"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "5日"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "7日"
+                                }
+                            ],
+                            "AllTestID": 43003003,
+                            "BTestID": 43000771,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000771,
+                                    "Title": "5979344e21591e0338460628bc2691b47b32b77c9bfa8d752023e0f1250686445da4b0067163bfdef8070849d2f51cfbc5ff863118370603b12f9c09c13696b65ae206a6742931bbbe2d374c7937c6e2f4c0844ef4cbcca1e5e3475566b0bbfea2d956bcddf0e31a",
+                                    "Explain": "(急)诊癌症疼痛和中、重度慢性疼痛患者：麻醉药品和第一类精神药品注射剂，每张处方不超过3日常用量;控缓释制剂为不得超过15日常用量;其他剂型不得超过7日常用量，故选C。",
+                                    "TestPoint": "处方管理办法",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000772,
+                                    "Title": "a9d94cab8dc8c86b3687460fb2fe5a271846a230371843aa4d2b3a73b1526dc7b6fb8c33dd8a0de7f5fa63ddc41041a87c22c25042be3c1ea0e59a77ddf95a53b41be45e62b2cc5e",
+                                    "Explain": "门(急)诊一般患者：麻醉药品注射剂每张处方为一次常用量;控缓释制剂为不得超过7日量;其他剂型不得超过3日量。第一类精神药品：同麻醉药品(哌醋甲酯用于治疗儿童多动症不得超过15日常用量)。第二类精神药品：一般不超过7日常用量，延长需要注明理由。故U型安E。",
+                                    "TestPoint": "处方管理办法",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000773,
+                                    "Title": "01486b430c65d515e2d68d55076a9840b52f1f52b19d07909204e2fea734600ad06f71e0971ce19abeda231074c65940dc81f048432c2485965b396f53793c07",
+                                    "Explain": "住院患者：麻醉药品和第一类精神药品处方逐日开具，为1日常用量，故选A。",
+                                    "TestPoint": "处方管理办法",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "cffa6d1a337e104e9d3066c0c85ffc2b74e3e5307094381d87f09a7c3cbb48606ca06777fed1bcb683ebf00905d4436ef8a905e49110ff084666fef113071dd2041697203e265ebeef6071a2dc6b0d6224f76b2868593dbc",
+                            "Explain": "《处方管理办法》第五十条规定：“处方由调剂处方药品的医疗机构妥善保存。普通处方、急诊处方、儿科处方保存期限为1年，医疗用毒性药品、第二类精神药品处方保存期限为2年，麻醉药品和第一类精神药品处方保存期限为3年。”故选C。",
+                            "TestPoint": "处方管理办法",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1年"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "2年"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "3年"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "4年"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "5年"
+                                }
+                            ],
+                            "AllTestID": 43003004,
+                            "BTestID": 43000774,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 262,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000774,
+                                    "Title": "cffa6d1a337e104e9d3066c0c85ffc2b74e3e5307094381d87f09a7c3cbb48606ca06777fed1bcb683ebf00905d4436ef8a905e49110ff084666fef113071dd2041697203e265ebeef6071a2dc6b0d6224f76b2868593dbc",
+                                    "Explain": "《处方管理办法》第五十条规定：“处方由调剂处方药品的医疗机构妥善保存。普通处方、急诊处方、儿科处方保存期限为1年，医疗用毒性药品、第二类精神药品处方保存期限为2年，麻醉药品和第一类精神药品处方保存期限为3年。”故选C。",
+                                    "TestPoint": "处方管理办法",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000775,
+                                    "Title": "cffa6d1a337e104e9d3066c0c85ffc2b74e3e5307094381d87f09a7c3cbb48606ca06777fed1bcb6d8b87293eee9e14f86fe2a281b30b095c1162981f22c226f61fe29029544284eae15b1fab2d4cce1314afd9866c99f71",
+                                    "Explain": "《处方管理办法》第五十条规定：“处方由调剂处方药品的医疗机构妥善保存。普通处方、急诊处方、儿科处方保存期限为1年，医疗用毒性药品、第二类精神药品处方保存期限为2年，麻醉药品和第一类精神药品处方保存期限为3年。”故选B。",
+                                    "TestPoint": "处方管理办法",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000776,
+                                    "Title": "cffa6d1a337e104e9d3066c0c85ffc2b74e3e5307094381d87f09a7c3cbb48606ca06777fed1bcb6ead7f69e8f591570637aabd7e576bd307be991fd3ba1f025d51c3103ac444cd1ff7e95b057a24ec2",
+                                    "Explain": "《处方管理办法》第五十条规定：“处方由调剂处方药品的医疗机构妥善保存。普通处方、急诊处方、儿科处方保存期限为1年，医疗用毒性药品、第二类精神药品处方保存期限为2年，麻醉药品和第一类精神药品处方保存期限为3年。”故选A。",
+                                    "TestPoint": "处方管理办法",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000911,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000911,
+                        "ChildTableID": -1,
+                        "UserCount": 921,
+                        "RightCount": 811,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000911,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 35000915,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000915,
+                        "ChildTableID": -1,
+                        "UserCount": 1126,
+                        "RightCount": 408,
+                        "FavCount": 35,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000915,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000688,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000688,
+                        "ChildTableID": -1,
+                        "UserCount": 1099,
+                        "RightCount": 510,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000688,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002983,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002983,
+                        "ChildTableID": -1,
+                        "UserCount": 1050,
+                        "RightCount": 616,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002983,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002984,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002984,
+                        "ChildTableID": -1,
+                        "UserCount": 923,
+                        "RightCount": 706,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002984,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002986,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002986,
+                        "ChildTableID": -1,
+                        "UserCount": 959,
+                        "RightCount": 580,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002986,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002987,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002987,
+                        "ChildTableID": -1,
+                        "UserCount": 871,
+                        "RightCount": 643,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002987,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002988,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002988,
+                        "ChildTableID": -1,
+                        "UserCount": 844,
+                        "RightCount": 703,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002988,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002989,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002989,
+                        "ChildTableID": -1,
+                        "UserCount": 827,
+                        "RightCount": 707,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002989,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002990,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002990,
+                        "ChildTableID": -1,
+                        "UserCount": 912,
+                        "RightCount": 429,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002990,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002991,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002991,
+                        "ChildTableID": -1,
+                        "UserCount": 934,
+                        "RightCount": 467,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002991,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002992,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002992,
+                        "ChildTableID": -1,
+                        "UserCount": 848,
+                        "RightCount": 668,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002992,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002993,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002993,
+                        "ChildTableID": -1,
+                        "UserCount": 896,
+                        "RightCount": 638,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002993,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002994,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002994,
+                        "ChildTableID": -1,
+                        "UserCount": 903,
+                        "RightCount": 575,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002994,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002995,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43002995,
+                            "ChildTableID": -1,
+                            "Answer": "C",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002995,
+                        "ChildTableID": -1,
+                        "UserCount": 990,
+                        "RightCount": 420,
+                        "FavCount": 15,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002995,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002996,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002996,
+                        "ChildTableID": -1,
+                        "UserCount": 840,
+                        "RightCount": 679,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002996,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015951,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015951,
+                        "ChildTableID": -1,
+                        "UserCount": 787,
+                        "RightCount": 638,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015951,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41000785,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000785,
+                        "ChildTableID": -1,
+                        "UserCount": 946,
+                        "RightCount": 564,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000785,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41000787,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000787,
+                        "ChildTableID": -1,
+                        "UserCount": 888,
+                        "RightCount": 631,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000787,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002997,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002997,
+                        "ChildTableID": -1,
+                        "UserCount": 819,
+                        "RightCount": 718,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002997,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002998,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002998,
+                        "ChildTableID": -1,
+                        "UserCount": 870,
+                        "RightCount": 577,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002998,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002999,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002999,
+                        "ChildTableID": -1,
+                        "UserCount": 867,
+                        "RightCount": 624,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002999,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003000,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003000,
+                        "ChildTableID": -1,
+                        "UserCount": 859,
+                        "RightCount": 634,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003000,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003001,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003001,
+                        "ChildTableID": -1,
+                        "UserCount": 908,
+                        "RightCount": 465,
+                        "FavCount": 20,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003001,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003002,
+                "ChildTableID": 43000280,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003002,
+                        "ChildTableID": 43000280,
+                        "UserCount": 915,
+                        "RightCount": 502,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003002,
+                    "ChildTableID": 43000280
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003002,
+                "ChildTableID": 43000281,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003002,
+                        "ChildTableID": 43000281,
+                        "UserCount": 916,
+                        "RightCount": 465,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003002,
+                    "ChildTableID": 43000281
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003002,
+                "ChildTableID": 43000282,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003002,
+                        "ChildTableID": 43000282,
+                        "UserCount": 929,
+                        "RightCount": 506,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003002,
+                    "ChildTableID": 43000282
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000689,
+                "ChildTableID": 43000216,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000689,
+                        "ChildTableID": 43000216,
+                        "UserCount": 806,
+                        "RightCount": 700,
+                        "FavCount": 8,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000689,
+                    "ChildTableID": 43000216
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43000689,
+                "ChildTableID": 43000217,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000689,
+                        "ChildTableID": 43000217,
+                        "UserCount": 789,
+                        "RightCount": 730,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000689,
+                    "ChildTableID": 43000217
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003003,
+                "ChildTableID": 43000771,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003003,
+                        "ChildTableID": 43000771,
+                        "UserCount": 866,
+                        "RightCount": 574,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003003,
+                    "ChildTableID": 43000771
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003003,
+                "ChildTableID": 43000772,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003003,
+                        "ChildTableID": 43000772,
+                        "UserCount": 871,
+                        "RightCount": 509,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003003,
+                    "ChildTableID": 43000772
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003003,
+                "ChildTableID": 43000773,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003003,
+                        "ChildTableID": 43000773,
+                        "UserCount": 931,
+                        "RightCount": 492,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003003,
+                    "ChildTableID": 43000773
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43003004,
+                "ChildTableID": 43000774,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003004,
+                        "ChildTableID": 43000774,
+                        "UserCount": 883,
+                        "RightCount": 554,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003004,
+                    "ChildTableID": 43000774
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003004,
+                "ChildTableID": 43000775,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003004,
+                        "ChildTableID": 43000775,
+                        "UserCount": 794,
+                        "RightCount": 706,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003004,
+                    "ChildTableID": 43000775
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003004,
+                "ChildTableID": 43000776,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003004,
+                        "ChildTableID": 43000776,
+                        "UserCount": 883,
+                        "RightCount": 627,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003004,
+                    "ChildTableID": 43000776
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

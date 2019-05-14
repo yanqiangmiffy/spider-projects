@@ -1,0 +1,2210 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 10:12:07 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 26,
+                    "TestItems": [
+                        {
+                            "Title": "eb2a0ffb88b7302f0a79f45cdc229875f9950423c842edc271c261a4d5e824b6e8a655ad4656b43707048408d241c52e",
+                            "Explain": "结核病是一种特殊性炎症，其病变特征是形成结核性肉芽肿。镜下典型结核结节中央常有干酪样坏死，其中含有结核杆菌，周围有类上皮细胞、朗格汉斯巨细胞以及外周浸润的淋巴细胞和少量增生的成纤维细胞。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "有各种炎性介质"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "有细胞因子释放"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "存在肉芽肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血管通透性增强"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血浆成分渗出"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000503,
+                            "ATestID": 35000503,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "43ac24506e974bdb0eec4bb6fdc637bcbb6e2e9f5b19f8ab8008c155b920c0b71e4534b4830dc9332f607e232a91c52f",
+                            "Explain": "渗出性炎是指炎症局部组织血管内的液体和细胞成分通过血管壁进入间质、体腔；增生性炎是指炎症局部的巨噬细胞、内皮细胞和成纤维细胞发生增生；肉芽肿性炎则属于慢性炎症.有肉芽组织的形成。故不选A、C、D、E。变质性炎是指炎症局部组织发生变性坏死；乙型脑炎是由乙型脑炎病毒感染，主要病理特征是血管扩张充血，神经细胞变性坏死，灶性神经组织坏死、液化，故属于变质性炎症。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "渗出性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "变质性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "增生性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "出血性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肉芽肿性炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000510,
+                            "ATestID": 35000510,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903d71bad7ba2b6819e59df374ddeed162436a32d746d4e1918ea800d9560aa7efa1e8ff4255735d4d51c609a5616b41c13b6424787360daf23806110f535e8e08df0408504b323fc404f231160c2748fff6296ac8948cd92db44b7c3113a6852a6f2f25da7ebab201a89308e391ab57052c2b8efa54f040f43ff05d18e442a24340ce1a2113c83620472b775d938c09270a3295fac186d31f677a175a8af4d512d8ac3bbba2cbd35918dbb9f2e2a0daa39fe4ee89fa317cae954a0f360957b226ccf493cac70ce94d8995a3505d4ed3ca59db0d369c48cc14625d6b8a18f0698929eb92d10ddf1fac5e971bde8c1d7a19531ae715ce581869c12dc62f7cc2bef8a95dc307a3232efdfaaf0c41b9bd114ec6f00a01ed663e806d9bb28d08c6e74c642af75112c37229316868ebb041680333adc295dc79dc2f581c4462b1471e084c90e903f6b0892ccf20e25250bb124bdb2b835f031bde6f8ad66807379613bf5bd7cb63783abf6c3c091f10ced0ee95b957f6167444c53c3dc3a1693f40e3542169efd6c28f72914d740441a42c6cd08",
+                            "Explain": "根据症状诊断为伤寒。伤寒肠道病变分四期，分别是髓样肿胀期、坏死期、溃疡期、愈合期（肉芽组织增生）。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "坏死"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "髓样肿胀"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "中性粒细胞浸润"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "溃疡"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "增生"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000512,
+                            "ATestID": 35000512,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a4bea71223a850d1c08c3582f1ece978e348680ec5a5020cf78145e5728bf893ba09794ce33c0385fe34899a58ff4b4bb30a8e241dcbbba1d08d069f80197842a298bd473380e5237",
+                            "Explain": "乙型脑炎的病理改变是胶质细胞增生，无脓性渗出物。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "神经细胞变性、坏死"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "血管套形成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "软化灶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "坏死灶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "蛛网膜下腔有脓性渗出物"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000463,
+                            "ATestID": 43000463,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "43ac24506e974bdb2cc8c8d84395058c4534d9315c4428cec6edd7212409b7b5f2e7da1a76699f4b80cf6399756290f1e9095a79263f5575",
+                            "Explain": "流行性脑脊髓膜炎时的脓液主要聚集于蛛网膜与软脑膜之间的腔隙。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "软脑膜与脑皮质之间的腔隙"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "蛛网膜与软脑膜之间的腔隙"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "蛛网膜与硬脑膜之间的腔隙"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "蛛网膜本身的疏松纤维组织间"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "软脑膜本身的疏松纤维组织间"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000464,
+                            "ATestID": 43000464,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "222375300d10e5ff40f324ce7f4f7755f35544517d22cb19853d4ffadd9a53eac3136b3334baae8a",
+                            "Explain": "细菌性痢疾是假膜性炎。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肠伤寒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "急性细菌性痢疾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "阿米巴痢疾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肠结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "溃疡性结肠炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000466,
+                            "ATestID": 43000466,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea818586d64d0b77e5c279a2ef907a4f8a20315d4d4b3c2b278e12d3c9fafdfb19438b9b7c039f63b8c6116bff3d2e20f4e797",
+                            "Explain": "继发性肺结核的特点是从肺尖开始。呈\"头-尾\"方式蔓延，支气管是主要的蔓延途径，多见于成人，病程长。渗出、增生和坏死并存。沿淋巴道蔓延是原发性肺结核的特点，因此，肺门淋巴结显著肿大不属于继发性肺结核的特征。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "病变多从肺尖开始"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "主要沿支气管播散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "病程较长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "渗出、增生、坏死病变并存"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺门淋巴结显著肿大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000468,
+                            "ATestID": 43000468,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "eb2a0ffb88b7302faf6eae6ce96fe98893583894288490bc744f777e02ad47f8",
+                            "Explain": "结核病的基本病变属于特殊性炎。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性增生性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "特殊性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "化脓性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "变质性炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "浸润型炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000469,
+                            "ATestID": 43000469,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3e5255023c8ba67d758093c50c3e20b7f043fe1f42d0899f3aa761cfb903ae750ed91f9983eaf6ab",
+                            "Explain": "典型结核结节中央常有干酪样坏死，其中含有结核杆菌，周围有类上皮细胞、Langhans巨细胞以及外周浸润的淋巴细胞和少量增生的成纤维细胞。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "中性粒细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "淋巴细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "异物巨细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "浆细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "上皮样细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015330,
+                            "ATestID": 43015330,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "eb2a0ffb88b7302f46d60658e8bafee74ab93e2843984451fddb97d2e77c53a4040f12ee2f52aed44f55ed3d031de30a2503a6c0bf26579d59258b563cb09e96",
+                            "Explain": "此题问的是细胞免疫，故而选A.；巨噬细胞为结核灶中最常见的细胞，但不起主要的免疫反应。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "T细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "B细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "NK细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "巨噬细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血小板"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015332,
+                            "ATestID": 43015332,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9a679ac14c29c499d23ddd772771d9d36decc6886b398a44bffa5f6fc1b24241bb68bf8c9af33635a1f88400bfeb853ea5bc8408436ddeb1d8a89c007f3b806d0b4afc8ae9d3899c85bbb1a4814a8609a0c5e1e8d6d03355638a1e1266d01359cd16da814e71db01c3d10417029b13e39149e2e2ba390a537fac885928cb08ed8b946ac5fb4a68d4c29bdfb030170f84",
+                            "Explain": "结核结节细胞组成是上皮样细胞，朗格汉斯巨细胞，淋巴细胞，中央有干酪样坏死。",
+                            "TestPoint": "结核病",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "组织细胞增生症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸膜结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "纤维素性胸膜炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸膜间皮瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015333,
+                            "ATestID": 43015333,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b4333e12c515832b25534976de5bcce47eff17a973927d97c2a11549929bde4cd261c1fe4068986d1fa63ba7394cc17f",
+                            "Explain": "结核病常表现为冷脓肿，故无红肿热痛。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "结节"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肉芽肿"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "干酪样坏死"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "冷脓肿"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "红肿热痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015334,
+                            "ATestID": 43015334,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d566a841bcaac5b2d2c57d37a7f26954311e3d0b74d2511e8f8be0b6be59d7ac73101a4c8bab3cd5",
+                            "Explain": "菌痢的病变部位以乙状结肠和直肠为主。",
+                            "TestPoint": "细菌性痢疾和伤寒",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃部"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "升结肠"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "直肠和乙状结肠"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "回肠末端"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "降结肠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015336,
+                            "ATestID": 43015336,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d566a841bcaac5b2002fd41d61d20b7c14998193508a985e1046f21cc08bcb153cddc3c37ab75a158735b217c600f853",
+                            "Explain": "细菌性痢疾病理改变最主要的是直肠和乙状结肠黏膜浅表性溃疡。",
+                            "TestPoint": "细菌性痢疾和伤寒",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "盲肠"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "回肠末端"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "直肠和乙状结肠"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃部"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "升结肠与降结肠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015337,
+                            "ATestID": 43015337,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d566a841bcaac5b27b41af1062d06f675edb52529cf2d5ef7fd7b2809759b4a399efc65780b5cdf3160d694270dbbd1ddd8a6b25184d5b73",
+                            "Explain": "细菌性痢疾肠道病变部位主要累及结肠，以乙状结肠和直肠最为显著，严重者累及整个结肠甚至回肠下段。",
+                            "TestPoint": "细菌性痢疾和伤寒",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "食管"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "横结肠"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "降结肠和乙状结肠"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "回肠"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "乙状结肠和直肠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015338,
+                            "ATestID": 43015338,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dad6369e12313ed510873b1f664e0abb4f942800442afbd132e2e2a127b9faf45d498241d8ae0e4d5e1fb2526727b353aeff51b448218ba3",
+                            "Explain": "细菌性痢疾肠道病变部位主要累及结肠，以乙状结肠和直肠最为显著，严重者累及整个结肠甚至回肠下段。",
+                            "TestPoint": "细菌性痢疾和伤寒",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "回肠末端和升结肠"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "直肠与乙状结肠"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "升结肠"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "降结肠"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "整个结肠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015339,
+                            "ATestID": 43015339,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e88a8415ec78d15b556c60cd4d1ccf5d266ccbc2b3c9e32fc12f38e125ecd4396b72582eddb5fa98",
+                            "Explain": "伤寒是由伤寒杆菌引起的急性传染病，病变特征是全身单核吞噬细胞系统增生。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "类上皮细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "巨噬细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "T细胞和多核巨细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "浆细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "上皮细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015340,
+                            "ATestID": 43015340,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "43ac24506e974bdbdc110233a78d19380dd9e52f3e0ca2e34eceaa092ab3fb991fe504fed52104b2",
+                            "Explain": "流行性脑炎时炎症累及软脑膜和蛛网膜的各部分。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胶质细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "硬脑膜"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "神经元"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "软脑膜"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "延髓"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015341,
+                            "ATestID": 43015341,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7f99bdac8169c15ca45ba416abc3ffd3fdfd99ac0c743989e6b4053461f106e6",
+                            "Explain": "变质性炎症主要发生于肝、肾、心、脑等实质性器官，以细胞变性坏死为主。流行性乙型脑炎表现为神经细胞的变性坏死，属变质性炎。A属浆液性炎，B、C属纤维素炎，D属化脓性炎。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "感冒初期鼻黏膜炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "绒毛心"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "假膜性炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脓肿"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "流行性乙型脑炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015343,
+                            "ATestID": 43015343,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "43ac24506e974bdb0eec4bb6fdc637bc834fccef914e6b6a84ce2f744d013b393266c4d97948d0e8b82133916a0f134f3d6ed7542d184c80",
+                            "Explain": "蛛网膜下腔以中性粒细胞为主的炎性渗出是流脑的特点。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血管周围淋巴细胞浸润和血管套形成"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "筛网状软化灶和脑水肿"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "蛛网膜下腔以中性粒细胞为主的炎性渗出"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胶质结节形成"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "神经细胞变性、坏死，出现噬神经细胞和卫星现象"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015346,
+                            "ATestID": 43015346,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "da6ea328be1ca015b410e8d566c740ccfc0e1eb60ca5265914ae4219ec9f2937c0b9c70b04fe695229c8f792c066ee7337802f3dd5dd3fb9",
+                            "Explain": "艾滋病患者晚期的淋巴结呈现一片荒芜，淋巴细胞几乎消失殆尽，仅有一些巨噬细胞和浆细胞残留。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "淋巴滤泡增生"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "窦组织细胞增生"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "副皮质区增生"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "淋巴细胞消失殆尽"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "淋巴细胞增生"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015349,
+                            "ATestID": 43015349,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e78ae8485d70bdc3585b663c843631e56f16b30b61d2853a5ab2f6ae534933ece2ce972b4285aed39b41f202fff42f72",
+                            "Explain": "间日疟即间日定时的寒战发作，临床分为寒战期、高热期、大汗期，两次典型发作之间有缓解间歇期。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "前驱期"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "寒战期"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高热期"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "大汗期"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "间歇期"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015350,
+                            "ATestID": 43015350,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "145c67843a3c6c006b33efa1bbbd0888b1bec1d63496f2d54e532d766cf5210f6c50cfa837c3f94a",
+                            "Explain": "单纯疱疹病毒Ⅰ型、Ⅱ型均可致人类感染。Ⅰ型称为口型或上半身型，主要引起上半身皮肤、黏膜或器官疱疹，如疱疹性脑炎；Ⅱ型称为生殖器型，主要引起生殖器、肛门及腰以下皮肤疱疹，性接触传播，以青年女性居多。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "单纯疱疹病毒仅Ⅰ型可致人类感染"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "单纯疱疹病毒仅Ⅱ型可致人类感染"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "单纯疱疹病毒Ⅰ型称下半身型"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "主要引起生殖器、肛门及腰以上皮肤疱疹"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "单纯疱疹病毒Ⅱ型以青年女性居多"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015351,
+                            "ATestID": 43015351,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1f69d1df474871cb0a8b71217da1badc0ce1d0bedc01d14df43cde6baf4707b676ecb94deece1e07",
+                            "Explain": "伤寒是由伤寒杆菌引起的急性传染病，全身单核吞噬细胞系统增生，以回肠末段淋巴组织的病变最为突出。肠道病理变化可分为髓样肿胀期、坏死期、溃疡期和愈合期。坏死期主要为肿胀的淋巴细胞组织发生坏死。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "黏膜下层"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "皱襞内"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "淋巴组织内"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "黏膜层"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "毛细血管内"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015352,
+                            "ATestID": 43015352,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e8031f0b000d5bfb1a5e60ba6460c067fdd0b91b2cabe2a7ad2e9e3762164104496609eecee9ed8171996838c2c8d3d6d4a883a8d1ef8faf9381d6716082fdb588d31871132f154f5d2344108fddfd1e471668cb9f444413134237f6620275fbeb29fe891a5261651be5b3a33b7fe658bc2272807169646b2b8ff5bbf049cfe7282d90f59cf3b4181c12999696f47e54d2153a7b32068ccb4038bfe9156178f750b45f417b575881492958a8a77b8b5514fd4e412ea3b183489b24c84dd2a90602763c7f137c5b31e7ad916b3b17c4958befbc17a32db4bce0efb5676bb8173db28cd4223c9413ba6819f80469895cfde4a808f5d317c7828950980a54305b419b1e1949a272f5e34a633c38e2c09f72d96985833d13f25a9f97d5a7c700b6f50c4a378b35f6a9931ad28704b1f1f857747d2130ba202ba5fdd1d338a73838f4becdbb9a00b0824328eba9345538e0e7e045a23028b14a12381438fdfe37cf3f1cacf07aa1d214338538f87d71906143e3832b03805ffe6b4d48562f54175b795ea06aae4349dc03aa6e1e6f4371f49dfccdf95fe69a511276e5896177846db064610b2f20f20edfcc95de03ca76c921a23cbb38a15f25fc",
+                            "Explain": "根据患者为儿童，急性起病，临床表现为高热、头痛、呕吐、皮肤黏膜瘀点，脑膜刺激征阳性等，实验室检查外周血白细胞总数升高、中性粒细胞升高，可诊断为流行性脑脊髓膜炎。其病理改变为：脑脊膜血管高度扩张充血，蛛网膜下腔充满灰黄色脓性渗出物，使脑回、脑沟模糊不清。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "颅底多发性闭塞性动脉内膜炎，引起脑实质损害"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "软脑膜充血、水肿、出血"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "脑沟和脑回可见小的肉芽肿、结节和脓肿，蛛网膜下腔可见有胶样渗出物"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "病变多发生在灰质、白质交界处，引起脑室扩大、脑积水及脑蛛网膜炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "脑血管高度扩张充血，蛛网膜下腔充满黄色脓性分泌物"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015353,
+                            "ATestID": 43015353,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "15339cf2211ba280975f7c22d323f325e08b2de83b5d1c8e67c9ec9042d4a111a5fbff019d68f0b327c102c802cd92cc96426c5cb009805e86dc9ec8d77988fa70f37d8f23ef7d1d",
+                            "Explain": "血吸虫病的病变主要由虫卵引起。虫卵主要是沉着在宿主的肝及结肠肠壁等组织，所引起的肉芽肿和纤维化是血吸虫病的主要病变。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "尾蚴"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "成虫"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "虫卵"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "幼虫"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "毛蚴"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015354,
+                            "ATestID": 43015354,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "40277519c71b63b8d098a6390df526b98107440024fd3843c9e2d0a521367aa1eb0632ff405d49178e87b518afdbfc114bbcac752cfba8a6",
+                            "Explain": "多数细菌感染引起中性粒细胞增加，寄生虫感染引起嗜酸性粒细胞增加，一些病毒感染引起淋巴细胞比例增加。另外，多数病毒、立克次体、原虫等感染引起末梢血白细胞计数减少。本题选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "中性粒细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "单核细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "淋巴细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "嗜酸性粒细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "浆细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000474,
+                            "ATestID": 41000474,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "15e02c555d2cc9f4effbb6e5f11e205f3242c4f42d205ca53e9db4172377a1d329b58a934328b460aa2f70e2dca65f5fcd87852341614f49",
+                            "Explain": "结核结节由朗汉斯巨细胞、上皮样细胞和少量反应性增生的成纤维细胞构成，故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "朗汉斯巨细胞和淋巴细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "朗汉斯巨细胞和上皮样细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "淋巴细胞和上皮样细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "上皮样细胞和异物巨细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "异物巨细胞和成纤维细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000475,
+                            "ATestID": 41000475,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "1f69d1df474871cb93d0cd196c727478b2a4cba24adf3a8c9fb57ad643abfd4e",
+                            "Explain": "两者均有各自明显的特征。肠伤寒溃疡呈长椭圆形与肠的长轴平行，边缘稍隆起，底面高低不平。溃疡一般深及黏膜下层，严重者可深达浆膜，甚至穿孔，故1题选B；细菌性痢疾的假膜脱落后，形成大小不等、形状不规则的地图状溃疡，溃疡很少穿破黏膜基层，故2题选E。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "溃疡呈环形与肠的长轴垂直"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "溃疡呈长椭圆形与肠的长轴平行"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "溃疡呈烧瓶状口小底大"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "溃疡边缘呈堤状隆起"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "溃疡表浅呈地图状"
+                                }
+                            ],
+                            "AllTestID": 41000478,
+                            "BTestID": 41000148,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000148,
+                                    "Title": "1f69d1df474871cb93d0cd196c727478b2a4cba24adf3a8c9fb57ad643abfd4e",
+                                    "Explain": "两者均有各自明显的特征。肠伤寒溃疡呈长椭圆形与肠的长轴平行，边缘稍隆起，底面高低不平。溃疡一般深及黏膜下层，严重者可深达浆膜，甚至穿孔，故1题选B；细菌性痢疾的假膜脱落后，形成大小不等、形状不规则的地图状溃疡，溃疡很少穿破黏膜基层，故2题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000149,
+                                    "Title": "d566a841bcaac5b2002fd41d61d20b7c2afde6ede5fdac4de9392018d6836af39d95d8d0af08c0df",
+                                    "Explain": "两者均有各自明显的特征。肠伤寒溃疡呈长椭圆形与肠的长轴平行，边缘稍隆起，底面高低不平。溃疡一般深及黏膜下层，严重者可深达浆膜，甚至穿孔，故1题选B；细菌性痢疾的假膜脱落后，形成大小不等、形状不规则的地图状溃疡，溃疡很少穿破黏膜基层，故2题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "43ac24506e974bdb2cc8c8d84395058c4534d9315c4428ce9ba9159bc22a2b14dd6d85b210f8ba28527c5da3335f1041",
+                            "Explain": "流行性脑脊髓膜炎患者蛛网膜下腔充满灰黄色脓性渗出物，属化脓性炎，故1题选D;流行性乙型脑炎表现为神经细胞的变性坏死，属变质性炎，故2题选A。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "变质性炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "浆液性炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "纤维素性炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "化脓性炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "增生性炎"
+                                }
+                            ],
+                            "AllTestID": 41000479,
+                            "BTestID": 41000150,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 268,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000150,
+                                    "Title": "43ac24506e974bdb2cc8c8d84395058c4534d9315c4428ce9ba9159bc22a2b14dd6d85b210f8ba28527c5da3335f1041",
+                                    "Explain": "流行性脑脊髓膜炎患者蛛网膜下腔充满灰黄色脓性渗出物，属化脓性炎，故1题选D;流行性乙型脑炎表现为神经细胞的变性坏死，属变质性炎，故2题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000151,
+                                    "Title": "43ac24506e974bdb0eec4bb6fdc637bcbb6e2e9f5b19f8ab1a98842e6791c6924b02a8f27ea89045",
+                                    "Explain": "流行性脑脊髓膜炎患者蛛网膜下腔充满灰黄色脓性渗出物，属化脓性炎，故1题选D;流行性乙型脑炎表现为神经细胞的变性坏死，属变质性炎，故2题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000503,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000503,
+                        "ChildTableID": -1,
+                        "UserCount": 2424,
+                        "RightCount": 2068,
+                        "FavCount": 34,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000503,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 35000510,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000510,
+                        "ChildTableID": -1,
+                        "UserCount": 2413,
+                        "RightCount": 1956,
+                        "FavCount": 34,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000510,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 35000512,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000512,
+                        "ChildTableID": -1,
+                        "UserCount": 2438,
+                        "RightCount": 1313,
+                        "FavCount": 80,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000512,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43000463,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000463,
+                        "ChildTableID": -1,
+                        "UserCount": 2505,
+                        "RightCount": 1300,
+                        "FavCount": 44,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000463,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43000464,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000464,
+                        "ChildTableID": -1,
+                        "UserCount": 2365,
+                        "RightCount": 1386,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000464,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43000466,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000466,
+                        "ChildTableID": -1,
+                        "UserCount": 2082,
+                        "RightCount": 1750,
+                        "FavCount": 22,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000466,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000468,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000468,
+                        "ChildTableID": -1,
+                        "UserCount": 2096,
+                        "RightCount": 1390,
+                        "FavCount": 44,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000468,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43000469,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000469,
+                        "ChildTableID": -1,
+                        "UserCount": 2067,
+                        "RightCount": 1222,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000469,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015330,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015330,
+                        "ChildTableID": -1,
+                        "UserCount": 2077,
+                        "RightCount": 881,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015330,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015332,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015332,
+                        "ChildTableID": -1,
+                        "UserCount": 2044,
+                        "RightCount": 952,
+                        "FavCount": 51,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015332,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015333,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015333,
+                        "ChildTableID": -1,
+                        "UserCount": 1800,
+                        "RightCount": 1382,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015333,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015334,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015334,
+                        "ChildTableID": -1,
+                        "UserCount": 1713,
+                        "RightCount": 1332,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015334,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015336,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015336,
+                        "ChildTableID": -1,
+                        "UserCount": 1684,
+                        "RightCount": 1428,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015336,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015337,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015337,
+                        "ChildTableID": -1,
+                        "UserCount": 1594,
+                        "RightCount": 1528,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015337,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015338,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015338,
+                        "ChildTableID": -1,
+                        "UserCount": 1783,
+                        "RightCount": 1411,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015338,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015339,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015339,
+                        "ChildTableID": -1,
+                        "UserCount": 1527,
+                        "RightCount": 1477,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015339,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015340,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015340,
+                        "ChildTableID": -1,
+                        "UserCount": 1715,
+                        "RightCount": 1002,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015340,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015341,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015341,
+                        "ChildTableID": -1,
+                        "UserCount": 1658,
+                        "RightCount": 1060,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015341,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015343,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015343,
+                        "ChildTableID": -1,
+                        "UserCount": 1478,
+                        "RightCount": 1300,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015343,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015346,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015346,
+                        "ChildTableID": -1,
+                        "UserCount": 1596,
+                        "RightCount": 1115,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015346,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015349,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015349,
+                        "ChildTableID": -1,
+                        "UserCount": 1453,
+                        "RightCount": 1190,
+                        "FavCount": 30,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015349,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015350,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015350,
+                        "ChildTableID": -1,
+                        "UserCount": 1544,
+                        "RightCount": 801,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015350,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015351,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015351,
+                        "ChildTableID": -1,
+                        "UserCount": 1627,
+                        "RightCount": 733,
+                        "FavCount": 63,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015351,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43015352,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015352,
+                        "ChildTableID": -1,
+                        "UserCount": 1622,
+                        "RightCount": 832,
+                        "FavCount": 45,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015352,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015353,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015353,
+                        "ChildTableID": -1,
+                        "UserCount": 1538,
+                        "RightCount": 966,
+                        "FavCount": 35,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015353,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015354,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015354,
+                        "ChildTableID": -1,
+                        "UserCount": 1522,
+                        "RightCount": 855,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015354,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000474,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000474,
+                        "ChildTableID": -1,
+                        "UserCount": 1442,
+                        "RightCount": 1164,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000474,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000475,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000475,
+                        "ChildTableID": -1,
+                        "UserCount": 1456,
+                        "RightCount": 1212,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000475,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41000478,
+                "ChildTableID": 41000148,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000478,
+                        "ChildTableID": 41000148,
+                        "UserCount": 1540,
+                        "RightCount": 1100,
+                        "FavCount": 35,
+                        "DiscussionCount": 6,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000478,
+                    "ChildTableID": 41000148
+                },
+                "DiscussionCount": 6,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41000478,
+                "ChildTableID": 41000149,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000478,
+                        "ChildTableID": 41000149,
+                        "UserCount": 1715,
+                        "RightCount": 1231,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000478,
+                    "ChildTableID": 41000149
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000479,
+                "ChildTableID": 41000150,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000479,
+                        "ChildTableID": 41000150,
+                        "UserCount": 1454,
+                        "RightCount": 1166,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000479,
+                    "ChildTableID": 41000150
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000479,
+                "ChildTableID": 41000151,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000479,
+                        "ChildTableID": 41000151,
+                        "UserCount": 1387,
+                        "RightCount": 1241,
+                        "FavCount": 11,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000479,
+                    "ChildTableID": 41000151
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,797 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:29:08 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "ac4c4992222e1b19b178be1f6224e590fbf3766108c5f7ca9e0f97d223430433737ef914003536b313cdd414d639f246",
+                            "Explain": "喹诺酮类的抗菌机制是抑制细菌DNA螺旋酶和拓扑异构酶Ⅳ，阻碍DNA复制而导致细菌死亡。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抑制70S始动复合物的形成，抑制蛋白质合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抑制DNA螺旋酶，阻碍DNA合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "竞争二氢叶酸合成酶，使敏感菌的二氢叶酸合成受阻"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抑制二氢叶酸还原酶，影响核酸合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抑制细菌细胞壁粘肽合成酶，阻碍细胞壁粘肽合成"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000564,
+                            "ATestID": 43000564,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ac4c4992222e1b191bd5767facdcc4a9e42fadff2987cc3d7e4acb11d689e49a",
+                            "Explain": "喹诺酮类（4-quinolones），又称吡酮酸类或吡啶酮酸类，是人工合成的含4-喹诺酮基本结构的抗菌药。喹诺酮类以细菌的脱氧核糖核酸（DNA）为靶，妨碍DNA回旋酶，进一步造成细菌DNA的不可逆损害，达到抗菌效果。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "细菌二氢叶酸合成酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "细菌二氢叶酸还原酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "细菌RNA多聚酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "细胞依赖于DNA的RNA多聚酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "细菌DNA回旋酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002774,
+                            "ATestID": 43002774,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "05a611d50db1d67ea13f70016b1ae9da94bbc7d141fa0aa12c166ac64fc3b0b2e3a42913572da8e61ad9cb074ad16d38c4186a68370e9445",
+                            "Explain": "服用磺胺类药物加服NaHCO[XB3.gif]的目的使尿偏碱性，增加药物的溶解度。",
+                            "TestPoint": "大环内酯类抗生素",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "增强抗菌疗效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "加快药物吸收速度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "防止过敏反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "防止药物排泄过快而影响疗效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "使尿偏碱性，增加药物的溶解度"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002775,
+                            "ATestID": 43002775,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1e97e12457b7efda2c7a88af9eb4ed826d2646b03525b276d60bd7f60cedb0a8",
+                            "Explain": "磺胺类药主要作用是抑制细菌的繁殖，因有些细菌生长时，需利用对氨基苯甲酸。氨基苯甲酸和二氢喋啶在二氢叶酸合成酶的作用下，合成二氢叶酸；二氢叶酸在二氢叶酸还原酶的作用下，又生成四氢叶酸；四氢叶酸再进一步形成活化型四氢叶酸，也就是辅酶F，它能传递一碳基团参与嘌呤、嘧啶核苷酸合成。由于磺胺类药的化学结构与氨基苯甲酸很象，可与氨苯甲酸竞争二氢叶酸合成酶，妨碍二氢叶酸的形成，最终影响细菌核蛋白的合成，从而抑制细菌的生长繁殖。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "抑制DNA螺旋酶",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "抑制二氢叶酸还原酶",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "抑制二氢叶酸合酶",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "改变膜通透性",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "抑制分枝菌酸合成",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002776,
+                            "ATestID": 43002776,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ae15aabd062a92e8a9c94a27740c04414b784e225064860e6b3ebbce3f547626a6687a90ff90c5a2d361eb0d28b9eb753ad167e28f5b0ee1",
+                            "Explain": "磺胺嘧啶银盐局部用于预防及治疗Ⅱ、Ⅲ度烧伤继发的创面感染。用于预防和控制创面铜绿假单胞菌和大肠杆菌的感染；尚有局部收敛作用，促使创面干燥、结痂愈合。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "磺胺醋酰"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "磺胺嘧啶银盐"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "氯霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "林可霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "利福平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002777,
+                            "ATestID": 43002777,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b72ab987ff5ac3c80e7517ee8638081f00072faa83a6afc4df87023656e42c0cccb25c717dd2fa0d8a327894856d9cf5e7826bd91b2b3ab9a8a753d62767533465e51ee604bf23",
+                            "Explain": "DNA回旋酶是喹诺酮类抗革兰阴性菌的重要靶点；拓扑异构酶Ⅳ是喹诺酮类抗革兰阳性菌的重要靶点 。拓扑异构酶Ⅳ具有解环连活性，在DNA复制过程中，负责将环连的子代DNA解环连。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "蛋白质合成"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "细胞壁合成"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "DNA螺旋酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "二氢叶酸还原酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "葡萄糖激酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015540,
+                            "ATestID": 43015540,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185c406d61729d9b4162da176cff03e20208adb99d3d82158f23c8502de6cd4262feff8af92c2392e121ad1136eddb79a7b",
+                            "Explain": "氟喹诺酮类药物不良反应较少。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "抗菌谱广"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "与其他抗菌药物无交叉耐药性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "口服吸收好"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "不良反应较多"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "不良反应少"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015541,
+                            "ATestID": 43015541,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1e97e12457b7efda703a1bc60139103d35efd749e99e3b5fc9bce42920b8c23b",
+                            "Explain": "目前磺胺类用于尿路感染、诺卡放线菌病，与乙胺嘧啶合用治疗弓形虫病，代替青霉素预防风湿热，作为脑膜炎球菌感染的预防药，用于治疗溃疡性结肠炎（柳氮磺胺吡啶），治疗灼伤（磺胺嘧啶银或磺胺米隆），治疗耐氯喹的恶性疟原虫感染，以及与甲氧苄啶联合应用。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "对病毒感染有效"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "对念珠菌属的细菌感染有效"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "杀灭结核分枝杆菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抑制二氢叶酸合成酶活性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "对立克次体感染有效"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015542,
+                            "ATestID": 43015542,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "ac4c4992222e1b19fee30b6c78da9306",
+                            "Explain": "喹诺酮类抑制细菌DNA合成中的回旋酶，造成细菌染色体的不可逆损害，呈选择性杀菌作用。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抑制细菌细胞壁合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抑制细菌二氢叶酸还原酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抑制细菌DNA依赖的RNA聚合酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抑制细菌蛋白质合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抑制细菌DNA合成"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000588,
+                            "ATestID": 41000588,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "9f146a8e79bd245b7629f62af161d5e6",
+                            "Explain": "β内酰胺类主要抑制细菌细胞壁合成。喹诺酮类阻碍DNA复制而导致细菌死亡。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "抑制细菌细胞壁合成"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抑制细菌蛋白质合成"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "抑制细菌DNA依赖的RNA多聚酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抑制细菌二氢叶酸还原酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "抑制细菌DNA合成"
+                                }
+                            ],
+                            "AllTestID": 43000566,
+                            "BTestID": 43000145,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 398,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000145,
+                                    "Title": "9f146a8e79bd245b7629f62af161d5e6",
+                                    "Explain": "β内酰胺类主要抑制细菌细胞壁合成。喹诺酮类阻碍DNA复制而导致细菌死亡。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000146,
+                                    "Title": "ac4c4992222e1b19fee30b6c78da9306",
+                                    "Explain": "β内酰胺类主要抑制细菌细胞壁合成。喹诺酮类阻碍DNA复制而导致细菌死亡。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000564,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000564,
+                        "ChildTableID": -1,
+                        "UserCount": 1638,
+                        "RightCount": 886,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000564,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43002774,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002774,
+                        "ChildTableID": -1,
+                        "UserCount": 1553,
+                        "RightCount": 1113,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002774,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 43002775,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002775,
+                        "ChildTableID": -1,
+                        "UserCount": 1455,
+                        "RightCount": 1157,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002775,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002776,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002776,
+                        "ChildTableID": -1,
+                        "UserCount": 1673,
+                        "RightCount": 799,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002776,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002777,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002777,
+                        "ChildTableID": -1,
+                        "UserCount": 1468,
+                        "RightCount": 958,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002777,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015540,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015540,
+                        "ChildTableID": -1,
+                        "UserCount": 1319,
+                        "RightCount": 1032,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015540,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015541,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015541,
+                        "ChildTableID": -1,
+                        "UserCount": 1365,
+                        "RightCount": 927,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015541,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015542,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015542,
+                        "ChildTableID": -1,
+                        "UserCount": 1236,
+                        "RightCount": 1080,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015542,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000588,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000588,
+                        "ChildTableID": -1,
+                        "UserCount": 1438,
+                        "RightCount": 1019,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000588,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000566,
+                "ChildTableID": 43000145,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000566,
+                        "ChildTableID": 43000145,
+                        "UserCount": 1422,
+                        "RightCount": 950,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000566,
+                    "ChildTableID": 43000145
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000566,
+                "ChildTableID": 43000146,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000566,
+                        "ChildTableID": 43000146,
+                        "UserCount": 1300,
+                        "RightCount": 1137,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000566,
+                    "ChildTableID": 43000146
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

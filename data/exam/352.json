@@ -1,0 +1,2123 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 00:40:32 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "bc39f49d68561fbe7587772f7aa6691d1e76763357df5694a2fb75ef57822feafde54831ac8897af5367dd4920af69ff",
+                            "Explain": "严重的抑郁发作会出现幻觉和妄想。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抑郁症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "恐惧症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "强迫症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "焦虑症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "疑病症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35003300,
+                            "ATestID": 35003300,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903d9bf4b5f8591d5c48e234ad8bc730c82ac7ab67816673b60bb8f26646e4478eade5128d510d006593dc5f6f7ba6fd8327d4366d131916d429155d90d1664d5085edf2f3c1f7f1f72e352ba97032141d9e45e153690a0a42be5a3ae8b2e141b7c00b3ada7f6296fd40c3238b2dc5954e3bd84e7b2a63319da3d1dc82a6af1c7bdb73312763520c9446398ac12369a3e51e29f1684d32c0b7db52b70b28a70cf6fc5ff8acb9cebabccee7cd50883eb5706fbdd24dad07bc75908249f40ebd536358e9af139ccddae86133db544d022de6d90f4dc260e41b89696521b127ab07f4ba68f1c9e246b8aa0100d1ff79f467ac8",
+                            "Explain": "本病例尽管有吸食可卡因，但时间只有5天，戒断症状是长时间使用某种药物突然停用或减量后出现的症状。此患者有自杀行为，同时伴有无价值感，无望感，明显的自主神经症状及极度疲劳，食欲下降，精力丧失，符合抑郁发作。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "诈病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抑郁发作"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "戒断综合征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "适应障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "人格障碍"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35003303,
+                            "ATestID": 35003303,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d04118a5ba952d04c98de58f045da3bcefdb5dfc6a7e19403583dd23663f9529f9be666bf3c11c3a2adc72e41defd20b330165ccc1752a96909cedad04a5e398e5e4c1fb84da72e68b68d1a2c4049e177ffb5ea00888e98cfeaf65d459e11000ec7a91471978ba8aeb7687d220fabc7648034dd929511f4ed3ee069a64f206b506aa440e54ab81f3555db5eba594fedbee5bfccb6cf1ed93aae2b97896bf2b50ef6",
+                            "Explain": "患者有自杀倾向，应注意预防，保证其安全。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "攻击行为"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "毁物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "自杀"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "伤人"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "出走"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35003306,
+                            "ATestID": 35003306,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cc70e7c3c7d91ad1787972913ba6b1f139bfc36c4bcd2b5c7c9f2c6c7e8e4a8a",
+                            "Explain": "癔症首先要排除器质性疾病，才能诊断",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "症状呈发作性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "暗示治疗有效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "有癔症性格"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "排除器质性疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "有精神刺激"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001638,
+                            "ATestID": 43001638,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 12,
+                    "TestItems": [
+                        {
+                            "Title": "df02230bae20785ad9624e78aa0d9d5a4ea28a61da9526719b0d2a86801dc6bc",
+                            "Explain": "抑郁症是一种常见的精神疾病，主要表现为情绪低落，兴趣减低，悲观，思维迟缓，缺乏主动性，自责自罪，饮食、睡眠差，担心自己患有各种疾病，感到全身多处不适，严重者可出现自杀念头和行为。抑郁症是精神科自杀率最高的疾病。自杀是最危险的症状。抑郁症患者由于情绪低落悲观厌世，严重时很容易产生自杀念头。因此答案是E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "兴趣缺乏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "早醒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "精力减退"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "情绪低落"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "自杀企图和行为"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002221,
+                            "ATestID": 41002221,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1c71b4793d606f367d02bc072c64492f0c807993083768b5e98c8e84b7d5857d4e238dadfe9b816ca0a68f80e78907b40cf268e741c91361",
+                            "Explain": "三环类抗抑郁药为目前较常用抗抑郁药，主要有丙咪嗪、阿米替林、多塞平、氯米帕明、地昔帕明等。每天用量150～300mg，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "50mg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "50～75mg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "75～100mg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "150～300mg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "300～400mg"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002223,
+                            "ATestID": 41002223,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878ec8703bb034b12df7ec06634b72dba0ed6d909500f4599e698f955a7301d001a83ea736af0f6b52b8f5429e6aa08a0f996bc0478be6249fbda5bd04cb183486f5ec11667e10c50f15b2a2349a4d1aaea470d5141b39d4a55c2f12880362b00e3720f450f1e56bfa905446c9b12c35cb8087495ca26c58fbdc1bb4246cbe2ddedae5345700db005a964a00345a6cf30ac8e175eb480b15a892fc0984436f557de4aaa930ae973a480d8eb914825a0f71f31ec2b895df35c39223cfcffa1ea10f293d0829440b1138ae4440e2173bfe4a1cbfc45d5352e03cae03b1b2ebb16c0219e7bb18509b63fd0e435145a8253cbe7cdee5c036e356050ea8c723e3cfc472d45daa43afa6787a5bac32bcdfef96d254557f008cd7fa9ee6a53018f6ed5a85aeb95302a33b9133bf71ccdf9e590c31da51df6d01b942c49022f9a8c7a7aad45180afa8579f092e3de89a2b557d14f1bba3d7e0f3728313d4aeb9e34657a1d388f5398b9eb091c3213eb0a3f3d6447acfb4499dda733a0392a893b7ab8d51f70c297cc13ca4e26cdc0640ec7816150ef29de38d9f1184e0b9b814bf96a061da16d165b167bae5fc870fb30e22ab0415b943f097de2422db1075e3e3eac9d911e8dcd42d0ad2406e0793f19d9ad3a0805722b74e286894e516508143ae4d961f1cdfc0c4205dc1251852bf52940f477cca8d372597a6189ef484981a81e268030e",
+                            "Explain": "抑郁症首要症状为对日常活动兴趣显著减退，感到生活无意义，对前途悲观失望，常沉思过去不愉快的事，遇事常往坏处想，精神不振，脑力迟钝、反应缓慢，对工作、学习缺乏信心，自我评价下降，对赞扬、奖赏无相应情绪反应，不愿主动与别人交往。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "焦虑症",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "抑郁症",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "精神分裂症",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "神经衰弱",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "应激相关障碍",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002225,
+                            "ATestID": 41002225,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实该题无误。",
+                            "OperateTime": "2018年8月23日"
+                        },
+                        {
+                            "Title": "8208bd0077371a11b66115f836ec79b62f796f797abbfea6b4827bc17dd79ef0c4800d8e29409e2c",
+                            "Explain": "抑郁症首要症状为对日常活动兴趣显著减退，感到生活无意义，对前途悲观失望，常沉思过去不愉快的事，遇事常往坏处想，精神不振，脑力迟钝、反应缓慢，对工作、学习缺乏信心，自我评价下降，对赞扬、奖赏无相应情绪反应，不愿主动与别人交往。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "精力明显减退、疲乏"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "思维困难、联想缓慢"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "情绪低落、兴趣下降"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "自卑、自责、自杀观念"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "失眠、早醒、体重减轻"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019621,
+                            "ATestID": 43019621,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7a99c3b8e0e8710e609cff46dbe57dbfe5e5fb3174be758f746a15abc0dff01b8fdffc6dad8d57dbfc4810a1636b58e94166859e45a2e321f3f5a50fd5e5682274709a0c6ac8324d29c4259dc7ab86a9ee64629cc1b31c644612f78735eafc2f436ac037ac290835c9d88010adecbea21147cb88fade85be6136cdf59215eaf4d86abd025f1c4932984c67b13411ae97403f67147d65a2d1fb83899b114017951e2e8577bee5d2a707fd1d82a5d96ce49ad3e38fa8bf10bf87ef31e0496aa3b8",
+                            "Explain": "抑郁症首要症状为对日常活动兴趣显著减退，感到生活无意义，对前途悲观失望，常沉思过去不愉快的事，遇事常往坏处想，精神不振，脑力迟钝、反应缓慢，对工作、学习缺乏信心，自我评价下降，对赞扬、奖赏无相应情绪反应，不愿主动与别人交往。故选D。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "神经衰弱"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "焦虑症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "抑郁症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "疑病症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "帕金森病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019623,
+                            "ATestID": 43019623,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c8a46c740e3bf679381dea897f536f4da8d9ec23da680371284610943a5888715e86ca06ce42ac05877596c840544771",
+                            "Explain": "三环类药副作用:常见有口干、心动过速、出汗、精神错乱、胃肠道反应、视力模糊、直立性低血压、便秘、尿储留、寻麻疹、震颤、心肌损害等，所以选C。",
+                            "TestPoint": "抗抑郁药",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "锥体外系症状"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "过敏反虚"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心血管副作用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "粒细胞减少"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "震颤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019626,
+                            "ATestID": 43019626,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3619522e03ae6a98b18fa5825b756e4a168575be6a8605562ff3f6e90426f1474cd65447d4ab9967",
+                            "Explain": "碳酸锂安全范围较小，其治疗浓度与毒性浓度之间较为接近。碳酸锂较严重毒性反应涉及神经系统，包括精神紊乱、反射亢进、明显震颤、发音困难、惊厥，直至昏迷死亡。以上反应也是共济失调的表现，所以选C。",
+                            "TestPoint": "精神病学",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "引起瞳孔增大"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "引起呼吸抑制"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "引起共济失调"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "引起急性呼吸衰竭"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "感觉障碍"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019627,
+                            "ATestID": 43019627,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1dd761ab49ad0932bc690ba4ff49c33cc32b8a2ce508513089de5c4eaaf7ca1a9bb7510443f00ab2cf716a531f3daeb9e8d83818a461c377eccdf224ddf64d351e7a7c3b3fb70e24503a0124c653d227d96be72bc70db94d17d399002d34fe8a690a02ad2b4149fe193282c2d121a871",
+                            "Explain": "协调性精神运动性兴奋时，患者动作和行为的增加与思维、情感活动协调一致，并且和环境协调一致。患者的动作和行为是有目的的，可理解的。多见于情感性精神障碍躁狂发作。不协调性精神运动性兴奋时患者的动作、行为增多与思维及情感不相协调，患者的动作杂乱无章，动机和目的性不明确.使人难以理解。口'",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "焦虑症状"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "不协调性精神运动兴奋"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "协调性精神运动兴奋"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "强迫症状"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "思维内容障碍"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019630,
+                            "ATestID": 43019630,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5114de397c6dc0409bac950446144187cd02f012ebbd656e54fc3501f8b138d543f36be21d9c81a32ba397a7702cad2256b64ad86aad763c361a1a9d7a76c868ccba02e43aaab8b49fd5b58a5dd8f8fde65a4c6a7c83a014cd9edc302491f3021ce3a6c5cabfad94d0c7cdc55a4ec19ab125cb8b933cde0cd7aea5d4f37c7051378d2077a7a9692c98674d2b98202df4253c0bad6e0a6dc2c49382d2738216a2b7202aded9dbc8a6a7e5a923be13750625da1bc584a4a5bba5e2b6551f9f1739031dcfe32599c77d",
+                            "Explain": "根据患者病情，可判断该患者属于焦虑症中惊恐障碍类型。",
+                            "TestPoint": "焦虑症",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "强迫症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抑郁症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "精神分裂症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "恐惧症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "焦虑症状"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019631,
+                            "ATestID": 43019631,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "45996e30bca2540ea49c086f6713a5853613b49de042709f5847653486674e1e53b5fdffc6c507f3e8e707147093bd2848d1b5846f00d109a09e19c51bc515baa4ff75d713981c5e4b91556415c30aadc29a54ed01f6ae690ca58881403ca5c23177609f87a26b65fe2aba3184fbda3f459cfaf0eb72ce18a5491aef56bb8ff001ea19a0b7ab5efa7bdea7b4ffbc06b50cd0ea7b43fde9723e4b5d6af7a24a80",
+                            "Explain": "强迫症的临床表现为有意识的自我强迫与反强迫，该女子为强迫症的患者，应给予氯米帕明进行治疗。",
+                            "TestPoint": "强迫症",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "氯米帕明"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "丙咪嗪"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "阿米替林"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "多虑平"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "氯丙咪嗪"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019632,
+                            "ATestID": 43019632,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6f7dc5e1222705cbf93cac2e15ae8125ebf8f58146b475c34ce72d5a34cb2a457c268b7699d63e19a581719c62a9052e46292192cc008a77c8cc241282def000d40316c4bd6b0872a0d9f6ac1842ebc9601c53f44a8d3f2da416be43444de9226680e84598ee3c1b547490b7f6cec2892e80ed66d072bd28",
+                            "Explain": "分离性焦虑的儿童大多数发生在学龄期儿童。当与所依恋的亲人（尤其是母亲）分离时，深感不安，出现过分焦虑情绪。许多患儿甚至常常无根据地担忧或害怕亲人可能会离开自己，发生危险或意外，或遭到伤害。担心自己会大祸临头，或被拐骗等，因此不愿意离开亲人。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "幻觉"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "错觉"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "感知综合障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "妄想症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "分离性焦虑"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019633,
+                            "ATestID": 43019633,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2989d302cfa510acd3f19e1cba611d9dc79ba7206b3a46cb37651a3b6b4a1d61",
+                            "Explain": "随境转移表现为不随意注意明显增强，注意的稳定性降低，不持久，注意对象常因周围环境变化而不断转移，以至不断改变话题和活动内容。多见于躁狂状态和躁狂症。",
+                            "TestPoint": "躁狂症",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "精神分裂症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "适应障碍"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "躁狂症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脑器质性精神障碍"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "精神发育迟滞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019634,
+                            "ATestID": 43019634,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "abf670e4a5e1bf31e9b519023f7327d70edab9b83ae65f8e4ac9f6b285f1d0d671d83e8a2160c48e7fda9d50216d88b03bc6553b0386b2e1c9d7ef2ae03579b13e630477e2b14ea5f7672f884afd16a51b535049935fd3303aea169d9ef9fdaa5e0c59b6691b3f9b2abf8b5298508cd05bdb0fabded40eb03484a2ff43644ca76d49cdfe315335f7586732bce2c630af1067fb35489b8391596c8c4ee366c9d96482ccf5e2c868c2b77cdcf049cd337e9632e73c3a64926072a945172f0ac0865b4e515282ac5d836bbe9ca173425f6a39e8aa1f63fc1fbbbd54eeccbd2e1c0cd0ced79c776dde1fd0253e3278312b529dc646fbe99c069182d2ac614fbb91f19796f078b930d96dc595c9351468b2699d2b7816ea15e2edfb2e4063696adc7ceb225670738d605cc4ef6237f0968890e7fbffaa8971354438a75a50a45274252d41d5f83330022335d9227f2aaa2b61822b33bc3965b734ab2b5601d5c5417f40c8fc0e3a3b8b7762b24ec0603f7680d0fe347de674dfc4cc3875d57503b28c22ecef267cd2757265d2e9e4632f792064c10a7ab50e765f70b365786680e8da1d81dd4b23c5d21e06d4667cc98dcf70e612eff07cec3eba8640a6366c0ea94600426ee021810908f9f1d71a0d9f79a9ed4de2ed79e5f14bb4d62e54e413343fdf4d378f9b07538a44c7b799e1f0c2ef8189d8c15f10e685942ccfbce9f84fc7dc4b1916acfa489f81cc29d9a8cd1bd59450935942485f6be602221c4e008298e525b82fd6987e2dcaeba0604a4480fd172fe96215a54624538a15e2fe657e2c68089e4c61a4f16d817297657764a4fc9ad17feb7d5e2cd70aa4253510c6993c339fc07716984e32f9bb247004352a10ad3c3b03a0ce846d3eab9ee99f5d3e93e2d8fb7f0b33056b83bb878c6c3477e72da6511eb6a018a77add5f62faa67f42bd4af3666ef6564e",
+                            "Explain": "正常人服用地塞米松后，可抑制皮质醇分泌，而抑郁症病人服地塞米松后，未见皮质醇应有的抑制现象，此即用以诊断抑郁症的所谓\"地塞米松抑制试验\"(DST)，不但可帮助诊断抑郁症，而且可以鉴别是情感性精神病抑郁症，还是抑郁性神经症。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "智能测试"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "测血压心脏功能，心脏X线检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "头颅CT"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脑脊液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "地塞米松抑郁试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001640,
+                            "ATestID": 43001640,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "最可能诊断的是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "应激障碍"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抑郁症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "虚无心境"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "破坏性心境障碍"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "帕金森病"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "f0a21cd05aef47e520af560ef48d14b125f8f16bb1e168366bc03b45e9bd4170e5de3ee7562a78a05912169565d83a16d7353a2223a2535d6e86ba77e4eb393ddbe3d58b25f5c2d5298cda189e1f97e7a5e33fc8739cf3afffb80f9faa37c01df74850c7bfd072b3479155c07fcaeb4e53f35c4bd7d749100ce91e0597b0a29fe62774e24ace1dfe01a9cc5e161401ad4946d17a1b08cfc21b18c4021b1c68583dc6e89a41e890787c0ca502d40a291e91f37d03573c47b7d532508edad29cdf3e1e12924ff43aaf7e1c1f105bcd7343f9811561b98664e75c989d120d74dd98ea4abad03ab67b7fde026057b859827db08c599df02b757c02870625530911a8e52405cc2c445d067a60b0429682a3cc3578e884301a939a3efc54ef3e6f892a",
+                            "AllTestID": 43019635,
+                            "A3TestID": 43003352,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003352,
+                                    "Title": "91c2beef1821172aeb2d2b39c3f1022a4fc6f5cf4550a3f2",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "应激障碍"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "抑郁症"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "虚无心境"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "破坏性心境障碍"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "帕金森病"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003353,
+                                    "Title": "cfeae8eb6cbe4bc3809e65d74514b924204bf46bab9dc85bcaba114409fd589047dc35806c0f742d906e09af9350bbb9bd5345bb03673d36",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "心理疏导"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "暗示治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "新型抗抑郁药"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "电抽搐治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "观察"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003354,
+                                    "Title": "b8ebb5662d0ea15b4dfee0e0c8d7cf7bd98ffb1ab5e2c332f31d42a45b445e36",
+                                    "Explain": "阿米替林为三环类，有外周抗胆碱作用，可引起眼压升高，该例有青光眼病史，故不用。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "碳酸锂"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "西酞普兰"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "丙戊酸钠"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "阿普唑仑"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "阿米替林"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "广泛性焦虑障碍"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性应激障碍"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "分裂情感性精神障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抑郁发作"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "癫痫"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "fa65aba866b473d6078fcee7093fafc03731a3bad43dd0b5d7cc3cfe4c1c16be51f2f40a911fa04b56b4fc327cac6328ccd4fad8edc72b84ee1dea1420a6e7d691eeb55e2716408fc9a7e26d1126c7bc4e1f0f3a4a5300a98c2b05631859514296b0724653c7e612d7b36544a887cfb1e1caaa0655ba724af314c86c69e5a4a68d887530dd2b76e92697cbd4b46d3de319436f6442bf8670f2b328b0bbc08579bdf24a6e8df1ebd26e6644789c3ef2c33764917c02c3c202763a4bbcbb95032a6323b33348343bffc3eb047bb30599f902c60471178a6fc8f45e6e58705330caf34f76558ae3915589112dec1b5e7a50e86d19237f912a8208821e51c00ee4c618266f804016bb315c324e159d050bd334ffc9402363ed0e",
+                            "AllTestID": 43019636,
+                            "A3TestID": 43003355,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003355,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "广泛性焦虑障碍"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "急性应激障碍"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "分裂情感性精神障碍"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "抑郁发作"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "癫痫"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003356,
+                                    "Title": "491aadc247b764c733848d9f3ae4bf6499611531165018103ebc5d36f17b2029643d0fa5ab76225ef8a1679161e92767b1cfd875670c3f4fd75a76cfaa25a81a82a342adf18394b7f4bf18b2537718ed0c51ff6947a243f93ff710105b8bac4f2d6f061225f2bd9add2d0840570a6927768abce935d49bc0583ae09a99746cc8e90531069029941865df1663f633fa9a87c5610a3082337364c475c16b48ad5d663b1b1ece0aab6d7fae78f073c16efe",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "躁狂发作"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "病情加重"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "环性人格"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "病情复燃"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "病情缓解"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003357,
+                                    "Title": "b8ebb5662d0ea15b875d39d1a1bf0318227d68159491c1b6afbdcd89f0f2851acf84aff1db8c23cf",
+                                    "Explain": "患者主要表现为心情低落、哭泣，自我评价低，认为自己没有能力，什么事都干不好，失眠，早醒，伴有精神病性症状。近一周出现死亡念头，提示最可能的诊断为抑郁发作。急性应激障碍可在数小时、几天或1周内恢复，最后完全缓解，预后良好。经治疗后出现情绪高涨，活动增多，好管闲事，精力旺盛，睡眠减少，考虑躁狂发作可能性大。喹硫平为不典型抗精神病药物，主治精神分裂症。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "喹硫平"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "文拉法辛"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "卡马西平"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "碳酸锂"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "丙戊酸钠"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "患者3个月前表现为抑郁症状，近一周为躁狂状态，双相情感障碍特点是患者出现两次或多次的情感和活动水平明显紊乱的发作。符合双相情感障碍的诊断。碳酸锂是目前公认的效果较好的心境稳定剂，第二代抗精神病药喹硫平也具有心境稳定作用。氯丙嗪是抗精神病药；米氮平是抗抑郁药物；氯硝西泮可用于各型癫痫，对舞蹈症亦有效。丙戊酸钠为抗癫痫药。针对患者目前状况，对严重兴奋、激惹、攻击或伴有精神病性症状的急性躁狂患者，治疗可早期短期联用抗精神病药物。治疗方案选择碳酸锂+喹硫平治疗更合适。改良电抽搐治疗（无抽搐电休克治疗），对急性重症躁狂发作、极度兴奋躁动、对锂盐治疗无效或不能耐受的患者，有一定治疗效果，起效迅速。可单独应用或合并药物治疗，合并药物治疗的患者应适当减少药物剂量。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "双相情感障碍"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "强迫障碍"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "人格障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "精神分裂症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性应激障碍"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d0903d9bf4b5f8591d5c4ddb5f8b946607ea004e1cc11fea613cdc026ede14aa0ebb76aefa56ff96faf8ad2910c973cfb5d3f7abd5cfabc70a0cede4e9f44b4f32abaf2ae02c7587e974d4ecca8a28e1c41e02bbe0478e2b8727f96cdc782ce854fc79b9f5543d4ab6e32bca0c409622e8a2e404787a66ca702605e7e458baefef66dae5e0c64e23dfd5a861e7d1789c6ad28988f642e9fe2bf3dcd5aebea57ba3587f7b43cc33558f0ead24ffe0a4f36915091dd26fba315d0e1896eafecc0fc920701cacb3deb45d3a41374397e7594de12256172f2878de6bca3792f2b1ffc1f1bdfc73295224c9d50c2a068bc530c81fb4cd84e2da14786fee24715466b2a494339541ec87b89677b06226fab2ab016af9453e1261361b71438cd7c55ff48df17e2c5124d9f8468d0a625d2970de85c5f81b77f59f62435d713eb93dc87264ac0ce488ab964795e0a46b7cc7ce9e2f3899fa6632622c3c0cc84307c4e5586cb6f668bd84f50264da07f3cd75655cbc49cc361d3534c7cb684722dbdcd39165c36d7a4b8b3c02db8da",
+                            "AllTestID": 35003307,
+                            "A3TestID": 35000435,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000435,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "患者3个月前表现为抑郁症状，近一周为躁狂状态，双相情感障碍特点是患者出现两次或多次的情感和活动水平明显紊乱的发作。符合双相情感障碍的诊断。碳酸锂是目前公认的效果较好的心境稳定剂，第二代抗精神病药喹硫平也具有心境稳定作用。氯丙嗪是抗精神病药；米氮平是抗抑郁药物；氯硝西泮可用于各型癫痫，对舞蹈症亦有效。丙戊酸钠为抗癫痫药。针对患者目前状况，对严重兴奋、激惹、攻击或伴有精神病性症状的急性躁狂患者，治疗可早期短期联用抗精神病药物。治疗方案选择碳酸锂+喹硫平治疗更合适。改良电抽搐治疗（无抽搐电休克治疗），对急性重症躁狂发作、极度兴奋躁动、对锂盐治疗无效或不能耐受的患者，有一定治疗效果，起效迅速。可单独应用或合并药物治疗，合并药物治疗的患者应适当减少药物剂量。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "双相情感障碍"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "强迫障碍"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "人格障碍"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "精神分裂症"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "急性应激障碍"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000436,
+                                    "Title": "b8ebb5662d0ea15b4ec2e362dc8ea473faaf72d495e7d451aef349328ef2bda56c9671b1417d879d43490438bedf33ad",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "氯丙嗪治疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "碳酸锂+喹硫平治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "米氮平治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "氯硝西泮治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "丙戊酸钠治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000437,
+                                    "Title": "15d855c9e6e329f2f492e007a99f60de8c234b5308a521b09fbafa0a9ca3624e0b6fd5403e022f3b80d2c3c081d838a89085ed4769cc37434d60db6a67e443aa3a6ae06d7e8139b6749c5369470cb89e",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "换用利培酮治疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "地西泮静脉推注"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "改良电抽搐治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "舒必利静脉点滴"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "口服奥氮平治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者精神状态最可能的诊断是",
+                            "Explain": "1.抑郁症首要症状为对日常活动兴趣显著减退，感到生活无意义，对前途悲观失望，常沉思过去不愉快的事，遇事常往坏处想，精神不振，脑力迟钝、反应缓慢，对工作、学习缺乏信心，自我评价下降，对赞扬、奖赏无相应情绪反应，不愿主动与别人交往。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "抑郁症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "焦虑症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "疑病症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脑器质性精神障碍"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "应激相关障碍"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7670f462bf2a878e47db10e97fa707af783d5dd635202147520be631a6b7979aeb67e14d847fcfb2d95af4dfa7f1c3520186b315ad54b7b2eba8c330b2e967efc0e065bdd23a25e5879163639c5e5fbf250b028538d1dfa6ba90e8c4921264271c174b55558e938b8acac77d5eee74e9725ab89b4d0e6e3a7767047751031e2fc34eb0fa126241b8d91b9d926357e52dbd87d3268c69e0f3e4c6c683b14b3a477bc78810c5be437ca6b1e20c3310bc3a40cfb20598de66a9ea580927cbbaa7760b8c471c39a1074afa65227afb888633ab8085e87f09e982970cd063f975f6e21e1aecd9354565714b1b45f8d7bbc26c87e972060404919a50ac0a6f0d7317825760080230653a45d11804acc7b1b41080f3ee31c9db93de5fd0eec352d75240549065e1692f5e90feb8a041f153ac3218d4f7938a063f485ef5039e7d9446bf1f05ea1c909f675dc61add63a3f9cc0e1842d935ac737d75222da38db5c5b24fe0421ef6670c9930e6857cd76ab68382df44fc4a813d0efcafb31a033d7006550570f4c32858331ef49baa0d4ae3e37bc34b9e61c578e6872bc3b9a153d0f43d9f7c79e80fd7d7e7bd9d5c8b61b969b8ebe9e8df091d66acc9306ee69a4250ff6ef19cbc7808a4542a3e40f4881dc25a9eab98ada0b855772b3001a69f8041ebe9c6bfc1fc1f45294190f744639c00b0dcef9d732cb3f915971ed1b09db7ee1ee4cd6811367b04e9451888321ad799d08fa2f1e1b9910a1b2bf78e51338ea6f5e345a15ebdda9a8c2d2675f749026bffc2b9023aee544a7b46e8362871a66097df55f787f66c900a32c96ba82b7cd3e6a5e4c1a63e81c63a837cf6de7eab410b7ed6bc5225c162f6bf2138623bf3fbe95d0c78aef1229e6535964b796670a20c51b34c0e77b9a7b59f0c9ae1522a8963b60cfb82b1f8a195763ce0d66e528324e8251661ddc1efd8c82f0f3eb8bfcde292b1822ff661b3921f87aff3aa8804dbef0c08a5b40ed8b4",
+                            "AllTestID": 41002227,
+                            "A3TestID": 41000338,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 352,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000338,
+                                    "Title": "b8ebb5662d0ea15b61f530076c3db7d3eb63acf847239e912b2a598b6a99a255666c388e4ee780a61990111d19353ca6",
+                                    "Explain": "1.抑郁症首要症状为对日常活动兴趣显著减退，感到生活无意义，对前途悲观失望，常沉思过去不愉快的事，遇事常往坏处想，精神不振，脑力迟钝、反应缓慢，对工作、学习缺乏信心，自我评价下降，对赞扬、奖赏无相应情绪反应，不愿主动与别人交往。故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "抑郁症"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "焦虑症"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "疑病症"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "脑器质性精神障碍"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "应激相关障碍"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000339,
+                                    "Title": "b8ebb5662d0ea15ba244b33d8a4de0db654db4984dbdab53cf2a4bc22a87e5dda20604ecd0b82ea5e0415bfc7c4e1cc1",
+                                    "Explain": "2.脑器质性精神障碍的主要表现为精神症状一般多发生于躯体疾病高峰期，亦偶有精神症状为首发者，精神症状多与躯体疾病的严重度相平行，即躯体疾病严重时精神症状明显，待躯体疾病好转后，精神疾病亦减轻；病程和预后主要取决于原发躯体疾病的状况及处理是否恰当；躯体疾病所致精神障碍患者除表现明显的精神症状外，多伴有躯体和（或）神经系统的病理体征及实验室的阳性发现。故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "抑郁症"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "焦虑症"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "疑病症"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "脑器质性精神障碍"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "应激相关障碍"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000340,
+                                    "Title": "2a58a25c89e5e0395d36590ce5337ee79732939554b7a6d4fa9f138030064f28",
+                                    "Explain": "3.抑郁症的治疗包括：①药物治疗，阿普唑仑属苯二氮[zhuo.gif]类药物，具有同地西泮相似的药理作用，有抗焦虑、抗惊厥、抗抑郁、镇静、催眠及肌肉松弛等作用；②心理治疗，对有明显心理社会因素作用的抑郁症患者在药物治疗的同时常需合并心理治疗。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "阿米替林+阿普唑仑"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "盐酸舍曲林+阿普唑仑"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "利培酮+阿普唑仑"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "促智药+阿普唑仑"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "心理治疗+阿普唑仑"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35003300,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003300,
+                        "ChildTableID": -1,
+                        "UserCount": 1669,
+                        "RightCount": 1002,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003300,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 35003303,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003303,
+                        "ChildTableID": -1,
+                        "UserCount": 1640,
+                        "RightCount": 1017,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003303,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 35003306,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003306,
+                        "ChildTableID": -1,
+                        "UserCount": 1448,
+                        "RightCount": 1381,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003306,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001638,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001638,
+                        "ChildTableID": -1,
+                        "UserCount": 1613,
+                        "RightCount": 964,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001638,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41002221,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002221,
+                        "ChildTableID": -1,
+                        "UserCount": 1392,
+                        "RightCount": 1318,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002221,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41002223,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002223,
+                        "ChildTableID": -1,
+                        "UserCount": 1525,
+                        "RightCount": 636,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002223,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41002225,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002225,
+                        "ChildTableID": -1,
+                        "UserCount": 1570,
+                        "RightCount": 954,
+                        "FavCount": 34,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002225,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43019621,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019621,
+                        "ChildTableID": -1,
+                        "UserCount": 1452,
+                        "RightCount": 1048,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019621,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019623,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019623,
+                        "ChildTableID": -1,
+                        "UserCount": 1407,
+                        "RightCount": 1121,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019623,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43019626,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019626,
+                        "ChildTableID": -1,
+                        "UserCount": 1537,
+                        "RightCount": 666,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019626,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43019627,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019627,
+                        "ChildTableID": -1,
+                        "UserCount": 1423,
+                        "RightCount": 732,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019627,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43019630,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019630,
+                        "ChildTableID": -1,
+                        "UserCount": 1457,
+                        "RightCount": 955,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019630,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019631,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019631,
+                        "ChildTableID": -1,
+                        "UserCount": 1462,
+                        "RightCount": 900,
+                        "FavCount": 35,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019631,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019632,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019632,
+                        "ChildTableID": -1,
+                        "UserCount": 1451,
+                        "RightCount": 616,
+                        "FavCount": 59,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019632,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43019633,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019633,
+                        "ChildTableID": -1,
+                        "UserCount": 1308,
+                        "RightCount": 1145,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019633,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019634,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019634,
+                        "ChildTableID": -1,
+                        "UserCount": 1442,
+                        "RightCount": 694,
+                        "FavCount": 47,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019634,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001640,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001640,
+                        "ChildTableID": -1,
+                        "UserCount": 1508,
+                        "RightCount": 620,
+                        "FavCount": 60,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001640,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019635,
+                "ChildTableID": 43003352,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019635,
+                        "ChildTableID": 43003352,
+                        "UserCount": 1354,
+                        "RightCount": 1214,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019635,
+                    "ChildTableID": 43003352
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019635,
+                "ChildTableID": 43003353,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019635,
+                        "ChildTableID": 43003353,
+                        "UserCount": 1481,
+                        "RightCount": 829,
+                        "FavCount": 36,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019635,
+                    "ChildTableID": 43003353
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019635,
+                "ChildTableID": 43003354,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019635,
+                        "ChildTableID": 43003354,
+                        "UserCount": 1554,
+                        "RightCount": 701,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019635,
+                    "ChildTableID": 43003354
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43019636,
+                "ChildTableID": 43003355,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019636,
+                        "ChildTableID": 43003355,
+                        "UserCount": 1491,
+                        "RightCount": 1264,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019636,
+                    "ChildTableID": 43003355
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019636,
+                "ChildTableID": 43003356,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019636,
+                        "ChildTableID": 43003356,
+                        "UserCount": 1506,
+                        "RightCount": 1072,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019636,
+                    "ChildTableID": 43003356
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019636,
+                "ChildTableID": 43003357,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019636,
+                        "ChildTableID": 43003357,
+                        "UserCount": 1678,
+                        "RightCount": 549,
+                        "FavCount": 73,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019636,
+                    "ChildTableID": 43003357
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 35003307,
+                "ChildTableID": 35000435,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003307,
+                        "ChildTableID": 35000435,
+                        "UserCount": 1568,
+                        "RightCount": 1021,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003307,
+                    "ChildTableID": 35000435
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 35003307,
+                "ChildTableID": 35000436,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003307,
+                        "ChildTableID": 35000436,
+                        "UserCount": 1477,
+                        "RightCount": 1238,
+                        "FavCount": 20,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003307,
+                    "ChildTableID": 35000436
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 35003307,
+                "ChildTableID": 35000437,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003307,
+                        "ChildTableID": 35000437,
+                        "UserCount": 1508,
+                        "RightCount": 1129,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003307,
+                    "ChildTableID": 35000437
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41002227,
+                "ChildTableID": 41000338,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002227,
+                        "ChildTableID": 41000338,
+                        "UserCount": 1634,
+                        "RightCount": 807,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002227,
+                    "ChildTableID": 41000338
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 41002227,
+                "ChildTableID": 41000339,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002227,
+                        "ChildTableID": 41000339,
+                        "UserCount": 1571,
+                        "RightCount": 1070,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002227,
+                    "ChildTableID": 41000339
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41002227,
+                "ChildTableID": 41000340,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002227,
+                        "ChildTableID": 41000340,
+                        "UserCount": 1615,
+                        "RightCount": 808,
+                        "FavCount": 43,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002227,
+                    "ChildTableID": 41000340
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

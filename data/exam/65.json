@@ -1,0 +1,187 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 13:59:52 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "9b9432a4cee3c55b78e3a0620e7f9d68d583b359ce23b42e56503019c0b886e3323cc874cb0912b5223b9db59ba7eeeb",
+                            "Explain": "毛果芸香碱，治疗原发性青光眼，包括开角型与闭角型青光眼。",
+                            "TestPoint": "胆碱受体激动药",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "重症肌无力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "青光眼"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "术后腹胀气"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "房室传导阻滞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "有机磷农药中毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002585,
+                            "ATestID": 43002585,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 65,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "9b9432a4cee3c55b441f3c534f6ebeb338d3a498f48f5d28cefe0ebf17350f4d4259b1638ae606fc",
+                            "Explain": "毛果芸香碱是从毛果芸香属植物叶中提取的生物碱。直接激动M胆碱能受体，使虹膜括约肌收缩，瞳孔缩小，调节痉挛。睫状肌收缩导致房水排出阻力减少，使青光眼的眼内压下降。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "缩瞳，调节麻痹，减低眼内压"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "扩瞳，调节麻痹，升高眼内压"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "缩瞳，调节痉挛，降低眼内压"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "扩瞳，调节痉挛，降低眼内压"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "缩瞳，调节痉挛，升高眼内压"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000492,
+                            "ATestID": 41000492,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 65,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43002585,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002585,
+                        "ChildTableID": -1,
+                        "UserCount": 4469,
+                        "RightCount": 3579,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002585,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 41000492,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000492,
+                        "ChildTableID": -1,
+                        "UserCount": 4551,
+                        "RightCount": 3168,
+                        "FavCount": 74,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000492,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,838 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:46:52 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 12,
+                    "TestItems": [
+                        {
+                            "Title": "bb8d4d0b9c5c5c95f51effc2434350e4654ad4fbc77e3f48716c780312230f1727b4e83c66aae53b",
+                            "Explain": "本题考查考生对医学统计学中有关总体率可信区间真正意义的理解。主要是考查考生对可信区间的理解是95%的值\"在此范围\"还是\"在此范围的可能性\"。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "95%的正常值在此范围"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "95%的样本率在此范围"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "95%的总体率在此范围"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "总体率在此范围内的可能性为95%"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "样本率在此范围内的可能性为95%"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023488,
+                            "ATestID": 43023488,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5708ecb7b4e3cc931d7d2eb938933e63b938eeeb2c2101e66de33f047b98b12736832c191f03294d0db6739d4166070a",
+                            "Explain": "本题考查考生对医学统计掌中有关样本定义的认知情况。其核心信息是\"样本应该代表总体\"。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "总体中任意的一部分"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "总体中配合调查的部分"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "总体中有实际意义的一部分"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "总体中有价值的一部分"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "总体中有代表性的一部分"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023489,
+                            "ATestID": 43023489,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8a2a1f99417347bdd4de712b03a6aaa59c64e0d9eadff34d52f190d7045c7dfce2a9351818bef9d1901e95d6843032dc4b988abcad28ee7835790f1d7acb2879757b8ce3a95402ebd219d0096bd9c310f759a4b9a28c2e74a3882b8dec79d85c77cbdb8544f0e75921126d2c0876e75975a393b5ea038a4a284558c6962acc520f0759595cd40fc3",
+                            "Explain": "正常值是临床医生应用最为广泛的词之一。本题考查考生对医学统计学中有关正常值意义的理解。其核心信息是\"绝大部分正常人\"而非\"所有人\"或\"所有正常人\"。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "该指标在所有人中的波动范围"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "该指标在所有正常人中的波动范围"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "该指标在绝大部分正常人中的波动范围"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "该指标在少部分正常人中的波动范围"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "该指标在一个人不同时间的波动范围"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023490,
+                            "ATestID": 43023490,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "be4e45bb5449290d530abbbf77e3a9e0ea7bfc76294014d7f42f9933a35d0d8b19022f3a80657d2ec3ba6793690515f69533c03fe2727e06ebb6f370adafda063771f7e549deeabf81816dfb0d8ed649",
+                            "Explain": "本题考查考生能否应用流行病学方法中有关病例对照研究的原则来选择对照。其核心信息是\"非患者\"以及\"非研究因素和特征与病例组有可比性\"。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "产生病例人群中的非患者，其他非研究因素和特征与病例组有可比性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "产生病例人群中非病例的一个非随机样本"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "产生病例人群中的非患者，其他非研究因素与病例组相同"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "未患所研究疾病的人"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "未患所研究疾病的人，其他非研究因素与病例组有可比性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023491,
+                            "ATestID": 43023491,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bf3e9e96f354f90c3706af4ac57a8e5bdaa894f9fa0e209774d436b024afcf4139af92aa4ef7a597a71ade086e1b562a0f0931911c56d4f1bb6de62f27cc46adf828a50d2b4d58628be4cb1821fb5dce",
+                            "Explain": "本题考查考生能否应用流行病学方法中有关队列研究的指标来判断暴露与疾病发生的关系。尽管发病率也是队列研究中的一个重要指标，但这里的问题是要估计某因素与某疾病关联强度，所以，应该选择相对危险度，即E选项。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "总人群中该病的发病率"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "暴露人群中该病的发病率"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "总人群中可疑危险因素的暴露率与对照人群暴露率之差"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "暴露人群中该病的发病率与非暴露人群该病的发病率之差"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "暴露人群中该病的发病率与非暴露人群该病的发病率之比"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023492,
+                            "ATestID": 43023492,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3c419973bdd738032a7c92bea99d93c0964a206522728ae905b21befcd1ed453773b2cd6c6d7a52faa3220ee098955693159daf85d3afc7b",
+                            "Explain": "临床预防服务是临床医生最为直接的预防服务。本题考查考生对临床预防服务的正确理解。临床预防服务强调的是\"在临床场所\"以及\"只包括第一级和第二级预防的服务\"，所以答案应选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "一种临床治疗、促进康复的综合卫生服务"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "一种基层卫生服务为基础的三级预防服务"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "在临床场所下实施第一级和第二级预防结合的服务"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "在临床场所下实施第三级预防服务"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "在社区预防中实施第一级和第二级预防结合的服务"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023496,
+                            "ATestID": 43023496,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "084649c12a973df1c34059fa8edcdb71b3c8fff099889cc32a69daa5c79caee20c76cc10b0bafb5b1e746408deea486c92091874449afb72bea900cf171ed01ac245004e6dd49527b083912d308f5c0ecb061e785f403b2b",
+                            "Explain": "本题考查考生是否正确理解流行病学描述疾病分布常用测量指标中患病率的含义，其高与低所表达的意义，以及与发病率的区别。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "该病的发病率会上升"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "该病的患病率会升高"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "该病的病死率会升高"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "该病的患病率会降低"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "该病的发病率会降低"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023497,
+                            "ATestID": 43023497,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "482772f849f255f81a86be61e30c37e56e7b207428e8371fc13f0242e61ede91c4ecfeb03f91f4c26fa93809331a8958",
+                            "Explain": "本题考查考生是否正确理解流行病学描述疾病分布的目的意义。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "阐明疾病的流行规律，并探索影响因素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "发现新病种及其临床特点"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "计算有关疾病频率指标"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "制定并评价预防措施的效果"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "研究病因及疾病发生的影响因素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023498,
+                            "ATestID": 43023498,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a3552706b7bfd3c2979fa5daaa50a860e6b2fd8d3f77cfadd2f86182ca19df314a2b3a12f21615c5",
+                            "Explain": "此题是基本概念理解题，考核对疾病预防概念的理解。预防疾病最有效的措施是针对致病因素采取的预防措施；改善环境、增强自我保健意识、增进人体健康是对疾病的间接预防措施，因此A是正确答案。选项D的迷惑性为预防接种是对传染病的预防措施，而对非传染病、慢性病就不适用，因此不全面。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "针对致病因素所采取的预防措施"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "改善环境措施"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "增进人体健康的措施"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "预防接种，提高人群免疫水平"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "增强自我保健意识"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028472,
+                            "ATestID": 43028472,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "",
+                            "OperateTime": "2019年2月11日",
+                            "OldTestJson": "{\"Title\":\"预防疾病最有效的措施是\",\"Explain\":\"此题是基本概念理解题，考核对疾病预防概念的理解。预防疾病最有效的措施是针对致病因素采取的预防措施；改善环境、增强自我保健意识、增进入体健康是对疾病的间接预防措施，因此A是正确答案。选项D的迷惑性为预防接种是对传染病的预防措施，而对非传染病、慢性病就不适用，因此不全面。\",\"TestPoint\":\"\",\"Answer\":\"A\",\"Difficulty\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"针对致病因素所采取的预防措施\"},{\"ItemName\":\"B\",\"Content\":\"改善环境措施\"},{\"ItemName\":\"C\",\"Content\":\"增进入体健康的措施\"},{\"ItemName\":\"D\",\"Content\":\"预防接种，提高人群免疫水平\"},{\"ItemName\":\"E\",\"Content\":\"增强自我保健意识\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "7d79c8c9eb893ed6257e28e7cd5d3c36238dc32ff15d7cba73da8f3f6dcbc985",
+                            "Explain": "掌握流行病学的偏倚是正确应用流行病学方法以及科学判断研究结果的重要方面。本题考查考生能否了解流行病学研究中常见几类偏倚。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "选择偏倚、混杂偏倚、失访偏倚三类"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "选择偏倚、信息偏倚、混杂偏倚三类"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "选择偏倚、信息偏倚、测量偏倚三类"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "回忆偏倚、报告偏倚、测量偏倚三类"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "入院率偏倚、易感性偏倚、无应答偏倚三类"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028478,
+                            "ATestID": 43028478,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "984070591e2757f6b3cdcb80307e0fa9a230c723403782f8cd27c26f857566603e6a5fef5a86b41fe1d3d41c7b6ee587522dfc185b488985890c37a25b2885ab49e28d9db0a302883f25e67506cc5263c5c4cf4b2fc64f78e259ece85f84cda41d2900d0615a32ac134f4836ad0141e3b590429049226307def4cbcb908cb654bdd48b597ff1ed29",
+                            "Explain": "在环境危险度评估中，“效应”和“反应”是比较容易混淆的两个概念。本题考查考生能否鉴剐剂量，效应关系和剂量，反应关系这两个在环境危险度评估中重要的指标。由于该问题问的是“具有某种生物效应的人数”，而非“机体呈现某种生物学效应程度”，故应选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "时间-效应关系"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "剂量-效应关系"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "时间-反应关系"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "剂量-反应关系"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "剂量-发病关系"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028479,
+                            "ATestID": 43028479,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8d6b55253564c6976e7c5c86d48238e5527df4e4de49ed77b5b204e3a610a71e4333e7ca9e806acc51d35eb6d8691721d83e487d3797a4f14d3558b04f5dcef44cf5dce23fdd31f8ed70551b79377bd3ce9f3442869fa06cf7ce244b47cd7111e3b9fa1f8c925b0f",
+                            "Explain": "参与公共卫生监测是临床医生的一项重要工作。本题考查考生能否正确理解常见的几种公共卫生监测的方法。该题的核心信息是“监测有代表性特定人群”，所以答案应选哨点监测。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "常规报告"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "被动监测"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "哨点监测"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "医院为基础的监测"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "主动监测"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028480,
+                            "ATestID": 43028480,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 530,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43023488,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023488,
+                        "ChildTableID": -1,
+                        "UserCount": 1395,
+                        "RightCount": 945,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023488,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43023489,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023489,
+                        "ChildTableID": -1,
+                        "UserCount": 1426,
+                        "RightCount": 759,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023489,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023490,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023490,
+                        "ChildTableID": -1,
+                        "UserCount": 1276,
+                        "RightCount": 896,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023490,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023491,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023491,
+                        "ChildTableID": -1,
+                        "UserCount": 1273,
+                        "RightCount": 740,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023491,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023492,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023492,
+                        "ChildTableID": -1,
+                        "UserCount": 1274,
+                        "RightCount": 769,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023492,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023496,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023496,
+                        "ChildTableID": -1,
+                        "UserCount": 1224,
+                        "RightCount": 638,
+                        "FavCount": 19,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023496,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43023497,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023497,
+                        "ChildTableID": -1,
+                        "UserCount": 1201,
+                        "RightCount": 840,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023497,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023498,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023498,
+                        "ChildTableID": -1,
+                        "UserCount": 1220,
+                        "RightCount": 830,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023498,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43028472,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028472,
+                        "ChildTableID": -1,
+                        "UserCount": 55,
+                        "RightCount": 42,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028472,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028478,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028478,
+                        "ChildTableID": -1,
+                        "UserCount": 65,
+                        "RightCount": 35,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028478,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028479,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028479,
+                        "ChildTableID": -1,
+                        "UserCount": 63,
+                        "RightCount": 29,
+                        "FavCount": 0,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028479,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028480,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028480,
+                        "ChildTableID": -1,
+                        "UserCount": 59,
+                        "RightCount": 32,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028480,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

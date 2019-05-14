@@ -1,0 +1,4264 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:21:44 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 38,
+                    "TestItems": [
+                        {
+                            "Title": "db1f5bb9fb82be1c5a5203b96c08aa28f39e4174da037f09141d4a75ccd25169eccaf41cf46bf46014cfe3e75e7b44b7d61f59f472b788c5cf5f42e2ef3ee966",
+                            "Explain": "临床试验基本原则：对照原则，盲法的原则，随机的原则，足够的样本量。让受试者了解自己的分组归属违背了盲法的原则。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "分组要遵循随机化的原则"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "让受试者了解自己的分组归属"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "要有足够的样本数"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "设立对照"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "有明确的疗效判断标准"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000977,
+                            "ATestID": 35000977,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2afedda21c6210ce7455291562c14e30e68b67a5ff1fc72c2d66356f265741c9d30729924f021811e29f5f98ba9f618100cefd1ba038f91b267e7fe8173a88b678c699c6ec3a83850ca5333254fa25cd",
+                            "Explain": "罹患率和发病率一样，均是人群新病例数的指标。罹患率通常多指在某一局限范围，短时间内的发病率。其优点是可以根据暴露程度精确的测量发病概率。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "罹患率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "发病率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "患病率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "感染率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "发病比"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000984,
+                            "ATestID": 35000984,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "360f78c392b949d07e15fedc40dabae9d13751686c3cbfcbc38070caebc08ba2acb110c5aae571d4a898d913b421f3872734f62067c8f2ca7791de918a23c7a851af519dac2c96b2c6f61393c7e55767",
+                            "Explain": "比值比（OR）是在病例对照研究中表示暴露因素与疾病发生之间的相关程度；相对危险度（RR）是在队列研究中两种暴露条件下发病率之比，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "RR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "RR-1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "OR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "OR-1"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "P[XB1.gif]-P[XB0.gif]"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000988,
+                            "ATestID": 35000988,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7d79c8c9eb893ed67990f2a1c7d49cefcc88bd2b8f0442044d6b06f6b08c465b",
+                            "Explain": "在流行病学研究中易出现且对观察结果有较大影响的偏倚可以分为选择偏倚、信息偏倚、混杂偏倚三类。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "选择偏倚、混杂偏倚、测量偏倚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "选择偏倚、信息偏倚、混杂偏倚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "选择偏倚、信息偏倚、测量偏倚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "回忆偏倚、报告偏倚、测量偏倚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "入院率偏倚、易感性偏倚、无应答偏倚"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000992,
+                            "ATestID": 35000992,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "43225b573ead75365a2394ccf1dba6820e8fc21688c444923b0da6fdacda66d72fcb3979c23be3054dc70fae700d682131540ced08f0fcad65279e6edd885eaf1c595496f0c926c9daa9221b0077a86f4978b8236151b02a1b41feae657274d037b245b2820f86d8baddb41522a36c6724bb50c8fe063770",
+                            "Explain": "呼吸性粉尘指粒径在5μm以下的能进入人体肺泡区的颗粒物，是引起尘肺的病因。故粉尘样品中呼吸性粉尘占35%+45%=80%，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "35%"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "45%"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "15%"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "80%"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "95%"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000993,
+                            "ATestID": 35000993,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7ed40720fcd5d6628209d5ffcc83efac2d679a7e5f8427cab6907ee72266ae6e45bbc95371ace072b2e227362633b7f7f1497fc915d544c14307927d1feddd81cfe764ba0e0b3503b706c3a02f2442b925b504bc5488f8a3f3898085de3d9bb30ce7c7df41534f3b3154870d894620ce855bdf18c10a7d320d324a72366822098e2458fdf7af222b131be431482cc712dce1b46f98fe64d2a24484433b1a37b5e05e649396f152a3d5057d19384eeaeeab0df15f94c75012eab5dc4a2ddff783a7d01b17dc7efc837f36b19f14e338d9",
+                            "Explain": "比较时资料要同质可比，用标准化法将资料变换为符合可比条件，消除混杂因素的影响，要进行率的标准化。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "不正确，因为未区分发病率或死亡率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "不正确，因为未设对照组"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "不正确，因为未进行率的标化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "正确"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "不正确，因为未用率指标测量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000999,
+                            "ATestID": 35000999,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8565cf9b234eb2dbab71d238ae5f4cbc75295888ace8341a2411a2af6704d78be0eee6d9aecb8f700d7f5b2a62446897cef21931d426d92b292a3b5eeed2ac98df021370797f91c6bb9f7219d3c7f0f2a9fc510a43c83e8e513c9ffe5196b9c834dad0080fc1a6321e9a87b68d298fa94a9403b4f9efd44d36c125267ed86dfb1bde4ad26c928f628132bf41a294ca7ddceb09e5d71e1499763dacafb417f5c4344474056d8ffed58c76bb8e6e006395292c0abff792d84515e5932694ee41bb",
+                            "Explain": "暴发是指在一个局部地区或集体单位中，短时间内突然出现大量相同患者的现象。多有相同的传染源或传播途径。大多数患者常同时出现在该病的最长潜伏期内。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "散发"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "流行"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "大流行"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "暴发"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "聚集"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001004,
+                            "ATestID": 35001004,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "632eddb4b6f8671a63c6f1469182269b0d93d724426326e52fc096ed79454b7d18952783949ef1022eb42e07cf20b160435063c3b47738bbc7c562c93b77a527",
+                            "Explain": "动态数列是指一系列按时间顺序排列的统计指标，用以说明事物在时间上的变化和发展趋势。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "比例"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "百分率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "相对比"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "千分率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "动态数列"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000727,
+                            "ATestID": 43000727,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e94e763c1e55dc3720481c390aec173d",
+                            "Explain": "参数：总体的统计指标称为参数。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "除了实验因素外，影响被研究指标的非实验因素相同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "在同质的基础上被观察个体之间的差异"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "总体的统计指标"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "样本的统计指标"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "观察值与实际值的差值"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000728,
+                            "ATestID": 43000728,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3523094ddb61db84584bbbb3a3c0e95f0e257fa68ccd591cf864c664e8877a9a87e5ddc902c2bc089dc6a0f4860a5a82",
+                            "Explain": "样本均数的标准差称为标准误，是说明均数抽样误差大小的指标。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "全距"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "标准差"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "变异系数"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "均数"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "标准误"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000730,
+                            "ATestID": 43000730,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a57068e8dfe9e8fbc29c0ce2cbd042c066bbb41df752ec44920af0b7985eb773599dc0a95230ff5dc13719b7034ddb555ea714d9eac3624f35d49a63e0717ed49d59181be87aa595f17bcb95097f5c3f5eaf2a1ecd1d26bd",
+                            "Explain": "患病率是指某特定时间内总人口中某病新旧病例所占比例。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "高血压患病率"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "高血压发病率"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高血压家庭续发率"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "高血压病死率"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "高血压罹患率"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016031,
+                            "ATestID": 43016031,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7813fbe6f37d31b376ee8d76e5ca13d96f230dee0be39fe6f68534cf368f800d421b3b76a08350b1d7b291d6af43e1d0c28f0e7c54c1c344837aaf5af01e2fd9",
+                            "Explain": "罹患率是测量新发病例频率的指标区别在于它常用来衡量人群中在较短时间内新发病例的频率。发病率是表示特定人群在一定时间内（一般为一年）发生某病新病例的频率。患病率指某特定时间内总人口中某病新旧病例所占的比值。感染率是指在检查人群中某病现在感染人数所占的比例，故选C。",
+                            "TestPoint": "医学统计学",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "罹患率"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "感染率"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "患病率"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "发病率"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "病死率"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016034,
+                            "ATestID": 43016034,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "06cf5e7f8f7b66149ee1abd26eea9b2972fe30c950fde3b0783ad1514ff9041ceff3e23c53f5d0bcf2edfa4ac9f016e29806bec4347a59f3110e0a95f5f1a39b8b1c6949a095c7c044068aa216bf4c2bf98198fdce18e437075cd16ea43f49327194b01d37f9d79d94376e0a4e2a62b0c022acd9addd17146f8441113b6cfedd",
+                            "Explain": "病死率表示一定时期内，患某病的全部患者中因该病死亡者所占的比例。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病死率"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "患病率"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "死亡率"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "患病构成比"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "罹患率"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016035,
+                            "ATestID": 43016035,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a047e56bd1dc879259674646a5ae7d25aacebed65659fd40b14b93df045fb2b56619a88856aeca615d1573b188b4029053a775f543824204",
+                            "Explain": "试验研究中对照组与试验组发病'率之比为效果指数。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "罹患率"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "治愈率"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "生存率"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "保护率"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "效果指数"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016036,
+                            "ATestID": 43016036,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "06cf5e7f8f7b66142cc2e10c421002be30fdabea81a66369d0c15e7bcd45d7e2a5aad772dba3ffcdee10bedfda718cf2cf351cf7a5757eb16c24a0d6cec2d26ba5df2769722b7fa9f3b2653ed850113f7668b5bc972cce0d8a1ace2454539818",
+                            "Explain": "流行指某病在某地区的发病率显著超过历年（散发）的发病率水平。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "大流行"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "暴发"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "小流行"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "散发"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "流行"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016038,
+                            "ATestID": 43016038,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e3650272229fa34219add2f976812af384968d3c5d7986fffdc9466b93e68921fdf8a85b0e31a1a746724b4d1072c161c2121202040144c9dbc330a114ec6f52c8bd6fcd4ebb89c9d188d9585724a72",
+                            "Explain": "暴发指在一个局部地区或集体单位中，短时间内突然出现大量相同患者的现象。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "流行"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "大流行"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "散发"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "暴发"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "季节性升高"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016040,
+                            "ATestID": 43016040,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "96d280fbc2e3e6aa8a9c48c62505d79f8cc383bdafe7afb783544b6d7d2dfda2b44d5b6fc4cf4b1cf6b02cba8dd1358667dfda375e82bc54c29466d57db584b707df04602cc9297f3bc22399d4cb8a16",
+                            "Explain": "抽样调查概念：按一定的比例从总体中随机抽取有代表性的一部分人（样本）进行调查，以样本统计量估计总体参数，称为抽样调查。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "抽查"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "队列研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抽样调查"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "理论流行病学研究"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016042,
+                            "ATestID": 43016042,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "be4e45bb5449290dd7edf4f939b48c4161c8d825f5478347b7cf00ebd41504b6406760f891f8b7eb9bb2a9619067014c2c27911b3db8d1c3",
+                            "Explain": "随机定起点，一定间隔抽取单位，称为系统抽样。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "随机选择"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "总体分层"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "随机定起点，一定间隔抽取单位"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "复杂抽取"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "剔除特别"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016043,
+                            "ATestID": 43016043,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3c41b96f03884da851567f6ef4819b0c4dde27e04e4ca97dcc34b8df1176f878",
+                            "Explain": "对新发生的群体时间，要先进行现况调查研究。病例对照研究是判断该暴露因素是否与该疾病有关联及其关联程度大小的一种观察性研究，故选E。",
+                            "TestPoint": "诊断试验和筛检试验",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "现场研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "临床试验研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "理论流行病学研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "现况调查研究"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016045,
+                            "ATestID": 43016045,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3794346271f73250a07c5cd87b0b11d9b3cf604bd12fc69f58b06b12f8c7c7f4e1f5aee4dcb6040f0077a6b82349af472f9a4164275ea4c04b5f0e731bf06a5e9f02e5c4ca4073f691852147285f0c1dd3ba25340b80514369c9f6f795deec852a8e76c1731474ff7bb145d0a7f9a850cde7bad8d57fc677c4bcf91bf687f35d3e07f89496c286b4",
+                            "Explain": "对新发生的群体时间，要先进行现况调查研究。病例对照研究是判断该暴露因素是否与该疾病有关联及其关联程度大小的一种观察性研究，故选A。",
+                            "TestPoint": "诊断试验和筛检试验",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "临床试验研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "现况调查研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "理论流行病学研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "现场研究"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016046,
+                            "ATestID": 43016046,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3293bea20c918889dd155e4a9f0a81e608bd46b39224f5f886928c60bee6d2ca31a2b45f20e6d0d9fedc39db553a862b7718412638f49759",
+                            "Explain": "若证实导致这次腹泻的病因，应具有病例调查，故选C。",
+                            "TestPoint": "诊断试验和筛检试验",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "临床试验"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "实验室检查"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "病例调查"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "队列研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "现场研究"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016047,
+                            "ATestID": 43016047,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "360f78c392b949d07e15fedc40dabae9d13751686c3cbfcbc38070caebc08ba2acb110c5aae571d4a898d913b421f3872734f62067c8f2ca7791de918a23c7a851af519dac2c96b2c6f61393c7e55767",
+                            "Explain": "病例对照研究采用比值比（odds ratio，OR，也称比数比、优势比或交叉乘积比）来估计暴露与疾病之间的关联强度。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "RR",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "RR-1",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "OR",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "OR-1",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "P[XB2.gif]-P[XB0.gif]",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016049,
+                            "ATestID": 43016049,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "943486e22761287e66d1e5d626b49ff595fc7ae09b9fff04e2a05fa4419e37b921e861b0081fc4d01565b75754cbeefe89d2b32c20c02cc1",
+                            "Explain": "流行病学研究分为描述性研究、分析性研究和实验性研究。现况调查属于描述性研究，通常用于描述疾病或健康状况的三间分布状况；病例-对照研究属于分析性研究，以是否患病作为分组原则；队列研究也属于分析性研究，以是否暴露于某因素作为分组原则；流行病学实验研究是将研究对象随机分为实验组和对照组。",
+                            "TestPoint": "常用流行病学研究方法",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "现况研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "队列研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "实验流行病学研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "现场研究"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016051,
+                            "ATestID": 43016051,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c60c00b19756cfda793b194e5614b418d363d4a383ac5bd6412568569b5006b698c3b9fbdc5da3d89cdab7a8f5ad2f3e4223320909cd6aed84d43cd21d516da8730d259cb35d7d0493dd33bcdb88affdfa1fb08dda699ab908d86ee6cd74205e66df2868fd7164a7a24c460c15b26666fe4e38cf9e9c97b9d65d98eeee72a5f59647b92c3b10f51af3ac81020bb8e4956c4467629caf1a556d5e38217164795cf203da7aa8a0d3d51d6f97d60b4e03f0cef75ad46d5909914e607064c0e2a96ad8c33cd5da38238e178cef60c6e9c480",
+                            "Explain": "队列研究是将某特定人群分假设因素的暴露组与非暴露组追踪观察一定时间比较两组的疾病发生率是否有差异。它能直接估计所观察的因素与疾病的联系强度。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "队列研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "现况调查研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "临床试验研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "分析研究实验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016052,
+                            "ATestID": 43016052,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d37260dece8de869cbcc0aa833d9d982d6aa9d5227b53ea68d22bf80f2985c68bb7a21178db96c733465b31634d5af0a45698a7830977746481c8da5cf25d661",
+                            "Explain": "队列研究中，最受关注的是暴露因素导致疾病的强度——发病率，包括累积发病率和发病密度。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "暴露者的发病率"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "暴露者的死亡率"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "暴露者的致残率"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "相对危险度"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "暴露者的发病人数"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016053,
+                            "ATestID": 43016053,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a922c4ce11faf5c5d7228a7938427f61f7404fea1fa005992865230cfb2ef158703685fce181a28e140462b7ec1268ba156f111acbdf0e909c4fe53236dabefc885e896ec507d016ebd007c6dda7aa31acb609f8b2db616756ff",
+                            "Explain": "归因危险度百分比又称为病因分值，是指暴露人群中发病等事件归因子暴露的成份占全部病因的百分比，该指标反映某因素的暴露者中，单纯由于该因素引起发病的危险占整个病因的比例，故选A。",
+                            "TestPoint": "常用流行病学研究方法",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "归因危险度百分比"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "人群归因危险度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "归因危险度"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "人群归因危险度百分比"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "相对危险度"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016054,
+                            "ATestID": 43016054,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7d79c8c9eb893ed67990f2a1c7d49cefcc88bd2b8f04420400dedb69e48a8fc1",
+                            "Explain": "在流行病学研究中易出现且对观察结果有较大影响的偏倚可以分为选择偏倚、信息偏倚、混杂偏倚三类，故选C。",
+                            "TestPoint": "偏倚控制及病因推断",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "选择、中心、混杂偏倚"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "中心、信息、混杂偏倚"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "选择、信息、混杂偏倚"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "选择、信息、中心偏倚"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "选择、数据、混杂偏倚"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016055,
+                            "ATestID": 43016055,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cc95b69029f9e4f36a0b1a45b54d3f352737b2fca8baf030571ce0c99815643adb7383d41940c6608042beff5aa1cd30",
+                            "Explain": "回忆偏倚属于信息偏倚。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "入院率偏倚"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "回忆偏倚"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "检出症候偏倚"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "无应答偏倚"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "错误分类偏倚"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016056,
+                            "ATestID": 43016056,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "428166734cab0c4619380a6f486dd5a9b13dedcdce93774f1dd02b69638cdc95c4093399e2d9a380e8b9dbd0f603c8307b495ec54da05615",
+                            "Explain": "因果关系的判断标准：①关联的强度；②关联的重复性；③关联的特异性；④关联的时间性；⑤剂量反应关系；⑥关联的合理性；⑦实验证据；⑧相似性。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "关联的强度"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "关联的时间性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "关联的特异性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "关联的可重复性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "关联的地区性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016057,
+                            "ATestID": 43016057,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8d6b55253564c6976e7c5c86d48238e5527df4e4de49ed774c99b735d4dcba8b729ff30ef5ed010b976a27a4ec02c48df675686bd03f5fa750cac2c70b6a62f91b426e12f64bf32ba21da37e001e02c528c97ccbc30850618beccba40800b329927592da68061ac75e5d37902b65d874",
+                            "Explain": "对能够反映总人群中某种疾病流行状况的有代表性特定人群（哨点人群）进行监测，了解疾病的流行趋势，属于哨点监测。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "被动监测"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "常规报告"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "哨点监测"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "医院为基础的监测"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "常规监测"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016060,
+                            "ATestID": 43016060,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2872dfd2e0398934210a29dcef88fdb225f15daeb30b42ee8f696f2d1cce8993839a18a54b8a60eba1fafc2b5b28a5aef5b64e0b2c18cad29e1772f43707ae18736620040192f9a97b10187e423636b7ef0750de8643bb88c9ea4a37f5057ddef3a6691bde73f97586970e48b0dc075c45ef3170465b94b15a6dd98de263cf3211b148b0d525108e7fd7c52892b6ba4c78c3e2bb9ca0bd0c972429dd6e20e5b2ada4358e7767d1ac23177e8fc2abc1ec315fe439ca3ba25fa7214bae010668129ee071635fbfa70f7a044e5666fc24f7db03a6fb0bd282698b5baada07efa874935811d358863ee1ba28f8b6ed698e7a1a900bbeab51d2d796b8731745c979add3a9229cd6594a6843f80b94b6d67de8a430fa6cb3abc8fdf81dd31a293c02c0a9aca06bc82cc1b0a12ef19b1405342f0d8fd6a4ef2b378b521d6e5cabc052104d69f9c1b31eb730cf0cef6628a44d96",
+                            "Explain": "队列研究是将人群按是否暴露于某可疑因素及其暴露程度分为不同的亚组，追踪其各自的结局，比较不同亚组之间频率的差异，从而判定暴露因子与结局之间有无因果关联及关联大小的一种观察性研究方法。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "生态学研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "横断面研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "队列研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "临床试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016064,
+                            "ATestID": 43016064,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3bbdb75c104dace9e6970ab5b360a84ccca0a2eb48f75dc8ad4dccc5176641b86c2f07410bf347567401022d3032bea0694a752d0d3acc73bbb3f20c15bf2971b3987c2a390cd8c2",
+                            "Explain": "筛检是运用快速、简便的检验，检查或其他措施，在健康的人群中，发现那些表面健康但可疑有病或有缺陷的人。筛检所用的各种手段和方法称为筛检试验。筛检试验要求快速、简便、灵敏度高，最好能检出所有患者；诊断试验要求科学、准确、特异度高，最好能排除所有非患者。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "提高方法的灵敏度"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "提高方法的特异度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "降低假阳性率"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "提高假阴性率"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "使假阴性率与假阳性率接近"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016065,
+                            "ATestID": 43016065,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "75cf4ae129fa4cb31b2d9936e27d9bf8d9d2fd3a03b085a7e88e3ff966da18680ba0c24879ee2525a8ec0ab4127a20214cdaaa57549b55f4cc291392a881d799",
+                            "Explain": "描述性研究是指利用已有的资料或对特殊调查的资料包括实验室检查结果，按不同地区、不同时间及不同人群的特征进行分组，把疾病或健康状况的分布情况真实地揭示出来的一种研究方法。描述性研究是流行病学研究的基础步骤。当对某病的情况了解不多时，往往从描述性研究着手，取得该病或健康状况的基本分布特征，从而获得有关病因假说的启示，然后逐步建立病因假说，为进一步开展分析性研究提供线索。对于病因不明的疾病，描述性研究的主要任务也仅在于此。检验、验证病因假说是分析性和实验性研究的主要任务。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "循证病因"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "因果诊断"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "确定病因"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "寻找病因的线索，提出病因假设"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "研究发病机制"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016066,
+                            "ATestID": 43016066,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d8807ad941ab026ed5fc418b5bfc758de4ce5d03e3105092be08d75f17bc78df79acdb435198e42b",
+                            "Explain": "Meta分析中的偏倚可分为抽样偏倚、选择偏倚和研究内偏倚三类。抽样偏倚是指查找相关文献时产生的偏倚，包括：发表偏倚、索引偏倚、查找偏倚、参考文献偏倚或引文偏倚、多重发表偏倚和主题多重使用偏倚、英语语种偏倚、数据提供偏倚。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "引用偏倚"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "发表偏倚"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "文献库偏倚"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "失访偏倚"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "多重发表偏倚"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016067,
+                            "ATestID": 43016067,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "012272c92e255d9bc9723244bef5ebc20cc5657cbcfd7cec35d720e9548a88a9c34909f3110a916356c800cd9154b6775824e6e9b72cc5c06a69f0a24e233968d46a8c4b243379ede8bba07531dbe7c752d2fb5d290673142437aa5e79afe4f4",
+                            "Explain": "健康相关行为分为五个阶段，没有准备阶段时的策略是提供信息，提高认识；犹豫不决阶段时的策略是提高认识，激发动机；准备阶段时的策略是提供方法，鼓励尝试；行动阶段时的策略是支持鼓励，加以强化；维持阶段时的策略是不断强化，预防复发。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "提供信息，提高认识"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "提高认识，激发动机"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "提供方法，鼓励尝试"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支持鼓励，加以强化"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "不断强化，预防复发"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016068,
+                            "ATestID": 43016068,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "780d8fc3bfdf5100d68b9d042302761bd5cd181a5906507dbca6d1a9422bf81d7296ca95d6db7e8c",
+                            "Explain": "双盲法是临床试验的又一原则，为了消除临床试验中主观因素的影，响，这种主观影响可以来自于试验者，也可以来自于受试者。盲法设计又可以根据程度分下述几种：①非盲：不管是试验者还是受试者都知道试验的分组情况，试验者和受试者都知道接收干预的内容。这种情况适合于一些危重病例的研究，这时需要试验者和受试者知道病程的变化情况。一旦出现危险可以及时控制。②单盲：仅试验者知道分组情况，受试者不知道自己属于试验组还是对照组。这种设计虽然消除了来自受试者的主观影响，但不能去除试验者的影响，这种设计主要适用于仅仅根据受试者主诉来判断试验结果的临床试验。③双盲：试验者和受试者都不知道分组结果，试验者不知道哪个受试者被分配在哪组，受试者不知道自己被施以何种干预措施。这样可以消除试验者和受试者两方面的主观因素影响，保持试验公正客观，这是临床试验用得最多的盲法设计。④三盲：受试者、试验者、统计者均不知分组结果。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "被观察者不知道分组情况和接受的治疗措施"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "观察者不知道分组情况和接受的治疗措施"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "被观察者与分析者均不知道分组情况和接受的治疗措施"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "观察者与被观察者均不知道分组情况和接受的治疗措施"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "观察者与分析者均不知道分组情况和接受的治疗措施"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016069,
+                            "ATestID": 43016069,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8565cf9b234eb2dbab71d238ae5f4cbc75295888ace8341a2411a2af6704d78be0eee6d9aecb8f700d7f5b2a62446897cef21931d426d92b2a4a417e6e511f3ee72662a60645b431df9d8f415303a945221fe18f1b70dc4dc1e783d82040df3d25bf49fec0992160730b4a27dcf9e2812756bb391e4a9cfd",
+                            "Explain": "暴发是指在一个局部区域内，短时间内突然有很多相同的患者出现；流行是指在某区域内显著超过该病历年的发病率水平如3～10倍；散发是指发病率呈历年一般水平，各病例在短时间和地点方面无明显联系，散在发生。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "散发"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "暴发"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "流行"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "集聚"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "传染"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016070,
+                            "ATestID": 43016070,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b9a9882a2dcd07b0e00bbed636a88a2d36fc79c823b6495f65190481b7c7e020de2afbf1e5da2dce",
+                            "Explain": "目前被公认的最可靠、最权威的、可以反映有病或无病实际情况的诊断方法称为金标准。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病人最乐意接受的诊断疾病的方法"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "临床公认的诊断疾病最可靠的方法"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "临床上最先进的诊断疾病的方法"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "临床上最快速、简单的诊断方法"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "临床上最新发明的诊断方法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016071,
+                            "ATestID": 43016071,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "360f78c392b949d07e15fedc40dabae9d13751686c3cbfcbc38070caebc08ba2acb110c5aae571d447722299e4c6249e1b0a86f516b59764d66255d7615e27e7e732fad9d455faaac53668c5cf83167f",
+                            "Explain": "比值比是指某事物发生的概率与不发生的概率之比。其意义为：比值比为1时，表示暴露与疾病危险无关联；比值比>1，说明疾病的危险度增加，叫作\"正\"关联；比值比<1，说明疾病的危险度减少，叫作\"负\"关联。不同数值范围表明不同程度的危险性。在病例对照研究中一般无暴露组与非暴露组的观察人数，故不能计算发病率或死亡率，亦不能直接计算相对危险度，只能计算比值比来估计相对危险度。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "比值比"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "某因素的暴露率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "某人群中该病的发病率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "某人群中该病的患病率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "某人群中该病的罹患率"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000828,
+                            "ATestID": 41000828,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7d79c8c9eb893ed6b73a34a86292f95efb73330562114064e0c6053f0894eac4c75e3789c6bcbae2",
+                            "Explain": "流行病学是研究特定人群中疾病、健康状况的分布及其决定因素，并研究防治疾病及促进健康的策略和措施的科学。促进、保护、恢复健康是流行病学的研究目的。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "研究人群的疾病谱和死因谱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "研究疾病发生的概率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "研究疾病临床表现的规律性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "探讨病因和影响疾病流行的因素及确定预防措施"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "阐明疾病的发生机制"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000829,
+                            "ATestID": 41000829,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 9,
+                    "TestItems": [
+                        {
+                            "Title": "此项筛检实验的灵敏度为",
+                            "Explain": "灵敏度又称真阳性率，即按照金标准（病理结果）被正确地判为有病的百分比（73/100）。特异度又称真阴性率，即实际无病按该诊断标准被正确地判为无病的百分比（86/100）。约登指数，是灵敏度和特异度之和减去1，（0.73+0.86-1）。临床灵敏度可用来衡量某种试验检测出有病者的能力。由定义可知选A正确。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "73%"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "27%"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "87%"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "86%"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "14%"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "8eef156b7b484443f96ec65c5bd3865b940c36990266b360b69edf897666f6365ddbdab0d3b6fb05d1ab2b99ee2791a35ea12d0cb002ee734642e875201f3e13cee123eba633fa92dfe6b256186b7c16a3d7350b947d78623e18e05b7c3d62d92b208983dcca9e31840359ad97cee8f2e0d478311c76ef39f9fc1f8e572fc87a21312179dfee4d72f53631539cab9c83d8b0aef6e4374663edb993d8e4b4d3f0c4e2d1247b0f0110965e10c6ea50e136822475d44fa9984e96acb861cf5c2148f0e55eb19535fb9c09bd0eed2379e573b51cb59b0727a205",
+                            "AllTestID": 35001008,
+                            "A3TestID": 35000016,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000016,
+                                    "Title": "1261d8a3f39ab340cda7e3e7672037ae58afb920c2732b785d9ce3d9ccbf9609fa94c76425f9981d",
+                                    "Explain": "灵敏度又称真阳性率，即按照金标准（病理结果）被正确地判为有病的百分比（73/100）。特异度又称真阴性率，即实际无病按该诊断标准被正确地判为无病的百分比（86/100）。约登指数，是灵敏度和特异度之和减去1，（0.73+0.86-1）。临床灵敏度可用来衡量某种试验检测出有病者的能力。由定义可知选A正确。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "73%"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "27%"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "87%"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "86%"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "14%"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000017,
+                                    "Title": "1261d8a3f39ab340cda7e3e7672037aef152e26397fca4d56d8f536a0d71697aa3bb90d08dc1dad6",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "73%"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "27%"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "87%"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "86%"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "14%"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000018,
+                                    "Title": "1261d8a3f39ab340cda7e3e7672037ae736d28fee44c8c24969cb3893045b26a6c73c16cb74be4f5",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "0.48"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "0.34"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "0.59"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "0.51"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "0.13"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000019,
+                                    "Title": "3bbdb75c104dace961dd9de7a2783757fd166095da0a4d7997890230b71cd5be9373fb3136368bad79b45464d5ce190a882cda709a29a4d5afa3244e8d2c1ce1624f2a94656ded3d066f74addea086b7",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "提高方法的灵敏度"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "提高方法的特异度"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "降低假阳性率"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "提高假阴性率"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "使假阴性率与假阳性率相等"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "在该研究中，与无A因子暴露史的研究对象相比，暴露于A因子后发生该疾病的OR估计值为",
+                            "Explain": "1.在1:1的病例对照研究中，OR比值为病例有暴露史而对照无暴露史的对子数与对照有暴露史而病例无暴露史的对子数的比值，即OR=C/B=50/20=2.5。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "5.2"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "2.5"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "1.5"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "1.25"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "不能计算"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "3002446594b19296287d993883987688663485fa2abff3b61344d20170df596792c2ed3923f0ac2087665f898f2dfe77b1186ec201aa9f1724c78b8b470a4e4c9bcd8a3ece349ac8cd31e0b2c457081ce49e2cae86ac383adf24506d4bc538d74962074c5f5dc6e2558e7be0fd6c764e9b80e1b4550265fc16530eb6a34fed5796f5e46e951feee20bd991f9eba404823298a85e711b33c8480e80461cddbec2921853d885af4410de07cf2adc67e94de50153f1712269f544c2d0d4798409bf72ff6f8a113130378c35645adbd8f9cda8cf58af727cb5e9ba632f4aad172c1f7dcafaac53fcdf587e892a93471ed44bdaae8173e6c79157c68fe455ade0eef7e8dc74bc107bccc915fa6dc22b6444ad60531c93cd457d1d6f4cde47dfa2a273befddfcabd7dc7bd106df7594064a7b2",
+                            "AllTestID": 41000842,
+                            "A3TestID": 41000017,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000017,
+                                    "Title": "e5bd971e5987869cf21dffc43afcc1276e2c04b962087488a70abb61c0358a9997e3daebb46ff712071513fad7e88b6b050e6d744912f769360320075ca940e5c311fbe96cd2083b5b4189eba781c05cf85eb9ec98eee8a06abbae1753dc2c4ad575eaf3c4001bbd447467efea7439bda3d821f6ed476e4e",
+                                    "Explain": "1.在1:1的病例对照研究中，OR比值为病例有暴露史而对照无暴露史的对子数与对照有暴露史而病例无暴露史的对子数的比值，即OR=C/B=50/20=2.5。故选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "5.2"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "2.5"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "1.5"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "1.25"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "不能计算"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000018,
+                                    "Title": "b8709bb16113a466104fcaf135292aed566f832404e6c01e25b3221733f85282dbb89ff33d9999e2",
+                                    "Explain": "2.OR=1时，表示暴露与疾病危险无关联，OR>1说明疾病的危险度增加，叫做\"正\"关联，OR<1说明疾病的危险度减少，叫做\"负\"关联。因为OR=15>1说明疾病的危险度增加，即A因子暴露者患该病的可能性明显大于非暴露者。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "病例组患该病的可能性明显高于对照组"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "对照组患该病的可能性明显大于病例组"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "有A因子暴露者患该病的可能性不大"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "有A因子暴露者患该病的可能性与非暴露者一样"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "有A因子暴露者患该病的可能性明显大于非暴露者"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "首先应进行的研究是",
+                            "Explain": "1.病例对照研究：选择患病及没患病的为病例组和对照组，回顾过去暴露情况，由果及因，可从一种疾病寻找多种病因线索。队列研究：选择未患病的人群按是否暴露分组观察患病结局。有果有因。临床试验研究：以患者为研究对象，以个体为单位进行随机化分组的试验方法。理论流行病学研究：也叫数理流行病学研究，是将流行病学调查所得到的数据，建立有关的数学模型或用电子计算机仿真，进行理论研究。现况调查研究：研究某个特定时间点和特定范围内人群中的有关变量（因素）与疾病或健康状况的关系，又称为横断面研究。本题应采用现况调查研究，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "队列研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "临床试验研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "理论流行病学研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "现况调查研究"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "1ccf3b95a5c9d3136fc4ae491da386906aac89ed8470025e839cc500c41c076e079c1f6ff834eae494e5167a7f90335363081461200ca1657f13a12a80dfe997928f0c7e96abe6e6a945323bf3c9babbe746f765abf7196e",
+                            "AllTestID": 41000843,
+                            "A3TestID": 41000019,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000019,
+                                    "Title": "3c41b96f03884da851567f6ef4819b0c4dde27e04e4ca97dcc34b8df1176f878",
+                                    "Explain": "1.病例对照研究：选择患病及没患病的为病例组和对照组，回顾过去暴露情况，由果及因，可从一种疾病寻找多种病因线索。队列研究：选择未患病的人群按是否暴露分组观察患病结局。有果有因。临床试验研究：以患者为研究对象，以个体为单位进行随机化分组的试验方法。理论流行病学研究：也叫数理流行病学研究，是将流行病学调查所得到的数据，建立有关的数学模型或用电子计算机仿真，进行理论研究。现况调查研究：研究某个特定时间点和特定范围内人群中的有关变量（因素）与疾病或健康状况的关系，又称为横断面研究。本题应采用现况调查研究，故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "病例对照研究"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "队列研究"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "临床试验研究"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "理论流行病学研究"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "现况调查研究"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000020,
+                                    "Title": "3794346271f73250a07c5cd87b0b11d9b3cf604bd12fc69f58b06b12f8c7c7f4e1f5aee4dcb6040f0077a6b82349af472f9a4164275ea4c04b5f0e731bf06a5e857c5a5f19a0ff737f7320d6901c8616161d8aca057ee0a6a59f0131d28a299a9ef920bc71e811ec049794ea0e8106968453656161d23a6681f7937be2c0a13c",
+                                    "Explain": "2.腹泻疾病的产生可能与吃学校食堂饭菜这个暴露因素有关，调查它们之间的关系，最好采取病例对照研究，故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "病例对照研究"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "队列研究"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "现况调查研究"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "理论流行病学研究"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "临床试验研究"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000021,
+                                    "Title": "3293bea20c918889dd155e4a9f0a81e608bd46b39224f5f886928c60bee6d2ca31a2b45f20e6d0d9fedc39db553a862b7718412638f49759",
+                                    "Explain": "3.若要证实腹泻的病因，应采取病例调查，故选C。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "临床试验"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "实验室检查"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "病例调查"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "队列研究"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "理论流行病学研究"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 14,
+                    "TestItems": [
+                        {
+                            "Title": "aeab112ea0e6a9b8aca7e5257d948a503dbdcffd2ecaf76c9d4c405ae70b04b55260475f7ca5b20ff4cb12c73e648c89bc971701a877d851b5239913fd59e7409a6d422e1ef9f9bb77fbb1e92890e2ba850eefb22ffee950a4af673cb8e7ce972408c969635dbdba5963a2a436252a5307320472a698d303c6c1ecea35d023a26dd408f71ac82fe20a869e2ea1b1a161",
+                            "Explain": "偏倚是研究中结果偏离真实值，分为选择性偏倚（入院率偏倚、现患病例-新发病例偏倚等）、信息偏倚（回忆偏倚、测量偏倚等）、混杂偏倚。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "入院率偏倚"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "回忆偏倚"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "现患病例-新发病例偏倚"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "不依从偏倚"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "失访偏倚"
+                                }
+                            ],
+                            "AllTestID": 35001005,
+                            "BTestID": 35000192,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000192,
+                                    "Title": "aeab112ea0e6a9b8aca7e5257d948a503dbdcffd2ecaf76c9d4c405ae70b04b55260475f7ca5b20ff4cb12c73e648c89bc971701a877d851b5239913fd59e7409a6d422e1ef9f9bb77fbb1e92890e2ba850eefb22ffee950a4af673cb8e7ce972408c969635dbdba5963a2a436252a5307320472a698d303c6c1ecea35d023a26dd408f71ac82fe20a869e2ea1b1a161",
+                                    "Explain": "偏倚是研究中结果偏离真实值，分为选择性偏倚（入院率偏倚、现患病例-新发病例偏倚等）、信息偏倚（回忆偏倚、测量偏倚等）、混杂偏倚。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000193,
+                                    "Title": "954885d20b4978a253135e86971a5d8d7ed6ab4b58da67f04d17b1a1711f03b1bdf8d050e643e23e878d643d567c21d9df925bbe4f8895438f1da773de619f31d5efaa794709c90d",
+                                    "Explain": "偏倚是研究中结果偏离真实值，分为选择性偏倚（入院率偏倚、现患病例-新发病例偏倚等）、信息偏倚（回忆偏倚、测量偏倚等）、混杂偏倚。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "5fd61e9486778bcdd27e48c683c2f40226c2e59407067c3d53436c860017ef65bc37171bac79ff830e3ab98491cf9aa3c957d42e52f87d873f7113435274da9661aa4b04e9fea0dba25e4d556eda0535355ec408a74aa30c",
+                            "Explain": "疾病的时间分布特征有短期波动、季节性、周期性、长期性等特点。肠道传染病夏秋高发，呼吸道传染病冬春季高发，其时间分布具有明显的季节性，我国糖尿病发病率近15年来持续上升，其时间分布具有长期性。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "短期波动"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "长期趋势"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "特异性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "季节性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "周期性"
+                                }
+                            ],
+                            "AllTestID": 35001007,
+                            "BTestID": 35000196,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000196,
+                                    "Title": "5fd61e9486778bcdd27e48c683c2f40226c2e59407067c3d53436c860017ef65bc37171bac79ff830e3ab98491cf9aa3c957d42e52f87d873f7113435274da9661aa4b04e9fea0dba25e4d556eda0535355ec408a74aa30c",
+                                    "Explain": "疾病的时间分布特征有短期波动、季节性、周期性、长期性等特点。肠道传染病夏秋高发，呼吸道传染病冬春季高发，其时间分布具有明显的季节性，我国糖尿病发病率近15年来持续上升，其时间分布具有长期性。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000197,
+                                    "Title": "2c5450f06e88eb98899aeb93c3405fa321df2433c777c20c03038ae17b26ef9c32be62c4b95da0f243d9a37d4c6d8ef11607ea7d451f9a6ae508fb1c5f18816b8e6bc00339ac1b66",
+                                    "Explain": "疾病的时间分布特征有短期波动、季节性、周期性、长期性等特点。肠道传染病夏秋高发，呼吸道传染病冬春季高发，其时间分布具有明显的季节性，我国糖尿病发病率近15年来持续上升，其时间分布具有长期性。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "8c4ee5bda66f0dfeb8fe35ec0a2022c413bc2385d2a0d49e1998c36f9520e134ccdc8c7862d0245432c01fd9ffd26b36f3eb3db3d3d939f8177a8fa79790bd686fc35fae0bf85921aae9c403f074a68ff6b05a464acb59a5",
+                            "Explain": "1.研究的首要工作是做科研设计。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病例队列研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "资料分析"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "资料整理"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "科研设计"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "结果的表达"
+                                }
+                            ],
+                            "AllTestID": 43000733,
+                            "BTestID": 43000234,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000234,
+                                    "Title": "8c4ee5bda66f0dfeb8fe35ec0a2022c413bc2385d2a0d49e1998c36f9520e134ccdc8c7862d0245432c01fd9ffd26b36f3eb3db3d3d939f8177a8fa79790bd686fc35fae0bf85921aae9c403f074a68ff6b05a464acb59a5",
+                                    "Explain": "1.研究的首要工作是做科研设计。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000235,
+                                    "Title": "3794346271f73250a07c5cd87b0b11d9b3cf604bd12fc69f58b06b12f8c7c7f41da29c9174ebdc93c9072531939238e54e9c713404adcdd498ff824597dcf8b17de0dac92d390872a6286534a1eeff04ca9549cbe85dc6fe",
+                                    "Explain": "2.病例对照研究亦称回顾性研究，是以现在确诊的患有某特定疾病的病人为病例，以不患有该病但具有可比性的个体作为对照，通过询问、实验室检查或复查病史，搜集既往各种可疑致病因素的暴露史，测量并比较病例组和对照组中各种因素的暴露比例。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "3e8512dddb6171f10617c4be45ddc718ccae99edd232584da9cf92eb8609d21a83d788e73c0804af2325d72d4e908e2b929527703885d99d11a6fcb2ccc9ef4e1ab8a3d071846ecd791680a9f8092879881f315dd15715d9206faa4e41ca603bb9d04772905b5568e595e38b5fd5f74efef51e1b9a4681cefd319c18e1118a67",
+                            "Explain": "1.对新发生的群体时间，要先进行现况调查研究。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病例对照研究"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "队列研究"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "临床试验研究"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "理论流行病学研究"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "现况调查研究"
+                                }
+                            ],
+                            "AllTestID": 43000734,
+                            "BTestID": 43000236,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000236,
+                                    "Title": "3e8512dddb6171f10617c4be45ddc718ccae99edd232584da9cf92eb8609d21a83d788e73c0804af2325d72d4e908e2b929527703885d99d11a6fcb2ccc9ef4e1ab8a3d071846ecd791680a9f8092879881f315dd15715d9206faa4e41ca603bb9d04772905b5568e595e38b5fd5f74efef51e1b9a4681cefd319c18e1118a67",
+                                    "Explain": "1.对新发生的群体时间，要先进行现况调查研究。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000237,
+                                    "Title": "3794346271f73250a07c5cd87b0b11d9b3cf604bd12fc69f58b06b12f8c7c7f4e1f5aee4dcb6040f0077a6b82349af472f9a4164275ea4c04b5f0e731bf06a5e9f02e5c4ca4073f691852147285f0c1dd3ba25340b80514369c9f6f795deec852a8e76c1731474ff7bb145d0a7f9a850cde7bad8d57fc677c4bcf91bf687f35d3e07f89496c286b4",
+                                    "Explain": "2.病例对照研究是判断该暴露因素是否与该疾病有关联及其关联程度大小的一种观察性研究。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "2016d05fb17027370047b11ff23d51c696e195ab19c94d166b8bcf0baf5dac90aeefe44f97977c207337d127885f475f2bdf074556ab2a48fadc42d22bfe36205a23d45300b1f62e5c4327815111a9e60aebf0e2ac32eef695ab50a16c6db25718ea8f8b40f53fb73e3995b7543b10f8615660d19586a85836cf7d22f99192b0be4a3f31b36a1136",
+                            "Explain": "1.描述流行病学是利用已有的资料或特殊调查的资料进行整理归纳，按地区、时间和人群分布各种特征加以描绘。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "描述流行病学"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "分析流行病学"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "实验流行病学"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "理论流行病学"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "前瞻性研究"
+                                }
+                            ],
+                            "AllTestID": 43000735,
+                            "BTestID": 43000238,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000238,
+                                    "Title": "2016d05fb17027370047b11ff23d51c696e195ab19c94d166b8bcf0baf5dac90aeefe44f97977c207337d127885f475f2bdf074556ab2a48fadc42d22bfe36205a23d45300b1f62e5c4327815111a9e60aebf0e2ac32eef695ab50a16c6db25718ea8f8b40f53fb73e3995b7543b10f8615660d19586a85836cf7d22f99192b0be4a3f31b36a1136",
+                                    "Explain": "1.描述流行病学是利用已有的资料或特殊调查的资料进行整理归纳，按地区、时间和人群分布各种特征加以描绘。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000239,
+                                    "Title": "e50aa2e67f5697a5cabf437ec5c2c2801f2c5dfd8b240826cd5e2519d1481e4143f3ce6ee85d6eeb96e50c008aa5f29238eaaf492b373279efa77a3665c0d09e8fa99690a2509ac725a8663a48ed542ef525082a5f7ef06a511fd1d3ffe4246f34c7ed81153b6f3eb852d696478ea5e31db2099a760129a5166ac5d24974209339948a8d5c2ac9bd",
+                                    "Explain": "2.分析流行病学是对流行病学所假设的病因或流行因素进行检验的方法。它是探讨疾病发生的条件和规律，验证所提出的假设。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "1fa2a1166e7815d22e96c732922b98497c7a7c0ea48e92b21f9024cebe4186ec42aaa25ad435e61643fc7ab40e86a57cd8b3aae29c4d81e858e6cd4a423711aad87c0e73c00d1e738e4c0a5b859cabe1425f6f87f5356f5860dbd5c7a2e346d4cba423c0cd64879c",
+                            "Explain": "1.全距用R表示，是一组资料的最大与最小值之差。反映个体差异的范围。全距越大说明资料的离散程度越大。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "全距"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "四分位数间距"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "方差和标准差"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "变异系数"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "百分位数"
+                                }
+                            ],
+                            "AllTestID": 43000736,
+                            "BTestID": 43000240,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000240,
+                                    "Title": "1fa2a1166e7815d22e96c732922b98497c7a7c0ea48e92b21f9024cebe4186ec42aaa25ad435e61643fc7ab40e86a57cd8b3aae29c4d81e858e6cd4a423711aad87c0e73c00d1e738e4c0a5b859cabe1425f6f87f5356f5860dbd5c7a2e346d4cba423c0cd64879c",
+                                    "Explain": "1.全距用R表示，是一组资料的最大与最小值之差。反映个体差异的范围。全距越大说明资料的离散程度越大。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000241,
+                                    "Title": "1a05b67983aa1686e5e7eae0d3689a964578e3e15766deb7e4c2721a2fc1b03b8853c7bfbc2749b21d040e2b4b2a7fddb2391829ccdbd57102b69ac96dc325670690dd34c9231c2ec247172780920dd7",
+                                    "Explain": "2.四分位数间距：用Q表示，将一组资料分为四等份，上四分位数Qu(P75)和下四分位数QL(P25)之差就是Q。Q值越大，说明资料的离散程度越大。适用于偏态分布资料，比极差稳定。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "daa4ab06bc86c5dfea34e6763d3b4bf6341bd5c4509ece418faa2679cbacefb20c0c50d39c325c334268881defe1e3d84e31f28e61dafe4619b235ea94b51f205c44a59cad9e3f55704181c273ef7ddde8f62ebc3f88af21d95111c51ff89244695be0fb9105fc40",
+                            "Explain": "系统抽样是首先将总体中各单位按一定顺序排列，根据样本容量要求确定抽选间隔，然后随机确定起点，每隔一定的间隔抽取一个单位的一种抽样方式。是纯随机抽样的变种。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "分层抽样"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "系统抽样"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "整群抽样"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "单纯随机抽样"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "普查"
+                                }
+                            ],
+                            "AllTestID": 43016072,
+                            "BTestID": 43002944,
+                            "SrcID": 9,
+                            "SbjID": 42,
+                            "CptID": 68,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002944,
+                                    "Title": "daa4ab06bc86c5dfea34e6763d3b4bf6341bd5c4509ece418faa2679cbacefb20c0c50d39c325c334268881defe1e3d84e31f28e61dafe4619b235ea94b51f205c44a59cad9e3f55704181c273ef7ddde8f62ebc3f88af21d95111c51ff89244695be0fb9105fc40",
+                                    "Explain": "系统抽样是首先将总体中各单位按一定顺序排列，根据样本容量要求确定抽选间隔，然后随机确定起点，每隔一定的间隔抽取一个单位的一种抽样方式。是纯随机抽样的变种。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002945,
+                                    "Title": "daa4ab06bc86c5dfea34e6763d3b4bf64b6ffee87f5543ebec88804d494cbcbc4a4f43ba30b91e07d3fe5095783580e1e59f196c9bb7e20d545d5be438bcca1cd8c4da11638f4707b143296985d8ea7c8ef2e1ef78c888108b831d861a28fddaf834223ae2c9b7f301f318e0cd87bba914d55422fc6c95b51be2358d342d3d13",
+                                    "Explain": "分层抽样是先将总体的单位按某种特征分为若干次级总体（层），然后再从每一层内进行单纯随机抽样组成一个样本的方法。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000977,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000977,
+                        "ChildTableID": -1,
+                        "UserCount": 1270,
+                        "RightCount": 1035,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000977,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 35000984,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000984,
+                        "ChildTableID": -1,
+                        "UserCount": 1311,
+                        "RightCount": 931,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000984,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 35000988,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000988,
+                        "ChildTableID": -1,
+                        "UserCount": 1283,
+                        "RightCount": 723,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 31
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000988,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 31
+            },
+            {
+                "AllTestID": 35000992,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000992,
+                        "ChildTableID": -1,
+                        "UserCount": 1289,
+                        "RightCount": 773,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000992,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 35000993,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000993,
+                        "ChildTableID": -1,
+                        "UserCount": 1254,
+                        "RightCount": 671,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000993,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 35000999,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000999,
+                        "ChildTableID": -1,
+                        "UserCount": 1125,
+                        "RightCount": 617,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000999,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 35001004,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001004,
+                        "ChildTableID": -1,
+                        "UserCount": 1185,
+                        "RightCount": 782,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001004,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000727,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000727,
+                        "ChildTableID": -1,
+                        "UserCount": 1084,
+                        "RightCount": 770,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000727,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000728,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000728,
+                        "ChildTableID": -1,
+                        "UserCount": 1181,
+                        "RightCount": 420,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000728,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000730,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000730,
+                        "ChildTableID": -1,
+                        "UserCount": 1105,
+                        "RightCount": 668,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000730,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43016031,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016031,
+                        "ChildTableID": -1,
+                        "UserCount": 1012,
+                        "RightCount": 736,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016031,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016034,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016034,
+                        "ChildTableID": -1,
+                        "UserCount": 1030,
+                        "RightCount": 772,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016034,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016035,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016035,
+                        "ChildTableID": -1,
+                        "UserCount": 1055,
+                        "RightCount": 609,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016035,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016036,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016036,
+                        "ChildTableID": -1,
+                        "UserCount": 1001,
+                        "RightCount": 598,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016036,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43016038,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016038,
+                        "ChildTableID": -1,
+                        "UserCount": 1000,
+                        "RightCount": 757,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016038,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016040,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016040,
+                        "ChildTableID": -1,
+                        "UserCount": 939,
+                        "RightCount": 809,
+                        "FavCount": 6,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016040,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016042,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016042,
+                        "ChildTableID": -1,
+                        "UserCount": 922,
+                        "RightCount": 806,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016042,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016043,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016043,
+                        "ChildTableID": -1,
+                        "UserCount": 966,
+                        "RightCount": 672,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016043,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016045,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016045,
+                        "ChildTableID": -1,
+                        "UserCount": 964,
+                        "RightCount": 604,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016045,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016046,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016046,
+                        "ChildTableID": -1,
+                        "UserCount": 1019,
+                        "RightCount": 581,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016046,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016047,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016047,
+                        "ChildTableID": -1,
+                        "UserCount": 1029,
+                        "RightCount": 512,
+                        "FavCount": 22,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016047,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016049,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016049,
+                        "ChildTableID": -1,
+                        "UserCount": 922,
+                        "RightCount": 779,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016049,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016051,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016051,
+                        "ChildTableID": -1,
+                        "UserCount": 997,
+                        "RightCount": 596,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016051,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43016052,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016052,
+                        "ChildTableID": -1,
+                        "UserCount": 968,
+                        "RightCount": 703,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016052,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016053,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016053,
+                        "ChildTableID": -1,
+                        "UserCount": 991,
+                        "RightCount": 532,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016053,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016054,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016054,
+                        "ChildTableID": -1,
+                        "UserCount": 1000,
+                        "RightCount": 476,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016054,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43016055,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016055,
+                        "ChildTableID": -1,
+                        "UserCount": 901,
+                        "RightCount": 784,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016055,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43016056,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016056,
+                        "ChildTableID": -1,
+                        "UserCount": 971,
+                        "RightCount": 543,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016056,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43016057,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016057,
+                        "ChildTableID": -1,
+                        "UserCount": 971,
+                        "RightCount": 470,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016057,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016060,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016060,
+                        "ChildTableID": -1,
+                        "UserCount": 925,
+                        "RightCount": 615,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016060,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016064,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016064,
+                        "ChildTableID": -1,
+                        "UserCount": 922,
+                        "RightCount": 646,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016064,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016065,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016065,
+                        "ChildTableID": -1,
+                        "UserCount": 887,
+                        "RightCount": 687,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016065,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016066,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016066,
+                        "ChildTableID": -1,
+                        "UserCount": 838,
+                        "RightCount": 764,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016066,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016067,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016067,
+                        "ChildTableID": -1,
+                        "UserCount": 918,
+                        "RightCount": 593,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016067,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43016068,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016068,
+                        "ChildTableID": -1,
+                        "UserCount": 915,
+                        "RightCount": 633,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016068,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016069,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016069,
+                        "ChildTableID": -1,
+                        "UserCount": 903,
+                        "RightCount": 689,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016069,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016070,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016070,
+                        "ChildTableID": -1,
+                        "UserCount": 849,
+                        "RightCount": 749,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016070,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016071,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016071,
+                        "ChildTableID": -1,
+                        "UserCount": 888,
+                        "RightCount": 622,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016071,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000828,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000828,
+                        "ChildTableID": -1,
+                        "UserCount": 982,
+                        "RightCount": 574,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000828,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000829,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000829,
+                        "ChildTableID": -1,
+                        "UserCount": 857,
+                        "RightCount": 794,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000829,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 35001008,
+                "ChildTableID": 35000016,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001008,
+                        "ChildTableID": 35000016,
+                        "UserCount": 999,
+                        "RightCount": 730,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001008,
+                    "ChildTableID": 35000016
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 35001008,
+                "ChildTableID": 35000017,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001008,
+                        "ChildTableID": 35000017,
+                        "UserCount": 1019,
+                        "RightCount": 652,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001008,
+                    "ChildTableID": 35000017
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 35001008,
+                "ChildTableID": 35000018,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001008,
+                        "ChildTableID": 35000018,
+                        "UserCount": 982,
+                        "RightCount": 735,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001008,
+                    "ChildTableID": 35000018
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 35001008,
+                "ChildTableID": 35000019,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001008,
+                        "ChildTableID": 35000019,
+                        "UserCount": 950,
+                        "RightCount": 803,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001008,
+                    "ChildTableID": 35000019
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41000842,
+                "ChildTableID": 41000017,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000842,
+                        "ChildTableID": 41000017,
+                        "UserCount": 1002,
+                        "RightCount": 520,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000842,
+                    "ChildTableID": 41000017
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 41000842,
+                "ChildTableID": 41000018,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000842,
+                        "ChildTableID": 41000018,
+                        "UserCount": 965,
+                        "RightCount": 605,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000842,
+                    "ChildTableID": 41000018
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000843,
+                "ChildTableID": 41000019,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000843,
+                        "ChildTableID": 41000019,
+                        "UserCount": 974,
+                        "RightCount": 719,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000843,
+                    "ChildTableID": 41000019
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000843,
+                "ChildTableID": 41000020,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000843,
+                        "ChildTableID": 41000020,
+                        "UserCount": 1009,
+                        "RightCount": 684,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000843,
+                    "ChildTableID": 41000020
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000843,
+                "ChildTableID": 41000021,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000843,
+                        "ChildTableID": 41000021,
+                        "UserCount": 1032,
+                        "RightCount": 638,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000843,
+                    "ChildTableID": 41000021
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 35001005,
+                "ChildTableID": 35000192,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001005,
+                        "ChildTableID": 35000192,
+                        "UserCount": 1055,
+                        "RightCount": 506,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001005,
+                    "ChildTableID": 35000192
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 35001005,
+                "ChildTableID": 35000193,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001005,
+                        "ChildTableID": 35000193,
+                        "UserCount": 1015,
+                        "RightCount": 537,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001005,
+                    "ChildTableID": 35000193
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 35001007,
+                "ChildTableID": 35000196,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001007,
+                        "ChildTableID": 35000196,
+                        "UserCount": 899,
+                        "RightCount": 811,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001007,
+                    "ChildTableID": 35000196
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 35001007,
+                "ChildTableID": 35000197,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001007,
+                        "ChildTableID": 35000197,
+                        "UserCount": 900,
+                        "RightCount": 825,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001007,
+                    "ChildTableID": 35000197
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000733,
+                "ChildTableID": 43000234,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000733,
+                        "ChildTableID": 43000234,
+                        "UserCount": 1024,
+                        "RightCount": 525,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000733,
+                    "ChildTableID": 43000234
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000733,
+                "ChildTableID": 43000235,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000733,
+                        "ChildTableID": 43000235,
+                        "UserCount": 968,
+                        "RightCount": 681,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000733,
+                    "ChildTableID": 43000235
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000734,
+                "ChildTableID": 43000236,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000734,
+                        "ChildTableID": 43000236,
+                        "UserCount": 934,
+                        "RightCount": 797,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000734,
+                    "ChildTableID": 43000236
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000734,
+                "ChildTableID": 43000237,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000734,
+                        "ChildTableID": 43000237,
+                        "UserCount": 929,
+                        "RightCount": 767,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000734,
+                    "ChildTableID": 43000237
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43000735,
+                "ChildTableID": 43000238,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000735,
+                        "ChildTableID": 43000238,
+                        "UserCount": 996,
+                        "RightCount": 678,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000735,
+                    "ChildTableID": 43000238
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000735,
+                "ChildTableID": 43000239,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000735,
+                        "ChildTableID": 43000239,
+                        "UserCount": 988,
+                        "RightCount": 572,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000735,
+                    "ChildTableID": 43000239
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000736,
+                "ChildTableID": 43000240,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000736,
+                        "ChildTableID": 43000240,
+                        "UserCount": 1043,
+                        "RightCount": 469,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000736,
+                    "ChildTableID": 43000240
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000736,
+                "ChildTableID": 43000241,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000736,
+                        "ChildTableID": 43000241,
+                        "UserCount": 981,
+                        "RightCount": 543,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000736,
+                    "ChildTableID": 43000241
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016072,
+                "ChildTableID": 43002944,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016072,
+                        "ChildTableID": 43002944,
+                        "UserCount": 947,
+                        "RightCount": 647,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016072,
+                    "ChildTableID": 43002944
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016072,
+                "ChildTableID": 43002945,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016072,
+                        "ChildTableID": 43002945,
+                        "UserCount": 888,
+                        "RightCount": 713,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016072,
+                    "ChildTableID": 43002945
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

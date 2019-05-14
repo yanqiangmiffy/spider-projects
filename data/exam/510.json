@@ -1,0 +1,1568 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:53:30 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 21,
+                    "TestItems": [
+                        {
+                            "Title": "5196e68aa409e10a0128c4961fa4d040c6c5292433c698915819ce3c023657e58c568fdfa53d6e5da1f3fe0f77210413",
+                            "Explain": "本题为记忆题。虽然本例所列的心脏病都可能发生心脏性猝死，但在心脏性猝死中，由冠状动脉粥样硬化性心脏病及其并发症所致者最多，故正确答案是C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "心肌疾病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "主动脉瓣严重狭窄"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "冠状动脉粥样硬化性心脏病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "二尖瓣脱垂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "预激综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023542,
+                            "ATestID": 43023542,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "45f02095adf1731d1a2970539dbda1aca0b46099770d1a64f21faacc8b9cc436",
+                            "Explain": "本题为理解和应用题。洋地黄为正性肌力药。在肥厚梗阻型心肌病时，用正性肌力药可使心肌收缩力增强，因而加重左心室流出道梗阻，故肥厚梗阻型心肌病禁用洋地黄。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "扩张型心肌病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肥厚梗阻型心肌病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高血压心脏损害"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性心肌炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "风湿性心脏病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023544,
+                            "ATestID": 43023544,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dc6ae3ab162ce73cb01cb201c9a975dab6b20b79d96f8e5618c54b600767ae3aab4cbf484dd67c83f722d82c1a2d511a3edc7403871ba6bae05b70a66f014fdc",
+                            "Explain": "A和B无特异性，因此为错误选项。交替脉系左心室收缩力强弱交替所致，为左心室心力衰竭的重要体征之一，双肺底湿啰音是左心衰竭的相对特异体征，但不是最早出现的最有诊断价值的体征，因此并非正确答案，因此选项C和E错误。舒张期奔马律在左心衰竭患者中可早于双肺底湿啰音出现，因此正确答案为D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "S[XB1.gif]心音减弱"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心浊音界扩大"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "交替脉"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "舒张期奔马律"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "两肺底湿啰音"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023545,
+                            "ATestID": 43023545,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cbd7775112161f5c7a483a557a75cc61874a3162657a6b90ab7599f321ca9b7976ae4a50194d3f638cf84cf01effdaaefacac497ca76c0d5e1c0bab8b4e7bdaf",
+                            "Explain": "洋地黄具有正性肌力、抑制心脏传导系统、兴奋迷走神经系统的作用。急性心肌梗死时其正性肌力作用可增加心肌氧耗量，因此需要慎用，故正确答案为D。急性心肌梗死时需要控制心率，因此选项A不是慎用的理由。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "减慢心率"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "降低血压"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "加重肺淤血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "增加心肌耗氧量"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "增加心室壁张力"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023546,
+                            "ATestID": 43023546,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185402979eabaab264dc9f34128b41ec89dd3ef4070c85314f7ad9b326653a59d5d3092500094e06fff9e83eedead4c00af",
+                            "Explain": "抗栓药包括抗血小板和抗凝药物。只有双香豆素为抗凝药物，故正确答案为D。其他选项均为抗血小板药。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "双嘧达莫"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "阿司匹林"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "噻氯匹定"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "双香豆素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "西洛他唑"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023547,
+                            "ATestID": 43023547,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e823ca34c4a636002159c6ca2c38d4f0fa7f568380fb48d0b13971f0bd057c5dacc5e649f9183b3cccbde5e7cec31179",
+                            "Explain": "心绞痛可以在睡眠中发生，常认为是由于回心血量增多，使室壁张力增加，引起心肌耗氧量增加之故。典型的劳力性心绞痛发生在劳累、运动或情绪激动时，引起心肌耗氧量增加，可发生心绞痛。病情加重变得不稳定时，可在休息时发生心绞痛，并且持续时间达30分钟以上。心绞痛发作时含硝酸甘油，3～5分钟内缓解。以上均是支持心绞痛诊断的临床表现，唯有反复出现局限性心前区刺痛，每次持续仅2～3秒，不是心绞痛的症状，刺痛性质和持续2～3秒不支持心绞痛症状。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胸痛多在睡眠中发生"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸痛在含服硝酸甘油3～5分钟内缓解"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "劳累、运动、情绪激动时胸痛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "反复出现的局限性心前区刺痛，每次持续仅2～3秒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胸痛常在休息时发生，持续30分钟以上"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023550,
+                            "ATestID": 43023550,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3c76f95fbd2d5c1a1c9de325d398f4e88337e239bfff623b5142409d043c742be70572555404fe49163bc1580891c71c4455daadc162eac7c207e9d2f16b3827217d714871d7fcf7620941673d2f70ace1aaf20a296036aedd55f22d942041de42bbcab8ac1a17f9",
+                            "Explain": "本题患者的心电图特征为PR间期在相继的心动周期中逐渐延长，最后发生QRS波脱漏，即P波出现后，未能下传心室。如此周而复始，表现为数个P波，有一个P波未能下传心室，可能形成3：2或5：4传导，显然为二度Ⅰ型房室传导阻滞。二度Ⅱ型房室传导阻滞时PR间期固定，不会逐渐延长。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "二度Ⅱ型房室传导阻滞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "二度Ⅰ型房室传导阻滞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心房颤动"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "一度房室传导阻滞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "三度房室传导阻滞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023555,
+                            "ATestID": 43023555,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "db6509e1ad46ce50e0f3b0ae8cea53d19baf032b7a3810809e9f07765f380ec6186c2b2a6b3ba167770c63ac649ce79c",
+                            "Explain": "胸外心脏按压在复苏中是非常重要的，必须准确掌握。若胸外心脏按压在床上进行，应在患者背部垫以硬板。胸外心脏按压的正确部位是胸骨中下1/3交界处。按压时肘关节伸直，依靠肩部和背部的力量垂直向下按压，使胸骨压低约3～5cm，随后突然松弛，按压和放松的时间大致相等。放松时双手不要离开胸壁，按压频率为100次/分钟。每按压30次后进行人工呼吸2次。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "背部垫以硬板1"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "按压部位在左锁骨中线第5肋间"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "按压次数约60～80次/分"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "使胸骨下陷1～2cm"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "每按压5次后进行人工呼吸2次"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023556,
+                            "ATestID": 43023556,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0adbdae2123de31e88aaadf114ca12c050737167ff33d6671b84990a7e47968b9d1412df6098b0c24b3c52bcd4811b651497eb39d3e896c6",
+                            "Explain": "本题属于理解题，理解了肺源性心脏病心力衰竭的主要原因及机制，才能获得问题的正确解决。肺源性心脏病心力衰竭主要是由于肺部感染引起通气功能下降而致低O[XB2.gif]和CO[XB2.gif]潴留，肺动脉痉挛收缩，压力升高，右心负荷加重，因此治疗的关键是积极控制感染和改善呼吸功能（选项E）。它不同于冠状动脉粥样硬化性心脏病、风湿性心脏病等，因此选项D是不正确的。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "卧床休息、低盐饮食"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "使用小剂量强心剂"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "使用小剂量作用缓和的利尿剂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "应用血管扩张剂减轻心脏负荷"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "积极控制感染和改善呼吸功能"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023557,
+                            "ATestID": 43023557,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "29fc144ae905ceffb5596c48d4f40fa0e196e11bd604c5941e8a29ed1167b032068d5024172d6d7578d388a54c387640b175301a00d1e2f4125fbfd062f4494bc01180c179e5a0d86d15b41d96628c45",
+                            "Explain": "此题为临床分析解释的考试题，考试的知识点是左心衰竭的临床表现。左心衰竭是以肺淤血及排血量降低表现为主，肺淤血的主要表现是：程度不同的呼吸困难，如劳力性呼吸困难和夜间阵发性呼吸困难，可伴支气管痉挛及哮鸣音，称心源性哮喘。此外，咳嗽、咳痰是肺泡和支气管黏膜淤血所致，痰一般为白色浆液性泡沫痰，偶尔可有痰中带血。因此，本题选项A、B、C、D、E所列的表现都属于左心衰竭的临床表现。但左心衰竭时，可引起肺静脉压力增高，而不是肺微小动脉压增高，选项C的描述不符合左心衰竭的临床表现。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "咳嗽、咳痰，痰为浆液性，呈白色泡沫状",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "劳力性呼吸困难",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "肺微小动脉压增高，血浆外渗，痰内带血丝",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "阵发性夜间呼吸困难",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "支气管痉挛，发作性哮喘",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023558,
+                            "ATestID": 43023558,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实该题无误。",
+                            "OperateTime": "2018年8月23日"
+                        },
+                        {
+                            "Title": "86877f944ae519e0a65e73b6e3cc4cb5624c686660c77b20f5e6518d4d3ab2eb5d8013de49555f1bc70646610b4a582cff9a6b1979c08ab56705989b4de2d124",
+                            "Explain": "循证医学证据显示心力衰竭患者应用血管紧张素转换酶抑制剂可以明显改善远期预后，降低死亡率。故正确答案为E。利尿剂和硝酸酯类药物可缓解症状。其他类型药物并无降低心力衰竭患者死亡率的作用。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "利尿剂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "硝酸酯类"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "α受体兴奋剂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "钙离子拮抗剂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血管紧张素转换酶抑制剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023560,
+                            "ATestID": 43023560,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4efc75dea90256361ac87830e00ff72d651a145bea0e45bd",
+                            "Explain": "心脏压塞是心脏科急症，Beck三联征是诊断心脏压塞的关键体征，临床医生需谨记：颈静脉充盈、脉压降低和心音低钝/遥远。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "奇脉、脉压降低、心音低钝"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脉压降低、心音低钝、颈静脉怒张"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "奇脉、颈静脉怒张、心音低钝"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脉压降低、双下肢水肿、颈静脉怒张"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心音低钝、低血压、双下肢水肿"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023561,
+                            "ATestID": 43023561,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "30112f14014e087ca9cc7ce8b25a4b40563142d82a2175f8f4d2a40c7b0dfc737c2a725f0e0bb461962374a1ecdb4ce4",
+                            "Explain": "血栓闭塞性脉管炎的临床表现：①患肢怕冷，皮肤温度降低。②皮肤色泽苍白或发绀。③感觉异常。④患肢疼痛，早期起因于血管壁炎症刺激末梢神经，后因动脉阻塞造成缺血性疼痛，即间歇性跛行或静息痛。⑤长期慢性缺血导致组织营养障碍改变。严重缺血者，患肢末端出现缺血性溃疡或坏疽。⑥患肢的远侧动脉搏动减弱或消失。⑦患肢在发病前或发病过程中出现复发性、游走性浅静脉炎。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "无间歇性跛行"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "复发性、游走性浅静脉炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "可累及内脏血管"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肢体皮温正常"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "一般不出现患肢末端缺血性溃疡或坏疽"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023562,
+                            "ATestID": 43023562,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d32f18d26988a644766d23b1b1abf79debbe8a12c8e4475aa082e430eb5056428abd558700b400156e4910d404b8e1e4e9fed4efd460a853a829115b1ef6c850af6a77f0faaa38ad",
+                            "Explain": "本题为记忆题。冠状动脉粥样硬化性心脏痛心绞痛发作的典型部位是胸骨体中上段之后，可波及心前区，正确答案为E。其他部位也可能是冠状动脉粥样硬化性心脏痛心绞痛的部位，但不是典型的部位。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "咽部"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心前区"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心尖部"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "剑突下"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胸骨体中上段之后"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028528,
+                            "ATestID": 43028528,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "30a86de879c55572a547a2cb0344a988ab1b5fd003e2dcea4f9a3c2b59b92cbab0ad9f5b5c6feb33654a6125d2789ac2",
+                            "Explain": "洋地黄中毒的心电图变化最常表现为室性期前收缩，其次为交界性逸搏心律和非阵发性交界性心动过速和房室传导阻滞。ST-T呈鱼钧样改变见于长期服用洋地黄的患者，并非中毒表现。洋地黄中毒可出现房室传导阻滞，但不比室性期前收缩多见。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "室性期前收缩"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "ST-T呈鱼钩样改变"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "QT间期缩短"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心房颤动"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "房室传导阻滞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028533,
+                            "ATestID": 43028533,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "01587a0c492b62d735cef9c548a86c172efdd9971cae0ea07db7dc628ed0df2db561d57c7e9a876bbeaa67bc0330a40f7c3e65103a7d7cbdf6fa10ceaf95c2c11ed4f1bf49c5998b5c81f0632acff7cebd3f789b5d7cdc61",
+                            "Explain": "室性心动过速伴严重血流动力学障碍时，终止发作的首选方法是选项C，即同步电复律。药物利多卡因和胺碘酮可以用来作为药物复律治疗室性心动过速，但药物复律慢，而且未必复律成功，在严重血流动力学障碍时不宜使用。回答本题时要注意严重血流动力学障碍的条件，为了迅速纠正这一严重情况，必须采用立即终止室性心动过速的治疗措施。颈动脉窦按摩无效，人工起搏超速抑制很少应用。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "静脉推注利多卡因"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "静脉推注胺碘酮"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "同步电复律"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "人工起搏超速抑制"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "颈动脉窦按摩"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028534,
+                            "ATestID": 43028534,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1ec059302ad39833d98be98faf94bd15de3e588ec9966b810497188844bb0ff1b2037ba1c42ace7175fe796e67660147ac97484a2e46b777828c7948de8d9a03aaa1fe90b6529893b688287f2dc43972",
+                            "Explain": "此题考查考生对急性心肌梗死患者早期（24小时内）死亡主要原因的掌握情况。心源性休克、心力衰竭、心律失常、心脏破裂和肺栓塞均是导致急性心肌梗死患者死亡的原因，但24小时内的主要死亡原因是心律失常，特别是室性心动过速和心室颤动。因此答案是C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "心源性休克"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心力衰竭"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心律失常"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心脏破裂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺栓塞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028536,
+                            "ATestID": 43028536,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "36e833259362e15fa0a4f1a9a58c254f276e3323c878987e9b79b10dd33dec1df78064e0b9c4d8c24431d24ca10d310e",
+                            "Explain": "在急性心肌梗死时，最容易引起房室传导阻滞的是下壁心肌梗死，因为下壁心肌梗死时堵塞的血管多为右冠状动脉。房室结动脉90%来自右冠状动脉，如右冠状动脉闭塞，房室结动脉供血受到影响，其缺血可发生房室传导阻滞。广泛前壁心肌梗死也可发生房室传导阻滞，但机会比下壁梗死少得多，只有当心肌坏死严重、面积大，累及间隔的束支传导系统时才会出现房室传导阻滞，预后比下壁梗死时发生的房室传导阻滞严重得多。本题回答有困难的原因是对房室结动脉供血的解剖不清楚。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "前壁心肌梗死"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "下壁心肌梗死"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "侧壁心肌梗死"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "后壁心肌梗死"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "广泛前壁心肌梗死"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028537,
+                            "ATestID": 43028537,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "85a4ed09e5160ad5017a3149b827709455b7e753683578a7a5d6a372e6ce751d58920722e82b06b047b8656f76925fdf4be4deefa3aecde3e1b184918db11a6f",
+                            "Explain": "风湿性心脏病严重二尖瓣狭窄突然发生大咯血是由于支气管静脉破裂。二尖瓣狭窄时，左心房压升高，肺静脉压升高，肺-支气管静脉侧支形成，可造成支气管静脉破裂、大咯血。这种情况发生在病程的早期，肺循环阻力不高时；当肺循环阻力增加时，大咯血症状消失。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺毛细血管破裂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "合并肺结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性肺水肿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支气管静脉破裂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "合并支气管扩张"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028538,
+                            "ATestID": 43028538,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1ac0f740dcc70aa08241d6dbbfd2d3c07c6fc584ee510ac3926013118e40048e9a7e34343638c858277c731d9a28945041a6064d1db533cce86b14f2528a55a246f11a3a5ef19a80",
+                            "Explain": "不是由主动脉瓣病变引起的主动脉瓣关闭不全的疾病是梅毒性主动脉炎。因为感染性心内膜炎、风湿性心脏病、先天性二叶主动脉瓣和主动脉瓣黏液样变性均是主动脉瓣病变所致主动脉瓣关闭不全，唯独梅毒性主动脉炎是主动脉炎症性疾病，导致主动脉扩张，发生相对性主动脉瓣关闭不全，并非主动脉瓣本身的病变。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "感染性心内膜炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "风湿性心脏病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "先天性二叶主动脉瓣"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "梅毒性主动脉炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "主动脉瓣黏液样变性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028539,
+                            "ATestID": 43028539,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0b702a83125a85e5c0d5fedcefd2880cd0af93adfb38c366dde622e9102ea11a7311facd68a7097032c508405e0a9c6419dab6291d81bd2a",
+                            "Explain": "首先要理解心脏各腔流入道和流出道的概念，然后要记住各腔流入道与流出道的分界标志。主动脉瓣（选项C）是左心室的出口，排除选项C。室上嵴（选项D）和肺动脉瓣（选项E）不是左心室结构，因此，可以排除选项D和E。左心室以二尖瓣前瓣分为窦部（流入道）和主动脉前庭（流出道）排除选项A。所以，该考试题的正确答案为B。以往各版教材大都不要求掌握左心室“两道”的分界标志，只介绍右心室的标志——室上嵴，所以，超过半数的考生选择了选项D。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "左房室瓣（二尖瓣）后瓣"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "左房室瓣（二尖瓣）前瓣"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "主动脉瓣"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "室上嵴"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺动脉瓣"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43028544,
+                            "ATestID": 43028544,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "",
+                            "OperateTime": "2019年2月11日",
+                            "OldTestJson": "{\"Title\":\"左心室流人道和流出道的分界标志是\",\"Explain\":\"首先要理解心脏各腔流入道和流出道的概念，然后要记住各腔流入道与流出道的分界标志。主动脉瓣（选项C）是左心室的出口，排除选项C。室上嵴（选项D）和肺动脉瓣（选项E）不是左心室结构，因此，可以排除选项D和E。左心室以二尖瓣前瓣分为窦部（流入道）和主动脉前庭（流出道）排除选项A。所以，该考试题的正确答案为B。以往各版教材大都不要求掌握左心室“两道”的分界标志，只介绍右心室的标志——室上嵴，所以，超过半数的考生选择了选项D。\",\"TestPoint\":\"\",\"Answer\":\"B\",\"Difficulty\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"左房室瓣（二尖瓣）后瓣\"},{\"ItemName\":\"B\",\"Content\":\"左房室瓣（二尖瓣）前瓣\"},{\"ItemName\":\"C\",\"Content\":\"主动脉瓣\"},{\"ItemName\":\"D\",\"Content\":\"室上嵴\"},{\"ItemName\":\"E\",\"Content\":\"肺动脉瓣\"}],\"StyleType\":\"ATEST\"}"
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "c45232b52c9f3e131a0e55a38a4043fadad575ea3bda98a20b126a9202c1ec98486c3b6ca0bdf8a6e2f5c2ecf6f338f80d33edea92f71a246a325db575caa4d4",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "颈部和锁骨上窝"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "左腋下和肩胛下区"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸骨左缘和心底部"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸骨左缘和心尖部"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胸骨右缘"
+                                }
+                            ],
+                            "AllTestID": 43028573,
+                            "BTestID": 43004679,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 510,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43004679,
+                                    "Title": "c45232b52c9f3e131a0e55a38a4043fadad575ea3bda98a20b126a9202c1ec98486c3b6ca0bdf8a6e2f5c2ecf6f338f80d33edea92f71a246a325db575caa4d4",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43004680,
+                                    "Title": "01e810b09d211dc68e036ed394baeeba2030e9b2fcf3a3abe5b78b5d9e6149ffd84f626bee869efc5e0e0f1f0124652c948dad7b3ffd278c7aacc39948f83e2f",
+                                    "Explain": "选析第2题。本题为记忆题。主动脉瓣关闭不全时，杂音向胸骨左缘和心尖部传导。其他4项均是错误的。回答错误的原因是不重视心脏的听诊的基本功训练，特别是不重视杂音的传导，致基本知识没有掌握，导致选错答案。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43023542,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023542,
+                        "ChildTableID": -1,
+                        "UserCount": 3407,
+                        "RightCount": 2698,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023542,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023544,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023544,
+                        "ChildTableID": -1,
+                        "UserCount": 3292,
+                        "RightCount": 2741,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023544,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43023545,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023545,
+                        "ChildTableID": -1,
+                        "UserCount": 3501,
+                        "RightCount": 2060,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023545,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43023546,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023546,
+                        "ChildTableID": -1,
+                        "UserCount": 3248,
+                        "RightCount": 2703,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023546,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023547,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023547,
+                        "ChildTableID": -1,
+                        "UserCount": 3428,
+                        "RightCount": 1668,
+                        "FavCount": 98,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023547,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43023550,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023550,
+                        "ChildTableID": -1,
+                        "UserCount": 3544,
+                        "RightCount": 1562,
+                        "FavCount": 65,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023550,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023555,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023555,
+                        "ChildTableID": -1,
+                        "UserCount": 3154,
+                        "RightCount": 2311,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023555,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023556,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023556,
+                        "ChildTableID": -1,
+                        "UserCount": 3133,
+                        "RightCount": 2477,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023556,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023557,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023557,
+                        "ChildTableID": -1,
+                        "UserCount": 3032,
+                        "RightCount": 2572,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023557,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023558,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023558,
+                        "ChildTableID": -1,
+                        "UserCount": 3402,
+                        "RightCount": 1345,
+                        "FavCount": 91,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023558,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023560,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023560,
+                        "ChildTableID": -1,
+                        "UserCount": 3090,
+                        "RightCount": 2485,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023560,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023561,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023561,
+                        "ChildTableID": -1,
+                        "UserCount": 3324,
+                        "RightCount": 1728,
+                        "FavCount": 94,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023561,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43023562,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023562,
+                        "ChildTableID": -1,
+                        "UserCount": 3204,
+                        "RightCount": 2057,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023562,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43028528,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028528,
+                        "ChildTableID": -1,
+                        "UserCount": 260,
+                        "RightCount": 146,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028528,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028533,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028533,
+                        "ChildTableID": -1,
+                        "UserCount": 264,
+                        "RightCount": 133,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028533,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028534,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028534,
+                        "ChildTableID": -1,
+                        "UserCount": 242,
+                        "RightCount": 170,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028534,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028536,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028536,
+                        "ChildTableID": -1,
+                        "UserCount": 251,
+                        "RightCount": 159,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028536,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028537,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028537,
+                        "ChildTableID": -1,
+                        "UserCount": 254,
+                        "RightCount": 167,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028537,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028538,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028538,
+                        "ChildTableID": -1,
+                        "UserCount": 255,
+                        "RightCount": 144,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028538,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028539,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028539,
+                        "ChildTableID": -1,
+                        "UserCount": 251,
+                        "RightCount": 144,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028539,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028544,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028544,
+                        "ChildTableID": -1,
+                        "UserCount": 241,
+                        "RightCount": 134,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028544,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028573,
+                "ChildTableID": 43004679,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028573,
+                        "ChildTableID": 43004679,
+                        "UserCount": 259,
+                        "RightCount": 113,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028573,
+                    "ChildTableID": 43004679
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43028573,
+                "ChildTableID": 43004680,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43028573,
+                        "ChildTableID": 43004680,
+                        "UserCount": 265,
+                        "RightCount": 147,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43028573,
+                    "ChildTableID": 43004680
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

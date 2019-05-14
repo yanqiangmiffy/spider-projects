@@ -1,0 +1,1276 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 00:52:08 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 16,
+                    "TestItems": [
+                        {
+                            "Title": "首先应考虑的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "伤寒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "疟疾"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "斑疹伤寒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肾病综合征出血热"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺部感染"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "769c4851532cf3e56f88d825ae48b961205e0c97f4459625e85d4aef131c590ba265896cb265e37aa45cbc89b68e102a7c32421dca3dac18ddae3ea9cdec61b64ecf48b99a3078acf42305660aaa47ad2841fd128b5c3982e79db8622883f13b20aa4235dc688ff708807c5054479c3aed068b83827cc2502e1bf5f7d15de5795039c992bd418ab7a3963fa623aa98974eeb4d44dcfd54a407003bf20030c28289f2aae661dad3a0c6bc41345e9a50e1903387a09661dcde",
+                            "AllTestID": 43020702,
+                            "A3TestID": 43003571,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 725,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003571,
+                                    "Title": "3c41b96f03884da8fe0e983599c28b219ce0219da849621acdfd6189308be2ef",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "伤寒"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "疟疾"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "斑疹伤寒"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肾病综合征出血热"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺部感染"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003572,
+                                    "Title": "85469dc82f2ff5ec537f92efedcbf77ac8310434eb510f2ef0a594b9a794f96a707f208778517076",
+                                    "Explain": "伤寒典型病例以持续发热、相对缓脉、表情淡漠、脾大、玫瑰疹和血白细胞减少等为特征；伤寒杆菌血细菌学培养阳性可确诊，优于肥达反应。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "出血热病毒抗体"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "外斐反应"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肥达反应"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "血常规"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "血细菌培养"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "A3TestItemID": 43003573,
+                            "Title": "该病例最可能的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "急性黄疸型肝炎",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "钩端螺旋体病",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "伤寒合并中毒性肝炎",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "疟疾",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "病毒性肝炎合并胆系感染",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "Answer": "C",
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "A3TEST",
+                            "FrontTitle": "c0e1e846490f77472f07c2d0b5c93c1105e5cd29dfee9f4ceab71e12f8f26a0e164fb376a32643c54a7643e037561ef4e8d715b9e54064522c6e6fdb68f832d79eae693a93dda8e302e831e228f27bfef2a0942ffaea487c3721f17ef7512cb35e87aa4c85ea305374ead20aeb3fb9aa1730280ab6f93b0ed08e5eb18726a1ea564bad35883ef95b79aad0280e73e6f3d427e5439629a062e61014502947a77891fea46318cbb78fa1e9b445d8dcd3024a7d58193c82ffa91ab59e05d5178e49cc6f6864d29a3be6519efb1dce275d114112f2c5d7e946dfac1478545cc0ae638980869da8813be5cd175dcf4f0d734ef1610880736c4b07bd8ec7f44247231df74091b294ba12786dd89f3f9df760cc0ed6d3d027fc089676d7ac3b91348a069c4b186aa994f97b05cd219c79ceea20628e8a02423417c44fca0faed2188a8a0bf0541f280f05907111d0c9343c13bb37140e1970ac215f739e1383d4fb1040",
+                            "AllTestID": 43020703,
+                            "A3TestID": 43003573,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 725,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003573,
+                                    "Title": "d0573f0abd6f0fe35075192874252e9ac3b2d624ba7e033279783d7a529eaee3",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "急性黄疸型肝炎",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "钩端螺旋体病",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "伤寒合并中毒性肝炎",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "疟疾",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "病毒性肝炎合并胆系感染",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003574,
+                                    "Title": "215910474de99d7dbf3af3779937a174cfaa7234ce9b9b0e59fae4e0294abbe12a4f2e1cc2cf0f8f",
+                                    "Explain": "肥达反应的评价：\"O\"抗体凝集评价在≥1：80，\"H\"抗体在≥1：160有诊断意义；伤寒杆菌血培养阳性可确诊。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "血培养",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "粪便培养",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "骨髓培养",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "胆汁培养",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "血沉",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "A3TestItemID": 43003585,
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "副溶血性弧菌引起的胃肠炎临床表现有：恶心、呕吐、腹痛、低热、寒战等 。水样便是最显著特征 .偶尔出现血便，所以选D。",
+                            "TestPoint": "急性胃肠炎",
+                            "SelectedItems": [
+                                {
+                                    "Content": "霍乱",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "细菌性痢疾",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "细菌性食物中毒",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "急性胃肠炎",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "疟疾",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "A3TEST",
+                            "FrontTitle": "3c0de14e49c0709ca42b46233c2886a2736137e4e1f64bd8620c82ba05d2f94d6f80acb28aa36a0786c56ad284410fe010401326aa343d57b76d2712e979900b32373f44d0565dc9b9473b756d8f9462d3cc4ef267af2d152f68a0f7233d80806d82f15b8b668cbe51b065a34c69572892b92ced645e5fe705d4dbf4df2eb8ae18b275895c0d1caa35157479f00760278c6ef18bf444e2ff210cb1d405b007d16a3e622b240041efee2debce7d0f974e04836ce6c36f8d6ba4fe056b0daabccaf74812971ae97dd4a2d8bf927cf9871ce9f50401903ddd3cff608108d0795923",
+                            "AllTestID": 43020708,
+                            "A3TestID": 43003585,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 725,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003585,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "副溶血性弧菌引起的胃肠炎临床表现有：恶心、呕吐、腹痛、低热、寒战等 。水样便是最显著特征 .偶尔出现血便，所以选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "霍乱",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "细菌性痢疾",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "细菌性食物中毒",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "急性胃肠炎",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "疟疾",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "急性胃肠炎",
+                                    "Answer": "D",
+                                    "DealInfo": "经核实该试题正确答案为A，已修改",
+                                    "OperateTime": "2018年12月06日",
+                                    "OldTestJson": "{\"A3TestItemID\":43003585,\"Title\":\"该患者最可能的诊断是\",\"Explain\":\"副溶血性弧菌引起的胃肠炎临床表现有：恶心、呕吐、腹痛、低热、寒战等 。水样便是最显著特征 .偶尔出现血便，所以选D。\",\"TestPoint\":\"急性胃肠炎\",\"SelectedItems\":[{\"Content\":\"霍乱\",\"ItemName\":\"A\"},{\"Content\":\"细菌性痢疾\",\"ItemName\":\"B\"},{\"Content\":\"细菌性食物中毒\",\"ItemName\":\"C\"},{\"Content\":\"急性胃肠炎\",\"ItemName\":\"D\"},{\"Content\":\"疟疾\",\"ItemName\":\"E\"}],\"Answer\":\"D\",\"Difficulty\":\"难\",\"StyleType\":\"A3TEST\",\"SubStyleType\":\"A3TEST\",\"FrontTitle\":\"女，30岁。进食海鲜后3小时出现腹泻，呕吐伴轻微腹痛，大便为稀水样，共便20次。查体：烦躁不安，脱水貌，双侧腓肠肌痉挛，粪常规可见少量白细胞，未见红细胞。\"}"
+                                },
+                                {
+                                    "A3TestItemID": 43003586,
+                                    "Title": "b8ebb5662d0ea15b5ffd2b246edac31fb8a0b1f6089c0996dc5a85c247a35e9cece65aef4a398a19",
+                                    "Explain": "补液是主要治疗措施 。应及时输液，防止其脱水，所以选C。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "静脉滴注抗生素",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "静脉滴注碳酸氢钠",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "静脉补充电解质和液体",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "观察",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "口服止泻药",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "急性胃肠炎",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月06日",
+                                    "OldTestJson": "{\"A3TestItemID\":43003586,\"Title\":\"该患者最适合的治疗措施是\",\"Explain\":\"补液是主要治疗措施 。应及时输液，防止其脱水，所以选C。\",\"TestPoint\":\"急性胃肠炎\",\"SelectedItems\":[{\"Content\":\"静脉滴注抗生素\",\"ItemName\":\"A\"},{\"Content\":\"静脉滴注碳酸氢钠\",\"ItemName\":\"B\"},{\"Content\":\"静脉补充电解质和液体\",\"ItemName\":\"C\"},{\"Content\":\"观察\",\"ItemName\":\"D\"},{\"Content\":\"口服止泻药\",\"ItemName\":\"E\"}],\"Answer\":\"C\",\"Difficulty\":\"难\",\"StyleType\":\"A3TEST\",\"SubStyleType\":\"A3TEST\",\"FrontTitle\":\"女，30岁。进食海鲜后3小时出现腹泻，呕吐伴轻微腹痛，大便为稀水样，共便20次。查体：烦躁不安，脱水貌，双侧腓肠肌痉挛，粪常规可见少量白细胞，未见红细胞。\"}"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性庚型肝炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性乙型肝炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性甲型肝炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性丁型肝炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性戊型肝炎"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "c3fd1b143224096e37fe69ebbaf48334a1ece261ca52de9f60af945e43f23811d1d61e270f6ed3f832a898779e25a0ed42b37166743188ecec2c35844e52aec98047f70a1f4ec81ecbe444bb996c82ff0cf57a98fae43dd10fb8392f14f149af6324de1a4649ae90ba28af0593f74c1524ecdea14a94b4487bf89c0298c93c12299b7410c75d330c340985c30e36c21adfc7f2ba61e3afa88dada17dfd32346f8880def88f05d5a8372f40332b432dd3edec5e40776ab6b7a466ff42e57d0e832ad0f51747b242741b3133b77cf895d6317618b3bbbb123c8412ac1088040ec935bb3712e54bcd3b0864837d5a1fe9972730c7b4585660a5bddac2b2b0e4a983fdefa9840967d17bb6d953c4e156c5791820c4b51147207f6d63289c1df38c1d36e2db024d59f40c542fd93228ed21daaf6c8afb820c7897adaf73b688715620883d0927414806e0b3455b4204b627255764293d67947ee0a4fe118ac44189c35cb07df51cf0e5c4a811bba93c10fb61",
+                            "AllTestID": 43020710,
+                            "A3TestID": 43003589,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 725,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003589,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "急性庚型肝炎"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "急性乙型肝炎"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "急性甲型肝炎"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "急性丁型肝炎"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "急性戊型肝炎"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003590,
+                                    "Title": "326fd7167bb4373a19d65d32a27216b8f34b096db10de8fba74658262a578f6b",
+                                    "Explain": "戊型病毒性肝炎其流行特点似甲型肝炎，经粪一口（包括动物粪便）途径传播，具有明显季节性，多见于雨季或洪水之后，无慢性化，愈后良好。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "补充维生素"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "卧床休息"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "药物对症治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "抗病毒治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "清淡饮食"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者最重要的治疗是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "对症治疗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "保肝治疗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "抗纤维化治疗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "免疫治疗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "抗病毒治疗"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "769c4851532cf3e50e4cd6458958bcef1b79d18124cb4dacd692991c240f7fb95e209763ab7500e583d2a6df6545723b97412d0c6cf848a0736f0228108a55e8480feaa874b068b41b1f2e11c2db8222fae0814c4525fa8f08f8c8f305fab4a44db460a004d626105c8e223b2263f9c982e3587483522276d9bd187cdb2e0e61aff88454799ea9bab70673ef703c60037466ac96e89ad33928b9e830c7179ce0c1c5b83f6a115251a318404c513e8f5d69dba9c9fc1868c06e258df697aa0b8667e84c802ea4346ce3abe3cd88f010a20d1441d52f3ea1ea6366575b5c3fc91f676f21afa9a045789e9fe48628594b92b561ab026dd619b48a852b956da8efa5b2d1792eb2154bab96c460b3b305d0bf2423bdd27300b61b2129b632cc9a93c161193d44560970a1b5df5527dc49195ac300c7d400aafd5eb1471faa3dcba01a79bb4c8537a15ba7096e2002ea43b9582cc81283875aed651ec93f21dcb9bf4784dda18ffa36ca994d740ef7150c4f9ca2f9e7ab95e20be26825ecf2ea577592037078bab19ac0a9e5e313b26d590658c9adb7c0fd554122",
+                            "AllTestID": 43020711,
+                            "A3TestID": 43003591,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 725,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003591,
+                                    "Title": "b8ebb5662d0ea15b02568d18e2a8487fd1a6d6a693b3bba27e940f40187eace4",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "对症治疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "保肝治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "抗纤维化治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "免疫治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "抗病毒治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003592,
+                                    "Title": "470ccc25fdbca3ffa856d548639de717eaf49f8373dce09f96efbd27e13ffa29",
+                                    "Explain": "抗病毒治疗是最根本的治疗，是病因治疗，所以是最重要的治疗。目前患者病毒复制量较多，且转氨酶升高，需抗病毒治疗，最重要的抗病毒药物是核苷酸类药物。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "核苷（酸）类药物"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "胸腺肽"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "丹参"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "甘草酸制剂"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "干扰素"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "最可能的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性黄疸型肝炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肾综合征出血热"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "伤寒溶血尿毒综合征"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "疟疾黑尿病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "钩端螺旋体病"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "b6b62195fd17ee6623c5dfd1bee0cd27b071e1e0caec04106e8b35ed5dc089ec23e0f922832c22d6e303cf30bdbd9c828a4711ee61d5edaeb1020d495bb34d314dfaa3d8e51e0bb0c1add188804746237110e17624c6864309d889db71691cb9979adec0cd631168d9f071e47c99d89e90a471ce382b9fb167e41ad8092c8b51c3ae1760319774c8d2dd4c47518ae6baa8466d6bcda0618f05804fe05cbab740d3399b931521869880e6e5a82554e6268634ff0da6ddf0ace175322408d1dfd7de5f495ce71cf4983d3cb3d107b773c66e58d375369577df82a8fe57b6989e8d362e702ca9cd8e1ea24608ac0d02be285369949b89722f3ab6ad49f5c8df4b8a5718be8b412c3ba0da585de28f56e8f0d9e7c32629c8e9f4d9601027b4c3185949cf3e842b42a006686e7c6d00682c24abfd8d04d82e61c3491f3775368065df4857a7f3d41f8cfa07fff02cdd9b202b1920dd5d8ecdf5fa2e9e46ccc12abdef8d84a56c7dc866617431f0b50e366ee5d7e11b4734e973dc8404aeca5a0776d423931b37dc768ccea62c0813932890614bd90da4c35666eb90e44b5d7da2dcac7a6ed238966239db8244ee0934eed7766821b19b207f1738e12bc39263bc76cb7e58c88de5264de97321fed1ac5b56612d006d7e3ad12ed0ddd52c989812d88697db83f2be9ba7c9",
+                            "AllTestID": 43020712,
+                            "A3TestID": 43003593,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 725,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003593,
+                                    "Title": "91c2beef1821172aa02421cc2b7a143016574b280934b3fd",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "急性黄疸型肝炎"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肾综合征出血热"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "伤寒溶血尿毒综合征"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "疟疾黑尿病"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "钩端螺旋体病"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003594,
+                                    "Title": "1e49c14d88dc615fb5692a0417ba4ce74aa0c6fb4d8b8f6e53a7bad8dd29a2f8",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "血常规"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "尿常规"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "X线片"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "凝集溶解试验"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肾功"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003595,
+                                    "Title": "72e37042b63c57e26e60f0a7dcf2f15ea5767d7704fadb5c8d545997d710fc544f44c445699aac3e",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "庆大霉素"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "四环素"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "磺胺甲嗯唑（新诺明）"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "青霉素"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "头孢曲松"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003596,
+                                    "Title": "0cd991e94017046e0cfcb94727f178e43c62b358919351956965ce50c3f9c44a",
+                                    "Explain": "钧端螺旋体病（简称钩体病）是由致病性钩端螺旋体（简称钩体）引起的急性动物源性传染病。其主要传染源是鼠类和猪。早期以急性发热、全身酸痛、结膜充血、腓肠肌压痛、浅表淋巴肿大等为特征，严重者引起肺出血、肝肾损害，脑膜脑炎等，后期可有眼与神经系统后发症。显微镜凝集溶解试验（简称显凝试验或凝溶试验）是临床最常用的试验，用抗原检测抗体，病后7～8日出现阳性，并且抗体效价逐渐升高，达1：400以上有诊断价值。此试验特异性及敏感性均较高，但抗体出现较晚，不能作为早期诊断。抗菌治疗为了消灭和抑制体内的病原体，强调早期应用有效的抗生素。如治疗过晚，脏器功能受到损害，治疗作用就会减低。青霉素应早期使用，有提前退热、缩短病期、防止和减轻黄疸及出血的功效。本病临床表现多种多样，轻重差别很大，诊断需根据流行病学资料、临床表现及实验室检查综合考虑，确诊有赖于病原体分离或特异性血清学检查。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "流行病学资料"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "临床表现"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "血培养"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "便培养"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "凝集溶解试验"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "败血症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "伤寒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "钩端螺旋体病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "病毒性肝炎急性黄疸型"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肾综合征出血热"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "769c4851532cf3e5c208b151c485bc6d419b92be3c0a107d0a107cd7face8de4e419259731a457354e1df8e20b71d86b7e060b6cffd6280cbce18c41c0ba556a389a8cef015f8387e6690dea94356d51780e9e8114d90db6bd3d3a1123bcac781e52145f94a609306b7c622b42fd733bd749dc93423a411fffa422ca1ea8e1c88a94ba7b633bd71c02655b2f889dcac38fab4ec5b8e8ff0d1d34aa11e9df5be5d23114714c747ef40ca8be7106fb56030217ae1c8280ff8e3ada2ac76f77c3324a836145bdb3187f4e62cc3ebcb8517488ddda8a4611396c98a03b967886d22a6738dddb42ba2a2b8c5c4472a52762f99241bd7baf9fe10a5de6f0f4bf74079f4496ff06cff5aaf1583c1badf5e161878ba69c140a6237201a3466a8c852265f240cfc28b0972bd1fbcdef4ddc02281e32c858113db952663dd509fc883709ac6326d5a1da4a44ea0e95df8741fdea589c5670075af1cc18c7f2a83d15f2ecf4caa5548b5a075fba813b7f719433fe287f60b8e0d70bce244081ad141fa5d6affa7d94fd0cf281ce298af7c83e75663c1820cd24ea11c80c0f9e72c6d322f1a991738f681abc75659f4de342da2a256fea1efc8ac841c3a72c36b20333e518eb3d63b0352d7b441d16c23fbd672ff2b6a131ef7b27fd7b097f31f86fc108770354bed3151a4a69adebf0b32386ea5490e60e3b06ae88fc09b84b2b5e056ae7990ee9c869f8839ee8c4a1e83fc4416d1c8086e0062910db79744fe9b42a6beca15aadcf29ea6c36f0e2c9768c07b5f4e987d1f4fe2aa81559572c359aff70a240309374e12fa55fad149cda2571388d12ceadbe4f2b146bd339213e53e75d9f12a1cfac5c9783013d6c7e90d43098b95e",
+                            "AllTestID": 43020714,
+                            "A3TestID": 43003600,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 725,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003600,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "败血症"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "伤寒"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "钩端螺旋体病"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "病毒性肝炎急性黄疸型"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肾综合征出血热"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003601,
+                                    "Title": "e12c45f3e7baa13078a2baa2b4c74d64a598a979cef32d8b4706333ea50af80c",
+                                    "Explain": "患者急性发热起病，查体以结膜充血、巩膜轻度黄染、咽红、腓肠肌压痛、浅表淋巴肿大等为特征，提示钩端螺旋体病可能性大。伤寒起病缓慢，发热呈梯形上升，白细胞数减低。肾综合征出血热以发热、出血和肾脏损害三大主征，可见\"三红\"、\"三痛\"等典型表现。肝炎是以食欲减退等消化道症状为显著，无眼结合膜充血和腓肠肌压痛，白细胞计数正常或减低。钩端螺旋体病（简称钩体病）是由致病性钩端螺旋体（简称钩体）引起的急性动物源性传染病。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "汉坦病毒"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "伤寒杆菌"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肝炎病毒"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "钩端螺旋体"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "痢疾杆菌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43020702,
+                "ChildTableID": 43003571,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020702,
+                        "ChildTableID": 43003571,
+                        "UserCount": 3026,
+                        "RightCount": 1979,
+                        "FavCount": 47,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020702,
+                    "ChildTableID": 43003571
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020702,
+                "ChildTableID": 43003572,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020702,
+                        "ChildTableID": 43003572,
+                        "UserCount": 3075,
+                        "RightCount": 1522,
+                        "FavCount": 73,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020702,
+                    "ChildTableID": 43003572
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020703,
+                "ChildTableID": 43003573,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020703,
+                        "ChildTableID": 43003573,
+                        "UserCount": 2784,
+                        "RightCount": 2345,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020703,
+                    "ChildTableID": 43003573
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43020703,
+                "ChildTableID": 43003574,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020703,
+                        "ChildTableID": 43003574,
+                        "UserCount": 2656,
+                        "RightCount": 2454,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020703,
+                    "ChildTableID": 43003574
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020708,
+                "ChildTableID": 43003585,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43020708,
+                            "ChildTableID": 43003585,
+                            "Answer": "A",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020708,
+                        "ChildTableID": 43003585,
+                        "UserCount": 3089,
+                        "RightCount": 861,
+                        "FavCount": 91,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020708,
+                    "ChildTableID": 43003585
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020708,
+                "ChildTableID": 43003586,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020708,
+                        "ChildTableID": 43003586,
+                        "UserCount": 2590,
+                        "RightCount": 2202,
+                        "FavCount": 16,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020708,
+                    "ChildTableID": 43003586
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020710,
+                "ChildTableID": 43003589,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020710,
+                        "ChildTableID": 43003589,
+                        "UserCount": 2891,
+                        "RightCount": 1147,
+                        "FavCount": 92,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020710,
+                    "ChildTableID": 43003589
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43020710,
+                "ChildTableID": 43003590,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020710,
+                        "ChildTableID": 43003590,
+                        "UserCount": 2787,
+                        "RightCount": 1705,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020710,
+                    "ChildTableID": 43003590
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43020711,
+                "ChildTableID": 43003591,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020711,
+                        "ChildTableID": 43003591,
+                        "UserCount": 2731,
+                        "RightCount": 1880,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020711,
+                    "ChildTableID": 43003591
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43020711,
+                "ChildTableID": 43003592,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020711,
+                        "ChildTableID": 43003592,
+                        "UserCount": 2746,
+                        "RightCount": 1659,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020711,
+                    "ChildTableID": 43003592
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43020712,
+                "ChildTableID": 43003593,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020712,
+                        "ChildTableID": 43003593,
+                        "UserCount": 2849,
+                        "RightCount": 1265,
+                        "FavCount": 80,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020712,
+                    "ChildTableID": 43003593
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43020712,
+                "ChildTableID": 43003594,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020712,
+                        "ChildTableID": 43003594,
+                        "UserCount": 2547,
+                        "RightCount": 2167,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020712,
+                    "ChildTableID": 43003594
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020712,
+                "ChildTableID": 43003595,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020712,
+                        "ChildTableID": 43003595,
+                        "UserCount": 2576,
+                        "RightCount": 2070,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020712,
+                    "ChildTableID": 43003595
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43020712,
+                "ChildTableID": 43003596,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020712,
+                        "ChildTableID": 43003596,
+                        "UserCount": 2621,
+                        "RightCount": 1956,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020712,
+                    "ChildTableID": 43003596
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020714,
+                "ChildTableID": 43003600,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020714,
+                        "ChildTableID": 43003600,
+                        "UserCount": 2600,
+                        "RightCount": 2014,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020714,
+                    "ChildTableID": 43003600
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020714,
+                "ChildTableID": 43003601,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020714,
+                        "ChildTableID": 43003601,
+                        "UserCount": 2482,
+                        "RightCount": 2336,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020714,
+                    "ChildTableID": 43003601
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

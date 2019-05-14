@@ -1,0 +1,1744 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:34:08 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 21,
+                    "TestItems": [
+                        {
+                            "Title": "316dc09f01c2dbb8d8e28a6f4e75ccbda9af8ac00a19cdbf8019c8a010ec8d3720df3ac79fed57397a05c22de164f1754b828751b0f050662c029f75189409f5",
+                            "Explain": "主要目标细菌耐药率超过30%的抗菌药物，应当及时将预警信息通报本机构医务人员。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "及时将预警信息通报本机构医务人员。"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "应当慎重经验用药。"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "应当参照药敏试验结果选用。"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "应当暂停针对此目标细菌的临床应用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "根据追踪细菌耐药监测结果，再决定是否恢复临床应用。"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000694,
+                            "ATestID": 43000694,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "db1dc059783bc3d02aad5b2a1fcd08f5c4938af51038fdf1c2c699c9adbaadec182fd3fe15356ab8",
+                            "Explain": "抗菌药物的应用，合理应用抗菌药物是提高疗效、降低不良反应发生率以及减少或延缓细菌耐药发生的关键，原则是安全、有效、经济",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "提高疗效，降低不良反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "安全、有效、经济"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "分级管理，控制价格"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "明确治疗目的，规范化治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "剂型适宜，价格合理，公平获得"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003020,
+                            "ATestID": 43003020,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "db1dc059783bc3d02aad5b2a1fcd08f5c4938af51038fdf1c14d59549b9c3138e6444459712b36c2a16c74cd3a61dc2cb07ac62f226eb92dd9168e511808d70c",
+                            "Explain": "医疗机构应当按照省级卫生行政部门制定的抗菌药物分级管理目录，制定本机构抗菌药物供应目录，并向核发其《医疗机构执业许可证》的卫生行政部门备案。医疗机构抗菌药物供应目录包括采购抗菌药物的品种、品规。未经备案的抗菌药物品种、品规，医疗机构不得采购。",
+                            "TestPoint": "《医疗机构执业许可证》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "非限制使用级抗菌药物是指经长期临床应用证明安全、有效，对细菌耐药性影响较小，价格相对较低的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "特殊使用级抗菌药物是指具有明显或者严重不良反应，不宜随意使用的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "限制使用级抗菌药物是指经长期临床应用证明安全、有效，对细菌耐药性影响较大的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "限制使用级抗菌药物是指经长期临床应用证明安全、有效，价格相对较高的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抗菌药物分级管理目录由各省级卫生行政部门制定，报卫生部审批通过"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003021,
+                            "ATestID": 43003021,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bb2256979ae50c6f316c2664ecbb6877506b9509668e01371cfa668dba34e53cd6221be885caf4998d658e3ccaea2381379a4f08cbff1540af2f9785f87efee2fc07eaf2e50726626a5eecf724eb7955bed3dea4eccb2361ebd626ec7e8abcd0f000dc33a0df6043192dbd9fceaad14c76166d620be20e11c06375e6ef6ad8328f16623f94c791f954cf2de027799b408ada88b9504ad268c1d329f05b9f5cbb27",
+                            "Explain": "医疗机构遴选和新引进抗菌药物品种，应当由临床科室提交申请报告，经药学部门提出意见后，由抗菌药物管理工作组审议",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "药剂部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "临床药学部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "药品供应部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "药学部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "药品调剂部门"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003022,
+                            "ATestID": 43003022,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "db1dc059783bc3d0be4922d0f9a11bbe9d954aa06cc5aadc8bee71d02db36457c1977cb62c95805612a3f48ad202c747c944123898f2dc7c9eb3c78b2bf2ae82f9af210d6b2d5a72caef9682db492b14cf394320f7ebd425ba2800058055bbe698c099cc9e98849176315f67934d151fc5dc16c33faf1f39605dd89f0a4e5585b4d8f49439737ede3005b84a5928b87a4336833d9ec4d1c721db5aba8aee1b44f0c49adcceb61164c87b32ed16196c7b",
+                            "Explain": "医疗机构遴选和新引进抗菌药物品种，应当由临床科室提交申请报告，经药学部门提出意见后，由抗菌药物管理工作组审议。抗菌药物管理工作组三分之二以上成员审议同意，并经药事管理与药物治疗学委员会三分之二以上委员审核同意后方可列入采购供应目录。抗菌药物品种或者品规存在安全隐患、疗效不确定、耐药率高、性价比差或者违规使用等情况的，临床科室、药学部门、抗菌药物管理工作组可以提出清退或者更换意见。清退意见经抗菌药物管理工作组二分之一以上成员同意后执行，并报药事管理与药物治疗学委员会备案；更换意见经药事管理与药物治疗学委员会讨论后执行",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1/3，2/3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "1/2，2/3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "2/3，2/3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "60%，80%"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "50%，80%"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003023,
+                            "ATestID": 43003023,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "db1dc059783bc3d0dfe8e8ff8c99b13649f61350b9482df8bc4de02722aac5c1a6647337cc1d7eb8bd61e0304e1ba7cc00c45006ef4f2fd86529f7493d72e8acf5bc2019f40448e44db03a12b00da9e0d00d71e5782c8fac62537e2b3065d7a5fee5654ddb1bffa22b34252b7be93dbe2ac5d6703a7b5ef55ba5f92008ba1a0a0495d121b0e0c2b7ce68c94d21fed6d9eaf2a5066699c36ecff8d31169ea547504f427b8687c1dda4e832ae07c3446dfdbb25b991c8747305ba11fd50db9088531ec20a3d48d1ad33a46e8205df5113d0dd5bd531bac2d004135f0efd81802dc23f1aea6eaa4555e263b52f3241ba4b522127b259c60434a8acc0e7a70d22a725437d906ae63f23576603ad7a0b3da78711c42436d705b90afce14e4249c635dcd5dbee8ae90e40c316a6a3c4b822f23",
+                            "Explain": "抗菌药物品种或者品规存在安全隐患、疗效不确定、耐药率高、性价比差或者违规使用等情况的，临床科室、药学部门、抗菌药物管理工作组可以提出清退或者更换意见。清退意见经抗菌药物管理工作组二分之一以上成员同意后执行，并报药事管理与药物治疗学委员会备案；更换意见经药事管理与药物治疗学委员会讨论后执行",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1/3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "2/3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "1/2"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "60%"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "80%"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003024,
+                            "ATestID": 43003024,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b10f3b9605f46bcdf9d1c50925d08af45815f180a5e85bfe0db059b472ef7c3ce57738d04d0f361cea58fcb12afc4f7f7d8b43453b172972c49496dbf4adc22818d60fe23bbea8de8d315d09fc1f6e036c628beeb1ef5aa7ec2290f2adc71881fa85717338bbe67132724eb234714d261b20e6e2a1a7c29fefe7497a787705e0",
+                            "Explain": "清退或者更换的抗菌药物品种或者品规原则上12个月内不得重新进入本机构抗菌药物供应目录。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "6个月"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "12个月"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "2年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "3年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "5年"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003025,
+                            "ATestID": 43003025,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bb97e29b330161c83a773890cb2e49da87be1eeb6e28e790a8aca74386c92ca745e5084be3d4ccd1e3eece8cdeed9c8896a8340cd399a0a57bbae35f6f6fc5669fa422a69102fec39b7228d23e530cb2f6f472dd1dd140d9595efac5348febeb0d58cb59f277785bb0",
+                            "Explain": "第三十五条医疗机构应当对以下抗菌药物临床应用异常情况开展调查，并根据不同情况作出处理：（一）使用量异常增长的抗菌药物；（二）半年内使用量始终居于前列的抗菌药物；（三）经常超适应证、超剂量使用的抗菌药物；（四）企业违规销售的抗菌药物；（五）频繁发生严重不良事件的抗菌药物。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "使用量异常增长的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "半年内使用量始终居于前列的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "经常超适应证、超剂量使用的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "企业违规销售的抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "发生过严重不良事件的抗菌药物"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003026,
+                            "ATestID": 43003026,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185edb7502491a907bac71401f84170e31b21f66c47059849c7c44bf8db5de5ae8027b9e5d6909724d0edb4e5e10e7aabad84924aebe193c26f14c1f37ad2d862e9293f26563587edf61ba6a722e378dcb8",
+                            "Explain": "第二十五条抗菌药物临床应用知识和规范化管理培训和考核内容应当包括：（一）《药品管理法》、《执业医师法》、《抗菌药物临床应用管理办法》、《处方管理办法》、《医疗机构药事管理规定》、《抗菌药物临床应用指导原则》、《国家基本药物处方集》、《国家处方集》和《医院处方点评管理规范（试行）》等相关法律、法规、规章和规范性文件；（二）抗菌药物临床应用及管理制度；（三）常用抗菌药物的药理学特点与注意事项；（四）常见细菌的耐药趋势与控制方法（五）抗菌药物不良反应的防治。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "《药品管理法》、《执业医师法》、《抗菌药物临床应用管理办法》、《处方管理办法》、《医疗机构药事管理规定》、《抗菌药物临床应用指导原则》、《国家基本药物处方集》、《国家处方集》和《医院处方点评管理规范(试行)》等相关法律、法规、规章和规范性文件"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗菌药物临床应用及管理制度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "常用抗菌药物的药理学特点与注意事项"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "常见细菌的耐药趋势与控制方法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抗菌药物预防感染的指证"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003027,
+                            "ATestID": 43003027,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "14c0fa28962f3f6cc89c9fedd048e91a0b7df6a77b72f5b4e49d1cdbecd99f136bef03e98cdff03aef209371cc526a8b7716803697a5d4f62713693e203c07832bc3441aa59a3f7ba09564e92594b680",
+                            "Explain": "具有中级以上专业技术职务任职资格的医师，经培训并考核合格后，方可授予限制使用级抗菌药物处方权。具有高级专业技术职务任职资格的医师，经培训并考核合格后，方可授予特殊使用级抗菌药物处方权",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "副主任医师"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "主任医师"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "主治医师"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "高级专业技术职务任职资格"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "中级以上专业技术职务任职资格"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003028,
+                            "ATestID": 43003028,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a8f4c0b6ae0c34c9b95f5218431d563d6eee61c0466d745cb50247de845c82923e69558055164a21a675b96e30a82e2abc6b213cd9896f070dd417e745bb11684085844320c04a44",
+                            "Explain": "二级以上医院应当对本机构医师和药师进行抗菌药物临床应用知识和规范化管理的培训。医师经考核合格后获得抗菌药物处方权，药师经考核合格后获得抗菌药物调剂资格。其他医疗机构医师、药师由设区的市级以上卫生行政部门组织相关培训、考核，经考核合格的，授予抗菌药物处方权或者调剂资格。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乡村医生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "在乡、民族乡、镇的医疗机构独立从事一般执业活动的执业助理医师"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "在村医疗机构独立从事一般执业活动的执业助理医师"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "具有初级专业技术职务任职资格的医师"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "中级以上专业技术职务任职资格"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003029,
+                            "ATestID": 43003029,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "447bd162a071dd41d9aeec4785e6627f90ba3024498250e025aec0969d5cc1ee6158c16e56e3b3fd2ff1b63510d982400494b4d793716697e141a4f7fb68e242a17e8db60d604757b439e625307ffe328e36576a17cb600f4b580b6ed04ff171a40bc74cd490da428c4a765a466d1b072c1c674634c3b0abb0ebe5a75d814584bbad76d9b7421bcec9e151adb323a854f33134ac35e1892f62f9a34fd55347181124b38a77993e8698ac91af296cd88b1773404eb022d8fd6c7c333ff74e6709",
+                            "Explain": "二级以上医院应当对本机构医师和药师进行抗菌药物临床应用知识和规范化管理的培训。医师经考核合格后获得抗菌药物处方权，药师经考核合格后获得抗菌药物调剂资格。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "一级"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "一级乙等"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "二级"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "二级乙等"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "三级乙等"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003030,
+                            "ATestID": 43003030,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6e86ee057c9c0eb484baffa588d7fbd03cb8c9987d01d7480c6082c31468918dd3995e353cd48b78f4ee1d68927646dbabc59509ade6d44260e558c63a0770a966a642777e271f3a4b9b1ee621b8ea2d159c6aa46d5e867286b282790b408316be3c589f6a61a7bce3ebda60a6c4b20d4f79f529bc48acf87285c61b10e2844c9ce0347e333313daff9d673b50a091fde6b7f9639613803b412d7838cf7e09aa7a3693e5451ff29286b40606f5a2fca4f429564c295a3b51cde7135d41d1e9e9cd58327081f012e8f05ef3f3e9db105972d763d0662df5abf729adebdb43a73f180e5b9f6ddf98e708c7a475dfd2a64c65e4879e1f9c671f46bb66a90b92cca9fcdd901b4d2ac988",
+                            "Explain": "；具有初级专业技术职务任职资格的医师，在乡、民族乡、镇、村的医疗机构独立从事一般执业活动的执业助理医师以及乡村医生，可授予非限制使用级抗菌药物处方权。药师经培训并考核合格后，方可获得抗菌药物调剂资格。县级以上地方卫生行政部门组织相关培训、考核。经考核合格的，授予相应的抗菌药物处方权或者抗菌药物调剂资格",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "县级以上地方卫生部门培训中心"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "省级以上地方卫生部门培训中心"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "省级以上地方卫生行政部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "市级以上地方卫生行政部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "县级以上地方卫生行政部门"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003031,
+                            "ATestID": 43003031,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "db1dc059783bc3d0d10447e59363472683827ee196f1094db7bdd44fef6c80c16d262692a1d8e39fecb6a6a51a4ab93cbeac19c86a3a67e2",
+                            "Explain": "原发疾病不能治愈或缓解者(如免疫缺陷者)，预防用药应尽量不用或少用。对免疫缺陷患者，宜严密观察其病情，一旦出现感染征兆时，在送检有关标本作培养同时，首先给予经验治疗。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医疗机构和医务人员应当严格掌握使用抗菌药物预防感染的指证"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "预防感染、治疗轻度应当首选非限制使用级抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "局部感染应当首选非限制使用级抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "严重感染、免疫功能低下合并感染应首选限制使用级抗菌药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "病原菌只对限制使用级抗菌药物敏感时，方可选用限制使用级抗菌药物"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003032,
+                            "ATestID": 43003032,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9839b7978afec6cd6374e6084b7a747e85a37173b7c355f3bc68de6b59d08c04326b43d6f9fa106f41474ac61a966fd75d5622b4d69385e8bcb81a955d2043c0982e0519a094903d362af4e56fe4baa5d9012f4f01e22c0a8cdaa2d70a33880ece1186046603d337319625220c68b0422f09e6602e0762e60cb36ba0fffb1d0459f05563ff37f50c802cdbb39685337732501707ece8dba67de09e9112bd0a8f48f128b2fb347dc5dd0d73b343649c9c652e19b363de9f79b228b8dcf7c76505baa17adaba7248cc818c0cbd8ecd1d4b10efd2954fc9b886f05a51da5448b147717b2e6093bcf58b",
+                            "Explain": "特殊使用级抗菌药物会诊人员由具有抗菌药物临床应用经验的感染性疾病科、呼吸科、重症医学科等具有高级专业技术职务任职资格的医师和感染专业临床药师担任。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "感染性疾病科"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "呼吸科"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "重症医学科"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "微生物检验科"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "泌尿科"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003033,
+                            "ATestID": 43003033,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3953a81201059eb696ab41157874601e0f7e0403cde63d1fd0aaed53fabaf0d4d7878afec4a4be7c400dfdfd79cf79587cf60848471885290cd2e933e27eabb1f2ed5d773f7a77011c900a72d28853c7807dd15bdef616d08f54237626ff3fdca62f3f7c81925d3c8670e68903e0c22bc482e2cede7307e560dc8139b51c5a62bd74210f0e737b8892a1f71e561240f8ea8923599624d278d119d9ec66faf496249ce9e1f3fb063cfece66de86aab1a11db978dc68235a8adea9607bb147bde81b7ce7de7943f88f33476e3950bc2bec",
+                            "Explain": "因抢救生命垂危的患者等紧急情况,医师可以越级使用抗菌药物。越级使用抗菌药物应当详细记录用药指证,并应当于24小时内补办越级使用抗菌药物的必要手续",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "3日"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "2日"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "72小时"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "48小时"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "24小时"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003034,
+                            "ATestID": 43003034,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bbedc29ebef69c92943e8761fd1a2e2cf5ce628181379d355f415c66dca46d316de206d7a4a15e32046a2e911be5d1def2bdde92f79385808a15cfe90c00b94c23e130f083f02b98fb0b1d21732cbd5e709dc8b2618e3d2a91f0b9777621faa6379fce6c0baec424720f387458a44fd8de2e3a29749488509e84befd6cf62f34cd4026297a703f4a2e68e3cda2ea92f209",
+                            "Explain": "医疗机构抗菌药物管理机构应当定期组织相关专业技术人员对抗菌药物处方、医嘱实施点评，并将点评结果作为医师定期考核、临床科室和医务人员绩效考核依据。",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "对医务人员合理用药知识培训和教育的依据"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "是对医院及科室药事管理、处方管理、临床用药管理考察的依据"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "是科学抽样、制定细则、及时公示、奖惩制度的依据"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "作为医师定期考核、临床科室和医务人员绩效考核依据"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "重点抽查外科、内科、儿科、妇产科、急诊科等临床科室专项点评的依据"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003035,
+                            "ATestID": 43003035,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bb97e29b330161c83a27aa7022d4e11ce185cec65238981818c157463cad53ba2e4da7667b67db2c05006f52be17d0fa5b0f51a742e6e5b4c92dd0d958342a82eb78b9d4a059e5510f431d70db057a742b67dac851ca3238da01bc495c353dcc2ecda8a23cb09744fb2e4f122b5e1e73ffbf288315e3e9c1f5fe876823eb8dde17660ac7ecdaeab573101bb25b255ffadd2f22a37b7558da0f839666e66ad76568d334ffb1f66166b2",
+                            "Explain": "医疗机构应当对出现抗菌药物超常处方3次以上且无正当理由的医师提出警告，限制其特殊使用级和限制使用级抗菌药物处方权",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "2"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "5"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "10"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003036,
+                            "ATestID": 43003036,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e08f31b27aeb93c2e520a3fc568686b60a2858109e5c9551e57eb182f0312c6083c9463b11c2f9516aeb0b799650e9edf4b3f316507ad668",
+                            "Explain": "因抢救生命垂危的患者等紧急情况,医师可以越级使用抗菌药物。越级使用抗菌药物应当详细记录用药指证,并应当于24小时内补办越级使用抗菌药物的必要手续",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "开具抗菌药物处方牟取不正当利益的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗菌药物考核不合格的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "限制处方权后，因特殊原因理由出现超常处方"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "未按照规定开具抗菌药物处方，造成严重后果的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "未按照规定使用抗菌药物，造成严重后果的"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003037,
+                            "ATestID": 43003037,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bb24fcd84dc603ad4cc1766ba589dc37a3f9011fa9a318ad4eef19e8153bb84623266e7be05fe399309c65ec43aff4867175d1f8110a8bfee7b8636c949b940f3d09887fed32921f1a9c9f3150bc67e60500f86cd64fae2db7a7d6edc56843829030d53ac0dcac601b5825727a55cef16af8f29a11a2c26eda07647a54e33bf886e77b045e10abc2aa3ee90b8657b396c315b895514ce69bca183feb17624c6f0172fa90f40d3a82804aad41f60b3eb9979cd1e4747ed0314d5d4476c8a16b2efb862f88a8bbfbed7a84ef2941cc5befdd7d9ef806b577c89e86e7a8321eb862cacdfcce707ff839dcd7e86f7bbee6f4a9961118da3f774d32296bb01e26c88d70f8b3dd1f193e8ee6",
+                            "Explain": "根据第九十一条规定，药品的生产企业、经营企业的负责人、采购人员等有关人员在药品购销中收受其他生产企业、经营企业或者其代理人给予的财物或者其他利益的，依法给予处分，没收违法所得；构成犯罪的，依法追究刑事责任。医疗机构的负责人、药品采购人员、医师等有关人员收受药品生产企业、药品经营企业或者其代理人给予的财物或者其他利益的，由县级以上卫生行政部门或者本单位给予处分，没收违法所得；对违法行为情节严重的执业医师，由卫生行政部门吊销其执业证书；构成犯罪的，依法追究刑事责任",
+                            "TestPoint": "《药品管理法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "地方人民法院"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "地方人民检察院"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "县级以上人民政府"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "县级以上地方卫生行政部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "省级以上地方卫生行政部门"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003038,
+                            "ATestID": 43003038,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6178f1a5c8a54cacdb105a2e020ebf1ffa8286405acd83306d75e591de7b81ba27f350a79687b34d70949fa2481b6b60d3c6f66740bff869be8e36d8b4fa2ebbc2bc64d87258b73127db150cca618736a8d12a12cc7a85cbccc6e22570773fed4236f37e10baa2a9389ac4835a1bcfa8ece86ba3e348abd4906529c947ccbff35f5bbcf30ea6ec5e8e7e7648a68a47acad46613ca0c530eb5f3964e695643f1b06715e45efc9663515bbb4c5640849caab1410d11d02dc5845a2e5ce6df299adbcbc863a55b80ebec9938e642223fdda",
+                            "Explain": "第三十七条医师在执业活动中，违反本法规定，有下列行为之一的，由县级以上人民政府卫生行政部门给予警告或者责令暂停六个月以上一年以下执业活动；情节严重的，吊销其执业证书；构成犯罪的，依法追究刑事责任：（一）违反卫生行政规章制度或者技术操作规范，造成严重后果的；（二）由于不负责任延误急危患者的抢救和诊治，造成严重后果的；（三）造成医疗责任事故的；（四）未经亲自诊查、调查，签署诊断、治疗、流行病学等证明文件或者有关出生、死亡等证明文件的；（五）隐匿、伪造或者擅自销毁医学文书及有关资料的；（六）使用未经批准使用的药品、消毒药剂和医疗器械的；（七）不按照规定使用麻醉药品、医疗用毒性药品、精神药品和放射性药品的；（八）未经患者或者其家属同意，对患者进行实验性临床医疗的；（九）泄露患者隐私，造成严重后果的；（十）利用职务之便，索取、非法收受患者财物或者牟取其他不正当利益的；（十一）发生自然灾害、传染病流行、突发重大伤亡事故以及其他严重威胁人民生命健康的紧急情况时，不服从卫生行政部门调遣的；（十二）发生医疗事故或者发现传染病疫情，患者涉嫌伤害事件或者非正常死亡，不按照规定报告的。（十三）使用假学历骗取考试得来的医师证的。",
+                            "TestPoint": "《执业医师法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "未按照本办法规定开具抗菌药物处方，造成严重后果的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "使用未经国家药品监督管理部门批准的抗菌药物的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "使用本机构抗菌药物供应目录以外的品种、品规，造成严重后果的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "使用未经国家卫生行政部门批准的抗菌药物的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "违反抗菌药物临床应用管理办法相关规定，造成严重后果的"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003039,
+                            "ATestID": 43003039,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "6a10b2c2372a3be34e83b67b228d0748d63c90f7e2d601326b24642d8133de9626863a1e47a4c6cc615c2bba6e8380767c352cc3fff10ac9",
+                            "Explain": " 《抗菌药物临床应用管理办法》 第三十二条  医疗机构应当开展细菌耐药监测工作，建立细菌耐药预警机制，并采取下列相应措施：1、对主要目标细菌耐药率超过30％的抗菌药物，应当及时将预警信息通报全院医务人员。2、对主要目标细菌耐药率超过40％的抗菌药物，应当慎重经验用药。3、对主要目标细菌耐药率超过50％的抗菌药物，应当参照药敏试验结果选用。  4、对主要目标细菌耐药率超过75％的抗菌药物，应当暂停临床应用，根据追踪细菌耐药监测结果，再决定是否恢复临床应用，故选A。",
+                            "TestPoint": "抗菌药物临床应用管理办法",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "30%"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "40%"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "50%"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "60%"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "75%"
+                                }
+                            ],
+                            "AllTestID": 43003040,
+                            "BTestID": 43000777,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 467,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000777,
+                                    "Title": "6a10b2c2372a3be34e83b67b228d0748d63c90f7e2d601326b24642d8133de9626863a1e47a4c6cc615c2bba6e8380767c352cc3fff10ac9",
+                                    "Explain": " 《抗菌药物临床应用管理办法》 第三十二条  医疗机构应当开展细菌耐药监测工作，建立细菌耐药预警机制，并采取下列相应措施：1、对主要目标细菌耐药率超过30％的抗菌药物，应当及时将预警信息通报全院医务人员。2、对主要目标细菌耐药率超过40％的抗菌药物，应当慎重经验用药。3、对主要目标细菌耐药率超过50％的抗菌药物，应当参照药敏试验结果选用。  4、对主要目标细菌耐药率超过75％的抗菌药物，应当暂停临床应用，根据追踪细菌耐药监测结果，再决定是否恢复临床应用，故选A。",
+                                    "TestPoint": "抗菌药物临床应用管理办法",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000778,
+                                    "Title": "a0584a94a4cc2c426e05e1c28277cd222c6272987c5a381bf0a073b511a581b6",
+                                    "Explain": "《抗菌药物临床应用管理办法》 第三十二条  医疗机构应当开展细菌耐药监测工作，建立细菌耐药预警机制，并采取下列相应措施：1、对主要目标细菌耐药率超过30％的抗菌药物，应当及时将预警信息通报全院医务人员。2、对主要目标细菌耐药率超过40％的抗菌药物，应当慎重经验用药。3、对主要目标细菌耐药率超过50％的抗菌药物，应当参照药敏试验结果选用。  4、对主要目标细菌耐药率超过75％的抗菌药物，应当暂停临床应用，根据追踪细菌耐药监测结果，再决定是否恢复临床应用，故选B。",
+                                    "TestPoint": "抗菌药物临床应用管理办法",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000779,
+                                    "Title": "6a10b2c2372a3be3c99cecf30ae29857e4a7f310af91070d35ac22fdd2a16fc1405adc605848f7ec",
+                                    "Explain": "《抗菌药物临床应用管理办法》 第三十二条  医疗机构应当开展细菌耐药监测工作，建立细菌耐药预警机制，并采取下列相应措施：1、对主要目标细菌耐药率超过30％的抗菌药物，应当及时将预警信息通报全院医务人员。2、对主要目标细菌耐药率超过40％的抗菌药物，应当慎重经验用药。3、对主要目标细菌耐药率超过50％的抗菌药物，应当参照药敏试验结果选用。  4、对主要目标细菌耐药率超过75％的抗菌药物，应当暂停临床应用，根据追踪细菌耐药监测结果，再决定是否恢复临床应用，故选C。",
+                                    "TestPoint": "抗菌药物临床应用管理办法",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000780,
+                                    "Title": "ebcceebd253a164629475ee48367cf0ef16dba37b3a77228c5841f84cef2623cc8587cfa23d47f318cf94beb46d8e71a600a05626917656036cd4f6ac4d526470763688618a2ba4a04d98eca256461d278706e0d00486bb03e7e9bd97d2b46637dcc802728e5822526480f26047379598275e0232533a6258c2fd0175a49286e",
+                                    "Explain": "《抗菌药物临床应用管理办法》 第三十二条  医疗机构应当开展细菌耐药监测工作，建立细菌耐药预警机制，并采取下列相应措施：1、对主要目标细菌耐药率超过30％的抗菌药物，应当及时将预警信息通报全院医务人员。2、对主要目标细菌耐药率超过40％的抗菌药物，应当慎重经验用药。3、对主要目标细菌耐药率超过50％的抗菌药物，应当参照药敏试验结果选用。  4、对主要目标细菌耐药率超过75％的抗菌药物，应当暂停临床应用，根据追踪细菌耐药监测结果，再决定是否恢复临床应用，故选E。",
+                                    "TestPoint": "抗菌药物临床应用管理办法",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000694,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000694,
+                        "ChildTableID": -1,
+                        "UserCount": 821,
+                        "RightCount": 425,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000694,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43003020,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003020,
+                        "ChildTableID": -1,
+                        "UserCount": 758,
+                        "RightCount": 446,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003020,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003021,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003021,
+                        "ChildTableID": -1,
+                        "UserCount": 804,
+                        "RightCount": 309,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003021,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43003022,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003022,
+                        "ChildTableID": -1,
+                        "UserCount": 809,
+                        "RightCount": 372,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003022,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43003023,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003023,
+                        "ChildTableID": -1,
+                        "UserCount": 721,
+                        "RightCount": 457,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003023,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43003024,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003024,
+                        "ChildTableID": -1,
+                        "UserCount": 728,
+                        "RightCount": 295,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003024,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43003025,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003025,
+                        "ChildTableID": -1,
+                        "UserCount": 696,
+                        "RightCount": 429,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003025,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003026,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003026,
+                        "ChildTableID": -1,
+                        "UserCount": 717,
+                        "RightCount": 327,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003026,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003027,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003027,
+                        "ChildTableID": -1,
+                        "UserCount": 674,
+                        "RightCount": 351,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003027,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003028,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003028,
+                        "ChildTableID": -1,
+                        "UserCount": 704,
+                        "RightCount": 339,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003028,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43003029,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003029,
+                        "ChildTableID": -1,
+                        "UserCount": 694,
+                        "RightCount": 317,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003029,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003030,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003030,
+                        "ChildTableID": -1,
+                        "UserCount": 640,
+                        "RightCount": 449,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003030,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003031,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003031,
+                        "ChildTableID": -1,
+                        "UserCount": 688,
+                        "RightCount": 365,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003031,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003032,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003032,
+                        "ChildTableID": -1,
+                        "UserCount": 649,
+                        "RightCount": 384,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003032,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003033,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003033,
+                        "ChildTableID": -1,
+                        "UserCount": 678,
+                        "RightCount": 311,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003033,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003034,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003034,
+                        "ChildTableID": -1,
+                        "UserCount": 639,
+                        "RightCount": 443,
+                        "FavCount": 7,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003034,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003035,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003035,
+                        "ChildTableID": -1,
+                        "UserCount": 693,
+                        "RightCount": 314,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003035,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43003036,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003036,
+                        "ChildTableID": -1,
+                        "UserCount": 605,
+                        "RightCount": 489,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003036,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003037,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003037,
+                        "ChildTableID": -1,
+                        "UserCount": 621,
+                        "RightCount": 452,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003037,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003038,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003038,
+                        "ChildTableID": -1,
+                        "UserCount": 590,
+                        "RightCount": 506,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003038,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003039,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003039,
+                        "ChildTableID": -1,
+                        "UserCount": 671,
+                        "RightCount": 341,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003039,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003040,
+                "ChildTableID": 43000777,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003040,
+                        "ChildTableID": 43000777,
+                        "UserCount": 620,
+                        "RightCount": 443,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003040,
+                    "ChildTableID": 43000777
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43003040,
+                "ChildTableID": 43000778,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003040,
+                        "ChildTableID": 43000778,
+                        "UserCount": 633,
+                        "RightCount": 397,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003040,
+                    "ChildTableID": 43000778
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43003040,
+                "ChildTableID": 43000779,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003040,
+                        "ChildTableID": 43000779,
+                        "UserCount": 630,
+                        "RightCount": 479,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003040,
+                    "ChildTableID": 43000779
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43003040,
+                "ChildTableID": 43000780,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003040,
+                        "ChildTableID": 43000780,
+                        "UserCount": 652,
+                        "RightCount": 410,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003040,
+                    "ChildTableID": 43000780
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

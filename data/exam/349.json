@@ -1,0 +1,869 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:28:33 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 9,
+                    "TestItems": [
+                        {
+                            "Title": "e54d8468488f1003d86703f8d4bdef846a729c678cd7a65cb599717633f75ee95a2c8c049133c301983d3671affeb316",
+                            "Explain": "β肾上腺素受体阻断作用包括：①阻断β受体；降低心肌耗氧量。可通过粗断β受体过度兴奋，使心肌收缩力减弱，心率减慢，故B所述符合β肾上腺素受体阻断作用。②抗炎、抗氧化、抗血小板作用，减少脂肪分解。C和E所述符合β肾土腺素受体阻断作用。③对局部有麻醉作用，故D符合β肾上腺素受体阻断作用。④收缩支气管平滑肌诱发哮喘的发生，而A不属于β肾上腺素受体的阻断作用。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "支气管平滑肌松弛作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "心肌收缩力减弱作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗血小板聚集作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "局部麻醉作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "减少脂肪分解作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000573,
+                            "ATestID": 35000573,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2fccf26437368160f8accee643bd3d2469618fd323741946958f0fc942fac0c712b5a70f6b671e18",
+                            "Explain": "硝酸甘油主要作用是释放NO通过鸟苷酸环化酶降低钙浓度而松弛血管。①可明显扩张静脉血管（容量血管），使回心血量减少，心脏前负荷降低，心肌耗氧量减少。②对痉挛的冠脉具有强的扩张作用，有效改善缺血区域的血供。③降低左室的充盈压，增加心内膜血供。④释放NO，促进内源性PGI[XB2.gif]、降钙素等物质的生成，对心肌其直接保护作用。故选择E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "不影响心肌氧耗量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "对较大冠状动脉没有扩张作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "明显降低收缩压"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "不影响心率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "明显扩张容量血管"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000574,
+                            "ATestID": 35000574,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2fccf26437368160c27495e548a280d4605481f3615407510bcf21d67c3adda6b9616f12ee99d091f710fcb75cb69c4a21a77e9a61febd8c5ff40d0a35f2fe17370361a2e6c424f092bc427c0ab3b17acd476ba1e24034709a644faffbf254d577c4fa40ef379021",
+                            "Explain": "硝酸甘油进入体内，能在细胞中产生一氧化氮(NO)，从而舒张血管和松弛其他平滑肌，舒张静脉血管强于动脉，还有抑制血小板聚集作用，与B受体阻断剂合用，可使心肌耗氧量下降，有协同作用。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "二者均可使心率减慢"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "在心室压力改变方面可相互拮抗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "二者均可使心室容积减小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "二者均可使心肌收缩减弱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "二者均可使心肌耗氧量下降，有协同作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000528,
+                            "ATestID": 43000528,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2fccf2643736816099fa28d43ce7b979b29a1aef83435263420f8b471647fa055a5c7f9bbf69a3bb9ef3b62c5eb42dc1",
+                            "Explain": "硝酸甘油舒张血管平滑肌的机制体内代谢生成NO。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "激活腺苷酸环化酶，增加cAMP"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "直接作用于血管平滑肌"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "激动β[2.gif]受体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "体内代谢生成NO"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "阻断Ca[~2+.gif]通道"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002721,
+                            "ATestID": 43002721,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "823f9d978acaa82637f0edb4f55e0c2be57f90832ee7d49e11e3f80f1100113c6ebf28211ddc33dd52177814126545805eee611d506357b3",
+                            "Explain": "变异型心绞痛由冠状动脉痉挛引起普萘洛尔减慢心率，改善心肌代谢的作用对其无效相反，普萘洛尔可阻断β受体，使收缩血管的α受体占优势，进一步导致心肌供血不足，故不用。",
+                            "TestPoint": "抗心律失常药",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "对变异性心绞痛效果好"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "与硝酸甘油合用效果好"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "对兼有高血压的效果好"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "久用后不宜突然停药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "对稳定型和不稳定型的都有效"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002722,
+                            "ATestID": 43002722,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2fccf26437368160f8accee643bd3d2469618fd323741946e55a73a700b62ce7c70d5ebf0d91699f",
+                            "Explain": "硝酸甘油的基本作用是松弛平滑肌，以对血管平滑肌的作用最显著，可以降低血压，反射性地增快心率，减轻心脏前后负荷，但心肌收缩力不变，并可催化释放出NO。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "升高血压"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "减慢心率"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心肌收缩力减弱"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "开放侧支循环"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "收缩血管"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015454,
+                            "ATestID": 43015454,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "888a24160bebadcd936d5b8bc154cb261b62dd5b72c2f6ce4729b88064cfbd6d54ceeb2b3dd8ffadc1c3dbf86291c8df",
+                            "Explain": "变异性心绞痛患者首选钙离子拮抗剂。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "胺碘酮",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "利多卡因",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "ACEI",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "硝苯地平",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "硝酸甘油",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015455,
+                            "ATestID": 43015455,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea81854f70f29fe3850ac1c1a808e2fd72c340fe31ce88bed38100a7e311f4c0279da7416c7b1e92959581",
+                            "Explain": "硝酸甘油可以直接松弛血管平滑肌，特别是小血管平滑肌，使全身血管扩张，外周阻力减少，静脉回流减少，减轻心脏前后负荷，降低心肌耗氧量，解除心肌缺氧。用于心绞痛急性发作，也用于急性左心衰竭。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "降低室壁肌张力"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "降低心肌耗氧量"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "扩张心外膜血管"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "降低左心室舒张末压"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "降低交感神经活性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015456,
+                            "ATestID": 43015456,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2fccf264373681607b7b31f7c4f06b5cb50f5431ee056b11b5cb3be3b729cce8f243a10456842d38fe1f06436aa3abc5",
+                            "Explain": "抗心绞痛的作用机制包括降低氧耗和增加氧供。降低氧耗可通过降低前后负荷实现，增加氧供可以直接扩冠脉。硝酸甘油相对其他降压药直接扩冠脉，从而广泛用于冠心病，释放NO是硝酸甘油药效的机制。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "增加心肌供氧量"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抑制心肌收缩力"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "收缩外周血管"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "减慢房室传导"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "释放NO"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015457,
+                            "ATestID": 43015457,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "2fccf264373681607e012123c5157bfc2e58521deaa1ff1f19f1af5893bdbcfce8ff947067a79c7c289ad42cdac9727e82b8e767bb29f64bfe5f4ddbf6b48d71",
+                            "Explain": "硝酸甘油与普萘洛尔（心得安）合用时通过不同作用方式降低心肌耗氧量，因此获得协同效应，同时可取长补短，如普萘洛尔可以消除硝酸甘油引起的反射性心率加速作用，硝酸甘油则能缩小普萘洛尔所增加的心室容积。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "增加心肌收缩力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "加快心率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "增大心室容积"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "降低心肌耗氧量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "延长射血时间"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000536,
+                            "ATestID": 41000536,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "e0348d021e7f91e4a12e460be0d94db4d47a02d3928ffa41fd3dfa12d1405ee58c7c68ffbc74f7080251b37f0c441deb",
+                            "Explain": "硝酸甘油的耐药有几种机制可以解释。血管壁外的机制（所谓假耐药性）包括神经体液的对抗调节机制和血管内容积的膨胀。硝酸甘油造成的血压下降引起的压力反射导致了各种神经体液调节。这些调节包括儿茶酚胺水平的声高和释放速度的提高，以及血浆加压素、血浆肾素活性和醛固酮水平的升高。这些改变不是硝酸甘油所特有的，用其他血管扩张剂治疗也可出现。神经体液刺激的程度依赖于所选的硝酸甘油的浓度。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "硝酸甘油"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "普萘洛尔"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "地尔硫[zhuo.gif]"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "硝苯地平"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "维拉帕米"
+                                }
+                            ],
+                            "AllTestID": 43002723,
+                            "BTestID": 43000706,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 349,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000706,
+                                    "Title": "e0348d021e7f91e4a12e460be0d94db4d47a02d3928ffa41fd3dfa12d1405ee58c7c68ffbc74f7080251b37f0c441deb",
+                                    "Explain": "硝酸甘油的耐药有几种机制可以解释。血管壁外的机制（所谓假耐药性）包括神经体液的对抗调节机制和血管内容积的膨胀。硝酸甘油造成的血压下降引起的压力反射导致了各种神经体液调节。这些调节包括儿茶酚胺水平的声高和释放速度的提高，以及血浆加压素、血浆肾素活性和醛固酮水平的升高。这些改变不是硝酸甘油所特有的，用其他血管扩张剂治疗也可出现。神经体液刺激的程度依赖于所选的硝酸甘油的浓度。",
+                                    "TestPoint": "抗高血压药",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000707,
+                                    "Title": "ec5b3c88a865307fcb186fc10f67c37523a3169587c4caff6cec0786b2b55f9b57d0171304e30b255bbc0dc312136dbc",
+                                    "Explain": "因β受体阻滞剂有加重冠脉痉挛的可能，一般不宜用于治疗变异型心绞痛，所以选B。",
+                                    "TestPoint": "抗心绞痛药",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000573,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000573,
+                        "ChildTableID": -1,
+                        "UserCount": 1823,
+                        "RightCount": 978,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000573,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 35000574,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000574,
+                        "ChildTableID": -1,
+                        "UserCount": 1737,
+                        "RightCount": 1111,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000574,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43000528,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000528,
+                        "ChildTableID": -1,
+                        "UserCount": 1628,
+                        "RightCount": 1407,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000528,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002721,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002721,
+                        "ChildTableID": -1,
+                        "UserCount": 1734,
+                        "RightCount": 1057,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002721,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43002722,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002722,
+                        "ChildTableID": -1,
+                        "UserCount": 1711,
+                        "RightCount": 1053,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002722,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43015454,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015454,
+                        "ChildTableID": -1,
+                        "UserCount": 1549,
+                        "RightCount": 915,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015454,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015455,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015455,
+                        "ChildTableID": -1,
+                        "UserCount": 1471,
+                        "RightCount": 1187,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015455,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015456,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015456,
+                        "ChildTableID": -1,
+                        "UserCount": 1512,
+                        "RightCount": 980,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015456,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015457,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015457,
+                        "ChildTableID": -1,
+                        "UserCount": 1418,
+                        "RightCount": 1213,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015457,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000536,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000536,
+                        "ChildTableID": -1,
+                        "UserCount": 1438,
+                        "RightCount": 1361,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000536,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002723,
+                "ChildTableID": 43000706,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002723,
+                        "ChildTableID": 43000706,
+                        "UserCount": 1591,
+                        "RightCount": 894,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002723,
+                    "ChildTableID": 43000706
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002723,
+                "ChildTableID": 43000707,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002723,
+                        "ChildTableID": 43000707,
+                        "UserCount": 1573,
+                        "RightCount": 1020,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002723,
+                    "ChildTableID": 43000707
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,1756 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:28:38 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 15,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d09035010e035562938275faf0f800c2a6663fd953e6edabf4b952cfae59aa71041d91c4b2f8fb2c71190b252db445c8ffff33449cc88c9ac89986efcd422738753af43dfb572f98e920443bd8a2bd0298fcce01bad6fca24a5c55ab55087192f54cd83653484c811f42040a398261bf004c0d70f9b9efa0e8d7f2bd7a362ad88281b5b01910a14bc5d0075c9d18e555ca4f1555585a4366452e6fc4be336e7b4fccaeb7efa68b7367d538bafc404a39f6ee2",
+                            "Explain": "题目中所述患者为老年人，老年性高血压应避免使用能引起体位性低血压的药物，如大剂量利尿药，故A、E排除。β受体阻滞剂不宜长期使用，尤其是伴有心功能不全或支气管哮喘者，故B、D排除。ACE抑制剂是治疗高血压一线用药，同时联合使用钙通道阻滞剂，是一类比较好的联合用药方案，尤其对于长期使用抗高血压药的老年人，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "利尿剂+β受体阻滞剂",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "β受体阻滞剂+钙通道阻滞剂",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "ACE抑制剂+钙通道阻滞剂",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "α受体阻滞剂+β受体阻滞剂",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "利尿剂+钙通道阻滞剂",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000583,
+                            "ATestID": 35000583,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实该题无误。",
+                            "OperateTime": "2018年8月23日"
+                        },
+                        {
+                            "Title": "02b50e5b583d09030f25529697a69e7b4063b2ae104f97241ed17c7614300e4cd3db6e508201b720831509a0c4b2a9dca71cf3b9caebbdb66885bfb029a8522313949c1d9e1bb3c79f66afb415495f580b7b2d7d395ce3e4911ed6a34e65d4f025cd74f8933dbea9c4737d9d9419e66b9de63041334d34c3c0d20c34146fdd293627523eb76fd97a0e275283d8dc0ac910ac071dd9ad72816b44d2921a656c9c1633c9828381faa75ae348a5239fd0ed76d66a1a7b872cfaba82d10b04a9bc5276204375ccc1cb3c2eafccbc2d3278b630bdc8fc1028b75a942161dbe10032b32991c7af1ca0b4d7a8c938ff67350c3dbdf8eb71d2c10aa301e6211387c85d446c2c932c186a08d2a7ac2271c4e227d1cead7e187dfc998d69f22c208d72d0c048c81978c64dd13b",
+                            "Explain": "辛伐他汀的副作用偶有横纹肌溶解症，可出现四肢无力、肌肉酸痛，可出现血磷酸肌激酶水平增高，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "下肢深静脉血栓形成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "下肢动脉粥样硬化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "普萘洛尔的副作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "卡托普利的副作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "辛伐他汀的副作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000585,
+                            "ATestID": 35000585,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d5cfcee1c96c3e58eb33a3bf345f959c391c4c90a5178bf88f91a9b214382e50e78692ab01ffe0e639056a214aeccf6c3a7d2307d9c3a831",
+                            "Explain": "ACEI可逆转心肌细胞肥大。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "可用于各型高血压，有反射性心率加快"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "对肾脏无保护作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "可防治高血压患者心肌细胞肥大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "长期用药易引起电解质紊乱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "对高血压患者的血管壁增厚无防治作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000532,
+                            "ATestID": 43000532,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "34753c9e8a035951a45a4c0561d05818f00b7422928e04ecf08a113e804a3b9d36f9534aa68399d54db8f1acc47f806e854cc104a9d5e8c1",
+                            "Explain": "卡托普利片对各种程度高血压均有定降压作用，对伴随心力衰竭、左室肥大、心肌肥厚、糖耐量减低或糖尿病肾病蛋白尿等合并症的患者尤其适合。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "氢氯噻嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "利血平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "卡托普利"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胍乙啶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "哌唑嗪"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002659,
+                            "ATestID": 43002659,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d8c47ab78ef1df837f44fa59c1eddae599270636cc09c3c9d37b0c78bf765615f9499580edea8c4e81cd7f2197db292ef627839740100d11",
+                            "Explain": "氢氯噻嗪可致高血糖、高脂血症。本类可降低糖耐量，使血糖升高，可能是抑制了胰岛素的分泌或抑制肝的磷酸二酯酶，因此使cAMP中介的糖原分解作用加强，糖尿病者慎用。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "B",
+                            "Difficulty": "很难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "利血平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "氢氯噻嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "硝普钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "卡托普利"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "硝苯地平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002660,
+                            "ATestID": 43002660,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "823f9d978acaa82637f0edb4f55e0c2ba2e471f53f3d095cb4c2ea927786cef33ed97054401b9f87",
+                            "Explain": "普萘洛尔半衰期为2～3h，主要经肾脏排泄，包括大部分代谢产物及小部分（小于1%）原形物。好转后还是需要长时间用药。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "阻断突触前膜β[2.gif]受体减少去甲肾上腺素释放"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "减少肾素的释放"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "长期用药一旦病情好转应立即停药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "生物利用度个体差异大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "能诱发支气管哮喘"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002661,
+                            "ATestID": 43002661,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9f1c95e933ce128c6eac939c571b9eef166177decc75cd274617adbaa65630976289de91d28c1366",
+                            "Explain": "较常见的有(1)皮疹，可能伴有瘙痒和发热，常发生于治疗4周内，呈斑丘疹或荨麻疹，减量、停药或给抗组胺药后消失，7%～10%伴嗜酸性细胞增多或抗核抗体阳性。(2)心悸，心动过速，胸痛。(3)咳嗽、最为常见(4)味觉迟钝",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "直立性低血压"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "刺激性干咳"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "多毛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "阳痿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "反射性心率加快"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002662,
+                            "ATestID": 43002662,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "13311f81f086cf184fac12371ede94d0889f354db6857d7a6916a1c33b59b99b1389b550cea5b718",
+                            "Explain": "利尿药通过舒张血管，降低外周阻力，使血压下降。用药初期是由于排Na[~+.gif]利尿，使细胞外液和血容量减少而降压，长期用药降压机制：①排Na[~+.gif]，降低动脉壁细胞内Na[~+.gif]的含量，并通过Na[~+.gif]-Ca[~2+.gif]交换机制，使血管平滑肌细胞内Ca[~2+.gif]减少，因而本题D选项正确。此外还与②降低血管平滑肌对去甲肾上腺素的反应性和③诱导动脉壁产生扩血管物质如激肽和前列腺素等有关。长期用利尿剂降压与血浆肾素活性及醛固酮无关。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "D",
+                            "Difficulty": "很难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "排Na[~+.gif]利尿，降低血容量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "降低血浆肾素活性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "增加血浆肾素活性"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "减少细胞内Na[~+.gif]，降低血管对缩血管物质的反应性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抑制醛固酮的分泌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002663,
+                            "ATestID": 43002663,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0bf0db2ec76acb6c0a0f151f12002c5c1cb8ab44ca8be04021fce69602f7b4bc",
+                            "Explain": "硝普钠为鲜红色透明粉末状结晶，易溶于水，液体呈褐色性质不稳定，放置后或遇光时易分解，使高铁离子(Fe3+)变为低铁离子(Fe2+)，液体变为蓝色。由于其作用迅速，而且消失也快，是治疗高血压急症及急性左心衰竭的常用药物。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "对小动脉和小静脉有同等的舒张作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "适用于治疗高血压危象和高血压脑病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "也可用于治疗难治性心衰"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "连续应用数日后体内可能有SCN-蓄积"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "降压作用迅速而持久"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002664,
+                            "ATestID": 43002664,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b5d2c421a2fcd771050fb3343d26a7014305998111603420eb8a8a7859f48717372332d8d85091fde6b2fac0055f3232",
+                            "Explain": "抑制RAAS系统的血管紧张素转换酶（ACEI），阻止血管紧张素Ⅰ转换或血管紧张素Ⅱ，并能抑制醛固酮分泌，减少水钠潴留",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "降低外周血管阻力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "可用于治疗心衰"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "与利尿药合用可加强其作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "可增加体内醛固酮水平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "双侧肾动脉狭窄的患者忌用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002665,
+                            "ATestID": 43002665,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c1e3110d11fec672e51627839490e777f87e17420053296ce630940d2872f55d8cc8c99abe47bffe",
+                            "Explain": "降低肾素活性最明显的药物普萘洛尔",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "氢氯噻嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "可乐定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肼苯哒嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "普萘洛尔"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "利血平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002666,
+                            "ATestID": 43002666,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "398a9cbadece97e6b10248e3768757f59cde8176ab383f7f590dc90ba21ab9ca",
+                            "Explain": "ACEI可使缓激肽增加，故而可引起咳嗽。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "减少血液缓激肽水平"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "增加细胞内cAMP水平"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "减少血液儿茶酚胺水平"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "减少血液加压素水平"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "增加血液缓激肽水平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015459,
+                            "ATestID": 43015459,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "efd054ec5626010984ebc153f368f489407782212624a4b09c89844432ad4f0b8e3abd0ccbfe9dfa",
+                            "Explain": "ACEI不能拮抗AngⅡ受体，ARB类可以。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "使血液及组织中的血管紧张素Ⅱ（AngⅡ）水平下降"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "具有抗交感神经作用"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "使醛固酮的分泌减少"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "拈抗AngⅡ受体"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "提高血液中的缓激肽水平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015460,
+                            "ATestID": 43015460,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9197a8607ba4a7ec6b720c87fb83b41647676e015d49d85048f84939472439f84a304b3fa356f046d152fdf44cf5b9c5e712d35493faf05540e9b3c4e90d4881da639ea414940d60",
+                            "Explain": "卡托普利属于ACEⅠ类，可抑制血管紧张素转化酶活性。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "可乐定"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "普萘洛尔"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "利血平"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "利多卡因"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "卡托普利"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015461,
+                            "ATestID": 43015461,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "316aac1f9acc89eab239c95a34f90d8c8e74ff1c30862aede9625f32a26f3851291338260c6e9e4e7170c9b17ff86a1dbc3ae4626baf9885032ee185743cff240460b44b2e7f0b73",
+                            "Explain": "氯沙坦能与ATI受体选择性地结合，对抗AngⅡ的绝大多数药理作用，从而产生降压作用，属于血管紧张素受体抑制剂，阻止血管紧张素与受体结合。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肾素活性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "血管平滑肌细胞内Ca[SB2jia.gif]含量"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "ACE活性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "其抗AngⅡ受体的活性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心率变化"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015462,
+                            "ATestID": 43015462,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "efd054ec5626010984ebc153f368f489407782212624a4b09c89844432ad4f0b8e3abd0ccbfe9dfa",
+                            "Explain": "ACEI主要的药理作用是抑制ACE活性，减少血管紧张素Ⅱ的生成，减少缓激肽的水解，导致血管舒张、血容量减少、血压下降。此外还可通过抑制交感神经系统及醛固酮分泌，发生间接作用使血压下降。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "使血液及组织中的血管紧张素Ⅱ水平下降"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "提高血液中的缓激肽水平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "使醛固酮的分泌减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "拮抗血管紧张素Ⅱ受体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "具有抗交感神经作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000540,
+                            "ATestID": 41000540,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d09035010e035562938275e3241147098c42c1d68f528d8e45395221912048b807af777da1b7e9b86d9c6bfabfb5cac17cf129d6729af04ac4517db34205939d03e4400dfb74436a886afd28349630cc3250b84aeaab61be0e43c0b1fedd0479800030714eceba39ab45a0333399cf88618eebb4944cff8074c8638117851722ff154",
+                            "Explain": "卡托普利片对各种程度高血压均有定降压作用，对伴随心力衰竭、左室肥大、心肌肥厚、糖耐量减低或糖尿病肾病蛋白尿等合并症的患者尤其适合。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "氢氯噻嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "可乐定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "卡托普利"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "维拉帕米"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "普萘洛尔"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002667,
+                            "ATestID": 43002667,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09035010e03556293827a89219694b278b5a9cc8f440a993ccee4c50d395d517c565389d9215fe9c0c8e1e891f45f6b9b8722fb18e5a95c65a7f5a8be7d4981f1e552deebadd3c556104b5adf5ffacb0139a5cfe1672500e95dfc3432351d4007c2f1f0d57ac39f3ae7ed79cb1db3aea2b36b331aeb544f23351",
+                            "Explain": "氯沙坦能特异性的拮抗血管紧张素ⅡAT1受体，阻断了循环和局部组织中血管紧张素Ⅱ(AGⅡ)所致的动脉血管收缩、交感神经兴奋和压力感受器敏感性增加等效应，强力和持续性降低血压，使收缩压和舒张压下降。尚可减轻左心室肥厚，抑制心肌细胞增生，延迟或逆转心肌重构，改善左室功能。对血糖、血脂代谢无不利影响。其还具有改善肾血流动力学作用，减轻肾血管阻力，选择性扩张出球小动脉，降低肾小球内压力，降低蛋白尿，增加肾血流量和肾小球滤过率，保护肾脏而延缓慢性肾功能不全的过程，特别对糖尿病肾病的恶化有逆转作用。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "氢氯噻嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "可乐定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "氯沙坦"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "普萘洛尔"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "利血平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002668,
+                            "ATestID": 43002668,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903f9e666fa54e2f2c98a7609cac286ae8b7bc7acb1f15b5a51d1faa19fe7986cdb57e21f02586d317a1f9e1d35f972d7552bdd4f2384c34683c6b9e5e6880fcc98d85cc36413bc99752b1494821bc595ae71b904b73f6ab13499654739c14096826b357ccfc7cb4d188ccc615c033186ac876dc01b0f9632900a9a3e3280ac2054a238047dd3a659d92a09d7e575abd5a63380f0015cd29c51",
+                            "Explain": "患者有血压升高，头痛头晕伴有心悸建议用氢氯噻嗪为利尿药、抗高血压药。加用普萘洛尔，用于治疗多种原因所致的心律失常，如房性及室性早搏（效果较好）、窦性及室上性心动过速、心房颤动等，但室性心动过速宜慎用。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "氢氯噻嗪+普萘洛尔"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "氢氯噻嗪+可乐定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "硝苯地平+肼屈嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "硝苯地平+哌唑嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "卡托普利+肼屈嗪"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002669,
+                            "ATestID": 43002669,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "2d413a9471ecd146efdb5cbecf392970cad0b6b69e6162468adebaeabfd85f06faa2efa841c5da9af7a94af44af39e9ee0c93e84abc06332fad7a58af857fa128f0d02b20f9676cc",
+                            "Explain": "噻嗪类利尿药会诱发低血钾，故不适用于低血钾症的高血压患者，故8题选C。血管紧张素转换酶抑制剂是伴有糖尿病、左心室肥厚、左心功能障碍及急性心肌梗死高血压患者的首选药物，故9题选A。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血管紧张素转换酶抑制剂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "二氢吡啶类钙通道阻滞剂"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "噻嗪类利尿剂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "α受体阻滞剂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "β受体阻滞剂"
+                                }
+                            ],
+                            "AllTestID": 35000586,
+                            "BTestID": 35000128,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000128,
+                                    "Title": "2d413a9471ecd146efdb5cbecf392970cad0b6b69e6162468adebaeabfd85f06faa2efa841c5da9af7a94af44af39e9ee0c93e84abc06332fad7a58af857fa128f0d02b20f9676cc",
+                                    "Explain": "噻嗪类利尿药会诱发低血钾，故不适用于低血钾症的高血压患者，故8题选C。血管紧张素转换酶抑制剂是伴有糖尿病、左心室肥厚、左心功能障碍及急性心肌梗死高血压患者的首选药物，故9题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000129,
+                                    "Title": "d5f1680a374e35556430b8b2ecdd5f8d25d5cadeac11f910b89abc857fefbc141a3f35c60c2955e12254387e6c498d8fa7c02a48bc0bb095f7545f862335f019e2b40cab45194f66f30dff363d02c5bd5557fe1d2c18f9f4f6d586fe58c80376",
+                                    "Explain": "噻嗪类利尿药会诱发低血钾，故不适用于低血钾症的高血压患者，故8题选C。血管紧张素转换酶抑制剂是伴有糖尿病、左心室肥厚、左心功能障碍及急性心肌梗死高血压患者的首选药物，故9题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "1f799a1df91434f30f763bde51515027e1af4de5ef1d9b7c",
+                            "Explain": "①硝普钠属于直接舒血管药，可以直接扩张小动脉和小静脉，可迅速降低收缩压和舒张压，降低心室前后负荷并增加心排血量，故15题选E。②呋塞米（速尿）属于利尿药，其降压机制认为与利尿排钠有关，傅低心室前负荷，导致心排血量降低而血压下降，故16题选A。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "降低心室前负荷"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "降低心室后负荷"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "降低心室前后负荷"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "减弱心肌收缩力"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "降低心室前后负荷并增加心排血量"
+                                }
+                            ],
+                            "AllTestID": 35000589,
+                            "BTestID": 35000135,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000135,
+                                    "Title": "1f799a1df91434f30f763bde51515027e1af4de5ef1d9b7c",
+                                    "Explain": "①硝普钠属于直接舒血管药，可以直接扩张小动脉和小静脉，可迅速降低收缩压和舒张压，降低心室前后负荷并增加心排血量，故15题选E。②呋塞米（速尿）属于利尿药，其降压机制认为与利尿排钠有关，傅低心室前负荷，导致心排血量降低而血压下降，故16题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000136,
+                                    "Title": "a2006689acd2b5a91f4a9586e063bc5ef360dcc2f5f8a9508674949d9df87294f060f822afdf402a",
+                                    "Explain": "①硝普钠属于直接舒血管药，可以直接扩张小动脉和小静脉，可迅速降低收缩压和舒张压，降低心室前后负荷并增加心排血量，故15题选E。②呋塞米（速尿）属于利尿药，其降压机制认为与利尿排钠有关，傅低心室前负荷，导致心排血量降低而血压下降，故16题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "d56bfaaaf623b6d3b6c84f649304c20b7ca87b5ba972813b80fd487df6d8ab01c58c8ab4117ae5bb9f5ec557a2d1b8f7fb1159ad0cce18fa",
+                            "Explain": "β受体阻断剂能降低心率、血压及心肌收缩力，从而降低心肌氧耗量，减轻症状及无症状性心肌缺血的发作，提高患者运动耐量。β受体阻断剂适用于严重程度不同的高血压，尤其是心率较快的中青年患者，故1题选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "β受体阻断剂",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "利尿剂",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "α受体阻断剂",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "血管紧张素Ⅱ受体阻断剂",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "钙通道阻滞剂",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 41000542,
+                            "BTestID": 41000167,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 363,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000167,
+                                    "Title": "d56bfaaaf623b6d3b6c84f649304c20b7ca87b5ba972813b80fd487df6d8ab01c58c8ab4117ae5bb9f5ec557a2d1b8f7fb1159ad0cce18fa",
+                                    "Explain": "β受体阻断剂能降低心率、血压及心肌收缩力，从而降低心肌氧耗量，减轻症状及无症状性心肌缺血的发作，提高患者运动耐量。β受体阻断剂适用于严重程度不同的高血压，尤其是心率较快的中青年患者，故1题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": "经核实，试题无误，不做修改。",
+                                    "OperateTime": "2018年8月24日"
+                                },
+                                {
+                                    "BTestItemID": 41000168,
+                                    "Title": "34753c9e8a0359512e487601f2284d681ba96597c8d319a9d579f966674e1dd59dd6ab38229bb0bb",
+                                    "Explain": "血管紧张素转化酶抑制剂可减少尿微量白蛋白，延缓糖尿病肾病的发生、发展.还可以降低心力衰竭和心肌梗死的发生。特别适宜伴糖尿病肾病、蛋白尿、心力衰竭、左心室肥大和心肌梗死后的高血压，故2题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": "经核实，试题无误，不做修改。",
+                                    "OperateTime": "2018年8月24日"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000583,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000583,
+                        "ChildTableID": -1,
+                        "UserCount": 1704,
+                        "RightCount": 1045,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000583,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 35000585,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000585,
+                        "ChildTableID": -1,
+                        "UserCount": 1687,
+                        "RightCount": 1100,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000585,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000532,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000532,
+                        "ChildTableID": -1,
+                        "UserCount": 1653,
+                        "RightCount": 1119,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000532,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002659,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002659,
+                        "ChildTableID": -1,
+                        "UserCount": 1529,
+                        "RightCount": 1249,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002659,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002660,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002660,
+                        "ChildTableID": -1,
+                        "UserCount": 1587,
+                        "RightCount": 1034,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002660,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002661,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002661,
+                        "ChildTableID": -1,
+                        "UserCount": 1436,
+                        "RightCount": 1217,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002661,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002662,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002662,
+                        "ChildTableID": -1,
+                        "UserCount": 1424,
+                        "RightCount": 1174,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002662,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002663,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002663,
+                        "ChildTableID": -1,
+                        "UserCount": 1512,
+                        "RightCount": 1009,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002663,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002664,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002664,
+                        "ChildTableID": -1,
+                        "UserCount": 1556,
+                        "RightCount": 977,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002664,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43002665,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002665,
+                        "ChildTableID": -1,
+                        "UserCount": 1543,
+                        "RightCount": 974,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002665,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43002666,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002666,
+                        "ChildTableID": -1,
+                        "UserCount": 1571,
+                        "RightCount": 802,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002666,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43015459,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015459,
+                        "ChildTableID": -1,
+                        "UserCount": 1487,
+                        "RightCount": 675,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015459,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015460,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015460,
+                        "ChildTableID": -1,
+                        "UserCount": 1495,
+                        "RightCount": 695,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015460,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43015461,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015461,
+                        "ChildTableID": -1,
+                        "UserCount": 1308,
+                        "RightCount": 1138,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015461,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015462,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015462,
+                        "ChildTableID": -1,
+                        "UserCount": 1390,
+                        "RightCount": 972,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015462,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000540,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000540,
+                        "ChildTableID": -1,
+                        "UserCount": 1482,
+                        "RightCount": 955,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000540,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002667,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002667,
+                        "ChildTableID": -1,
+                        "UserCount": 1385,
+                        "RightCount": 1194,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002667,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002668,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002668,
+                        "ChildTableID": -1,
+                        "UserCount": 1468,
+                        "RightCount": 974,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002668,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002669,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002669,
+                        "ChildTableID": -1,
+                        "UserCount": 1393,
+                        "RightCount": 1029,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002669,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 35000586,
+                "ChildTableID": 35000128,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000586,
+                        "ChildTableID": 35000128,
+                        "UserCount": 1366,
+                        "RightCount": 1172,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000586,
+                    "ChildTableID": 35000128
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 35000586,
+                "ChildTableID": 35000129,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000586,
+                        "ChildTableID": 35000129,
+                        "UserCount": 1364,
+                        "RightCount": 1181,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000586,
+                    "ChildTableID": 35000129
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 35000589,
+                "ChildTableID": 35000135,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000589,
+                        "ChildTableID": 35000135,
+                        "UserCount": 1529,
+                        "RightCount": 1166,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000589,
+                    "ChildTableID": 35000135
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 35000589,
+                "ChildTableID": 35000136,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000589,
+                        "ChildTableID": 35000136,
+                        "UserCount": 1571,
+                        "RightCount": 986,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000589,
+                    "ChildTableID": 35000136
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000542,
+                "ChildTableID": 41000167,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000542,
+                        "ChildTableID": 41000167,
+                        "UserCount": 1609,
+                        "RightCount": 681,
+                        "FavCount": 59,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000542,
+                    "ChildTableID": 41000167
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000542,
+                "ChildTableID": 41000168,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000542,
+                        "ChildTableID": 41000168,
+                        "UserCount": 1320,
+                        "RightCount": 1206,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000542,
+                    "ChildTableID": 41000168
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

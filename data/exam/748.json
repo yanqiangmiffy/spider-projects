@@ -1,0 +1,698 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:30:55 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 9,
+                    "TestItems": [
+                        {
+                            "Title": "应首先考虑的出血原因是",
+                            "Explain": "1.饥饿性上腹痛提示为十二指肠溃疡。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "消化性溃疡"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性糜烂性胃炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃黏膜脱垂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "食管胃底静脉曲张破裂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胃癌"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d0903d71bad7ba2b6819e06d5bd4c109ccafcca3f33bdec271b56c7e475af914186b7f18aad7de2cfc340c9346902a91baf8351d11dfd9662b8a346cbaa555b08019bf707c8387569423845efd1ebafeb591dedad67b02cf8f51c856f6cc81f6fd0828d634e378b71562ce8e19c1151689bb52febcab7acdc03f41c6517763d56340f3a1eccbb7b10221ae805736037383adecbdf98125467d36f89221d018ff5931706f187b9004e8630f599f7fb0a1017d4165c019a69e02a7fd2da976fb6acd71eb79335b36248985767cdde91c8228b068568fb8fce95366eaf22373e1d33d27a400b9a5f1aa40535b0e2351fe48a879c",
+                            "AllTestID": 35001778,
+                            "A3TestID": 35000102,
+                            "SrcID": 9,
+                            "SbjID": 49,
+                            "CptID": 748,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000102,
+                                    "Title": "29885b57fc0032dff91f3e8382a1db012217a1b7f3ab136a8a40b41c4b0fd24f643a65351df355de",
+                                    "Explain": "1.饥饿性上腹痛提示为十二指肠溃疡。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "消化性溃疡"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "急性糜烂性胃炎"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "胃黏膜脱垂"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "食管胃底静脉曲张破裂"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "胃癌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000103,
+                                    "Title": "afd15fbc0c972c1b247de20ce9dd4a7e2050f86175f7dd326feda6d5002dce49",
+                                    "Explain": "2.胃镜可以直接看到溃疡，临床最常用，最准确。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "腹腔血管造影"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "腹部CT"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "腹部B超"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "胃镜"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "腹部X线平片"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者最可能的疾病是",
+                            "Explain": "1.消化性溃疡以上腹痛为主要症状，性质可为钝痛、灼痛、胀痛、剧痛或饥饿样不适感。十二指肠溃疡为疼痛在两餐间发生（饥饿痛），胃溃疡为餐后痛。上腹痛通常在服用抗酸药后缓解。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "胃癌",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "胰腺癌",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "消化性溃疡",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "慢性胆囊炎",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "慢性胰腺炎",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7670f462bf2a878ebf5f2d653fb85df679263576f1f582ed1fdb2ba7bd15518de32a8b63bf9530649ca3b2f0bd8f24d332245ed340ca9b89fa23eb212d5414cea3b7ff34358936796912cc901386f9242bafb87bf2ccb66eac9871528df8fbeaf8583a384ba7fdef84d5ee29db9b02a4b2afe825eb1305e5c106b83dac95160f",
+                            "AllTestID": 41001269,
+                            "A3TestID": 41000119,
+                            "SrcID": 9,
+                            "SbjID": 49,
+                            "CptID": 748,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000119,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19f179ba5f2b3adfeb31580fe217ab09c5b",
+                                    "Explain": "1.消化性溃疡以上腹痛为主要症状，性质可为钝痛、灼痛、胀痛、剧痛或饥饿样不适感。十二指肠溃疡为疼痛在两餐间发生（饥饿痛），胃溃疡为餐后痛。上腹痛通常在服用抗酸药后缓解。故选C。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "胃癌",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "胰腺癌",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "消化性溃疡",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "慢性胆囊炎",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "慢性胰腺炎",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000120,
+                                    "Title": "47837431695e165a6ef61256cccfc24b6e599cf54aca79aa7a086ee4839bb199ea6912c32a9c1740391ba651302fbfedeb21ca88d9b2fed9b0b076a24a744576f760cc988b24bbd32f0e2f921969bfc321b3dcd571d0221bea5e6a6a9ecdea81c64b75f1676ca596",
+                                    "Explain": "2.消化性溃疡常见并发症有出血、穿孔、幽门梗阻和癌变。其中癌变仅见于胃溃疡。穿孔后可引起急性腹膜炎，可有腹膜刺激征，症状有中上腹剧痛且腹痛持续存在，体征有压痛、反跳痛及肌紧张。据此判断穿孔，故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "急性胰腺炎并发出血坏死",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "胰腺癌并发肠梗阻",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "胃癌并发幽门梗阻",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "消化性溃疡并发急性穿孔",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "急性胆囊炎并发胆汁性腹膜炎",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000121,
+                                    "Title": "6f78d11a99e8350375f5cc9591542a7b28057d0a961754c58edd27b5d5751d46392113ed1c66bc64d86807610ed8852bcdf9919828a682f7",
+                                    "Explain": "腹部检查最具诊断价值的体征是腹膜刺激征，表现为压痛、反跳痛及腹肌紧张。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "腹肌紧张",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "腹壁柔韧感",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "肠鸣音亢进",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "肝浊音界消失或缩小",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "墨菲征阳性",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年3月06日",
+                                    "OldTestJson": "{\"Title\":\"如进行腹部检查，最具诊断价值的体征是\",\"Explain\":\"3.穿孔最具诊断价值的体征是肝浊音界消失或缩小。故选D。\",\"TestPoint\":\"\",\"Answer\":\"D\",\"Difficulty\":\"\",\"SelectedItems\":[{\"Content\":\"腹肌紧张\",\"ItemName\":\"A\"},{\"Content\":\"腹壁柔韧感\",\"ItemName\":\"B\"},{\"Content\":\"肠鸣音亢进\",\"ItemName\":\"C\"},{\"Content\":\"肝浊音界消失或缩小\",\"ItemName\":\"D\"},{\"Content\":\"墨菲征阳性\",\"ItemName\":\"E\"}],\"StyleType\":\"A3TEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"患者男，40岁。中上腹饥饿性隐痛反复发作10年，伴反酸、嗳气，进食和服用抑酸剂可缓解。\"}"
+                                },
+                                {
+                                    "A3TestItemID": 41000122,
+                                    "Title": "85469dc82f2ff5ec0223e886ce9e062bf8afd43f861f0a6bd4008d747068ca5a0efeeb6d9f8d722e",
+                                    "Explain": "消化道穿孔并发腹膜炎时肠鸣音可以减弱或者消失，首选立位腹部X线平片检查。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "血清淀粉酶测定",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "癌胚抗原测定",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "胃镜检查",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "腹部X线平片",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "中腹部B超",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年1月17日",
+                                    "OldTestJson": "{\"Title\":\"为确诊应选择的检查手段是\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"SelectedItems\":[{\"Content\":\"血清淀粉酶测定\",\"ItemName\":\"A\"},{\"Content\":\"癌胚抗原测定\",\"ItemName\":\"B\"},{\"Content\":\"胃镜检查\",\"ItemName\":\"C\"},{\"Content\":\"腹部X线平片\",\"ItemName\":\"D\"},{\"Content\":\"中腹部B超\",\"ItemName\":\"E\"}],\"StyleType\":\"A3TEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"患者男，40岁。中上腹饥饿性隐痛反复发作10年，伴反酸、嗳气，进食和服用抑酸剂可缓解。\"}"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "以下哪项治疗是错误的",
+                            "Explain": "山莨菪碱等抗胆碱能药可延缓胃排空，适用于十二指肠溃疡，但能加重胃潴留，禁用于幽门梗阻时。患者可在胃内容物充分引流后行胃镜检查，可明确病因和病变范围。因能加重梗阻，不可用钡剂造影检查。幽门梗阻主要是消化性溃疡的主要并发症之一，表现为呕吐大量发酵宿食，特征性体征有：空腹时上腹部饱胀、逆蠕动的胃型及上腹部振水声。患者符合上述表现。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "山莨菪碱"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "西咪替丁（甲氰咪胍）"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "硫糖铝"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胶体次枸橼酸铋"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "氢氧化铝"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7b152f764e1cb121e2852d0a61081493ba5cdc14b919c5ef6036225584fb478fca18eb4ffa56b8366bf972bca183210f2463cfcb0be0ccf0cff73f875cd439b985f7cbd4029bff006024c173d8aac1ec692831940d381210312119a80f4d14dfc2eb10744ef515035f9ad9daea1075d75ebec9da54f8a649d4c152763de552b2520149dbf3fb3341def8a8e5afd26d4b91f05defb8dcc9d6d4d2c9552e2cce7d1f0962afea48885b4d940eaf34bf78b66b52786aaa272fdd1b593b9b3470c8171a8667a0c8b286cd4e71d952217771a535616f9d976c060d7c8367d77bb38d8f113499694133cfd8",
+                            "AllTestID": 43001025,
+                            "A3TestID": 43000043,
+                            "SrcID": 9,
+                            "SbjID": 49,
+                            "CptID": 748,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000043,
+                                    "Title": "d2f28a47c06e4777e8e77f085d77807a3c76e797231d6187fbf38ed797f598e7",
+                                    "Explain": "山莨菪碱等抗胆碱能药可延缓胃排空，适用于十二指肠溃疡，但能加重胃潴留，禁用于幽门梗阻时。患者可在胃内容物充分引流后行胃镜检查，可明确病因和病变范围。因能加重梗阻，不可用钡剂造影检查。幽门梗阻主要是消化性溃疡的主要并发症之一，表现为呕吐大量发酵宿食，特征性体征有：空腹时上腹部饱胀、逆蠕动的胃型及上腹部振水声。患者符合上述表现。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "山莨菪碱"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "西咪替丁（甲氰咪胍）"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "硫糖铝"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "胶体次枸橼酸铋"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "氢氧化铝"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000044,
+                                    "Title": "34e8638a19fed41e00d4079d9812b102a571f0836601fd6ca161d371a4fec7d5b411057cc8e11966dd22e948e41a430b373d66aac1bfd2af",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "腹部B超"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "胃肠减压后内镜检查"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "直接内腹内镜检查"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "上消化道气钡双重造影"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "腹部CT"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000045,
+                                    "Title": "88cb656e01527873df9dffe5c5310a7a356bd7b748691eba890c1ac6c2717428b357bc2da1f92301",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "胃溃疡急性穿孔"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "胃窦癌伴幽门梗阻"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "神经性呕吐"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "胆汁反流性胃炎"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "十二指肠溃疡伴幽门梗阻"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35001778,
+                "ChildTableID": 35000102,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001778,
+                        "ChildTableID": 35000102,
+                        "UserCount": 6800,
+                        "RightCount": 6045,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001778,
+                    "ChildTableID": 35000102
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 35001778,
+                "ChildTableID": 35000103,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001778,
+                        "ChildTableID": 35000103,
+                        "UserCount": 6617,
+                        "RightCount": 6182,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001778,
+                    "ChildTableID": 35000103
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41001269,
+                "ChildTableID": 41000119,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001269,
+                        "ChildTableID": 41000119,
+                        "UserCount": 6203,
+                        "RightCount": 6043,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001269,
+                    "ChildTableID": 41000119
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41001269,
+                "ChildTableID": 41000120,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001269,
+                        "ChildTableID": 41000120,
+                        "UserCount": 6186,
+                        "RightCount": 6007,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001269,
+                    "ChildTableID": 41000120
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41001269,
+                "ChildTableID": 41000121,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001269,
+                        "ChildTableID": 41000121,
+                        "UserCount": 6730,
+                        "RightCount": 4824,
+                        "FavCount": 112,
+                        "DiscussionCount": 6,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001269,
+                    "ChildTableID": 41000121
+                },
+                "DiscussionCount": 6,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 41001269,
+                "ChildTableID": 41000122,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 41001269,
+                            "ChildTableID": 41000122,
+                            "Answer": "C",
+                            "AnswerCount": 2
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001269,
+                        "ChildTableID": 41000122,
+                        "UserCount": 7271,
+                        "RightCount": 3154,
+                        "FavCount": 96,
+                        "DiscussionCount": 14,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001269,
+                    "ChildTableID": 41000122
+                },
+                "DiscussionCount": 14,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001025,
+                "ChildTableID": 43000043,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001025,
+                        "ChildTableID": 43000043,
+                        "UserCount": 6520,
+                        "RightCount": 4578,
+                        "FavCount": 221,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001025,
+                    "ChildTableID": 43000043
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43001025,
+                "ChildTableID": 43000044,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001025,
+                        "ChildTableID": 43000044,
+                        "UserCount": 6431,
+                        "RightCount": 4926,
+                        "FavCount": 63,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001025,
+                    "ChildTableID": 43000044
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43001025,
+                "ChildTableID": 43000045,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001025,
+                        "ChildTableID": 43000045,
+                        "UserCount": 6614,
+                        "RightCount": 4920,
+                        "FavCount": 53,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001025,
+                    "ChildTableID": 43000045
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

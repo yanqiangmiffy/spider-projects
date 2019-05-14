@@ -1,0 +1,604 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:34:03 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "8d998bc089b5f832f58862947e01d4fa7a6c05a120a86179c09a0e548c15c5ee7ac8f0ba32e0f2c6afb68056537c5c52b3d373d7d291e6f60014c6ec445807fc2ddd04310ece6471",
+                            "Explain": "降钙素主要作用于骨、肾脏和小肠，抑制破骨细胞的破骨过程（抑制骨的吸收），抑制肾小管重吸收钙、磷，起到降低血钙、血磷的作用。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "促进细胞内的氧化作用"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "维持糖、蛋白、脂肪正常的代谢"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "升高血钙"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "保持机体各系统、器官的生理功能"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "抑制骨骼的吸收"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019179,
+                            "ATestID": 43019179,
+                            "SrcID": 9,
+                            "SbjID": 52,
+                            "CptID": 120,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "650f182c6e8b295794380d2a16b6d6739c28d92428e0add1156a550e1e246ba9e64dafc2c6ede8de2fe7fdff7c259ad6",
+                            "Explain": "甲状旁腺素的作用是升高血钙，降低血磷。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "钙"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "镁"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "钠"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "钾"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "氯"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019180,
+                            "ATestID": 43019180,
+                            "SrcID": 9,
+                            "SbjID": 52,
+                            "CptID": 120,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "650f182c6e8b29573e01b15547ca93c0b28fb8db423564fa6ef831a48d62124cdf8f1fecf031055efe23fd0c249bb5ba",
+                            "Explain": "甲状旁腺激素可使肾曲小管上皮细胞的cAMP增多，从而抑制肾小管重吸收磷，尿磷增多，故其主要作用是抑制磷的再吸收，选C。其还可抑制近曲小管Na[SBjia.gif]、K[SBjia.gif]、Ca[SB2jia.gif]、HCO[SBjianXB3.gif]的重吸收。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "促进钙离子排出"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "促进磷的再吸收"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抑制磷的再吸收"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "促钠、钾排出"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "尿酸化"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001998,
+                            "ATestID": 41001998,
+                            "SrcID": 9,
+                            "SbjID": 52,
+                            "CptID": 120,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "最可能的诊断是",
+                            "Explain": "患者有骨痛，颈部2cm包括，左第二掌骨骨性隆起。辅助检查：血清钙3.2mmol/L。可能是有甲状旁腺功能亢进症",
+                            "TestPoint": "甲状旁腺疾病",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "甲状腺功能亢进症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肿瘤骨转移"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "甲状旁腺功能亢进症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨质疏松症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨关节炎"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f784b081610fec5b2b30a98473cf1a8e1544dd80d2967b46623caf84027e352ef80eda32a0257db01560169e0200595a74c806daf9c360b21f82dd3c2cb39044250f38e87a3e015c25947b4131af189b5e5d33fae5f95b998a793f9e0745228f14cd3d4c24918a7c356fe8bf39c3b0a6196e27569539b6b6622465c789e7b57a5f128c7548ae21011c7ed4d982a74346fdbc52747dfe711787a3c2f68b4859e1fabf0824cfecec4d4b1ae18b0691a03f63307d24e40342e0675338abf994ebff797b88a37eea3f897928b63e495a54ac3cfd3f8563af30e3e8997c306fe819e7c585c2c7c7163892d2698b9748a0a9845f180b619896cc4c15a601e1233d2c0f58219d21b54e026ea43ddd469097768a50758fcca251bc1c1095",
+                            "AllTestID": 43003335,
+                            "A3TestID": 43000306,
+                            "SrcID": 9,
+                            "SbjID": 52,
+                            "CptID": 120,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000306,
+                                    "Title": "91c2beef1821172aa02421cc2b7a143016574b280934b3fd",
+                                    "Explain": "患者有骨痛，颈部2cm包括，左第二掌骨骨性隆起。辅助检查：血清钙3.2mmol/L。可能是有甲状旁腺功能亢进症",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "甲状腺功能亢进症"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肿瘤骨转移"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "甲状旁腺功能亢进症"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "骨质疏松症"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "骨关节炎"
+                                        }
+                                    ],
+                                    "TestPoint": "甲状旁腺疾病",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000307,
+                                    "Title": "002235026aa4a922c74df7108954d99df7b05327e47841194859e3ff3b52d791e49fd3facc09babc",
+                                    "Explain": "甲状旁腺激素(PTH）产生或末梢器官对PTH的反应性异常而引起的钙磷代谢紊乱以及一系列临床表现。病分两大类，即甲状旁腺功能亢进（简称甲旁亢）和甲状旁腺功能低减（简称甲旁低）",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "血PTH"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "骨X线片"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "甲状腺超声"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "甲状腺功能检查"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "骨扫描"
+                                        }
+                                    ],
+                                    "TestPoint": "甲状旁腺疾病",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000308,
+                                    "Title": "e2b9f2e09b2127740c49aa4a95dd3ca1f9ed53e68cf6efaa0c44fb845a6db85a7e40fd802c3c25bc",
+                                    "Explain": "原发及三发性甲旁亢应手术切除肿瘤或增生的甲状旁腺，手术并发症很少，仅1％的患者术后发生喉返神经损伤或永久性甲旁低。但对异位甲状旁腺肿瘤，有时定位较为困难。若是增生，可切除3个半甲状旁腺或做全切后部分自体移植。长期严重高血钙患者的正常甲状旁腺处于被抑制的状态，术后易发生低血钙症，术前应采用药物降低血钙水平，以刺激受抑制的甲状旁腺功能的恢复。此外，术后应注意及时补充钙剂和维生素D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "甲状旁腺手术"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "双膦酸盐"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "降钙素"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "观察"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "镇痛治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "甲状旁腺疾病",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "650f182c6e8b2957ec188f013482fdce20920fa13195447b5c427a71490426f5e66bc473de9c729f",
+                            "Explain": "甲状旁腺功能亢进症表现为低血磷高血钙。",
+                            "TestPoint": "甲状旁腺功能亢进症",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "高血磷低血钙"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "低血磷高血钙"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "低血磷低血钙"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "高尿磷高尿钙"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "高血磷高血钙"
+                                }
+                            ],
+                            "AllTestID": 43003336,
+                            "BTestID": 43000824,
+                            "SrcID": 9,
+                            "SbjID": 52,
+                            "CptID": 120,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000824,
+                                    "Title": "650f182c6e8b2957ec188f013482fdce20920fa13195447b5c427a71490426f5e66bc473de9c729f",
+                                    "Explain": "甲状旁腺功能亢进症表现为低血磷高血钙。",
+                                    "TestPoint": "甲状旁腺功能亢进症",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000825,
+                                    "Title": "650f182c6e8b2957ec188f013482fdced5c1b5a98a41abc693273c6cf05342bae3a314ed92705b62",
+                                    "Explain": "甲状旁腺功能减退症表现为高血磷低血钙。",
+                                    "TestPoint": "甲状旁腺功能减退症",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43019179,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019179,
+                        "ChildTableID": -1,
+                        "UserCount": 3523,
+                        "RightCount": 2139,
+                        "FavCount": 87,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019179,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43019180,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019180,
+                        "ChildTableID": -1,
+                        "UserCount": 3139,
+                        "RightCount": 3045,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019180,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41001998,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001998,
+                        "ChildTableID": -1,
+                        "UserCount": 3603,
+                        "RightCount": 2280,
+                        "FavCount": 84,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001998,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43003335,
+                "ChildTableID": 43000306,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003335,
+                        "ChildTableID": 43000306,
+                        "UserCount": 3335,
+                        "RightCount": 2828,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003335,
+                    "ChildTableID": 43000306
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43003335,
+                "ChildTableID": 43000307,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003335,
+                        "ChildTableID": 43000307,
+                        "UserCount": 3549,
+                        "RightCount": 1994,
+                        "FavCount": 75,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003335,
+                    "ChildTableID": 43000307
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003335,
+                "ChildTableID": 43000308,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003335,
+                        "ChildTableID": 43000308,
+                        "UserCount": 3283,
+                        "RightCount": 2186,
+                        "FavCount": 36,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003335,
+                    "ChildTableID": 43000308
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43003336,
+                "ChildTableID": 43000824,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003336,
+                        "ChildTableID": 43000824,
+                        "UserCount": 3534,
+                        "RightCount": 1883,
+                        "FavCount": 69,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003336,
+                    "ChildTableID": 43000824
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003336,
+                "ChildTableID": 43000825,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003336,
+                        "ChildTableID": 43000825,
+                        "UserCount": 3422,
+                        "RightCount": 2802,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003336,
+                    "ChildTableID": 43000825
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

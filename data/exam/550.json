@@ -1,0 +1,1238 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 11:23:15 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 18,
+                    "TestItems": [
+                        {
+                            "Title": "a35baebf2b937195ca1b1137e1bfce7d05c8fd411c69f29b24055bdabccb686fe3bbadc833822fce137fe6c3528306c811bbe1dfeac9a6ac4b7d53ea80277ed7bc57b251edb30ac7bd4d1f598febeaa51b7dbbff34720157e5e64dd5f1a0a21e5ceb087d4c84fc641834050aa30d038371553bff19c5002d4ab8667c0d52f20a0ee7fcd57b5562c688ca76aa24ae435e71f53e6217f1e504eebd82786a10443288b973094d3469e61f51fbff5b3e90a2f7ce5a6b3faf67e65eb8b443f3c77018e5e7abb121eca3cf",
+                            "Explain": "此题是关于支原体肺炎的诊断思维题，考查考生对支原体肺炎诊断与鉴别诊断的判断。患者主要症状为低热、咽痛、干咳、乏力2周，查体肺部无实变体征，查血常规正常，胸部X线片示双下肺纹理增粗，首先可排除细菌性肺炎（选项A、C、E）。其次需要鉴别选项B、D。结合上述临床表现分析：肺结核的胸部X线表现多发生于上叶，加之患者无结核中毒症状，故可排除选项D；支原体肺炎的表现多发生于双下叶，加之患者的临床表现符合支原体感染，故选项B是正确的。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺炎链球菌肺炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支原体肺炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "葡萄球菌肺炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "浸润型肺结核"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺炎克雷伯杆菌肺炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023516,
+                            "ATestID": 43023516,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ccdc86ee37b5c3d71906799a9a68fd7a861d9bd798f335928955859366876433dac6a6d246f4a8b9a802422ce8168624ba5d062cbf865595f05e22dc5cd30c064f531bad607632abae85372987d96e89989b5bffc7106b4634e11161231c66b291e3658e547ee1b32a4402ffdcd6382fceb02e3caeaf387ed70df56f3203881652599d0a6d82566ed470019a1e416a503b93c74a35d3ab06c94d8528d637521148895977704a38a89706303d06dc301077c0330d9031ea4a27b88305efd0968b28d62a6de0f1de2aa1d2b13df63a9401b4961ff60ee8480c6429058e79cdf69e47b062e406bdb8f81369ce8b95cc26614babedd367e83975ff2d3f8e0f778420",
+                            "Explain": "此题是关于病毒性肺炎诊断的临床思维题，考查考生对病毒性肺炎的诊断与鉴别诊断。患者为老年，初为流感表现，随后出现咳嗽、呼吸困难症状，查体示呼吸频率增加，血压降低，肺部无实变体征，查血常规正常，胸部X线片示双肺小片状磨玻璃影，初步可排除细菌性肺炎（选项A、C、E）。结合上述临床表现，最需要考虑的诊断是病毒性肺炎和支原体肺炎的鉴别。支原体肺炎一般较轻，且多为自限性，其胸部X线表现多发生于双下叶，故B选项可初步排除。该患者前期有明显流感症状，随后很快出现重症肺炎表现，且胸部X线表现为双肺小片状磨玻璃影，符合病毒性肺炎的表现，故选项D正确。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺炎链球菌肺炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支原体肺炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "葡萄球菌肺炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "病毒性肺炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺炎克雷伯杆菌肺炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023517,
+                            "ATestID": 43023517,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "64f049a76ce368922f5c9129339973f11c67afcdf56ba24b52c1f04926a07a85b99d911a33cfc09604e106ee911f37c57995b37491acf5f5a807bb3147077a6ff4f6e92eaa60128a6b32a66e070fd507523a2ab34bc9c957e35b35d9fd15f07f699cda70ff28a137a5668f2a68a47b26a22f904d86b7bcc2a38c7b173b3d872dfe3530f8fde659c6e98a8ef58ceb23b36046af610e58ff441ab92d1642c940d8c41771065e33e31356568841f9fbcbe46f546c67ff65ed766c37100939d729a2ee686d637e59e391c1bf29cd33ed2347",
+                            "Explain": "此题是关于原发性支气管肺癌的诊断思维题。考查考生对原发性支气管肺癌的诊断与鉴别诊断的判断。患者为中年男性，主要症状为咳嗽、痰中带血，无发热、胸痛，查体肺部无实变体征，血常规正常，胸部X线片示右下叶不张，结合上述临床表现，可以排除细菌性肺炎和肺脓肿（选项B、C）。选项E纵隔淋巴瘤的临床表现常有发热，胸部X线表现为双侧对称性改变，故也可排除。结合患者有吸烟高危因素，加上胸部X线片肺不张的表现，符合中央型肺癌诊断，因此选项D是正确的。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺脓肿"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "细菌性肺炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "中央型肺癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "纵隔淋巴瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023518,
+                            "ATestID": 43023518,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "64f049a76ce3689282a14bce6ab0fb34b4446d9f1733984ad6ee0b29cf6bb6bad3499df54ff13562899530063c55dad7a72d51539ec3dc8fdc5ea0b9854d534a3adf9237f6a8853f0725f79cbd133d382b13f98ba1c6557abcaa19f7bcfa2cccdb0dcbacb249b022377cd8f36dccfb37b053fd300799a70e76ba78626cd41d1f27741a2d083454f9fdc01d2fd2bfd430df78a807abe8b9fa",
+                            "Explain": "此题是关于肺癌辅助检查的选择题，考查考生对肺癌辅助检查临床意义的掌握。患者为中年女性，健康体检胸部X线片发现右上肺阴影，此时需要鉴别的是良性还是恶性病变，提供的5个选项都有不同意义。从首选原则出发，首先应是无创的检查，故可排除选项A（支气管镜）、选项B（开胸肺活检）；对于选项C（血肿瘤标志物）、选项E（痰细胞学涂片），无论是阳性或阴性，结果均无法确定病灶性质；选项D(胸部高分辨CT)能显示出病灶形态及与周围结构的关系，因此选项D是正确的。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "支气管镜"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "开胸肺活检"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "血肿瘤标志物"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸部高分辨CT"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "痰细胞学涂片"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023519,
+                            "ATestID": 43023519,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "93c049816c5422987e66a7859a3de84935a2fa889efdb5d9bc0d10ef816e2f17505b636aaf4b515c487c8afd702a0a171876ce736cbe9676471c75f5f2378968699349e3afd7674af71699c5cfda9ad16e56f7ed4d1144afb30e92a197c4556b1b4234bddf1a5dc9549e88e41e4860b7fa0b50a28eedd91d760caa9a745f57a313681c0c89c5aa8c9c7634b7e2b1f33db32892739f16caefac4bfdffde2c792a96d91cf8f034274a2100cd4d399140e87e392b58a6b9c2af3a83a8c3563afd92",
+                            "Explain": "此题是关于肺癌诊断的临床思维题，考查考生对肺癌临床表现的理解应用。患者为中年女性，主诉为干咳2个月、喘息2周，结合阳性体征，提供的5个选项都有可能。通过排除法，首先可以排除的是A（肺结核）选项，因为患者无发热、盗汗等结核中毒症状。其次是选项C（支气管哮喘），因为哮喘急性发作时，体征多为双肺哮鸣音或重症时听不到哮鸣音而仅有呼吸困难。因患者有右心功能不全表现，需要鉴别选项D（肺血栓栓塞症）、选项E（慢性阻塞性肺疾病）。对于选项E，患者病史中仅为干咳，且病程短，不符合慢性阻塞性肺疾病的临床表现，因此可以基本排除；对于选项D，患者虽有肺动脉高压表现，但通常不会出现上腔静脉阻塞征的体征，因此也可排除。对于选项B（支气管肺癌），患者具有肺癌肺外胸内扩展\"上腔静脉阻塞症\"的临床表现，并有右上肺局限性哮鸣音体征，因此选项B是正确的。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支气管肺癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺血栓栓塞症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "慢性阻塞性肺疾病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023520,
+                            "ATestID": 43023520,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3208afcca38962560e109dd87a52856c07303d68903671ea870560421439eb8c3354960ffe573bcd25a6a0c0905d7ba1667abeeeebdd374d795c857df27b427610277f3ed101cd2e8b80aea86abe7c2751696ec2d5629e20e639990a46814a10bd24220160de2380ec5aca9e9ca9074c3612b291382a2cd2b1d05e31e8ce0f02c0ca7fbaab19b0fc438aca50ce75e6618834ee680550ab9bd9d48ebf86aeb56f2d60c68c1c7461b96debd1406b88ce96a0f611e900ca6838",
+                            "Explain": "此题是关于肺血栓栓塞症诊断的临床思维题，考查考生对肺血栓栓塞症临床表现的理解应用。患者为中年女性，主诉为呼吸困难1周，结合阳性体征，提供的5个选项都有可能。通过排除法，首先可以排除的是选项A（肺结核），因为患者无发热、盗汗等结核中毒症状；其次是选项E(慢性阻塞性肺疾病，COPD)，因为该患者有右心功能不全的表现，而在我国肺源性心脏病的主要病因是COPD，对于COPD的诊断，多有慢性咳嗽、咳痰病史，且呼吸困难常以缓慢进展的气短为主，体征多有肺气肿表现，因此可以排除。对于选项B（支气管肺癌）、选项C（支气管哮喘）、选项D（肺血栓栓塞症），需要进行鉴别：选项B肺部体征多以局限性哮鸣音为主，故可先排除；选项C在哮喘急性发作时可出现广泛哮鸣音，但该患者未提供哮喘病史，且为急性发病，亦可暂时排除；该患者急性发病，表现出肺血栓栓塞症的最常见症状及肺部体征，同时有肺血栓栓塞的最常见病因\"T肢静脉血栓\"的体征，因此选项D是正确的。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支气管肺癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺血栓栓塞症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "慢性阻塞性肺疾病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023521,
+                            "ATestID": 43023521,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b5691daab67779f50f18ee23dfafa4408c83342995830a687f54f1c13d612e60eb9d6c8d140b925a53276a29ddc07516d44504d785f899ba726ba9cbe23581de0b93b5a300952e8cd3c43912c6b1fc56aa35dc88906613a824cd5b2afefd1e0b0d734048e6fe2bf334221ef7f69a853a0f0b084a306443a1bacc4ece6632b8e722689e00437bee035bc8e966e1a16d664bb3ff8d04aa90bce6245682a9f2aaa7e09cc0115b1b09afcf22e34d431056b08f958b6525a02b099fdd37bc7d3ef45f6bae25d830cb2b3e49daaff0afe7ffab64720da615f6d3c5c8d03848489c6e91b6ae5bf7c0e3cfa6af8c223d0b0bb5838eee205121ee0fef2ddc2e0f3846c1a2a490d236d96055e39b6c7c05ad45cdc91047eba5140a2721c54eeee5e04319f60c5a1554b8ffc20bfdb04fb71bf40fb8c4ae99ce486dd899ef2e70a1f6eba2ff",
+                            "Explain": "此题是关于急性呼吸窘迫综合征诊断临床思维题，考查考生对急性呼吸窘迫综合征临床表现的理解应用。患者为中年女性，主诉为胰腺炎术后5天突发呼吸困难2小时，结合阳性体征，提供的5个选项都有可能。首先考虑的是继发感染选项A(肺炎)、B（肺结核），由于肺结核发病相对缓慢，胸部X线表现形态多为斑片状影且多发生在上肺，因此选项B可以暂时排除；对于选项A，结合临床表现多为重症肺炎，但患者经过1小时高浓度面罩吸氧症状不能改善，且胸部X线片表现为双肺磨玻璃影，均不支持，因此可暂时排除。对于选项C（哮喘急性发作），该患者无哮喘病史，双肺体征不符合哮喘诊断，因此亦可排除。对于选项D（肺血栓栓塞症）、E（急性呼吸窘迫综合征）需要进行鉴别：因为患者体征中无明显肺动脉高压表现，因此可以暂时排除选项D；该患者虽有\"肺炎\"的临床表现，但重要的是还具有急性呼吸窘迫综合征的高危因素，胰腺炎术后5天出现呼吸困难以及难以纠正的低氧血症，并出现类似肺水肿样胸部X线表现，因此选项E是正确的。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "哮喘急性发作"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺血栓栓塞症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性呼吸窘迫综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023522,
+                            "ATestID": 43023522,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11d59c7972be80b6574b5f7dd8608818dfb31e12c08dad1ab36a28df92a05159127eeaf2743dd87df4f85c5c98001c73d76922405f82eab2be8ce4716733b29783c504a54391dd2fbab115adf2bfde48dc06a02e0d1dddee2243a0b9d74dab77f3f8e53a0edd79912fbc5e4228d097d3d59a4e7398619912eb812e85ac712e75b6a06d5d4f449a86b07e6f0df74d7638fe0fabbd32be5373d1a41b355ebe357d52822ec5e3438d1474f3a24d8bb571cce6d61741da698533a985ef6345b84f09",
+                            "Explain": "此题是关于慢性阻塞性肺疾病诊断的临床思维题，考查考生对慢性阻塞性肺疾病急性加重临床表现的理解应用。患者为老年男性，主诉为反复咳嗽、咳痰20年，气短5年，加重伴痰中带血2天，结合阳性体征，提供的5个选项都有可能。根据病史有慢性咳嗽、咳痰，渐进性气短，首先需要考虑的是慢性阻塞性肺疾病，近2天内有加重，查体：体温为39.3℃，符合急性加重的标准，因此首选选项E。同时需要与选项A、B、C、D进行鉴别。由于近2天内有痰中带血，需要鉴别选项A、B、C：肺结核多为慢性发病，以低热、盗汗为主，故可首先排除选项A；对于选项B、C，患者虽有高危因素，但体征不符合，亦可暂时排除。选项D支气管哮喘是以发作性咳、喘为重要症状特点，而该患者表现为反复发作，因此也可排除。通过上述临床鉴别，选项E是正确的。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支气管肺癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺血栓栓塞症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支气管哮喘急性发作"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "慢性阻塞性肺疾病急性加重"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023523,
+                            "ATestID": 43023523,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9caa449543e32620161b7139d1c0d086e139a96b763046f0b132e28aa67d48a660beaf0d2c76c22fec3899a18d5faa6f988a481a246d8923e07b040a5ec3061abe5a593ae7458c25b2cc248051a4442780ea189a6efa6a6f794c81958194c498df27a41aebf3354f07c13cf527084ce31c934cfdfd6858c9d97afa59e5b541f280938a4df8ea2304862ef7bc37124591",
+                            "Explain": "此题是关于确诊支气管扩张的辅助检查的理解题，考查考生对支气管扩张辅助检查临床意义的理解应用能力。患者为中年女性，主诉为反复咳嗽、咳痰20年，间断咯血5年，结合阳性体征，基本可以诊断为支气管扩张。对备选的5个选项进行分析：选项A、B主要针对病原学检查，对抗生素选择有意义，因此可以首先排除；选项C是主要针对肺癌诊断提供的检查，该患者临床过程符合支气管扩张，因此亦可排除；选项D、E对诊断支气管扩张均有一定意义，选项D支气管镜检查，对支气管扩张的诊断没有特异性，而选项E高分辨胸部CT在横断面上可以充分显示扩张的支气管，且为无创、易重复，已经替代了支气管碘脂质造影确诊支气管扩张的检查，因此选项E是正确的。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "痰培养"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "痰涂片检查结核杆菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "痰细胞学检查"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支气管镜"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "高分辨胸部CT"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023524,
+                            "ATestID": 43023524,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11d59c7972be80b6574b5f7dd8608818dfb31e12c08dad1ab36a28df92a05159127eeaf2743dd87df4f85c5c98001c73991c710b938d73803311a9894ec07d83d3e4d1699bc08964779aa9c45ec01e4dae9342a35f180a6e2b7ae5a02bb61171a627e5ee612f564bd1e4caf1dbe0980aa7653a1c498b7dbd52e5c118e2d23effc2a845e40adf36af",
+                            "Explain": "此题是关于确诊慢性阻塞性肺疾病的辅助检查的理解题，考查考生对慢性阻塞性肺疾病辅助检查临床意义的理解应用能力。患者为老年男性，主诉为反复咳嗽、咳痰20年，气短5年，查体无阳性体征，初步可以诊断为慢性阻塞性肺疾病。作为备选的5个选项分析：选项A主要针对本病感染时的病原学检查，对抗生素选择有意义，不能作为诊断的依据，因此可以排除；选项B对慢性阻塞性肺疾病已经合并有肺源性心脏病的患者有诊断意义，但不能确认慢性阻塞性肺疾病，因此亦可排除；选项D的支气管镜检查，对慢性阻塞性肺疾病的诊断无意义，也可排除；选项C、E对慢性阻塞性肺疾病的诊断均有一定意义，但选项E胸部X线片对其诊断无特异性，而选项C肺功能检查是判断持续气流受限的主要客观指标（慢性阻塞性肺疾病的重要特点为持续气流受限），因此选项C是正确的。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "痰培养"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心电图"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺功能"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支气管镜"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胸部X线片"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023525,
+                            "ATestID": 43023525,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3c0de14e49c0709c710c5d9e0fdec4c34a20f12de975f8cfbc225d74ca1f477d8f2278046d6872703645e6e100901e968534678f294305de83841c95c7214acf369f0bac205a8121a024256b5c8f57fdb178464419afa1ca7797c157738afc43f5365d4535f670c8eaf30e3acb7d4a117ab76bf54bd41c6b8a1218bdb6a9cbe58ea71f8efddec65139cdf047b51ed43e2741170cebace9837d039a843de10a6832404f83aefc775175ac57a540835f6b083259c2990f9b8afcb9966ebd906a20e299bfbca94d72d7b6e6a6c2f3bb4896",
+                            "Explain": "此题是关于疑诊肺血栓栓塞症的辅助检查的理解题，考查考生对肺血栓栓塞症辅助检查临床意义的理解应用能力。患者为青年女性，主诉为长途飞行6小时后突觉胸闷、气促，主要阳性体征为呼吸频率增快，血压正常，心率、节律正常，因此在诊断思维中首先需要考虑的是疑诊肺血栓栓塞症，其次是心肌梗死，心力衰竭诊断基本可除外。依据初步诊断，5个选项首先可以排除的是选项D、E；对于选项A，因为动脉血气检查的意义主要是判断该患者是否存在呼吸衰竭及酸碱平衡情况，而肺血栓栓塞症患者在早期是可以完全正常的，因此也可排除；对于选项B，心肌梗死临床多以心绞痛表现为主，且多见于40岁以上男性，故亦可暂时排除；对于选项C，血浆D-二聚体检测对肺血栓栓塞症的诊断有重要的排除诊断价值（若其含量低于500μg/L可以排除），因此选项C是正确的。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "动脉血气分析"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心脏肌钙蛋白"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "血浆D-二聚体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肾功能、电解质"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "利钠肽"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023526,
+                            "ATestID": 43023526,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "33bbdbcbe7d1b4d1749f03169ae54beb97fbefe30844c04396ac871fe159cc4a51b74220b0223cb7b281981fee7c9c2be1f70df4b23e63226e3a2ae6520603294130b77fa05f597cf2b12592a9df6f5447681252932f32d7ca96d08cd986648fcdcf2146385315fd0da0de740c28a4442f0c05d266fe90067075f63a0453dcfbc7492e64820884d44df8284805d92332",
+                            "Explain": "此题为应用理解题。患者同时患有慢性脓胸、左下支气管扩张、左下肺不张、支气管胸膜瘘；因此单纯支气管瘘缝合不能彻底治愈；胸膜纤维板剥除和单纯胸廓成型以消灭脓腔，支气管胸膜瘘也可能愈合，但是不能治愈支气管扩张和肺不张；只有左下肺叶切除才能彻底治愈左下支气管扩张、肺不张和支气管胸膜瘘；由于慢性脓胸的影响，胸腔已经缩小，术中只要将纵隔面肥厚胸膜连同脓腔一并彻底剥除，使纵隔能够向患侧移位，肺切除术后，余肺完全能够充满胸腔，故正确答案是D。部分考生选择选项E，不清除肥厚胸膜无法完成单纯下叶切除手术，因此是错误答案。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "支气管瘘缝合术"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸膜纤维板剥除术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸廓成型术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸膜剥脱加左下叶切除术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "左下肺叶切除术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023527,
+                            "ATestID": 43023527,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d987376cb99349eca0b28407cf9a8b98fee555eea16c4cdc41b24a5153d76ad733ba15feb4a99c1bc2083d22ec5ae07d0e061ab004e0e62110741bcf0d07cfede9ffb001bd3e18b630e912942fdd36b8efd1a1fdf0c218de7ce47e8e371b5f8649bbaea651063aad707000d7c35860a1b518b922d145ab2bc6034f9cf62dac9e9fcb093da783007fb5b1e729038ffc19cbde436c4b9b86ddabb4a2506dd1d388e4cb0cfd653ac6574071d8b9b027c33793c9c7ecce1474f4410ca63324cb2b73dc9f1b140b24534cb1f1e104521c7f2b4eb698f451168e60be7f4ba0b6c176ba0ecbcfdd72938b21d64829f6a2a62d1f85130d8ddc807028df3cfbea23e795385f9545648a5fa33a8b7a948b2682e92429249068f882f4b7c59955d4c9b2cd925b05d845498c0b23b7024ffc1d34ddeadd82de5bf627da57422200696cc73a34ab11e54d55b6040c7c66e2680d088cd726418666315a1b5a181cba87077708c4c8d784fab335ffaeae1834e9601c2949b5062ea215c0d44a",
+                            "Explain": "此题为应用理解题。脓胸经过2个月治疗，仍有症状，并留有小的残腔(10cm×6cm)，已经属于慢性脓胸，胸膜纤维板已厚达4～5mm，继续引流已经难以治愈，开放引流也需较长时间才能痊愈，而患者肺内并无病变，无需切除，胸膜纤维板剥除后，小残腔可以消灭，因此答案应该是C。本题各备选答案区分度差距不大，是由于目前临床工作中慢性脓胸发病率已经明显下降，许多考生很难有临床实践的机会。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "继续改进胸腔引流"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "将闭式引流改为开放引流"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸膜纤维板剥除术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸膜肺切除术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "改进全身情况，消除中毒症状和营养不良"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023528,
+                            "ATestID": 43023528,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3208afcca3896256a721670dfe5ad4331e5b1de8e0f9b0ca532a71504a09094bcb4f989e47d1d3c2aa412bf69ac6c732d2756d8f5c5a0138c7ed2c2d4607ec650f223921a3d443b825ba4d9efc02af1ec540630e49441977cdf7ddebecffb600a3470155075e32a1e411dfa522a5caa556cee5301b6e54a5a07f296ec09f649a45a6916c4b4c98bfbaee1837d9382ac71ee04843521f4731bf9e061936cbebbe2fdd8947a4e9e73cd4a23ff4f6d3e4a24daeeba845d6dfb087b584b9cdb2780c7730119d149ae0fe9227ac16d51f1960b71919eea56334b81822c6316577609cccea1b5a6957dd42aebeb33db0870d06cf2c36c6aa53f8f1",
+                            "Explain": "此题是理解记忆题。重点是哽噎感进行性加重，钡餐造影见局限性食管壁僵硬，是典型中晚期食管癌的表现，因此正确答案是D。其他四个选项，食管憩室、食管炎、食管静脉曲张和贲门失弛缓症均为良性疾病，临床症状时轻时重，而且不会出现管壁僵硬。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "食管憩室"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "食管炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "食管静脉曲张"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "食管癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "贲门失弛缓症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023530,
+                            "ATestID": 43023530,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d987376cb99349ec2dbff8884ffe79e6ef4f9aea9eab4c1304be1a2a730b0cc9ff2c4e7428cf0a339c66b83777ec194ab98a3a6700a7b5abb6e40066f362fb724b038929a893fdbc3b4ce1024b5661ebb75576b12aea44d5b2871992e7f8a28ef2fe2b5de4369424fb01f49d6412e36d301d739d1e54699b70019683fcc4abf23ab792eec8f8fedb67cd4e40ac44934093b8897b13140269b69783931e8619bbb17aeecc8814831fe0dc2cac6ac641ff8922e8197a025c06c59d23d86954caaef263c4f2984c2baf25e197f7f8f375db026fb2132db3dd71fb79cddc98f9888182dd24e4a70f53b1243d531c94f2f7d8bc0a119657f0f0e52f223d6c858a83196be73c493e93366be91f83eb24f11a4966ad790b7e1f287503660ddddf58c22bda0ff7fb8145775fde3a0876c858948a",
+                            "Explain": "本题为简单应用题。年轻人，突发胸闷，一侧呼吸音明显减弱，胸部X线片见肺被压缩，伴膈角少量积液，均为自发性气胸的表现；首次发病，应选用创伤小的有效措施，不过肺已经压缩50%，如果只是观察等待自行吸收，需要休息较长时间，因此正确答案为B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "住院观察"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸腔穿刺抽气"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸腔闭式引流"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸腔镜探查"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "开胸探查"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023531,
+                            "ATestID": 43023531,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bb9727166b4701b506fa43115429eb203f4d0c555d43bf78b32267f2ab33e2cc5647843fd14e75c8fe14f3b43abfa76fe30eea3c7d431b8c9c5a038a6a8c143785d5d7edc5f82d4ff48070d8a0d818e3a2691dfef6d7ba865c5eedaa30020016e56353d00028ef05bac3ad539eb404d045c73e5a9a789f0eb7630f108b30c3518f0a5268c30b4e2691783ef0eb911ba1467f99f1574c082ab32894ebc0e035b5e81e438318e824daf78d8ae6c4af7f3e6b874353817f18a41613b05b9b4a5311e39bb1ec3474310f3a329f2f8c11cd6ecfaff241215964b7de3955302ecaaec6486144bb0293048f38428feff8396e3a4eed975db9cc89a2b144b4d179782f0eedc6a64a037778a33e380d2504495f68178e1dd809fcded1b5c604294c45cbed40e279cea31c895423e525de775eac4a8ac7dbc03fcae5c3bf70e6d986e1b9f02018dc5b3ae87bdfa25f0fa248fd665a1ccbb9ff2b44dfe8fa47eff13414f4b97431312ddb13d80604fe9c9843738ada563004533b2b6975e17b1cb8ac57838358bbe7399b63a79842e304a8d6fa41858755b0001e1757a00c444805f26b93ecde00e94a3e9eae5c83ec6b2abe2c81415e072a82ebc86eccc4dd17337a0ffea3",
+                            "Explain": "本题为简单应用题。中年男性，长年吸烟，两肺呼吸音减弱，X线表现肺透过度增高，属于肺气肿改变；右上肺散在高密度结节影，属于陈旧钙化改变；而左下肺癌诊断明确，病灶适于切除，故治疗应首选手术切除，正确答案为E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "口服氨茶碱、化痰片"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "口服利福平、异烟肼、乙胺丁醇"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "静脉滴注头孢类抗生素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "行胸腔镜肺减容术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "行左肺下叶切除术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023532,
+                            "ATestID": 43023532,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b2db49f0e29d6028886277ef01a8d7e1664c03f3a5e5dc395d747ef39076f3e9757c757bfe1177af4d3b16d1840fda64c6f1168f0c45bcd43f8df2eb266ed53d9ed7a8a2235ef021e3d3cc974845491f9d99e6d5817359f88fb83ac5e654ff4fbdadf118a4e4bf550099ad2750c0c6a7e43bd48e3f7ca40c6fc49c21da81c9616f8d7c3bddde662e0a7f2a35d0885759e5acdaf6965b6757b2f250f2d7127d9e7a0509678ac7e8f357642bec6abc717e723e52f464e3f85c9c47b62acf282034815fd62540c359c1d139fe89fcef60632a165559ea4acf007c2bf08d94dad7442570be189d5c5a3c2c787e32d9b6e1dc43536610d8d835fe5e42e09e51af2d95e6c6c9131909257e2b3281b8c6e25aeea1fb8ba98817c81b31671053e7f2872c04f0d8a0002e11916ef62436bd52b1a776e0b006abda18c65c33cb024d3f7e4a6b189d4dafdd50d19573b20149c40fb279f38288d8c9524d57e8a8b3dea68f391b593af125517d7b7ef18ecb3c6b9aad767af22643fb34d21ed8182d63a6754836117696acdc8f481f3bce3df674e88739329b19052d78360aa1e97ed0528c1e606f7cb13c7e91151db860a7a043a839c844105bd0548f9c8609e69d66371e072a5c1372dbba669c292b6c3b00c3f65a3461ff0acbdf60b56f94cac397259f39003b1cf2e900baefa5456b407d4e53e845bea7d552f597dff01362a54386ef8d1b6988d94441853796ba8b50abd5b5da1cf5099c78c291102a2ddbc5db4c9697",
+                            "Explain": "患者为高空坠落伤，范围广泛，2-10多根多处肋骨骨折，胸壁软化，轻度二氧化碳蓄积，应采取积极治疗，否则病程拖长，易出现并发症，故正确答案为E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "镇静止痛，鼓励排痰"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸腔穿刺排气排液"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸腔闭式引流"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸壁加压包扎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "开胸探查肋骨固定并引流"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023533,
+                            "ATestID": 43023533,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f25cfa02037c6e0e95ed4e3e5c2c644bfebc5331a674e958488248955e03b9c0eced0855a4836487b4be86292894f95ae9008ac317e29cb335926e4d35ad1a91a09915be9ebe840fef858ca3d12a40b47ee171b69124e6414dcb5313b655c557f19079fa6078a22dad928cb23258201031e1a33a7618d759dd582525ee4623da4e2a3ae4f44ffd2ade93ca56c763ab82485fe101bec73d22001675ab9bbf7766bbac57825d8e7e0ea2ffe1dfe49932089392b941d9c61b500da20887e47ca92530be0e773498398c962a3b0ec68066a68afd7f3b6f3829d5280a1e5a6b6023ef5472b298ca80e1dd82e0adb4b1bea8d62501346d75c9771b779a74746e506fefb42a3cbc0595aa4c2435dbdba5866e7835cdd2306cf803c8b5830fcb227aca89c53d4d3bd9a90c4e3e4de759d65a3ab9da9031a915295d6c2c31279cbe4a3cad477487885d15c480d6e47b9a4d3fc65c0bc4a39106d687ae556a9a141fbf66fe4da056e93d6c7c5fdd33443218f31bc7c106bf3d69c832d0619c883348383f0a87017ab4d76c2f900de36ea7bf9461c9b0f844105638b73e78b89d1b10d1a6a5b9e7cc5134e3a086cdba7de9ef47f094ef8c4565e5e697eb",
+                            "Explain": "纵隔肿瘤均有不同好发部位的影像学特点。淋巴瘤多发生在双侧中纵隔，呈分叶状；纵隔神经源性肿瘤多发生在后纵隔，密度均匀；心包囊肿多发生在心包周围，包膜完整光滑，密度均匀；胸腺瘤、畸胎瘤均可发生在前上纵隔，不过胸腺瘤密度多均匀，而畸胎瘤密度不均匀，常伴有钙化，尤其是成熟型畸胎瘤多含有三胚层结构，是其特点。故正确答案为C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "淋巴瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "神经源性肿瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "畸胎瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸腺瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心包囊肿"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023534,
+                            "ATestID": 43023534,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 550,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43023516,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023516,
+                        "ChildTableID": -1,
+                        "UserCount": 3554,
+                        "RightCount": 2155,
+                        "FavCount": 48,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023516,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43023517,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023517,
+                        "ChildTableID": -1,
+                        "UserCount": 5676,
+                        "RightCount": 2241,
+                        "FavCount": 76,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023517,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43023518,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023518,
+                        "ChildTableID": -1,
+                        "UserCount": 3119,
+                        "RightCount": 2638,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023518,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023519,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023519,
+                        "ChildTableID": -1,
+                        "UserCount": 3184,
+                        "RightCount": 2145,
+                        "FavCount": 39,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023519,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023520,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023520,
+                        "ChildTableID": -1,
+                        "UserCount": 3517,
+                        "RightCount": 1218,
+                        "FavCount": 92,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023520,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023521,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023521,
+                        "ChildTableID": -1,
+                        "UserCount": 3287,
+                        "RightCount": 1742,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023521,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43023522,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023522,
+                        "ChildTableID": -1,
+                        "UserCount": 3155,
+                        "RightCount": 2063,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023522,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023523,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023523,
+                        "ChildTableID": -1,
+                        "UserCount": 3031,
+                        "RightCount": 2256,
+                        "FavCount": 20,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023523,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43023524,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023524,
+                        "ChildTableID": -1,
+                        "UserCount": 2933,
+                        "RightCount": 2364,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023524,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43023525,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023525,
+                        "ChildTableID": -1,
+                        "UserCount": 3029,
+                        "RightCount": 2021,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023525,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43023526,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023526,
+                        "ChildTableID": -1,
+                        "UserCount": 3154,
+                        "RightCount": 1348,
+                        "FavCount": 80,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023526,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023527,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023527,
+                        "ChildTableID": -1,
+                        "UserCount": 5124,
+                        "RightCount": 3977,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023527,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43023528,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023528,
+                        "ChildTableID": -1,
+                        "UserCount": 3097,
+                        "RightCount": 1708,
+                        "FavCount": 60,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023528,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43023530,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023530,
+                        "ChildTableID": -1,
+                        "UserCount": 2716,
+                        "RightCount": 2548,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023530,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023531,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023531,
+                        "ChildTableID": -1,
+                        "UserCount": 3069,
+                        "RightCount": 1585,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023531,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43023532,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023532,
+                        "ChildTableID": -1,
+                        "UserCount": 2712,
+                        "RightCount": 2419,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023532,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43023533,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023533,
+                        "ChildTableID": -1,
+                        "UserCount": 2871,
+                        "RightCount": 2009,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023533,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023534,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023534,
+                        "ChildTableID": -1,
+                        "UserCount": 2971,
+                        "RightCount": 1472,
+                        "FavCount": 77,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023534,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

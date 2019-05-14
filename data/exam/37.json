@@ -1,0 +1,1199 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:27:56 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 12,
+                    "TestItems": [
+                        {
+                            "Title": "474e832d631e41ebe69bea18c5e27874e65055e3a0cbac6d2f3c848dc808c497fcb0dba419d2f754b87abcdd1ba41d6b",
+                            "Explain": "首关消除指药物经口服在通过肠黏膜和肝脏时，因经过灭活代谢而失活，进入体循环的药量减少现象。由此可知口服给药是出现首关消除效应的主要给药途径。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "吸入给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "舌下给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "口服给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "直肠给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "皮下注射"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000522,
+                            "ATestID": 35000522,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f679237798089d5f7d533a263e4e6f1ddbb18ee65bbc422571192a3e0192ef94f680ee0a84548b1a",
+                            "Explain": "一级消除动力学是体内药物在单位时间内消除的药物百分率不变，也就是单位时间内消除的药物量与血浆药物浓度成正比。是绝大多药物体内消除的主要方式，药物消除半衰期恒定，与剂量或药物浓度无关。每隔一个t[XB1chuyi2.gif]给药一次，则体内药量（或血药浓度）可逐渐累积，经过5个t[XB1chuyi2.gif]后，消除速度和给药速度相等，达到稳态。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "单位时间内实际消除药量恒定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "药物半衰期并非恒定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "药物在体内经过3个半衰期即基本清除"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "为绝大多数药物在体内的消除方式"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "为药物剂量过大时出现的消除方式"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000524,
+                            "ATestID": 35000524,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a4a6cdd8871632820f6c19972aaa0a69",
+                            "Explain": "治疗指数(TI)通常指药物的半数致死量与半数有效量的比值，即LD[XB50.gif]/ED[XB50.gif]，用以表示药物的安全性。一般情况下，其值越大，药物毒性越小，安全性越大。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "比值越大就越不安全"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "ED[XB50.gif]/LD[XB50.gif]"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "ED[XB50.gif]/TD[XB50.gif]"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "LD[XB50.gif]/ED[XB50.gif]"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "比值越大，药物毒性越大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000481,
+                            "ATestID": 43000481,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f3bdbfebc6fe7e93e5160f4c2460d4232b46749712143f86662e0cd8287a3956",
+                            "Explain": "生物利用度（bioavailability，F）是指药物经血管外途径给药后吸收进入全身血液循环的相对分量和速度",
+                            "TestPoint": "药物剂量与效应关系",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "药物经胃肠道进入门脉的分量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "药物能吸收进入体循环的分量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "药物吸收后达到作用点的分量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "药物吸收后进入体内的相对速度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "药物吸收进入体循环的相对分量和速度"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002573,
+                            "ATestID": 43002573,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1d58ba41cb3dc34b1d83ab2e059449a90c642fe186119ef7f6742560c1d28006947ca0dfebc23a38",
+                            "Explain": "影响生物利用度：剂型因素如药物的脂溶性、水溶性和pKa值，药物的剂型特性（如崩解时限、溶出速率）及一些工艺条件的差别；生理因素包括胃肠道内液体的作用，药物在胃肠道内的转运情况，吸收部位的表面积与局部血流，药物代谢的影响，肠道菌株及某些影响药物吸收的疾病等。给药途径是影响生物利用度较大的因素。",
+                            "TestPoint": "药物消除动力学",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "给药次数"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "给药时间"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "给药剂量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "给药途径"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "年龄"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002574,
+                            "ATestID": 43002574,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2fccf26437368160d88683a26b07bbd424e102419cb068806bbe9a7d5024123cdaf031d72374e36f01e315e427aee4796d2d03cc3ae53a718175f4df768c1f1712ab172ee16aebf3a731d11a0097d69b3beb615624d5c2081ee4d7b84132ab389677e2fcfe9578e4",
+                            "Explain": "给药途径是影响生物利用度较大的因素，硝酸甘油口服，经门静脉入肝在进入体循环的药量约10%左右，说明药物的首过消除显著。",
+                            "TestPoint": "药物消除动力学",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "活性低"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "效能低"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "首过消除显著"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "排泄快"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "首过消除不显著，排泄慢"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002575,
+                            "ATestID": 43002575,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "76673d53253710af2bd47649c89f3518c09f40b4a7874fe51205ed6958ad56750ac0ac9920a4d9d6",
+                            "Explain": "首过消除（firstpasselimination）：亦称为首过代谢，指某些药物首次通过肠壁或经门静脉进入肝时，部分可被代谢灭活而使全身循环的药量减少，又称为首过效应。过消除明显的药物，口服生物利用度低，和注射给药比较，口服必须用更大剂量才能达到相当的有效血药浓度。",
+                            "TestPoint": "药物消除动力学",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "舌下给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "吸入给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "静脉给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "皮下给药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "口服给药"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002576,
+                            "ATestID": 43002576,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "055e5b50eeb05fb84cb3bb5bb41816de9a135dfa4479703375ab9630c4f2c47bd8900aed23d7c7d6",
+                            "Explain": "药物的脂溶性、药物的解离度、体液的pH值、药物与生物膜接触面的大小、血脑屏障。",
+                            "TestPoint": "吸收",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "药物的脂溶性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "药物的解离度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "体液的pH值"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胎盘屏障"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血脑屏障"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002577,
+                            "ATestID": 43002577,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "274a867fb59e4063865e94a6e46886669d5be64c370b2ad80f77983173f8abdcd7e40bc67e49753de53d192a9bfc9274",
+                            "Explain": "由于内皮细胞膜具有亲脂性，脂溶性越高的溶质通过屏障进入脑组织的速度越快，水溶性越强，通过血脑屏障的能力越差。",
+                            "TestPoint": "吸收",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "与血浆蛋白结合率高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "相对分子质量大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "极性大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脂溶度高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脂溶性低"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002578,
+                            "ATestID": 43002578,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e8d98122516f1f673848d22414118138abb1c2a0602f7ffb",
+                            "Explain": "药物代谢主要在肝脏。",
+                            "TestPoint": "药物代谢动力学",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肝脏"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肾脏"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胰腺"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015369,
+                            "ATestID": 43015369,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6015ea9ac18575fe48d2dc9dc9bd7c1e9669d416d38d912a0ef672b347c85234f6ce9f72b52f0c65a0f86b560c1fc457",
+                            "Explain": "一级消除动力学可有如下特点：①体内药物按瞬时血药浓度（或体内药量）以恒定的百分比消除，但单位时间内实际消除的药量随时间递减；②药物消除半衰期恒定，与剂量或药物浓度无关；③绝大多数药物都按一级动力学消除，这些药物在体内经过5个t[XB1chuyi2.gif]后，体内药物可基本消除干净；④每隔一个t[XB1chuyi2.gif]给药一次，则体内药量（或血药浓度）可逐渐累积，经过5个t[XB1chuyi2.gif]后，消除速度和给药速度相等，达到稳态。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "药物的半衰期随剂量而改变"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "并非为大多数药物的消除方式"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "单位时间内实际消除的药量递减"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "酶学中的Michaclis-Mcnton公式与动力学公式相似"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "以固定的间隔给药，体内血药浓度难以达到稳态"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015371,
+                            "ATestID": 43015371,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "86612ba2f670f062b905ad2ee1da811b4f05e8507bec407269d55f99dc8dbd88242c59d6e75444e7",
+                            "Explain": "一级消除也称恒比消除，即单位时间内消除药物的比例恒定，药物的消除速度与体内血药浓度成正比，药物的消除半衰期恒定，选C。",
+                            "TestPoint": "药物消除动力学",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "药物的半衰期不是恒定值"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "为一种少数药物的消除方式"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "单位时间内实际消除的药量随时间递减"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "其消除速度与初始血药浓度高低有关"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "药物的半衰期随剂量而改变"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015374,
+                            "ATestID": 43015374,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "f89e603ad991197eb3f88b1cb1e8518e473ac480edd58d40afab5ffa509dc021c863051ca4f8dd43827cdf218e0bbd4aff6eefc12a2eb1545ffab523288dd3df",
+                            "Explain": "从胃肠道吸收入门静脉系统的药物在到达全身血液循环前必先通过肝脏，如果肝脏对其代谢能力很强或由胆汁排泄的量大，则使进入全身体循环内的有效药物量明显减少，这种作用称为首关效应。有的药物在被吸收进入肠壁细胞内而被代谢一部分也属首关效应。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "恒比消除"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "药物诱导"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "首关效应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "生物转化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "恒量消除"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000489,
+                            "ATestID": 41000489,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fa738c380d59dc60d3129b95b48da61632dd7e1082a7d7dbee36d3c3315c47fcec45147b0804f665",
+                            "Explain": "药物在体内消除（排泄、生物转化及储存等）的速度是决定给药剂量、次数，确定给药间隔的主要依据。而药物在体内的吸收、分布和排泄是选择最适宜的药物、剂量、剂型、给药方法的主要依据。血浆蛋白结合率会影响药物的分布和代谢，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "药物与血浆蛋白的结合率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "药物的吸收速度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "药物的排泄速度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "药物的消除速度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "药物的分布速度"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000490,
+                            "ATestID": 41000490,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "5e59849c3848ab60e2c5f7a00d21e1a991486df9956f325781ac1aaa74f5b8e5dc3ddf5e546e8fda",
+                            "Explain": "单位时间内消除恒定的量是零级动力学消除。",
+                            "TestPoint": "药物消除动力学",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "半衰期",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "清除率",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "消除速率常数",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "零级动力学消除",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "一级动力学消除",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43002579,
+                            "BTestID": 43000672,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 37,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000672,
+                                    "Title": "5e59849c3848ab60e2c5f7a00d21e1a991486df9956f325781ac1aaa74f5b8e5dc3ddf5e546e8fda",
+                                    "Explain": "单位时间内消除恒定的量是零级动力学消除。",
+                                    "TestPoint": "药物消除动力学",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000673,
+                                    "Title": "ae119ad1c386537058216d9942bdbf87c5ce11689ea58e06",
+                                    "Explain": "t[1-2.gif]恒定的是一级动力学消除。",
+                                    "TestPoint": "药物消除动力学",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000674,
+                                    "Title": "5e59849c3848ab60a04a4e66023d3d1821599bdd9b9330ebaf185c40e7a20dbe6aa295f35f01f973f80ed6d720b7030f",
+                                    "Explain": "单位时间内药物按一定比率消除是一级动力学消除。",
+                                    "TestPoint": "药物消除动力学",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000522,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000522,
+                        "ChildTableID": -1,
+                        "UserCount": 4856,
+                        "RightCount": 4061,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000522,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 35000524,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000524,
+                        "ChildTableID": -1,
+                        "UserCount": 4930,
+                        "RightCount": 2822,
+                        "FavCount": 81,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 51
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000524,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 51
+            },
+            {
+                "AllTestID": 43000481,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000481,
+                        "ChildTableID": -1,
+                        "UserCount": 4550,
+                        "RightCount": 3738,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000481,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 43002573,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002573,
+                        "ChildTableID": -1,
+                        "UserCount": 4628,
+                        "RightCount": 3161,
+                        "FavCount": 105,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002573,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43002574,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002574,
+                        "ChildTableID": -1,
+                        "UserCount": 4340,
+                        "RightCount": 3467,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002574,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43002575,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002575,
+                        "ChildTableID": -1,
+                        "UserCount": 4013,
+                        "RightCount": 3489,
+                        "FavCount": 16,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002575,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002576,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002576,
+                        "ChildTableID": -1,
+                        "UserCount": 3935,
+                        "RightCount": 3379,
+                        "FavCount": 16,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002576,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002577,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002577,
+                        "ChildTableID": -1,
+                        "UserCount": 4234,
+                        "RightCount": 2299,
+                        "FavCount": 104,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002577,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 43002578,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002578,
+                        "ChildTableID": -1,
+                        "UserCount": 4035,
+                        "RightCount": 2663,
+                        "FavCount": 83,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002578,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43015369,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015369,
+                        "ChildTableID": -1,
+                        "UserCount": 3525,
+                        "RightCount": 3358,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015369,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015371,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015371,
+                        "ChildTableID": -1,
+                        "UserCount": 3838,
+                        "RightCount": 2442,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015371,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43015374,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015374,
+                        "ChildTableID": -1,
+                        "UserCount": 3449,
+                        "RightCount": 3172,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015374,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000489,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000489,
+                        "ChildTableID": -1,
+                        "UserCount": 3518,
+                        "RightCount": 3211,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000489,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000490,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000490,
+                        "ChildTableID": -1,
+                        "UserCount": 3666,
+                        "RightCount": 2803,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000490,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002579,
+                "ChildTableID": 43000672,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002579,
+                        "ChildTableID": 43000672,
+                        "UserCount": 4017,
+                        "RightCount": 2023,
+                        "FavCount": 88,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002579,
+                    "ChildTableID": 43000672
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002579,
+                "ChildTableID": 43000673,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002579,
+                        "ChildTableID": 43000673,
+                        "UserCount": 3939,
+                        "RightCount": 2062,
+                        "FavCount": 79,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002579,
+                    "ChildTableID": 43000673
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43002579,
+                "ChildTableID": 43000674,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002579,
+                        "ChildTableID": 43000674,
+                        "UserCount": 3719,
+                        "RightCount": 2556,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002579,
+                    "ChildTableID": 43000674
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

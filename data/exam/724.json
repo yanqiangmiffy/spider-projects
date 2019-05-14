@@ -1,0 +1,176 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 22:44:53 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "a718c31752e8f6f1a8573b4234aba261ccbd014c854df954c94d7b4e078be91ca8fbd09c5d2621e22694899114a1476610b10cbafe78331f8725e8ff2c21724264923e8b6a2c1714b9c163ec5d9dbc9587e6cfbccc1b4321d947cbcf0e1a5ed70a5e02efc5aa6f949dc59c84f81344cc6637634487a81116dc055e039ff7210ea578a7d3038069cf9932cf4ac929cfffa6235e03c9320d06c5311d0399b1279279df1a752541a4c59b842f3b84b034d79636a550298e0718a7f7aa033d7a7a8264b56960e434eda6bf9abae29698245956d40f4321390b9e6fe4ec0609142650997cc2b3d386f8180f16f6bfd829de2c71b84bb2cebb2e6f1a20cc0cfba05f70cd750d20ad20274ccbe9374068a7070e0cb89da203d30c2f",
+                            "Explain": "慢性迁延性肝炎是指急性肝炎迁延半年以上，反复出现头晕、疲乏、消化道症状、肝区不适、肝脏肿大，也可有轻度脾大。血清氨基转移酶持续或反复增高，综合患者的临床表现本题选A。慢性活动性肝炎现已不采用此分类方法，排除B。慢性重型肝炎的诊断必须具备肝衰的表现，可排除C。胆道感染多是急性炎症，一般多有发热、寒战、黄疸及腹痛，多无肝脏的肿大，可排除D。类风湿因子阳性也可见于某些消耗性疾病，该病的临床症状和体征也可排除E。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "慢性迁延性肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "慢性活动性肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "慢性重型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胆道感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "类风湿关节炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001997,
+                            "ATestID": 43001997,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 724,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e0256005f5481e41d569cc2a2f363044ff7a74da67134c5d9544fa3e25d664fcf14ded8cc08ad5d52d7ac139c2acb52e23ecb0a97b3515de80eabc8a8fc450aa60145c316abec5ecd73c468d0043a3cc6f6c0780651d35795628e4281b18167ec0a0ad109db0da5955797cf5b43350eee430b7400624826df05348d65026a9639e891ecc66ad844982afd98bca1910f14651e1724efb6f3407821570302266c7aacf8a1b8ee092824bd053b11cfa6e1d74dda7bb67cf69f11db0a3734c674f22d91e5e38a638eda0793da9524b83a1b46adda1c45cf72d5a8714ad12d705b7bc0546d11d7cad2e40ddfe1fd5d438cb75e106dc81eb8568c34a801adb6e37cd9722c262ec75d0dcfe18e4e3c77f85a9f0ece2328ba1398717b6b3b89418ceedeade4fb976395cd0961cc24402f64817e71517f869fce37917fbbeeef52f4bdcf14264f01e3be356e66edb0f555881f154572e29514524077658bcc117ca126da57b6c321c51bc322ee17c93baab24863a9bb89c38551ab6bb045dc6da3c39be53c69c682a0a402f06beabb80ef04e4918e6d385543839c0be12fc300d071af6d8eeda0f9dd8f2a4bf1abd1b688e274870ed67236af399327a",
+                            "Explain": "菌痢是以腹泻为主要表现的，但无肝、脾大，血白细胞和中性粒细胞都升高。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "菌痢"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "风湿热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "结缔组织病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "结核病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "伤寒、副伤寒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001998,
+                            "ATestID": 43001998,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 724,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43001997,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001997,
+                        "ChildTableID": -1,
+                        "UserCount": 2815,
+                        "RightCount": 1221,
+                        "FavCount": 82,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001997,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43001998,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001998,
+                        "ChildTableID": -1,
+                        "UserCount": 2547,
+                        "RightCount": 2114,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001998,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

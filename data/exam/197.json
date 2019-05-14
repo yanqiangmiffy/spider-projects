@@ -1,0 +1,3351 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 16:41:59 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "587ef17b83719cd1312ecabc3c1bd106f68a77c27e99cf2b49bedf4d0709b04fc77c447ef424cffbede9f738c5182c69dab6c121b3c52fbd",
+                            "Explain": "氰化物如氰化钾和氰化钠都是无色晶体，但在潮湿的空气中，可水解产生氢氰酸，氢氰酸具有苦杏仁味，故氰化物中毒患者的呼吸气味可呈苦杏仁味；有机磷杀虫药、黄磷、铊等中毒患者呼吸气味多为蒜味；有机溶剂中毒患者呼吸气味多为酒味；酮症酸中毒患者呼吸气味多为烂苹果味。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "烂苹果味"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "蒜臭味"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "腥臭味"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "酒味"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "苦杏仁味"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35004155,
+                            "ATestID": 35004155,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e5a1db4c9b1db9fa96bdcbe53d88bebabc2a759299edf1cfa085bf5c774ec61e857e7cc0356681ca798c0882bf7cc42d7102559a575715b5ad4b90d83833f31d98b962864e7aba4f2113c20626c7f34649a604116f70de8079f2edb3c4f5362f95e06f0fa9db8c3bcc5804a433da3685",
+                            "Explain": "一氧化碳中毒首先需撤离现场到安全环境，其次才是其他的治疗，如吸氧、呼吸兴奋剂、人工呼吸等。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "给予促醒剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "静脉输平衡液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "给予呼吸兴奋剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "去除一氧化碳来源"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "患者撤离现场"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35004158,
+                            "ATestID": 35004158,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903d9bf4b5f8591d5c4668183b26cc249b458693027e79942a0ce7ea9aee28caf96f11a85b2306e29556f27b085a7452c6f5a351733149bf3d8d87266abe6c186c417b43fa6f69bd4c07000fb81c466992361225a7dc5250fb99fd46750052c3befa61abd501a954d029560acf585c5e4880018e66622f2be849e0d039fb0e7da6009540ec556ad3c676a61da1075d623617e27886a8afc456367285581b7f0590e2b17f3b4e344d7c164a70f7ee7b5d78b",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "有机磷中毒",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "安定药物中毒",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "一氧化碳中毒",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "乙醇中毒",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "华法林中毒",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35004168,
+                            "ATestID": 35004168,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题解析错误，现已删除。",
+                            "OperateTime": "2018年8月21日"
+                        },
+                        {
+                            "Title": "02b50e5b583d0903114b9dd3a4601e360e8af3889dd8b1695961a74452cb63450832b1de8be4bd63b7d6cd898ec3d492e45be16ee5a9f989ac1f5f374d431c50ba2dea83b91169c29cb3d85b3e9840d10270d52886f91c1b263a63f6d3fe14d59f4ff99b8df8ebf169de794111a1b7455f7d4be0e8270caa55827222b3d6ffb5f59b78ce33868ae2e57eb822250b0d459e8444d9300e1e4e7bff0308e2511c156b2d97c4baa25ae28ffbee4b41fec1c8da8273923c1eb68958f2a716f34bed397b911748cbf7e6210881f147126ffc5a",
+                            "Explain": "患者有煤气接触史，口唇呈樱桃红色，有中枢神经系统损害的表现，首先应该考虑急性一氧化碳中毒。而脑出血的患者一般有肢体活动障碍的表现；急性心肌梗死患者血压多下降，嘴唇不会呈樱桃红色；糖尿病酮症酸中毒的患者尿酮多为阳性的，因此可排除A、B、C、E。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脑出血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脑梗死"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "急性心肌梗死"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "急性一氧化碳中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "糖尿病酮症酸中毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35004173,
+                            "ATestID": 35004173,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2a1dac2be92b225bccd5a1e586a6bcf1488f907b2331d3ad4b01a867196b340dfc80fe4293948a8cbdac6ba86671a65c",
+                            "Explain": "烟碱样症状：交感神经兴奋引起，与烟碱中毒所引起症状相似。横纹肌兴奋表现为肌纤维、肌束震颤，乃至全身抽搐，严重者可转为抑制，出现肌无力；交感神经节兴奋，血管收缩，血压升高，心跳加快和心律失常，体温升高，但中毒严重时，因血管运动中枢麻痹使血压下降，甚至休克。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "恶心、呕吐腹痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "多汗、流涎、流泪、流涕"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "咳嗽、气促、肺水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "心跳减慢和瞳孔缩小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肌纤维颤动、肌肉强直性痉挛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002082,
+                            "ATestID": 43002082,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6e6b3e9777225555f970c31c0504d4150f044f5e43ca3974c29d99a4445a7424f7f73c869043be19da8adb2d95c609f2",
+                            "Explain": "中间综合征:少数病例在急性中毒症状缓解后和迟发性神经病变前,约在急性中毒后24-96小时突然发生死亡,称\"中间综合征\"",
+                            "TestPoint": "中间综合征",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "4～12小时"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "24～96小时"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "7～9天"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "12～24天"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "30～60天"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002083,
+                            "ATestID": 43002083,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 32,
+                    "TestItems": [
+                        {
+                            "Title": "efd054ec56260109b4c40742f95de74f9370ec8861a9256c8b6f481f49b8d40501b445aa0220cb43d78734dc0d0b29e0f363d246b336f706e3c96cd07fd49fc8",
+                            "Explain": "有机磷农药中毒时出现呼出气多有蒜味、瞳孔针尖样缩小、大汗淋漓、腺体分泌增多、肌纤维颤动、意识障碍等中毒表现。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "发绀"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "昏迷"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "气急"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "蒜臭"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "腹泻"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002940,
+                            "ATestID": 41002940,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2a1dac2be92b225b57298e516bb322aa915d83bb02e0de7e1e1c0cb8e7ad0f83b289a95d600d253c",
+                            "Explain": "有机磷酸酯类急性中毒时，主要是副交感神经末梢兴奋所致，表现为平滑肌痉挛和腺体分泌增加。乙酰胆碱在横纹肌神经肌肉接头处过多蓄积和刺激，使面、眼睑、舌、四肢和全身横纹肌发生肌纤维颤动，甚至全身肌肉强直性痉挛。交感神经节受乙酰胆碱刺激，其节后交感神经纤维末梢释放儿茶酚胺使血管收缩，引起血压增高、心跳加快和心律失常等心血管作用。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "腺体分泌减少、胃肠平滑肌兴奋"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "膀胱逼尿肌松弛、呼吸肌麻痹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "支气管平滑肌松弛、唾液腺分泌增加"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "神经节兴奋、心血管作用复杂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脑内乙酰胆碱水平下降、瞳孔扩大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002942,
+                            "ATestID": 41002942,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878edf38b11e4e3e60e1589f71a9eda3b3525c4641f3c6323abd83ae20e83dbf316cdcc579b88d8476bfe7fda5bd4251a4f8a0e5f78e4dbaaf9ec2642403fb5ea285ec213615b4b17477c5b55cb5413f721df50df740d07cc859f47ac014ba768079149c973e7aa85616dd23f2324802691e15dc6bb3084fbd61ec39f4ca2261ce2e1f9c9a002ec98e5d80ca64e9cc8cc099ca61c6b8ac347c891c3eacbb5f8701774f64081342c96d26dd13026b5b2a4e39f1c92eb3c8723b7e02b00d178177c5716d87ed37474ceeb160ba43ce54f0b57f09a205a0c3f762caf7284323b6844c54a6644012d6eb085ff29d264384b5bcc2ba440ce26d4ace23fdf86b50f9bdc55e67f0274e2c60473d26aceb4f20a0bfcc",
+                            "Explain": "该中毒主要是抑制胆碱酯酶。红细胞的乙酰胆碱酯酶被抑制后，一般不能自行恢复，需待数月至红细胞再生后全血胆碱酯酶活力才能恢复。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "系高毒类毒物中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胃、肠、胆道内仍有残毒在吸收"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "用解毒药剂量不足"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肝脏解毒功能差"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "红细胞再生尚不足"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002946,
+                            "ATestID": 41002946,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ecb5048e30afbe2cd29a07c5357c9e118d07da5556e67a5e624e77ef8326b40d69d46f98663da81d",
+                            "Explain": "苯中毒可分为急性苯中毒和慢性苯中毒。急性苯中毒是指吸入高浓度苯蒸汽后，影响机体内ATP以及乙酰胆碱的合成，从而对中枢神经系统产生麻醉作用；慢性苯中毒是指苯的代谢产物酚类直接抑制了细胞核的分裂，导致细胞突变，从而影响了骨髓的造血功能，临床表现为白细胞数持续降低，最终可发展为再生障碍性贫血或白血病。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "神经系统"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "造血系统"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "消化系统"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "循环系统"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血液系统"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020957,
+                            "ATestID": 43020957,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "760da07500d644c3d79a77cc26cc983898f92d44a3f9b50af1cbdb5c9be6e182834ed233a27a5451efa90bb21c5527b5b78f4507a984471feaaceb40cc5041f21760f09c726bc2d3",
+                            "Explain": "急性中毒情况危重时，首先应迅速对呼吸、循环功能，生命体征进行检查，并采取有效的对症治疗措施。应立即停止毒物接触，毒物由呼吸道或皮肤侵入时，要立即将患者撤离中毒现场，转到空气新鲜的地方。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "清除尚未吸收的毒物"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "排出已吸收的毒物"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "口对口呼吸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "对症治疗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "立即脱离现场及急救"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020959,
+                            "ATestID": 43020959,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2a1dac2be92b225b151e91b959d454853d2ee22de33dd08290074281d0b91eb499f668dd359fbf757588d7c0a7874d3577a2353b65f38a277f1a0e6a87fca5e8c1fb897c55127a3a8bd64cdaee88a405",
+                            "Explain": "有机磷农药生产或使用过程中，导致人体中毒的主要途径是消化道和粘膜，选E。",
+                            "TestPoint": "中毒",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "消化道"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "尿道"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "黏膜"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "呼吸道"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "消化道和黏膜"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020960,
+                            "ATestID": 43020960,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2a1dac2be92b225b0e40693003f7d2403fb72597f4843321c5b6ac7dd977a8b2f6581c66b8c439ddfd2d600cacab4d40de7a920de8c37a991510d0a780ab7bbe",
+                            "Explain": "有机磷农药中毒的发病机制主要是有机磷抑制了胆碱酯酶的活性，选A。",
+                            "TestPoint": "中毒",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胆碱酯酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "6-磷酸葡萄糖脱氢酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "细胞色素氧化酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "糜蛋白酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "葡萄糖酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020961,
+                            "ATestID": 43020961,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "00feec06cedc3f96d2224c7cc9846fcc20e3dfd0d1dd96d74378ba06f7d2e84292253983cc8787b88b41975f72ddc6728e0abd667e57fcba4eaad63e4964d35bd1b753551c793b9562189433a2302458896fd3cde08efc71e1a265fe478b7464f442162f8f438e28927b1175a182c852063c45606b25ef00099d55c980bbfadbf4ec7fc8ff4bfb9a00b3e260f7e336b0408662b8b684e81ef4538bc36565e7709db196e5e01aa3a324f73969f70e2f7881f3102852e061c8f320b3417c908ee0790dc2594b9cf99aa7ff9f7175c180fc30cbfd4e104b31dc31f475b2aa4236aed827f24337d681cea3ad748f535988491fa1e0181b7b349f34252d4f0f6cd64b2021ad9bbd17b0407f0f3530573b11a581b6f6474d9c5f84da5d2ee85e97901a6f0aca1fc2e3cd20",
+                            "Explain": "有机磷农药中毒时可出现毒蕈碱样症状，有恶心、呕吐、腹痛、多汗、腹泻、尿频、便失禁等表现，心跳减慢，瞳孔针尖样缩小 .支气管痉挛和分泌物增加，咳嗽，气促，严重者可出现肺水肿 .烟碱样症状，肌纤维颤动 .中枢神经系统症状，可出现头晕、意识障碍等中毒表现 .根据题中叙述应选C。",
+                            "TestPoint": "中毒",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "细菌性食物中毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "可溶性钡盐中毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "有机磷杀虫剂中毒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "中暑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肠炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020963,
+                            "ATestID": 43020963,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "39f57da63f72517011e9a69c1e77587a6a9f83f8b6dd93e6e1a0b388c42cda4d",
+                            "Explain": "有机磷农药中毒是我国目前最为普遍使用的农业杀虫药，对人畜均有毒性，多呈油状或结晶状，色泽淡黄至棕色，稍有挥发性，且有大蒜臭味。有机磷杀虫药中毒时呼吸可有典型的蒜臭味。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "阿托品"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "安定"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "酒糟"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "有机磷农药"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "汞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020966,
+                            "ATestID": 43020966,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a35baebf2b937195f86e597db384ba770fdf30e96313d017427525723c48a6fdf6e1148ae57f6590dbbf0ef74d049836baffb1fcbdc75f4dcb5b0f3ee9e8ac0e6954faaad34a37cb64908f5d2f963fc46fdb7997f01b54b60ac206527112fb2fe6d003d02177e85d4a0cda8e6806985ef184dc771b58e7f465cbbbb5804d1d0f4c6ce3548ff61c09e9c6b7044ef90bb0",
+                            "Explain": "敌敌畏属于有机磷中毒，30分钟，大量农药还在胃中，故需紧急洗胃。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "静脉注射安定"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抗生素"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "应用解磷定"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "应用水合氯醛"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "彻底洗胃"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020968,
+                            "ATestID": 43020968,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e0256005f5481e41ce024333d895a1e17fe94df645e1d4218affd9d133bd369e8ce99922d13748eacec38d68a7a0b22251809e23cf9d3ce7e29f88ef8137c724a8dca5452338ef970b0345915ca3f9a2b6e9abf49966405f01222054038b83187be0304bfcf4ad029175fcf528b4a0dd",
+                            "Explain": "误服有机磷农药后应立即洗胃。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "彻底洗胃"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "早期应用解磷定"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "早期应用阿托品"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "解磷定与阿托品合用"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "应用抗生素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020969,
+                            "ATestID": 43020969,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e9f8d93cc1cacdda69a6fa4de70276bf560048cdcbfa4b95629559391bebee40f48ce27d25abae5e1956729c116091d9c83b9da1a2e467573c309e3fc8e0480ec368eaaeea9c6ca41b688b10e315b03e539650e5875be27b66970f98dd91a85503956a07020ac9d59056cb5e4ba1ff9b4724b737c6536f2ee9176f1a941f2dc819349898aaa4d0664cab9cfd6aa38ff7f82052b009a1d113562c2141e82db7f674b8072efe50836f9ce36047457774714c76057e8965d74b50450e08af56b3333c2a18d0220a91acfa412e5945ceb0b80796c980d98fb1de88995c3bcf3821793ff62523a9149e5989f8d5f6f69e6feb34099ad4078e643ad3b69206e32a6313ff29d6c629902c2d3614564bea18280ee11968032d18a7b69e27c0d82971a0b4d59fe5ca3c3d77e5ca9e75b9f51f0f9f77d02b5e1e236e3487fdf2423cb55b699966f157d6907d87",
+                            "Explain": "患者服农药后导致中毒，应立即洗胃后再注射，所以选A。",
+                            "TestPoint": "中毒",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "洗胃"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "吸入经酒精湿化的高浓度氧气"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "毛花苷丙静脉注射"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "静脉注射阿托品"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "抗生素静脉注射"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020971,
+                            "ATestID": 43020971,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c126cdea968c3107cd61b578131804b05d6f769bcf5abf2559b493751330cdce",
+                            "Explain": "敌百虫中毒者洗胃禁用2%碳酸氢钠溶液洗胃，因碱性溶液能使敌百虫变为毒性更强的敌敌畏。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "0.3%过氧化氢"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "2%碳酸氢钠"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "1：5000高锰酸钾"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "0.3%氧化镁"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "5%碳酸钠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020972,
+                            "ATestID": 43020972,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e0256005f5481e4124a0bebb9ac9bf070f18cbc08f4a6fd916282e6e6bdcac5aebe06c22bba6ca815b5d0ff1a003c4b96b073278d5a6b814c2f66b9513bd481dc32cfbd699df20939166bc6b87874483f75bfbc9d640009356381064718045d9f4b2bb7164d0b4ba14b90570be6e07ad8bb11bf537965325",
+                            "Explain": "患者中毒，解毒需用阿托品静注，然后利用解磷定以及吸氧，伴随地西泮肌肉注射，不能使用抗生素，选D。",
+                            "TestPoint": "中毒",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "应用阿托品"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "应用解磷定"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吸氧"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "应用抗生素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "地西泮肌内注射"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020973,
+                            "ATestID": 43020973,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7b882b14315818b8fadeb2fdc85abb5145ad5d0b9c3c51d1b969e4e162a1e4855133acf68cd07ec756da787dcb061a3a5dfdd6011e96b2558ebdd7e38fb74dbcfb6fdde88f4539ce",
+                            "Explain": "解除有机磷中毒时毒蕈碱中毒性作用，首选的药物是静脉注射阿托品。",
+                            "TestPoint": "中毒",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "静脉注射阿托品"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "静脉注射解磷定"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "地塞米松"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "静脉注射甘露醇"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "静脉注射乙酰胆碱"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020974,
+                            "ATestID": 43020974,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2a1dac2be92b225b4e1364526620e844ca7b9506932e39a1371b3df35deed79f94b1ed6053ca66e20c298bfc592dd4ecad8d71ab4c52d6910602a0f25ad3455728c3abb1d39a4e5e",
+                            "Explain": "阿托品为阻断M受体，而肌束震颤则由N受体控制。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "呼吸困难"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "流涎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肌束震颤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腹痛"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "多汗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020975,
+                            "ATestID": 43020975,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5c7ac5abcfdf3d37ebc8052fff60a887f9c14fceec716d3e1dc1276b94e8369ee613bcff930c3c923f139038bf851fe4",
+                            "Explain": "一氧化碳中毒最具特征的表现是口唇黏膜呈樱桃红色。",
+                            "TestPoint": "中毒",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "头痛、头晕"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "四肢乏力"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "口唇黏膜呈樱桃红色"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "恶心呕吐"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "昏迷"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020977,
+                            "ATestID": 43020977,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1dd761ab49ad09322799afbab7501d98dc592af48430a9ac01ea839a6ff1d1751cd8bacc3c65558032ce73d110cf216c2e3e0b063805107366251a3d9e6299bc6473123a5a937e5a1e3ed82670c55d35bf64e189160f1fe95bd576565a71f78026801c93fc700f8d07a0776166a01fa5f3937fd7f0072def104c79c37c7c830f9b3ae683682c5cede5859e9ddf8927944f334803f4b5230b2dda37c5697b8d1069ebb18b62c96bc1e5ba105f83ac7aa1f869e3b54f4b35d6",
+                            "Explain": "急性一氧化碳中毒迟发脑病（神经精神后遗症）：急性CO中毒患者在意识恢复后，经过约2-60天，\"假愈期\"出现。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "脑出血"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脑梗死"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肝性脑病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "中毒迟发脑病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "中间综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020978,
+                            "ATestID": 43020978,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bed2b43f8aef5ab2585a5eafe3d8a69d3d09f3a37dc473bc1f1e7e0ff6b6229a5f68e9267612434cb03fd4b1af99d59c273a7bf644eb724c",
+                            "Explain": "胆碱酯酶复活剂等解毒药在体内能与磷酰化胆碱酯酶中的磷酰基结合，而将其中胆碱酯酶游离，恢复其水解乙酰胆碱的活性，但仅对形成不久的磷酰化胆碱酯酶有效，已\"老化\"的酶的活性难以恢复，所以用药越早越好。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "恢复已经老化的胆碱酯酶活性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "解除烟碱样症状"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "恢复被抑制的胆碱酯酶活性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "与阿托品合用可发挥协同作用"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "增加全血胆碱酯酶活性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020980,
+                            "ATestID": 43020980,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e93a015da6ee57b8b00558faa8fc2828788bf1c0487783bd69645c595b1de9c00bc35ef56caef907e1b51dc36a751523a8fd4b88f4e63e075b5c74e3ba62183a9e9e04ed4d221728c953b1fec352249ab13757dd63f14d2d31532515161c089ead7c53571673087e9a74b022c5cda9c215a71b405c7bb5d030198b3796c95a4f7621309b7241a066327846b9beb9c2b8b523ba7b45ec4b53da5481892188cc8a8904387328a47c233c8c920a81607e97f8a84ee09a116348a5894247a9f5583d1d23ca3160f241d39a3baf67a4a829054bbecbeb1fdaa36fce52c7f0e67f9c666beb404d7b6890e93ee1fe896cc3144015a3bae729990a5061b8622ae451491df802e812eadc4c1a181e9414f52439fdcddec903cc15dd0e43a601963a4d7ba597b93b3cfc1f62a40b47fc34b76e360e958fa924e75a874bf3472036124e57ca1514cd3c475c7ab2b256838f6dfa6320f1261be963c857c",
+                            "Explain": "根据患者的病史、症状，可以推断为急性一氧化碳中毒迟发脑病，选E。",
+                            "TestPoint": "中毒",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "中枢神经系统感染"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性脑梗死"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性脑出血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "药物中毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性一氧化碳中毒迟发脑病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020981,
+                            "ATestID": 43020981,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "16e94e7c7fdfdeabf4bc96ba9bea94eee3dbbf76f86e58d1750cfde55464009f",
+                            "Explain": "铅的主要蓄积部位是骨骼。",
+                            "TestPoint": "中毒",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨骼"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肾脏"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肝脏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨髓"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "神经组织"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020983,
+                            "ATestID": 43020983,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d6950d5615a44d8deef567e981d38d54a9040ecd9d710bff2b91283b641fb58f",
+                            "Explain": "苯的主要蓄积部位是骨髓。",
+                            "TestPoint": "中毒",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨骼"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肾脏"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肝脏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨髓"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "神经组织"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020984,
+                            "ATestID": 43020984,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a3772cd6fb50a6db4a0e8a131a2749bcc1b923f92a149cbd31b88d69353c4869",
+                            "Explain": "汞的主要蓄积部位是肾脏，选B。",
+                            "TestPoint": "中毒",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨骼"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肾脏"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肝脏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨髓"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "神经组织"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020985,
+                            "ATestID": 43020985,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "70528ecf4a40a32f9c2738256652c0ca72331f4670b05a6388b843f23d5416eae86e940831a94115508203e703c3a2b9bb036151768811c2",
+                            "Explain": "戒酒综合征发生于停酒或突然减少酒用量的6～28小时内，其表现为：①轻度症状：主要是情绪障碍（焦虑、烦躁、易激惹等）和睡眠障碍（患者可出现失眠、.睡眠节律改变等）。此外，可出现舌震颤和四肢肌肉的震颤。②中度症状：除轻度症状的表现外，患者还可出现幻觉和妄想，幻觉以听幻觉为主，最常见的妄想为被害妄想、关系妄想。③重度症状：意识障碍为主，表现为震颤性谵妄，一般发生于停酒后的48～96小时，具体表现为在意识清晰度改变的情况下，出现手、面、舌的粗大震颤，定向障碍，幻觉和妄想，同时可出现癫痫发作合并躯体症状。震颤性谵妄的死亡率为10%。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "停酒后出现的急性精神症状群"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "长期饮酒过程中出现的慢性精神症状群"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "停酒后缓慢出现的记忆障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "长期饮酒过程中出现的记忆障碍"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "长期饮酒过程中出现的行为改变"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020986,
+                            "ATestID": 43020986,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2a1dac2be92b225b6af8983f3765d2d3727dd8632230ce6b3381562bd7947a028b81bd47554789a1d30e75840069a87409a06c29f9eb3dfcbe24fa2d2ea69f20",
+                            "Explain": "有机磷可经消化道、呼吸道、皮肤及黏膜侵入人体，大多在肝进行生物转化，一般氧化后毒性反而增强，如对硫磷、敌百虫。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "肝",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "心",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "肾",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "肺",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "脾",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020987,
+                            "ATestID": 43020987,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "331c94c999c9881d401b1754b55b09a4533769845e4942bbc09f094ff315e8fb7b694ffd703c9383",
+                            "Explain": "救治措施：迅速将病人转移到空气新鲜的地方，卧床休息，保暖，保持呼吸道通畅，选D。",
+                            "TestPoint": "中毒",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "老人和孩子易患"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "老人应与脑血管以外鉴别"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "严重中毒血液COHb浓度可高于50%"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "应立即原地抢救"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "迟发脑病恢复较慢"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020988,
+                            "ATestID": 43020988,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5c7ac5abcfdf3d37ebc8052fff60a8877fb458d39834bf86dac2c59b67678fe5b7d8bfd7a116268c5b1634161cc632fe5fe8ab2993738942",
+                            "Explain": "一氧化碳中毒现场急救应迅速转移到空气新鲜的地方，然后再迅速纠正缺氧状态，包括通畅呼吸道、吸氧。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "吸氧"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "建立静脉通道"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "就地心肺复苏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "清理皮肤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "撤离现场"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020989,
+                            "ATestID": 43020989,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "60d96450fffe8c51f227b3da9776a8bdbe69e8180a1a95824add40e4587bb49c2c9f3875bba3dea0c851d2624fa9d212a6ab58bffe7da343c17f00a564a822b7",
+                            "Explain": "高压氧舱室作高压氧治疗尤适用于中、重型一氧化碳中毒患者，不仅可使病者苏醒，还可使后遗症减少。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "鼻导管间断低流量吸氧"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "高压氧舱治疗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吸入纯氧鼻导管"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "持续低流量"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "吸氧面罩吸氧"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020990,
+                            "ATestID": 43020990,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6a96c408001e365018f26894128607d993535010c89c160107cf61ea7d165d30ea3ef0bc2c7f80366ed2b32b04e638c1d74c0d7e34af2b6b1e34d18a8712431dc741773370f9755c0fa1d4cfbfeb94c84323fcebbb3ea476ebafa0840f2692daa5f8a7673461ac5a78a32bc17c148031ca0fe40b772226a1756b3a4f03ea83b756eba1d738985440cf9226dbb055b7df041a3eb72f2a3bcee6fdfa4a705e94f20f039ac92e50067776d4d437ee679f6d56b99ec10d6883b84543a77d20a721566fb6d13f9dea16adf6bb406688a6057cb91eb100643735e784af24dc16c3c5641d9b86cb06fde274ae191fece26d5ca7965cd153f3a2447488ada113b7f43c8d",
+                            "Explain": "该患者进食较多凉拌蔬菜，其症状符合有机磷中毒表现，副交感神经和分布于汗腺的交感神经节后纤维的胆碱能受体兴奋，表现为腺体分泌增加，可见大汗、流涎和支气管分泌物增多。虹膜括约肌收缩使瞳孔缩小，胃肠平滑肌兴奋引起恶心、呕吐、腹泻、腹痛。心血管系统受抑制而致心跳缓慢，血压下降。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "亚硝酸盐中毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "杀鼠药中毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吗啡中毒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "有机磷农药中毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "乙醇中毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020991,
+                            "ATestID": 43020991,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2c675fe9a981df097087e2a5af24edfa42cc5c38c83f508570ecff66c10739cc9dbffb6ccf0a84116f5e6d834534f5a6c243f316024f0378",
+                            "Explain": "急性中毒的治疗原则：①立即终止接触毒物；②迅速清除进入体内已被吸收或尚未吸收的毒物；③如有可能，及时使用特效解毒剂或拮抗剂；④积极对症治疗。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "酸性毒物污染皮肤、黏膜后应用碱性液体冲洗、中和"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "立即终止接触毒物"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "迅速清除进入体内已经吸收和尚未被吸收的毒物"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "及早应用特效解毒剂和拮抗剂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "根据患者不同情况进行对症治疗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020992,
+                            "ATestID": 43020992,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b5691daab67779f5427850ff5dec8946f0e74ce6d5f2ce01d436a14f9fbf3ac65ec6bed93ee90b594f4946cc88d6b60bd0d9de5c2291c893cfd564b37be3fb2efa94da255dc5e1f0a9491da507749178f13fedef768032fcda2d50731a0f684c0be57f40ed34fc00591bf14f6add46acca43c5ae8176260486931fb9c6edc47ef587898872006281a4ea6d03964373c85a900e77d6723303b01a876832a3f63d309bd31512bd07806253d46039a9e719e36879c003a85520099db1525d14e8c160cfd3fcb48dd348ae571c690edfd5f2656b913678604870751fac053b23d241392a2eabba4146aca37e4af2dc6f4cdd62798975efcf7c1a6f80463f59051b6fef33a774630c51e94a446522fd92cf757463f5378f569a0affc6f3d3ed081d3051931f7bdd3e3cdc2d9ace2dbd8da151ecbaf0655267875e03f3a98254e4e645394cb0fc3d87fa949af60b71bdd2115fb361fa77c4f257ca36870ba5967400c55d372f25704e3c83b6ff3e09a7fb5b89fdbf6da643fc344268791f134066f126d54535331b6084ad0eae0c971f7cbfabe6dc90e2f2e2a7a7263aca8dc3a8d78591455887e8b957c9c52ba9cb0d9c6e86333aac8f3f48b27c",
+                            "Explain": "患者在有机磷农药中毒症状缓解的3天后突然出现视物模糊、面瘫、呼吸困难，并再次出现意识障碍，大小便失禁，提示中间综合征可能性大。在急性中毒症状缓解后和迟发性神经病变发生前，约在急性中毒后24～96小时突然死亡，称\"中间型综合征\"。患者表现为不同程度的呼吸困难，呼吸频率增加，进行性缺氧致意识障碍、昏迷，直至死亡。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性脑卒中"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "有机磷中毒加重"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性有机磷中毒迟发型脑病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "中间型综合征"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性有机磷中毒迟发型多发性神经病变"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020993,
+                            "ATestID": 43020993,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e0256005f5481e41c8efcbd0902e9d439168d6f80e2cccc66710a53b1b55b399689715ea17097a67b63bd3fedab7a2fb6d0257a289e6e7b5748783202aec20ec32dd175d0f79e4e5247414d27a6c29e7fc3925119907da3c17e0d11c843e6d695135cc089bac3889ef63b3a0c7dea109493b33e417a18faa30a5e494a478e830b48baa970b0fac6d9dafd04354825a6df213c3494e5e3dd03fd5e511f9060f7ef50e9c168bf64e2a3e557cbd0d8269e0e2e8ccc9120b93f86fe6a635476bd3d43a186ee4d0126b430cbd8e0e8dba8b58e8bacbd0dc108a70e7b72106537cdca1e6640064629901407b8a407a4c5ed21c8bfd87dad33b226f64e1bc935549aa34f404e1b932ac4e676a5464b8787b08f3e86649d3d8894682dc070345eb779bd23b2228a97539d2f5c6e121e05a2486bb82319122f83cd7fc4f77be44f615e4b7d5eeb21e9c2656c391898c3be30b0b749857a2eba134b83d483836ff4aba958b70a9952d74ce24ffd3cd14be124d36cd0b4c9215d3db347781b1cf37a9222e95",
+                            "Explain": "此病例为急性一氧化碳中毒，目前昏迷状态，呼吸困难，面色潮红，口唇呈轻度发绀，SpO[XB2.gif]85%，应立即行高压氧舱治疗，可迅速纠正组织缺氧，缩短昏迷时间和病程，预防CO中毒引起的迟发性脑病。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "无创通气"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "吸氧、应用糖皮质激素"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "立即高压氧舱治疗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "高浓度吸氧、强心利尿"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "气管插管、清理气道、机械通气"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020994,
+                            "ATestID": 43020994,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "7b152f764e1cb121bb02e65f752db47c6f48130cc670a5f8c4ca3123dc88b4bf17814d82473f3e003cb244778212a0898601df27dec6bda2118dc5b7c80caa533b5da77eb542e2877cf8dc0fafaa3b310491122ffa3fccb2ba0c8d1bf6bd6b6c7fb13d2ac6558daa544fc519b1a4d8df04d5298139739e6e0b530ec5f005d273",
+                            "Explain": "烟碱样症状：交感神经兴奋引起，与烟碱中毒所引起症状相似。横纹肌兴奋表现为肌纤维、肌束震颤，乃至全身抽搐，严重者可转为抑制，出现肌无力；交感神经节兴奋，血管收缩，血压升高，心跳加快和心律失常，体温升高，但中毒严重时，因血管运动中枢麻痹使血压下降，甚至休克。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "多汗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肌纤维束颤动"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "瞳孔缩小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "流涎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺水肿"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002084,
+                            "ATestID": 43002084,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d042037c72d166ef947df9665d5f1bd6191e950ff69e33414b9319ffecd5eb5650cb7b28492f382fef9db06e0f9a7a6be8d26608989312df4fe4fbf30fc9940baa02da09bab971ee1ac7a02171100f70c55cd1c21fb3422d288c5fc1de318fa9611e5d01ddae34645db574dd797e3ee601c661182b3eb4e6d7571076dfb9b7bdb1f05c8c6b0bb72ab8d033d787b09ba8b4de96117e7064fc5037e105fe8a98660ab0f77010e19e3e6851279b42d689acac0351f0b26248ad0b5be5a3c66859865edc5a536e85ab710a91589066c1dbfa8935fb99d59e14d01bb",
+                            "Explain": "毒蕈碱样症状中毒后最早出现。副交感神经兴奋症状。表现为：恶心、呕吐、腹痛、腹泻：瞳孔缩小，流涎、流泪、多汗或大汗淋漓；心跳减慢：尿频、大小便失禁；肺部湿啰音，严重者出现肺水肿、呼吸衰竭。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性安定中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "急性巴比妥中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "急性一氧化碳中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "急性氯丙嗪中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "急性有机磷中毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002085,
+                            "ATestID": 43002085,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "根据中毒症状，中毒的原因最可能是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "钡盐中毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "赤霉病中毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "磷化锌中毒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "亚硝酸盐中毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "黄变米中毒"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "9813d91367ff32be2517e65bd6373ab6b76a526bd0ed5308993b9f6a3d05c26789728c2fe2212e5c67f14ebe50d2ff793bc560474c676ec436aed6e39f65c5337c4b367a6274273eda204c53c863b09e2e8833311ed474065835f847d438b6cc93ed9cc4cf0f60e2",
+                            "AllTestID": 43020996,
+                            "A3TestID": 43003646,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003646,
+                                    "Title": "c77e8b6f4ece4f2126d64ede06c08818ae5fbd56607e36710707db1e371af6b0f59a70a48e599cb1157d23ec1a7bc08893a4e77427cfc69f",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "钡盐中毒"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "赤霉病中毒"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "磷化锌中毒"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "亚硝酸盐中毒"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "黄变米中毒"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003647,
+                                    "Title": "80072db1490ad8876c4f1d53299bf894697f40e9c8aafd827bfbf6e8d2740552",
+                                    "Explain": "亚硝酸盐中毒潜伏期短，一般为数十分钟或1～3小时，症状以发绀为主。皮肤黏膜、口唇、指甲下最明显，除发绀外，还有头痛、头晕、心率加快、恶心、呕吐、腹痛、腹泻、烦躁不安。严重者有心律不齐、昏迷或惊厥，常死于呼吸衰竭。亚硝酸盐中毒的特效解毒剂为美兰。治疗方法：吸氧，洗胃，美兰，对症处理，营养支持。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "洗胃，导泻"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "洗胃，导泻，灌肠"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "静脉注射维生素C"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "静脉注射亚甲蓝"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "洗胃，灌肠，导泻，静脉注射维生素C和亚甲蓝"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "A3TestItemID": 43003648,
+                            "Title": "引起此次食物中毒最可能的细菌（或毒素）是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "副溶血性弧菌",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "沙门菌属",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "肉毒梭菌毒素",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "蜡样芽孢杆菌",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "金黄色葡萄球菌肠毒素",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "Answer": "E",
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "A3TEST",
+                            "FrontTitle": "c313a7daece07860147c1efc758a82e52f2ff0c2cd1b4da3a418ede85d7c0828c680ef26b93ad33f354df71748954b3a3118159ae0bc4401561053505a180f27a4ef540d647d140f0885d1786e68709e08e7f61ce6e64de4d8b1b87d3bba1483d1ea4fdd4fa87a53e53618789c45160113b8c03ad36598c6db8a4bed6ced97bcc36f2a23e4bef7eb19ff60ea7bb82b157bd5bccb3e0d93bf5ca580865519d3e4a594a8dc4c3a83b5148e0ca11a32b1317c1f18bb0d75496e4a1ff27524f291f4946621b114baae4b8283f59ce029c6f9e56a275f48843c67d6e55a313443ef979f27628ad3bb3ff64c65aa91dc4afb7222f8472320fd828488f5e889493b619027ba6bc4fdcdc2163bcf305670bc07b369bbb7ced3af9a9637af5abf23768dcf7c339e74208f5ff4b12f8d425ea32619379c291d22333f750958f546b8271bc92b026dc0daa3ffc2",
+                            "AllTestID": 43020997,
+                            "A3TestID": 43003648,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003648,
+                                    "Title": "4ac2e726d5ac5e0815069708e5ee7610e9a46b3cb943be271a9aae03f9412d7b3e0cbbca696bc9c7d1871cdab089f3f7e193947d7d964bec48934b9b0b48e472",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "副溶血性弧菌",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "沙门菌属",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "肉毒梭菌毒素",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "蜡样芽孢杆菌",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "金黄色葡萄球菌肠毒素",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003649,
+                                    "Title": "4ac2e726d5ac5e081392bbd56011dfb47051598721c7e29725d71169b2d7eb1afc0b67e84bb600abea45cb1e18825092effe7c5395ad45b46b2306a36143db1f77657d3ef89563ebdfdaadc50ca9e97f",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "海产品.",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "蔬菜",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "水果",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "罐头制品",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "肉类、剩饭",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003650,
+                                    "Title": "63b8cb606528c41a3e5ba70de3d79dd56999fa58876ba894e1541778732bcd78f8ed5cf8967d461c7021a10f9359f9a51f4ee5896e273e0d4ae5ed9b8f955d62",
+                                    "Explain": "沙门菌食物中毒的潜伏期一般为12～36个小时，短者6小时，长者48～72小时。葡萄球菌食物中毒的潜伏期短，一般为2～5小时，极少超过6小时。起病急骤，有恶心、呕吐、中上腹痛和腹泻，以呕吐最为显著。呕吐物可呈胆汁性，或含血及黏液。剧烈吐泻可导致虚脱、肌痉挛及严重失水等现象。体温大多正常或略高。一般在数小时至1～2日内迅速恢复。寄生人体皮肤、鼻腔、鼻咽部、指甲及各种皮肤化脓灶的金黄色葡萄球菌可污染淀粉类（剩饭、粥、米面等）、牛乳及乳制品、鱼、肉、蛋类等，被污染食物在室温20～22℃搁置5小时，病菌大量繁殖产生肠毒素。一般在数小时至1～2日内迅速恢复。治疗常选用补充水、电解质，输注抗生素。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "应用多价抗毒素血清",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "服用改变肠道菌群的制剂",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "彻底洗胃、灌肠",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "静脉补充水、电解质，静脉输注抗生素",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "应用止痛剂",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "最可能的诊断为",
+                            "Explain": "1.成年人铅中毒后经常会出现疲劳、情绪消沉、心脏衰竭、腹部疼痛、高血压、关节疼痛、生殖障碍、贫血、中毒性外周神经病等症状。重度可有铅麻痹、中毒性脑病。尿δ-ALA增多和蓄电池厂工作均提示铅中毒，故选A。其他选项均不符。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "慢性铅中毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慢性苯中毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "慢性汞中毒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "慢性氰化物中毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "慢性硫化氢中毒"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "d12221f776a570180577dd785d3f4a3fd690f5168d6fe2bf3266477c7fcb51e16137489af2cc997e2510c86becbf8eef7bc60f34edcc8891cea85b9afeafcebf7d8e2802881cdec823093863fedc2be365567ad82e03869b2c54dc058a9f7c68dbe0bf6c4ca7a9f05a08a905c7220b91c15727617ab49173461df5bc8e59deff7531f01ce52671f171a711e8e2e9c6666604147cc50cb11c14e005a33298ca679e5a8f669e7cbb0227e075318636533d",
+                            "AllTestID": 41002949,
+                            "A3TestID": 41000558,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 197,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000558,
+                                    "Title": "91c2beef1821172aa02421cc2b7a1430ec107e661acb3b94",
+                                    "Explain": "1.成年人铅中毒后经常会出现疲劳、情绪消沉、心脏衰竭、腹部疼痛、高血压、关节疼痛、生殖障碍、贫血、中毒性外周神经病等症状。重度可有铅麻痹、中毒性脑病。尿δ-ALA增多和蓄电池厂工作均提示铅中毒，故选A。其他选项均不符。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "慢性铅中毒"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "慢性苯中毒"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "慢性汞中毒"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "慢性氰化物中毒"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "慢性硫化氢中毒"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000559,
+                                    "Title": "581d988cc1f786b9307afebc41954eaa57e50ae6ae5a96653ad872ec12a0941a0a0acc956a298aef",
+                                    "Explain": "2.中毒患者应根据具体情况，使用金属络合剂驱铅治疗，如依地酸钙钠、二巯丁二钠等注射，或二巯丁二钠口服，辅以对症治疗。观察对象也可酌情进行驱铅治疗。故选C。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "二巯丙磺钠"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "葡萄糖酸钙"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "依地酸钙钠"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "阿托品"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "补血合剂"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35004155,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35004155,
+                        "ChildTableID": -1,
+                        "UserCount": 2535,
+                        "RightCount": 2276,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35004155,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 35004158,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35004158,
+                        "ChildTableID": -1,
+                        "UserCount": 2571,
+                        "RightCount": 2230,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35004158,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 35004168,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35004168,
+                        "ChildTableID": -1,
+                        "UserCount": 2422,
+                        "RightCount": 2339,
+                        "FavCount": 6,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35004168,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 35004173,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35004173,
+                        "ChildTableID": -1,
+                        "UserCount": 2371,
+                        "RightCount": 2315,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35004173,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43002082,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002082,
+                        "ChildTableID": -1,
+                        "UserCount": 2567,
+                        "RightCount": 1883,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002082,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002083,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002083,
+                        "ChildTableID": -1,
+                        "UserCount": 2499,
+                        "RightCount": 1861,
+                        "FavCount": 75,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002083,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 41002940,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002940,
+                        "ChildTableID": -1,
+                        "UserCount": 2309,
+                        "RightCount": 2249,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002940,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 41002942,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002942,
+                        "ChildTableID": -1,
+                        "UserCount": 2728,
+                        "RightCount": 1330,
+                        "FavCount": 91,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002942,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41002946,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002946,
+                        "ChildTableID": -1,
+                        "UserCount": 2744,
+                        "RightCount": 1438,
+                        "FavCount": 95,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002946,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43020957,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020957,
+                        "ChildTableID": -1,
+                        "UserCount": 2447,
+                        "RightCount": 1453,
+                        "FavCount": 70,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020957,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43020959,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020959,
+                        "ChildTableID": -1,
+                        "UserCount": 2272,
+                        "RightCount": 2122,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020959,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43020960,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020960,
+                        "ChildTableID": -1,
+                        "UserCount": 2429,
+                        "RightCount": 1721,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020960,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020961,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020961,
+                        "ChildTableID": -1,
+                        "UserCount": 2244,
+                        "RightCount": 2148,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020961,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020963,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020963,
+                        "ChildTableID": -1,
+                        "UserCount": 2332,
+                        "RightCount": 1863,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020963,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020966,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020966,
+                        "ChildTableID": -1,
+                        "UserCount": 2226,
+                        "RightCount": 2184,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020966,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43020968,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020968,
+                        "ChildTableID": -1,
+                        "UserCount": 2317,
+                        "RightCount": 1981,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020968,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020969,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020969,
+                        "ChildTableID": -1,
+                        "UserCount": 2275,
+                        "RightCount": 2038,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020969,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020971,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020971,
+                        "ChildTableID": -1,
+                        "UserCount": 2262,
+                        "RightCount": 2074,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020971,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020972,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020972,
+                        "ChildTableID": -1,
+                        "UserCount": 2416,
+                        "RightCount": 1732,
+                        "FavCount": 68,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020972,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020973,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020973,
+                        "ChildTableID": -1,
+                        "UserCount": 2385,
+                        "RightCount": 1458,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020973,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020974,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020974,
+                        "ChildTableID": -1,
+                        "UserCount": 2371,
+                        "RightCount": 1599,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020974,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020975,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020975,
+                        "ChildTableID": -1,
+                        "UserCount": 2300,
+                        "RightCount": 1647,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020975,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020977,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020977,
+                        "ChildTableID": -1,
+                        "UserCount": 2186,
+                        "RightCount": 2146,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020977,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020978,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020978,
+                        "ChildTableID": -1,
+                        "UserCount": 2243,
+                        "RightCount": 2071,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020978,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43020980,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020980,
+                        "ChildTableID": -1,
+                        "UserCount": 2352,
+                        "RightCount": 1794,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020980,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020981,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020981,
+                        "ChildTableID": -1,
+                        "UserCount": 2188,
+                        "RightCount": 2134,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020981,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020983,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020983,
+                        "ChildTableID": -1,
+                        "UserCount": 2455,
+                        "RightCount": 1155,
+                        "FavCount": 93,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020983,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43020984,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020984,
+                        "ChildTableID": -1,
+                        "UserCount": 2532,
+                        "RightCount": 1369,
+                        "FavCount": 87,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020984,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43020985,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020985,
+                        "ChildTableID": -1,
+                        "UserCount": 2595,
+                        "RightCount": 1635,
+                        "FavCount": 82,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020985,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43020986,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020986,
+                        "ChildTableID": -1,
+                        "UserCount": 2499,
+                        "RightCount": 1270,
+                        "FavCount": 74,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020986,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020987,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020987,
+                        "ChildTableID": -1,
+                        "UserCount": 2443,
+                        "RightCount": 1740,
+                        "FavCount": 55,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020987,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43020988,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020988,
+                        "ChildTableID": -1,
+                        "UserCount": 2364,
+                        "RightCount": 2053,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020988,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020989,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020989,
+                        "ChildTableID": -1,
+                        "UserCount": 2186,
+                        "RightCount": 2133,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020989,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020990,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020990,
+                        "ChildTableID": -1,
+                        "UserCount": 2278,
+                        "RightCount": 2175,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020990,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020991,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020991,
+                        "ChildTableID": -1,
+                        "UserCount": 2281,
+                        "RightCount": 1881,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020991,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020992,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020992,
+                        "ChildTableID": -1,
+                        "UserCount": 2372,
+                        "RightCount": 2006,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020992,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020993,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020993,
+                        "ChildTableID": -1,
+                        "UserCount": 2526,
+                        "RightCount": 1719,
+                        "FavCount": 66,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020993,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020994,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43020994,
+                            "ChildTableID": -1,
+                            "Answer": "A",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020994,
+                        "ChildTableID": -1,
+                        "UserCount": 2357,
+                        "RightCount": 1885,
+                        "FavCount": 25,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020994,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002084,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002084,
+                        "ChildTableID": -1,
+                        "UserCount": 2278,
+                        "RightCount": 2107,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002084,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43002085,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002085,
+                        "ChildTableID": -1,
+                        "UserCount": 2299,
+                        "RightCount": 2095,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002085,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020996,
+                "ChildTableID": 43003646,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020996,
+                        "ChildTableID": 43003646,
+                        "UserCount": 2358,
+                        "RightCount": 2177,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020996,
+                    "ChildTableID": 43003646
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43020996,
+                "ChildTableID": 43003647,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020996,
+                        "ChildTableID": 43003647,
+                        "UserCount": 2426,
+                        "RightCount": 2123,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020996,
+                    "ChildTableID": 43003647
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020997,
+                "ChildTableID": 43003648,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020997,
+                        "ChildTableID": 43003648,
+                        "UserCount": 2597,
+                        "RightCount": 1197,
+                        "FavCount": 86,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020997,
+                    "ChildTableID": 43003648
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020997,
+                "ChildTableID": 43003649,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020997,
+                        "ChildTableID": 43003649,
+                        "UserCount": 2433,
+                        "RightCount": 1913,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020997,
+                    "ChildTableID": 43003649
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020997,
+                "ChildTableID": 43003650,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020997,
+                        "ChildTableID": 43003650,
+                        "UserCount": 2452,
+                        "RightCount": 2083,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020997,
+                    "ChildTableID": 43003650
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002949,
+                "ChildTableID": 41000558,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002949,
+                        "ChildTableID": 41000558,
+                        "UserCount": 2467,
+                        "RightCount": 1882,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002949,
+                    "ChildTableID": 41000558
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002949,
+                "ChildTableID": 41000559,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002949,
+                        "ChildTableID": 41000559,
+                        "UserCount": 2478,
+                        "RightCount": 1792,
+                        "FavCount": 73,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002949,
+                    "ChildTableID": 41000559
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

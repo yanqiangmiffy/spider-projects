@@ -1,0 +1,2076 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 16:35:37 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 15,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d0903d9bf4b5f8591d5c417df31050abd842d53f9df7724eccfb50e1a3348c9103580985079f35f4cb1582a9ab562b7a46af382ace5834c30c087b3591c610e5c0403349fe7ac31d53b4eed63034fc6a96f2c492c6bb08fec537a2b062b751ed8ee53c6bc73a7c365175cc8245154cc0e2cfa5786ac169f979d4fd5d7abdd5681894938167c560f72bd72c84953defad45e3642070270ea1fdc7a11421a4126ce88d98bfa93c5f191c09c47b375d8c73a468eaaf880beb404f4916e1d48e71f2c84e51ab511be386f3eb6",
+                            "Explain": "根据患者骨折后气短伴咯血，呼吸加快的表现符合肺血栓栓塞症的表现，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "胸膜炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺部感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺血栓栓塞症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "ARDS"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "气胸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001271,
+                            "ATestID": 35001271,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09039a7ac6ac53d40b3b71070e0a82a816161aa4159f1ba4de75fb1cfd2090654b3dc23e031a353d9f4523812e926a28eef48772c80765141ecd90112c269f38d5cab777f282533aea1f1e2e3a4e8453914d4de61c0fc15d8b85940f20fc12938800f47de90529e646c54ec9e0e2589a6bceba4d59e05664f1da812e845afb3364860e2c7bdd38e5efb13cd813cf9e8dddbf65308e398bcec98ac2ab382e4280d7a6bb35306a22a9ed536baa2f0b56e88c8c9cf7bc49675f73cc3e1424101a058a0cf87b3f8d8102f60fc536490c061292a9d48ba63df8ac8d311f811eabc1bf9dae48130b0e21e99111068144dffe7f7ce1b033661c2f6f2e2b8b35fc5b488e23d5",
+                            "Explain": "根据该患者表现考虑为肺动脉栓塞，对于血和右心室运动功能均正常的病例，不宜溶栓，以抗凝治疗为主，故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "rt-PA静脉注射"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "皮下注射低分子肝素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "手术取栓"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "口服华法林"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "尿激酶静脉注射"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001272,
+                            "ATestID": 35001272,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3370a24486c69bc3cec8de8ef4d3cf2aee44f1b1fe6d3caea004a975e43434a8b1a81ebd014934c2e489785688406faa27e6e97cd51ec4e4",
+                            "Explain": "常见的症状为呼吸困难和胸痛，发生率均达80%以上。会出现血清LDH升高，动脉血PO[XB2.gif]下降。但不会很快出现呼吸性酸中毒。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "很快发生呼吸性酸中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "发生于长期卧床之后，或见于血栓形成过程中"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "呼吸运动增加时，胸膜疼痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "突发性呼吸困难是典型症状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "常见症状为呼吸困难及胸痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000828,
+                            "ATestID": 43000828,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a7e6561b9430f09714f0ea288609572c12843fd9ca7694557bf69e6556ea212aef53acfc407cba7827f96a515f1697e1d388b6d0951500b9c",
+                            "Explain": "A应该是每分肺泡通气量和每分肺血流量之比。B项比值增大可以是通气过度引起，就相当于是无效腔的增大。C项肺栓塞时血流量减少，所以比值就增大。D项肺气肿的情况比较复杂，可能增大也可能减小。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "是指肺泡通气量和肺血流量的比值"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "比值增大相当于肺泡无效腔增大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺栓塞时，比值增大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺气肿病人既可发生比值增大，也可发生比值减小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "比值高于正常或低于正常均对机体不利"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000829,
+                            "ATestID": 43000829,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3370a24486c69bc3ddd7451229a52672db23db64762e2bfa",
+                            "Explain": "肺栓塞（pulmonaryembolism，PE），是由于内源性或外源性的栓子堵塞肺动脉主干或分支，引起肺循环障碍的临床和病理生理综合征。包括肺血栓栓塞症、脂肪栓塞综合征、羊水栓塞、空气栓塞、肿瘤栓塞等。其中肺血栓栓塞症（PTE）是最常见的PE类型，指来自静脉系统或右心的血栓阻塞肺动脉或其分支所致疾病，以肺循环和呼吸功能障碍为主要临床表现和病理生理特征，占PE的绝大多数，通常所称的PE即指PTE。",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺血栓栓塞症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脂肪栓塞综合征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "羊水栓塞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "空气栓塞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "深部静脉血栓形成"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003162,
+                            "ATestID": 43003162,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "67b9f3b399ed1b8f1862b3f08657574de4d69bdad549038e",
+                            "Explain": "肺血栓栓塞症、脂肪栓塞综合征、羊水栓塞、空气栓塞、肿瘤栓塞等。其中肺血栓栓塞症（PTE）是最常见的PE类型，指来自静脉系统或右心的血栓阻塞肺动脉或其分支所致疾病",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺栓塞最常见的类型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "来自动脉系统或左心的血栓栓塞肺动脉或其分支"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "以呼吸功能亢进为主要临床表现"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "有冠状动脉循环功能障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可引起心肌梗死"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003163,
+                            "ATestID": 43003163,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "67b9f3b399ed1b8f1862b3f08657574da0a4a063ed2268c4d270ae6b461dbd00",
+                            "Explain": "1.原发危险因素（诱因）：下肢深静脉血栓（DVT）的形成。下肢深静脉血栓（DVT）的成因：静脉血瘀滞（是由于手术后长期卧床，临床表现：下肢肿胀、增粗、色素沉着、疼痛）。遗传变异引起，常以反复静脉血栓形成和栓塞为主要临床表现。2.继发性危险因素：是指后天获得的易发生DVT和PTE的多种病理和病理生理改变（骨折、创伤、手术、恶性肿瘤、口服避孕药等）。",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "和羊水栓塞有一样的危险因素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "包括任何可以导致动脉血液淤滞的因素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "包括原发性和继发型两类"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "原发性危险因素由先天发育不良引起"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "继发型因素不能单独存在"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003164,
+                            "ATestID": 43003164,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e4f520a1673da6bbc37ac994c89c786ca074612cccf27d60b2f66d972755ef6e882d6222a8c6af096bbb5af016157e10b80d8fa96d374ed",
+                            "Explain": "引起PTE的血栓可以来源于下腔静脉径路、上腔静脉径路或右心腔，其中大部分来源于下肢深静脉，特别是从腘静脉上端到髂静脉段的下肢近端深静脉（约占50%～90%）。盆腔静脉丛亦是血栓的重要来源。颈内和锁骨下静脉内插入、留置导管和静脉内化疗，使来源于上腔静脉径路的血栓较以前增多。右心腔来源的血栓所占比例较小。几乎不来自左心腔",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "C",
+                            "Difficulty": "很难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "下腔静脉径路"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "上腔静脉径路"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "左心腔"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "右心腔"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "下肢深静脉"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003165,
+                            "ATestID": 43003165,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1f29891770839d8350a1912e9c1e761688c72d1ccf2c7189e979ba8ca15bc472",
+                            "Explain": "肺栓塞大部分原因是下肢深静脉血栓引起的，也就是通过体循环到达肺部引起肺栓塞，右心房连接肺动脉，所以说右侧和下肺叶",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "右侧和下肺叶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "左侧和下肺叶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "右侧和上肺叶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "左侧和上肺叶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "全肺"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003166,
+                            "ATestID": 43003166,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d2f28a47c06e47774bb9cd92645c6997c48552e2225c5a7f36790d26f27cdd28edc74fcf53cd92ac528d9f5edb2bdf58147ae303e268fc8947c119c09ff495ea94687299e7b970619fc51f3f97b39778",
+                            "Explain": "PTE所致病情的严重程度取决于以上机制的综合作用。栓子的大小和数量、多个栓子的递次栓塞间隔时间、是否同时存在其他心肺疾病、个体反应的差异及血栓溶解的快慢，对发病过程和预后有重要影响。只有E.患者肺活量对PTE发病过程和预后没有重要影响",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "栓子大小和数量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "是否同时存在其他心肺疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "个体反应的差异"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血栓溶解的快慢"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "患者的肺活量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003167,
+                            "ATestID": 43003167,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d2f28a47c06e4777c5ecba0d8c2efcf9235f1d6337202ed5c057e190b5ecf221e358aa40c895f81e5bd6b8cce3fd9146f94f949851127cb2",
+                            "Explain": "肺栓塞（PE）是以各种栓子阻塞肺动脉系统为其发病原因的一组疾病或临床综合征的总称，包括肺血栓栓塞症（PTE），脂肪栓塞综合征，羊水栓塞，空气栓塞等。心绞痛不是肺血栓的常见症状。",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "不明原因呼吸困难"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "晕厥"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "咳嗽"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "心绞痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胸痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003168,
+                            "ATestID": 43003168,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a73cf9f6c3b9c4795e07ab8d82e1a570c95c32c891a7546cc8e97821aa80ab8d13bbb5a9414f8373e599235af67e1334478523e5bace7603",
+                            "Explain": "肺活检即经皮肺活体组织检查。它用于肺周边部病变或弥散性肺病变的诊断和鉴别诊断，对肺血栓没有作用",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "X线胸片"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "心电图"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺活检"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血浆D-二聚体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "下肢深静脉超声"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003169,
+                            "ATestID": 43003169,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d56bfaaaf623b6d3778f04a6dda80ce602bd290c3ca8bca1c4d329d4c83b96385e42a93688c282c82273ed96fa9b342b",
+                            "Explain": "肺栓塞突发不明原因的虚脱、面色苍白、出汗、呼吸困难、胸痛、咳嗽，甚至晕厥、咯血，脑缺氧症状。心梗突然发作剧烈而持久的胸痛或心前区压榨性疼痛，恶心，呕吐，呼吸困难等，检查伴有心肌酶水平标志性变化。",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "心电图改变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胸闷"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "胸痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "心电图心肌缺血样改变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "心肌酶水平标志性变化"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003170,
+                            "ATestID": 43003170,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d2f28a47c06e4777c5ecba0d8c2efcf9235f1d6337202ed5c057e190b5ecf221664ce03628d1c20842cc963550ebe6c736b381d5b002005e2d893b9187cc0021",
+                            "Explain": "溶栓的绝对禁忌征有：活动性内出血和近期自发性颅内出血。相对禁忌征有：①2周内有大手术、分娩、器官活检或不能压迫止血部位的血管穿刺；②2个月内的缺血性脑卒中③10天内的胃肠道出血；④15天内的严重创伤；⑥1个月内的神经外科或眼科手术；⑦难于控制的重度高血压（收缩压>180mmHg，舒张压>110mmHg）；⑧近期曾进行心肺复苏；⑨血小板计数<100x109/L；⑩妊娠、细菌性心内膜炎、严重肝肾功能不全，糖尿病出血性视网膜病变等。对于致命性大面积PTE，上述绝对禁忌征亦应被视为相对禁忌征。",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "活动性内出血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肘窝静脉穿刺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "预产期3天内"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "一周内开颅大手术"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "近期自发性颅内出血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003172,
+                            "ATestID": 43003172,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "67b9f3b399ed1b8f1862b3f08657574d779831036d254858d398916cb2369a63a7dc36d00c418d7dbe26bd174281bb3e",
+                            "Explain": "常用的溶栓药物有尿激酶（UK）、链激酶（SK）和重组组织型纤溶酶原激活剂（rt-PA）。溶栓方案与剂量：①尿激酶：负荷量4400IU/kg，静注10分钟，随后以2200IU/（Kg.h）持续静滴12小时；另可考虑2小时溶栓方案：按20000IU/kg剂量，持续静滴2小时。②链激酶：负荷量250000IU，静注30分钟，随后以100000IU/h持续静滴24小时。链激酶具有抗原性，故用药前需肌注苯海拉明或地塞米松，以防止过敏反应。链激酶6个月内不宜再次使用。③rt-PA：国内研究结果提示rt-PA50mg持续静脉滴注2小时已经取得理想的效果，而将rt-PA增加到100mg并未能提高溶栓治疗有效率，因此推荐rt-PA50mg持续静注2小时为国人标准治疗方案。使用尿激酶、链激酶溶栓时无须同时使用肝素治疗；但以rt-PA溶栓，当rt-PA注射结束后，应继续使用肝素。用尿激酶或链激酶溶栓治疗后，应每2~4小时测定一次凝血酶原时间（PT）或活化部分凝血活酶时间（APTT），当其水平降至正常值的2倍时，即应启动规范的肝素治疗。",
+                            "TestPoint": "肺血栓栓塞症的试题",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "普通肝素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗血小板药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "尿激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "链激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "rt-PA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003173,
+                            "ATestID": 43003173,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 14,
+                    "TestItems": [
+                        {
+                            "Title": "44adc6694fe8f45ffbb18941391c97c9f3452a1670b1d1e39343da24729de2db9fab3730179d77a4",
+                            "Explain": "肺水肿是肺脏内血管与组织之间液体交换功能紊乱所致的肺含水量增加，导致肺水肿最直接的原因是肺静脉压升高。肺静脉压升高时，引起肺微血管静水压升高，同时还可扩张已关闭的毛细血管床，造成通透系数增加，当这两种因素引起的液体滤过量超过淋巴系统清除能力时，即产生肺水肿，故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺静脉压升高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "右心室压升高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺动脉压升高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "左心室舒张末压升高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "右心房压升高"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001023,
+                            "ATestID": 41001023,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b477e1b862a8fbc4921fcce0f4876011e93d7a0a1a73bab03a02f4bd9fe08f87ba3f646b3e50e2778f1f8074f67d66f240ecdb98e49d9d10b51446f66914118c8b699cabb4e5d2c686d9a13949c3f4bdae4fa001977a4bb847bf63cc4f3c1414",
+                            "Explain": "股骨骨折后脂肪栓子常栓塞于肺动脉及其分支。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺静脉及其分支"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "左心房"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "脑动脉"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "主动脉分支"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺动脉及其分支"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016453,
+                            "ATestID": 43016453,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b5ad97a24d7f5692b84235667990edee430aa6a18fbacab572c744274e48b1b8ea5024ffd1acc8b58c96a0e1ce7d491b16a89192ecc196",
+                            "Explain": "栓形成肺栓塞常是静脉血栓形成的合并症。栓子通常来源于下肢和骨盆的深静脉，通过循环到肺动脉引起栓塞。但很少来源于上肢、头和颈部静脉。",
+                            "TestPoint": "肺血栓栓塞症临床表现及治疗",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "下肢和骨盆深静脉"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心脏附壁血栓"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "上肢静脉"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脑动脉"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "动脉粥样斑块脱落"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016454,
+                            "ATestID": 43016454,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f50c65010195d3853315037102c3c9209cddb6d9bfefb6d9a35b33c11cd9ed86fb64b74cbb6b97ea",
+                            "Explain": "深静脉血栓形成（DVT）与肺血栓栓塞症（PTE）实质上为一种疾病过程在不同部位、不同阶段的表现，两者合称为静脉血栓栓塞症。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺血栓栓塞症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺瘤栓栓塞综合征"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺羊水栓塞综合征"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺空气栓塞综合征"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺脂肪栓塞综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016455,
+                            "ATestID": 43016455,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "20469e6c8f12ccd0d58c05c37a5ad2a3fb1fa0634f9222b2480210c731eaec23ffb868348dbc7ec4",
+                            "Explain": "在我国引起肺血栓栓塞症PTE最常见的因素是血栓，以右心脏血栓最多见，合并心房颤动、心力衰竭和亚急性细菌性心内膜炎者发病率较高，少数亦源于静脉系统。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血栓"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心脏病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肿瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "妊娠分娩"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "免疫疾病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016456,
+                            "ATestID": 43016456,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "abf670e4a5e1bf3153a1b62adc00ff177cf47aac51cc12d9f55a12ddf1c7f14ed2fd17e14954ef00c0475aab302bfdd50b38c2856af1ba5001f4f76da4e964c81d30ad4b168c3aa82f7ad65fc5627fbcc0b0550d943d52f07af696e640d171cc564fffc1ddcab92a0d295753fd3f5d7d6887e5a31e23b61fc4978c7390a131f8526f529c745ed18245762b9cdb418d183390fda5924c619fa7029af2abaf4d062765cbbe9e49fc98989d1d2f14efdae8fc6ef7c3c433d097272e676332cd04be74696d428bcdf7682edc437969e32df180ba37265fc68d7e586a2e1e29e144c0e5a2596ae019f0def8821c396a8522118d1c78b7c6fc4be6518c78ee37e4a239ee1adf61b276c10e9f8c05577f6f334625a92ba0d3f22e5d3c3bab45541f3c82a07765065422f5a601aac1d68c13c192773228b4e86135a0bc1fea0630c8d1c88408e82133c6e10ded04cad540aa7455bed6a40202fe0b2cd65232acc1e60ac6ddbaf8addbe3a640c4c61ad18bab0888b8d85f11d774872d70a93591f255528973082cb6d0f78889",
+                            "Explain": "肺血栓栓塞症(PTE)是肺栓塞的一种类型。指由来自静脉系统或右心的血栓阻塞肺动脉或其分支而引起的疾病，临床表现为以肺循环和呼吸功能障碍为主要的特征，引起PTE的血栓主要来源于深静脉血栓。对于存在危险因素的患者出现不明原因的呼吸困难、胸痛、晕厥、休克，或伴有单侧或双侧不对称性下肢肿胀、疼痛等症状应高度提示该诊断，并结合以下检查判断：①动脉血气分析：常表现为低氧血症、低碳酸血症，肺泡-动脉血氧分压差增大，部分患者的血气结果可以正常。②心电图最常见的改变为窦性心动过速。当有肺动脉及右心压力升高时，可出现V1～V3的T波倒置和ST段异常、I导联S波加深、Ⅲ导联出现Q波及T波倒置、完全或不完全性右束支传导阻滞、肺型P波、电轴右偏及顺钟向转位等。该患者骨折为肺动脉栓塞危险因素，突发呼吸困难、大汗，结合心电图表现，高度怀疑肺动脉栓塞症。\n　　【该题针对“肺血栓栓塞症”知识点进行考核】",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性心力衰竭"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性心肌梗死"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺动脉栓塞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性呼吸窘迫综合征"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016457,
+                            "ATestID": 43016457,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3386b1c8381c86b00e34fd60516936bc5c9a43f0433d720df32ae6ff974be7a9567c21b2818a55b44bcfb0a0bb809996c6d69fad64197c0453facc0e33f4ada630e9cdaed6f4f86b145edbf7a413d261a92f9c5fcabfe6cb98de37ff08ff20cc879a2bda2c5b86144079a2b965526a473d04b5cd09c3b0d1f12b902d4c45346449e80ec28b8d92d2e998e924f75fbe72db831769b1cfc27b97f0cad514914bc1dd93d47bacd42600c6ef10750bb3e773f1d0edcf4d5caef2fa38bb2b3eb74b7c847ebd2506e005857ba34f2426410b3a463c96c98c02d884c4c9bad7a8e7cfcb9be27c544272188fb40a3bf6da4a99c4b533e09574282dbe6462404d4859c971c72397156d08313441c5a1a7636c2493ad66d822e05eacab920f4ab7aad6eb316c1adb85aad068320db5a1e23b329af88a33c94e16876244c8dd5f13c9e4647e2a1c2e965b1659e1dd8e24de42696af9fc91860be9ef26c46b2f2dd8dec8f119fc2c46d3354bfba6d6ee3dcd84b09f6fda5297300f49b9563c05c209b7c75709e6e7e657f60e0e2b",
+                            "Explain": "根据患者病情，可诊断为肺动脉栓塞。",
+                            "TestPoint": "肺血栓栓塞症临床表现及治疗",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺动脉栓塞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "主动脉夹层"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性心包炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性心肌梗死"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心绞痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016461,
+                            "ATestID": 43016461,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7168ae2c5351a3b972c10d9e70a3be512eb453b9d6100440505ea0dbd375caa9ca75ac87da0cdf15",
+                            "Explain": "诊断肺栓塞的\"金标准\"是肺动脉照影。",
+                            "TestPoint": "肺血栓栓塞症临床表现及治疗",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "超声心动图"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CT"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "PET"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺通气/灌注（V/Q）显像"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺动脉照影"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016462,
+                            "ATestID": 43016462,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月18日",
+                            "OldTestJson": "{\"Title\":\"诊断肺栓塞的\\\"金标准\\\"是\",\"Explain\":\"诊断肺栓塞的\\\"金标准\\\"是肺血管造影。\",\"TestPoint\":\"肺血栓栓塞症临床表现及治疗\",\"Answer\":\"E\",\"Difficulty\":\"难\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"超声心动图\"},{\"ItemName\":\"B\",\"Content\":\"CT\"},{\"ItemName\":\"C\",\"Content\":\"PET\"},{\"ItemName\":\"D\",\"Content\":\"肺通气/灌注（V/Q）显像\"},{\"ItemName\":\"E\",\"Content\":\"肺血管造影\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "fcaaee4179186619cd7afa5e25717a6aefc3c361e6813f8fe36452e0d76ac9e0b6a8ec8242e8ff219036a30605796f1d",
+                            "Explain": "肺血栓栓塞症的体征主要有：①呼吸系统体征：呼吸急促（最常见）、发绀、肺部可闻及哮鸣音和（或）细湿啰音、偶可闻及血管杂音；②循环系统体征：心率增快、血压下降甚至休克、颈静脉充盈或异常搏动、肺动脉瓣区第二心音（P[XB2.gif]）亢进或分裂、三尖瓣区收缩期杂音。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "发绀"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺部湿啰音"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心动过速"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "颈静脉充盈或异常波动"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "频发期前收缩"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016463,
+                            "ATestID": 43016463,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3d4c6f17a963c040d09a6e7701cb6b45c167372824f8d02aef738342fe4d0aeabddd995634711d52be06b9959c2c77e0ffb775db484001719d3719213315f070",
+                            "Explain": "溶栓治疗主要使用于大面积PTE病例，即出现因栓塞所致休克和（或）低血压的病例；对于次大面积PTE，即血压正常但超声心动图显示右室运动功能减退的病例，若无禁忌证可以进行溶栓；对于血压和右室运动均正常的非大面积PTE病例不推荐进行溶栓。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "出现呼吸衰竭"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "出现肺动脉高压"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "存在体循环功能障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "出现右心功能异常"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "合并下肢深静脉血栓"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016464,
+                            "ATestID": 43016464,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9e55967cfcb1e2a6a2afee07f9c8a7d98577f712691da0197f765b91db8684277e349c4c391b2c282ef21551db71f4a4f0d3fa72f845dfba9804eebfb047a1b81f88f0bb463e3308269e58bc3ada535d4497b347ea3670704ae83893cca1e5717510868d2b4d8bd2f9a6bdab9aacbda2fcf42d2c5c7f0a83bd4b9bc90255ca4da9b3bab185d0f6366f64291368e608ac406c18f39882832cbf64d3c303b17fc2e70f21e87fc7385f0472455b7662c0022218c1fcbe76f776ebecd8b01db45128ee5ce6415ade01e1107a889a5b9c2911db72d43e5968b03724fdf4a74b82aa6aaa8c5decfc444eac4c599272fb9ada6361a97c75aa8c49f9a68a5d5bf3b74539f68e737ccfbe0685fad40e9123f4abb3ed2f9e3825a7770f55bde8348b02264556a3bf192aff13c127db78941d000702f6f818327b9f162b575eaf66016ff0902dc4ba99a2e9a50097ef3d0b438b002227499dcd46dfcd116989c527b271c3a2b2df059e7573d4fd36bc138d873833f5453ad0041ad375cae9fe492f10ca7670dadc82b428f4f1c3ebbebd82bf1a67e9a9aede0580f62f1c7f08ac7cabfb2f315a3207265110f68a83d4f4b9c6c6af404e271c3a4190293c",
+                            "Explain": "患者于行外科手术后突发不明原因的呼吸困难、血氧下降，应高度怀疑肺栓塞可能。气胸时患侧呼吸音减弱，叩诊为鼓音。急性左心衰竭时常表现为端坐呼吸，多有心脏病史。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "气胸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺血栓栓塞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腹腔内出血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性左心衰竭"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性呼吸窘迫综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016465,
+                            "ATestID": 43016465,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1d98e5364990579503d2e606e90dbf9c0690cd590f8fe30cbbf91a4f293a844c0e6421ca6d2a0e39782195c4be39051a09309b1b88401da0a5b4c971dccf8b1da6193b90850d4c8622b96cac975711b04ca9e317e2021262725ef58f1cf14e5c6e0a375c098f066db23f8e9d4088842397ed08a2172333cba2e2cd695d8afacbeabbe9b28cf9a9902800919cd5e5ab1c",
+                            "Explain": "胸痛、呼吸困难气促、咯血是肺动脉栓塞三联征，有时候晕厥是首发症状。颈静脉充盈、肺动脉瓣区第二心音亢进符合该疾病的体征。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "呼吸衰竭"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "左心衰竭"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "右心衰竭"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺动脉栓塞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "冠心病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016466,
+                            "ATestID": 43016466,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "67b9f3b399ed1b8f1862b3f08657574dbdb22ac3f6e68db53d098f3d303678acbd5706ed5e5a5917615f6ff49569b7ae5f43ec4538c85448808ff0e91a34678110bc4ab4bab95a1ec6005aa19434ff84",
+                            "Explain": "肺血栓栓塞症的危险因素包括原发性和继发性。原发性危险因素由遗传变异引起，包括V因子突变、蛋白C缺乏，蛋白S缺乏和抗凝血酶缺乏等；继发性危险因素有骨折、创伤、手术、恶性肿瘤和服避孕药等，年龄是独立的危险因素。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "创伤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "年龄"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨折"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "口服避孕药"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肿瘤家庭史"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016467,
+                            "ATestID": 43016467,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02925148aeda1996b7b43e489f5d172c6059df75a9005612eea881dff5fcfed29f3eedad79a87328d2c84016bb7a29693f1ac4b6ce114062",
+                            "Explain": "目前确诊肺血栓栓塞症最常用的手段是CT肺动脉造影，也是诊断肺栓塞的金标准。",
+                            "TestPoint": "肺血栓栓塞症临床表现及治疗",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CT肺动脉造影"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺通气/灌注核素扫描"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "磁共振显影"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心脏彩超"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺动脉造影"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016468,
+                            "ATestID": 43016468,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 244,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35001271,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001271,
+                        "ChildTableID": -1,
+                        "UserCount": 4850,
+                        "RightCount": 4598,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001271,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 35001272,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001272,
+                        "ChildTableID": -1,
+                        "UserCount": 5562,
+                        "RightCount": 2472,
+                        "FavCount": 260,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 1,
+                        "ConcernCount": 34
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001272,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 1,
+                "ConcernCount": 34
+            },
+            {
+                "AllTestID": 43000828,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000828,
+                        "ChildTableID": -1,
+                        "UserCount": 5194,
+                        "RightCount": 3577,
+                        "FavCount": 152,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000828,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43000829,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000829,
+                        "ChildTableID": -1,
+                        "UserCount": 5600,
+                        "RightCount": 1623,
+                        "FavCount": 296,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 52
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000829,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 52
+            },
+            {
+                "AllTestID": 43003162,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003162,
+                        "ChildTableID": -1,
+                        "UserCount": 5270,
+                        "RightCount": 3229,
+                        "FavCount": 121,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003162,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43003163,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003163,
+                        "ChildTableID": -1,
+                        "UserCount": 4933,
+                        "RightCount": 3106,
+                        "FavCount": 101,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003163,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003164,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003164,
+                        "ChildTableID": -1,
+                        "UserCount": 4957,
+                        "RightCount": 2386,
+                        "FavCount": 185,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 39
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003164,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 39
+            },
+            {
+                "AllTestID": 43003165,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003165,
+                        "ChildTableID": -1,
+                        "UserCount": 4931,
+                        "RightCount": 2958,
+                        "FavCount": 139,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003165,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43003166,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003166,
+                        "ChildTableID": -1,
+                        "UserCount": 5037,
+                        "RightCount": 2622,
+                        "FavCount": 259,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 58
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003166,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 58
+            },
+            {
+                "AllTestID": 43003167,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003167,
+                        "ChildTableID": -1,
+                        "UserCount": 4593,
+                        "RightCount": 3276,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003167,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43003168,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003168,
+                        "ChildTableID": -1,
+                        "UserCount": 4649,
+                        "RightCount": 3521,
+                        "FavCount": 85,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003168,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003169,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003169,
+                        "ChildTableID": -1,
+                        "UserCount": 4711,
+                        "RightCount": 3046,
+                        "FavCount": 98,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003169,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43003170,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003170,
+                        "ChildTableID": -1,
+                        "UserCount": 4883,
+                        "RightCount": 2835,
+                        "FavCount": 177,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003170,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003172,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003172,
+                        "ChildTableID": -1,
+                        "UserCount": 4652,
+                        "RightCount": 3200,
+                        "FavCount": 116,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003172,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43003173,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003173,
+                        "ChildTableID": -1,
+                        "UserCount": 4655,
+                        "RightCount": 3488,
+                        "FavCount": 118,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003173,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41001023,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001023,
+                        "ChildTableID": -1,
+                        "UserCount": 4891,
+                        "RightCount": 2297,
+                        "FavCount": 223,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001023,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43016453,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016453,
+                        "ChildTableID": -1,
+                        "UserCount": 4472,
+                        "RightCount": 2925,
+                        "FavCount": 121,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016453,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016454,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016454,
+                        "ChildTableID": -1,
+                        "UserCount": 4101,
+                        "RightCount": 3346,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016454,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016455,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016455,
+                        "ChildTableID": -1,
+                        "UserCount": 4207,
+                        "RightCount": 3485,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016455,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43016456,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016456,
+                        "ChildTableID": -1,
+                        "UserCount": 4173,
+                        "RightCount": 3840,
+                        "FavCount": 38,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016456,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43016457,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016457,
+                        "ChildTableID": -1,
+                        "UserCount": 4049,
+                        "RightCount": 3905,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016457,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43016461,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016461,
+                        "ChildTableID": -1,
+                        "UserCount": 3989,
+                        "RightCount": 3872,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016461,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43016462,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43016462,
+                            "ChildTableID": -1,
+                            "Answer": "C",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016462,
+                        "ChildTableID": -1,
+                        "UserCount": 4388,
+                        "RightCount": 3385,
+                        "FavCount": 103,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016462,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43016463,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016463,
+                        "ChildTableID": -1,
+                        "UserCount": 4462,
+                        "RightCount": 2377,
+                        "FavCount": 160,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016463,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43016464,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016464,
+                        "ChildTableID": -1,
+                        "UserCount": 4692,
+                        "RightCount": 1911,
+                        "FavCount": 213,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016464,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43016465,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016465,
+                        "ChildTableID": -1,
+                        "UserCount": 3927,
+                        "RightCount": 3759,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016465,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43016466,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016466,
+                        "ChildTableID": -1,
+                        "UserCount": 4064,
+                        "RightCount": 3786,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016466,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016467,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016467,
+                        "ChildTableID": -1,
+                        "UserCount": 4377,
+                        "RightCount": 2447,
+                        "FavCount": 115,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016467,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43016468,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016468,
+                        "ChildTableID": -1,
+                        "UserCount": 4586,
+                        "RightCount": 2787,
+                        "FavCount": 108,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016468,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

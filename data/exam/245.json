@@ -1,0 +1,2596 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:30:36 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "0556a72fb6dd61bf21d9b5bf0d7635a853dd24c0248617b5fdd55dd0be2e40b3032dbf77e3b732d0343ead6a09754c7e",
+                            "Explain": "慢性缩窄性心包炎最常见的病因是结核性，其次是化脓或者创伤性。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性特异性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "急性非特异性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "化脓性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "放射性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "结核性心包炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000994,
+                            "ATestID": 43000994,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b8619b422d1e9ddd239a3c0e02bbddf02ee8ef5e86036969ae70fa23a2394380",
+                            "Explain": "大量积液可使收缩压降低，而舒张压变化不大，故脉压变小。按积液时心脏压塞程度，脉搏可正常、减弱或出现奇脉。大量积液可累及静脉回流，出现颈静脉怒张、肝肿大、皮下水肿及腹水等。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脉压变大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "奇脉"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "Ewart征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "颈静脉怒张"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肝肿大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000995,
+                            "ATestID": 43000995,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 14,
+                    "TestItems": [
+                        {
+                            "Title": "efd054ec56260109b59aa678af43976377ae285744fc6ae23d19dd8360d303e380869b4384527d5a",
+                            "Explain": "心包穿刺的主要指征是心脏压塞和未能明确病因的渗出性心包炎。而证实心包积液的存在，可以用超声心动图，简单易行，迅速可靠，所以不属于心包穿刺的指征，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "心脏压塞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "为明确心包积液的性质"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "为证实心包积液的存在"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "心包积脓"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "心包内药物治疗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001190,
+                            "ATestID": 41001190,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fcbefbf5734f7849a883eb91700663a6eae52e2d10638114b6f991d8e32f1527919524d08b965cc6dfd86b1b12059513b9b5517ad8e0d5a50f447a97cfc6154f56dfde55284ce319b64572c222766c0bfed6e0cf2616d3520c8e81f06a6fcfde343ee8a677182bbe410d9cc8c0b8d9c55d24b12b5058f39",
+                            "Explain": "急性心包炎可以表现为剧烈胸痛，且咳嗽或深呼吸时可以加重，伴有发热，心电图表现为除aVR导联以外所有导联ST段呈弓背向下型抬高。本患者最可能为急性心包炎。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "高压性气胸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "急性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "急性心肌梗死"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "主动脉夹层动脉瘤破裂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "变异型心绞痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001195,
+                            "ATestID": 41001195,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ff10c8a898c37b417bb53cd0d2ab71cb69ece7feb0f6b5154df1c3e80ca32313a0f2f7afa090fe5049d242bea6158950",
+                            "Explain": "缩窄性心包炎是指心脏被致密厚实的纤维化或钙化心包所包围，它继发于急性心包炎，其病因在我国仍以结核性最为常见，故选C。",
+                            "TestPoint": "缩窄性心包炎",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肿瘤性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "化脓性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "结核性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "真菌性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "细菌性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016941,
+                            "ATestID": 43016941,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cbd7775112161f5c881d562abbb841ede302a4184c0aae308b41cdacbac78c9ec6c30a25459874e9285381b22d48b3c8",
+                            "Explain": "典型的摩擦音可听到与心房收缩、心室收缩和心室舒张相一致的三个成分，但多数仅为大致与心室收缩、舒张相一致的双相性摩擦音。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "在胸廓下部闻及"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "与心搏一致"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吸气末明显"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "仰卧位时最明显"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "舒张期最明显"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016942,
+                            "ATestID": 43016942,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "be77bd40cfafff8d9a374292707dcef41ab3521cf792d84ff3d8e740053b52fe288af700292ba304053a5c263e7ee19d",
+                            "Explain": "在吸气末，由于肺部扩张，导致传导减慢，故而吸气末心包摩擦音减弱。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "屏气时仍然存在"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "与心脏搏动一致"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心前区最响亮"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "常见于感染性心包炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "吸气末明显"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016943,
+                            "ATestID": 43016943,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cbd7775112161f5c5716653acc23ac3cd48412dfd1933841b46cd2ac7238a584a484aeba814b641c05bf6c1105115429367d00a7579a2d4e",
+                            "Explain": "呼吸困难是心包积液时最突出的症状，可能与支气管、肺受压及肺淤血有关。呼吸困难严重时，患者呈端坐呼吸，身躯前倾、呼吸急速、面色苍白，可有发绀。也可因压迫气管、食管而产生干咳、声音嘶哑及吞咽困难。此外尚可有发冷、发热、心前区或上腹部闷胀、乏力、烦躁等。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "心前区疼痛"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "发热"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "呼吸困难"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "声音嘶哑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "咳嗽"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016944,
+                            "ATestID": 43016944,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "904c6d0a0f9f48611eddb438ecfa3579edb530c7f5a6ad33ef4c99a48f4d17e9",
+                            "Explain": "Musset征、Duroziez征为主动脉瓣关闭不全的表现，脉短绌为心房颤动的表现，Roth斑为视网膜的卵圆形出血斑，是感染性心内膜炎的表现。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Musset征"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脉短绌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "Ewart征"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "Roth斑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Duroziez征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016945,
+                            "ATestID": 43016945,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a73a0d7c792b6bb15cb5ba7eb2def867473bf1b9ab7acd8ea488e4cb7aa87bc1",
+                            "Explain": "奇脉是指吸气时脉搏显著减弱或消失，又称吸停脉。由于心包腔内压力升高，使心室舒张充盈受限，吸气时体静脉回流受限，右心室排入肺循环血量减少，而肺循环受呼吸负压影响，肺血管扩张，致使肺静脉回流入左心的血量减少，左心输出量减少，以致脉搏减弱甚至消失。常见于右心衰竭、心包积液和缩窄性心包炎，以及严重哮喘等，故选D。",
+                            "TestPoint": "心包积液",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "右心功能不全"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "二尖瓣狭窄"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高血压"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "大量心包积液"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "主动脉瓣关闭不全"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016949,
+                            "ATestID": 43016949,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "40e6464385297fec589a7be00c657a8a1f8833ae3ae353413549236ffc734812",
+                            "Explain": "奇脉是指吸气时脉搏显著减弱或消失，又称吸停脉。由于心包腔内压力升高，使心室舒张充盈受限，吸气时体静脉回流受限，右心室排入肺循环血量减少，而肺循环受呼吸负压影响，肺血管扩张，致使肺静脉回流入左心的血量减少，左心输出量减少，以致脉搏减弱甚至消失。常见于右心衰竭、心包积液和缩窄性心包炎，以及严重哮喘等，故选D。",
+                            "TestPoint": "心包积液",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "动脉导管未闭"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性左心衰竭"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "大量心包积液"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "高血压"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "室间隔缺损"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016950,
+                            "ATestID": 43016950,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b8619b422d1e9dddb0c06206518e4c703bbc4d4fb6396befb27d31dadfc36beb",
+                            "Explain": "本题考点为Beck三联征，故只有A符合。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "动脉压下降、颈静脉怒张和心音低钝"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "动脉压下降、奇脉和心音低钝"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "动脉压上升、颈静脉怒张和心音低钝"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "动脉压上升、奇脉和心音低钝"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "动脉压正常、颈静脉怒张和心音低钝"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016951,
+                            "ATestID": 43016951,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e79f5a98d48bb497e112732459194308c1f3df7c89b62d01609f0a8994852a1e",
+                            "Explain": "心包填塞多有进行性血压下降、面色苍白、心率增快、心音遥远、颈静脉怒张、烦躁不安。因心包填塞可能压迫颈部神经及气管，所以患者可能出现声音嘶哑。但心包填塞不会出现急性肺水肿，所以一般不出现干、湿啰音，故选E。",
+                            "TestPoint": "心包填塞",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "心音低钝",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "声音嘶哑",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "奇脉",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "肝颈静脉反流征阳性",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "双肺满布干、湿性啰音",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016954,
+                            "ATestID": 43016954,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。\n",
+                            "OperateTime": "2017年8月31日"
+                        },
+                        {
+                            "Title": "002235026aa4a922bae865622870493e1349c9ba664e5d3180091f02b56b1c472d0317eb6f7cbf51a7aeade2922f2418",
+                            "Explain": "风湿性心包炎者心音减弱。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "有心包摩擦音"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "呼吸困难"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心前区疼痛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心音增强"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "颈静脉怒张"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016956,
+                            "ATestID": 43016956,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ef397c43506d28ea1f99483c580a55d4ba2983b640e283a1e7ac363d06361e2b424131918f1a87686854aa3e4c9c4701",
+                            "Explain": "急性心包炎时心电图异常来自心包下的心肌，主要表现为：①ST段抬高，见于除aVR导联以外的所有常规导联，呈弓背向下型，aVR导联中ST段压低；②一至数日后，ST段回到基线，出现T波低平或倒置，持续数周至数月后T波逐渐恢复正常；③心包积液时有QRS低电压，大量积液时可见电交替；④无病理性Q波，无QT间期延长；⑤常有窦性心动过速。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "弓背向下型ST段抬高"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "T波平坦或倒置"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "QRS波呈低电压"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "电交替"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "弓背向上的ST段抬高"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016958,
+                            "ATestID": 43016958,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4cc12ace044a6dfe52a3cf076ed7bf0d82c7809cb8b341da7e7b5177a69ce124c27d9ad07063805ebd30c46c4d9a4a286967189807d8b09544e12b2cdf008ea39f0dc214e013460c04a1da7349173788f0672196f07127dcc8ec9ab8e56fd74507d3d96814feef52c13a2362d5a7d241a1317c4cc40ea16ec24ee777e13fcd349d50e5935e66f2bff854a0dbce450cf64566a43d291f13e8f63945de26493bc8940267ec7fcb978a0e36e9c6f893e6cadd05de7b7d8ba86ee9918525a858e263655edbe255a3c2df27acf0d183ccb0851aa9ee5dfd2a75894da1efa121559dfd18263d29e474a737b1cf5705581ec6b8bcfe2a122dfbab4d",
+                            "Explain": "胸骨左缘3、4肋间可闻及抓刮样粗糙音，屏气时仍存在是纤维素心包炎的特征诊断，故选A。",
+                            "TestPoint": "心包炎",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "纤维蛋白性心包炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性胸膜炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "扩张型心肌病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肥厚型心肌病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "病毒性心肌炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016960,
+                            "ATestID": 43016960,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "e807b047f5563d0440b4ba441892e5f8be1d6592080b5c6ba011b6b497b4c18923aed68b1e647dff755363d0e7503075e1ab727eabc6fa157163cd7ecac10f82d5aa2b7118a4b2ce1ddc50b014e3a43c34d77007aef0f6a8e98fab12c13f3de23ca06260ec57595e34e77d056b645ac9d7b42b27fd706af24c712e5e77ad796ffd89ac2c6cc68434e9579ebbac2efe7a48ec9975db4b74e127c1097dcd85260bb2ff87414600a28a4e05125de4cbf4b4b7ee7bf73b20ae5db6730777f168e88c64a4bc3b05121f6400a909901fa2333eafea702bd3ad82cd",
+                            "Explain": "渗出性心包炎：(1)心浊音界向两侧增大，呈绝对浊音。(2)心尖搏动微弱，位于心浊音界的内侧或不能扪及。(3)心音遥远。(4)Ewart征阳性，即背部左肩胛角下呈浊音、语颤增强和支气管呼吸音。(5)Rotch征，即胸骨右缘第3～6肋间出现实音。(6)颈静脉怒张、肝肿大、肝颈反流征(+)、下肢水肿、腹水等。(7)收缩压降低，脉压减小，可出现奇脉。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "冠心病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肝硬化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "急性纤维蛋白性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "急性渗出性心包炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "急性化脓性心包炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000996,
+                            "ATestID": 43000996,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d048ddb3e6ac7a4036e811ed0b20b25cc12c9e16831ab40e4186d7df4853ca4af445c867cfdb9c508782e2a2b861d3fc1f9551a4fb19e4daace9178e1d430d81a8a787fb9281096fb6b860d892056eb6e38",
+                            "Explain": "缩窄性心包炎是指心脏被致密厚实的纤维化心包所包围，不能充分舒张而产生的一系列循环障碍，最有效的治疗措施是心包切除术。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "动脉补充能量合剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗结核治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "卧床增加营养"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "静脉补充能量合剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "心包切除术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000997,
+                            "ATestID": 43000997,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 11,
+                    "TestItems": [
+                        {
+                            "Title": "患者近2周出现的病情变化提示",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "右心功能不全"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心脏压塞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肾功能不全"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肝硬化"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺部感染"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "6b3a5a09b40e6ffd7e0377dd13eac108759584c0b82f96356a288a7016bfe6735357d7cba6c7fa9c4e1af5a7f47e84c6e1b63c526fc4e1f490e6ec21c9cdafee7d68d939060d3f1dec69372daf934c0396d1ce52fc35d7f073696fa809c795a489e623d4eab59401641cf2a1b112647556fdf9812d2ca9215c28779e3b2e08aeef878c3ae8a46aa6e4b7e905c01b15e1f4f1fc1422d4b6642fa334a6758f277ab8527c5175f685f483f7f9c8773a0637672696a8006b5fb1a6663270ea5076d9c93308b8a6bab3a9",
+                            "AllTestID": 43016961,
+                            "A3TestID": 43002756,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43002756,
+                                    "Title": "0350e68061728e65013dbd21b3af108d9038c3d6e02615cd18e31bc2135ccba32836aa5079a46fb2251efdf0eb58dc00",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "右心功能不全"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "心脏压塞"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肾功能不全"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肝硬化"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺部感染"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002757,
+                                    "Title": "0350e68061728e65fe0492e41365c3de1c4398b45aa49475796ec42d41f494fe10d50792dae388696e551debfe98c768",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "水冲脉"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "交替脉"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "奇脉"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "重搏脉"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "正常脉"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002758,
+                                    "Title": "bbff957919dcbb5dcc063efa409709fde231be7b2590107380eb2275353eda7f",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "毛花苷丙（西地兰）"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "呋塞米（速尿）"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "抗生素"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "心包穿刺"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "扩血管"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002759,
+                                    "Title": "b931904abaea81852fe62a9f6085d76d4aaaedad631bdfc7a044cf8a9f3533082fb43cb390be5521",
+                                    "Explain": "为证实心包积液的存在可行B超检查，只有大量心包积液时才可心包穿刺。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "心脏压塞"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "为证实心包积液的存在"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "为明确心包积液的性质"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "心包积脓"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "心包内药物治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002760,
+                                    "Title": "11e000f1472992cf9f0112164de533cd4da7813663e3c6d65584e1b755cdf72c828d4e07148c07192e1eb185f7d34223",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "20ml"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "75ml"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "100ml"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "150ml"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "200ml"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺梗死"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心肌梗死"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性心包炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心肌梗死伴继发性心包炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心肌炎"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "b6b62195fd17ee6615e4f3101afd24ffbb6b0b4bb612102212ac999e735b5b3cf37ae7a7b8181af20f3776acb5852b6c2a215be86d86da502f34757bd01e27e99ba2f79f3679f30e8fd4fce7939e15d250912e5406fe1b24e11b42b1980775ee46b96c801b34bbb010cee93d11610fc4930064e4cdd3c2d1bdb912f79ca74a754275c843ab83fcbe93627094213555fc4be1ae43a9c3630dfa558c5b4849967a09978cda503159e32f4ed62d9937f3303af3954f0784923c2d2e9ffb78e4a6a9750ed0c490b7dd85c433f3474c3efb08f350e64050d0eb4b2b7b86be4152058c78fc5ef743bc7d24942623d5334d98e99f18197165de0074e95d0d8b7551e41de4d98407f5dc320a4c15ce703c3ff3837a3211012a86ca1ccb60650906fbed563ebcfd8dd384be734acc8dc83c8cf47f719f7b0fde979669b1029818a17effb8",
+                            "AllTestID": 43016962,
+                            "A3TestID": 43002761,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43002761,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "肺梗死"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "心肌梗死"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "急性心包炎"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "心肌梗死伴继发性心包炎"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "心肌炎"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002762,
+                                    "Title": "a7d168d45ded375d874f6515d1005d304f89713efe83ee1d779a9c42029a3e4f732853333f64f2f72d42eaa792431770c6bcb53f5cacfb068f618356961e328de0f42b00ba950af8ae637bc1402abc75318c18c7adb6aa9363052e98d3d9e7a6a543ffb83c87f2c9",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "再次肺梗死"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "心肌梗死扩大范围"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "心脏压塞"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "败血症"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "心脏腱索断裂"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002763,
+                                    "Title": "771275bca8617bebf119af18c3e2b4030207bfabf347b8f4936e1225e6333673",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "左肺野楔状实质性阴影，伴左胸腔积液"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "正常"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺部无明显充血而心影显著增大"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "左肺野多发炎症阴影"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "两侧肺门影不大"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002764,
+                                    "Title": "7769ce03511dc2dc3e5c1e98343b84fca172c97b630dd914394395abc9cb74ed",
+                                    "Explain": "患者为年轻男性，心前区疼痛2小时并向左肩部放射，具有吸气时疼痛加重的特点，同时有寒战、发热，心电图表现为普遍性ST段抬高。根据年龄和临床表现，最可能的诊断是急性心包炎。患者诊断为急性心包炎，3天后出现血压下降、颈静脉怒张和气短不能平卧，应该考虑大量心包积液造成的心脏压塞。X线检查对渗出性心包炎有一定价值，可见心脏阴影向两侧扩大，心脏搏动减弱或消失；尤其是肺部无明显充血现象而心影明显增大是心包积液的有力证据，可与心力衰竭相区别。成人心包积液量少于250ml、儿童少于150ml时，X线难以检查出积液。急性心包炎是心包膜脏层和壁层的急性炎症，可以同时合并心肌炎和心内膜炎，也可以作为唯一的心脏病损而出现。心包渗液是急性心包炎引起的一系列病理生理改变的主要原因。当心包渗液引起心脏压塞时，吸气时脉搏强度可明显减弱或消失。急性心包炎的治疗包括对原发疾病的病因治疗、解除心脏压塞和对症治疗，心包渗液引起心脏压塞时应做心包穿刺抽液，可先做超声检查确定穿刺的部位和方向。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "手术取出栓子"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "冠状动脉造影伴紧急PTCA"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "心包穿刺"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "大剂量抗生素静脉滴注"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "应予升压药以及强心利尿剂"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "与上述临床表现相符合的体征是",
+                            "Explain": "心包积液典型的特征为Ewart征：表现为心音低钝、遥远，心尖搏动减弱，故选B。",
+                            "TestPoint": "心包积液",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "DeMusset征"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "Ewart征"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "Corrigan征"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "Quincke征"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Traube征"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "c3fd1b143224096e62cd6d9bc6374a7ef1fd5fe477684f113ca6d8ef9b44b78d620f34ce3365ac4b14871f7921137c4f95895fe5dcf9204fbfab2a677b7f228de12efdddf7916de01e7b0cc9caab163be617d1a46915b7f8e26e86e6fdd5a87dababf5e643f72f70d542c2d746e1246d890cee422e2b1569c64d1a360eb7ab027cfc926255c01d6302efd088260b45a9f41649fafd067698b60f85e5b34bd4a52ec7bd8325637e607fdf5e3b407d9236d9984cf9ff44328108f069f72bbeaaea9e9bf00876bef7f753a43c7af0f90171c00f00159d3451f9dd3a7b37051527f8d1c3cb4116a69981",
+                            "AllTestID": 43016963,
+                            "A3TestID": 43002765,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43002765,
+                                    "Title": "8893b519a2865fbf4bdd7c8ab43106e9bbd4abdab681c8e8dbc4c796f3564fc8e7b612ced9d01f64f75b78e2942a2151",
+                                    "Explain": "心包积液典型的特征为Ewart征：表现为心音低钝、遥远，心尖搏动减弱，故选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "DeMusset征"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "Ewart征"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "Corrigan征"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "Quincke征"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "Traube征"
+                                        }
+                                    ],
+                                    "TestPoint": "心包积液",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002766,
+                                    "Title": "afd15fbc0c972c1b247de20ce9dd4a7e7d8880a38ebc00a44777bd82a80e148d7872e26bd0f3fe54",
+                                    "Explain": "超声心动图可实时观察心脏和大血管结构，对心包积液、心肌病、先天性心脏病、各种心瓣膜病、急性心肌梗死的并发症（如室间隔穿孔、乳头肌断裂、室壁瘤、假性室壁瘤）、心腔内附壁血栓形成等有重要诊断价值，故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "胸部X线片"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "动态血压监测"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "心电图"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "超声心动图"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺功能"
+                                        }
+                                    ],
+                                    "TestPoint": "心包积液",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "患者突感呼吸困难加重，检查：血压80/60mmHg.颈静脉怒张.心浊音界明显扩大，心音低而遥远，心率110次/分，有奇脉，其原因最可能是",
+                            "Explain": "1.患者心音减弱，心影扩大，考虑心包炎，急性心包积液时可引起心脏压塞，出现明显的心动过速，血压下降，脉压变小，如积液积聚较慢，可出现奇脉。奇脉指大量积液患者在触诊时桡动脉搏动呈吸气时显著减弱或消失，呼气时复原。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "心脏压塞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸腔积液"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性左心衰竭"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺栓塞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "气胸"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f78490a0ce9c91fa48f99037c3fda4630afc57cfc413d79877cb4b8d6d782c432fa02175ade00f4c5cddd5425bcc6dcfc307e5984ec45b0a760a95c7ddaabb7ceba9b414e492975eea33cd4f44437d750795f1b685ea60938cd62d0ae707db1a572a86bec561f2c00702dbd56223b01555265b156638201ccc1eb2312be80e73033946cc60f158f42b88c751a80b15cedcb5e9143002d8269038893dc41a35b377a8",
+                            "AllTestID": 41001197,
+                            "A3TestID": 41000104,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000104,
+                                    "Title": "bb95352a0e44c33acc6e4a50ccb3e36719ba4fc2ea43fcea9b9465b40cfa3235d12b3ee67dff9e7483df44179c483ae1f73e647eba8e55a724dcc6a17eab8d058c8420c7cfe801a37f4373def601b2c72699df3e4d60141a900af8045a581f3a3f521b1748880f39a449871e0d54cda5a9d64c546f93317ae8459c51773c82f4fad69244f7050ea9708c5628e8c78382a17831b49463972015ab4cc6522b0744f679bede0655c5b3df61b098990baf3a",
+                                    "Explain": "1.患者心音减弱，心影扩大，考虑心包炎，急性心包积液时可引起心脏压塞，出现明显的心动过速，血压下降，脉压变小，如积液积聚较慢，可出现奇脉。奇脉指大量积液患者在触诊时桡动脉搏动呈吸气时显著减弱或消失，呼气时复原。故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "心脏压塞"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "胸腔积液"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "急性左心衰竭"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺栓塞"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "气胸"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000105,
+                                    "Title": "123f620531392e6daf8c6f8b46be1b4932e3d4c4d254097d669e682a8191a1b2",
+                                    "Explain": "2.心脏压塞，是因为心包积液引起，心包穿刺可证实心包积液的存在，并对积液做生化、细胞分类，抽取一定积液也可解除心脏压塞症状。心包穿刺的主要指征是心脏压塞和未能明确病因的渗出性心包炎。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "多巴胺"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "呋塞米"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "硝酸甘油"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "洋地黄"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "心包穿刺抽液"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "其最可能的疾病是",
+                            "Explain": "1.急性心包炎表现为心前区疼痛，可放射到胸骨后，颈部等，呼吸困难是出现心包积液的最突出症状，大量积液可出现心包积液征（Ewart征），累及静脉回流，出现颈静脉怒张，肝大，腹腔积液等。叩诊心脏浊音界扩大，心尖搏动弱，心音低而远，急性心包炎时，心电图异常来自心包下的心肌，表现为ST段抬高，呈弓背向下型。本例患者心影扩大，心电图特异性表现，可判断为大量积液体征。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "缺血性心肌病心功能不全"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "风湿性心肌炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "病毒性心肌炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性心包炎伴心包积液"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "感染性心内膜炎"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f7841b006e44f25e99e0770b049179ef284e0a40f31d53310d200c6f1d2265330ccddf198796d7b8703b65d340954bb4a76e399c1e906583e1a4534e79c98d658fd1ba7c0e0463bf9b777f2fd35a96a743eb9ad59e5443955ed654d6714e017ad141cc9d9d97787b0cbf2e22fb72a9537ca33e9bf21c4f1bb439547a829d8e53859cd4848a7706d52b17c7c7dacd1db1a26abb96310ad7fa66e975152cb99e762ab832cc04b55941c1f30ddfd9458bf47a0c3f9be8af1693d6f216064426183ac3584c15d0874cc0fa260569af2ffad417d237a5482f80bb5a30fb96790963963817f727ac7000bb22b4307ee2943d09447f9b58ca16b18ff9a399a87e3b27cc57ddd77ee056e382e0457bafb5def3cf3a26f817497f6bc59592607b48555ac165084aa5485e76a06f72558698d8c253a16f0b62fc888042a0f56be0a32decf29a5c1e62f53f4d9a5486a91cf8798579a0c97e102b5ed282fc90",
+                            "AllTestID": 41001198,
+                            "A3TestID": 41000106,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000106,
+                                    "Title": "9cb13210a74db48764450fa5d366ecf81f22462bfc296b48c4b67d03b6cadb9c",
+                                    "Explain": "1.急性心包炎表现为心前区疼痛，可放射到胸骨后，颈部等，呼吸困难是出现心包积液的最突出症状，大量积液可出现心包积液征（Ewart征），累及静脉回流，出现颈静脉怒张，肝大，腹腔积液等。叩诊心脏浊音界扩大，心尖搏动弱，心音低而远，急性心包炎时，心电图异常来自心包下的心肌，表现为ST段抬高，呈弓背向下型。本例患者心影扩大，心电图特异性表现，可判断为大量积液体征。故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "缺血性心肌病心功能不全"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "风湿性心肌炎"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "病毒性心肌炎"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "急性心包炎伴心包积液"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "感染性心内膜炎"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000107,
+                                    "Title": "84b8286619226514870969cfcad006b44037f300d97de97ac0433e779a2f9a0873132c1626a1eded",
+                                    "Explain": "2.X线对渗出性心包炎有一定价值，可见心影扩大，对成人液体量小于250ml，儿童小于150ml，X线难以检出。超声心动图对诊断心包积液简单易行，迅速可靠，可确诊液性暗区。故选B。心内膜心肌活检有利于明确病因的诊断。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "X线心脏正侧位摄片"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "超声心动图"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "动态心电图"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "右心导管检查"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "心内膜心肌活检"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000108,
+                                    "Title": "b83bc7e88f3c021c4fb44e06c9e3c2fff14fbe93be953c6caee92554317161a3",
+                                    "Explain": "3.各种心包炎如果出现心脏压塞症状，均应行心包穿刺排液以缓解症状。本患者已经出现颈静脉怒张，肝大症状，应行心包穿刺。故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "心包切除"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "抗结核药物"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "抗病毒药物"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "心包穿刺"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "激素治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "b10ab9e9a3df4c39ce5a93952e35f4e7bd1eaef2f21f869ba0a619ca00500151c5e2645cc4db9260aa2e97c9cb9547f6868eca71cb231dac",
+                            "Explain": "急性非特异性心包炎可能主要由病毒感染所致，缩窄性心包炎的病因在我国仍以结核性为最常见。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "衣原体"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "立克次体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "细菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "病毒"
+                                }
+                            ],
+                            "AllTestID": 43000998,
+                            "BTestID": 43000283,
+                            "SrcID": 9,
+                            "SbjID": 48,
+                            "CptID": 245,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000283,
+                                    "Title": "b10ab9e9a3df4c39ce5a93952e35f4e7bd1eaef2f21f869ba0a619ca00500151c5e2645cc4db9260aa2e97c9cb9547f6868eca71cb231dac",
+                                    "Explain": "急性非特异性心包炎可能主要由病毒感染所致，缩窄性心包炎的病因在我国仍以结核性为最常见。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000284,
+                                    "Title": "ff10c8a898c37b417bb53cd0d2ab71cb77bc56070e19d4644043721d81b3012b2c31b1250abee470f7ceadeab3a42555",
+                                    "Explain": "急性非特异性心包炎可能主要由病毒感染所致，缩窄性心包炎的病因在我国仍以结核性为最常见。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000994,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000994,
+                        "ChildTableID": -1,
+                        "UserCount": 3838,
+                        "RightCount": 2728,
+                        "FavCount": 111,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000994,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43000995,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000995,
+                        "ChildTableID": -1,
+                        "UserCount": 3937,
+                        "RightCount": 1775,
+                        "FavCount": 142,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000995,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 41001190,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001190,
+                        "ChildTableID": -1,
+                        "UserCount": 3313,
+                        "RightCount": 2641,
+                        "FavCount": 45,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001190,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41001195,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001195,
+                        "ChildTableID": -1,
+                        "UserCount": 2990,
+                        "RightCount": 2749,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001195,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016941,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016941,
+                        "ChildTableID": -1,
+                        "UserCount": 2834,
+                        "RightCount": 2615,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016941,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43016942,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016942,
+                        "ChildTableID": -1,
+                        "UserCount": 3096,
+                        "RightCount": 1485,
+                        "FavCount": 139,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016942,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43016943,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016943,
+                        "ChildTableID": -1,
+                        "UserCount": 2979,
+                        "RightCount": 1916,
+                        "FavCount": 119,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016943,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016944,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016944,
+                        "ChildTableID": -1,
+                        "UserCount": 2989,
+                        "RightCount": 1933,
+                        "FavCount": 73,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016944,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43016945,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016945,
+                        "ChildTableID": -1,
+                        "UserCount": 2699,
+                        "RightCount": 2457,
+                        "FavCount": 62,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016945,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016949,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016949,
+                        "ChildTableID": -1,
+                        "UserCount": 2714,
+                        "RightCount": 2476,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016949,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43016950,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016950,
+                        "ChildTableID": -1,
+                        "UserCount": 2649,
+                        "RightCount": 2581,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016950,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43016951,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016951,
+                        "ChildTableID": -1,
+                        "UserCount": 3032,
+                        "RightCount": 1543,
+                        "FavCount": 136,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016951,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016954,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43016954,
+                            "ChildTableID": -1,
+                            "Answer": "E",
+                            "AnswerCount": 2
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016954,
+                        "ChildTableID": -1,
+                        "UserCount": 2953,
+                        "RightCount": 1700,
+                        "FavCount": 118,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016954,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016956,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016956,
+                        "ChildTableID": -1,
+                        "UserCount": 2680,
+                        "RightCount": 2321,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016956,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016958,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016958,
+                        "ChildTableID": -1,
+                        "UserCount": 2754,
+                        "RightCount": 2234,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016958,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43016960,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016960,
+                        "ChildTableID": -1,
+                        "UserCount": 2654,
+                        "RightCount": 2308,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016960,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43000996,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000996,
+                        "ChildTableID": -1,
+                        "UserCount": 3017,
+                        "RightCount": 2056,
+                        "FavCount": 105,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000996,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000997,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000997,
+                        "ChildTableID": -1,
+                        "UserCount": 3175,
+                        "RightCount": 1502,
+                        "FavCount": 144,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000997,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016961,
+                "ChildTableID": 43002756,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016961,
+                        "ChildTableID": 43002756,
+                        "UserCount": 3357,
+                        "RightCount": 2878,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016961,
+                    "ChildTableID": 43002756
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016961,
+                "ChildTableID": 43002757,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016961,
+                        "ChildTableID": 43002757,
+                        "UserCount": 3232,
+                        "RightCount": 2858,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016961,
+                    "ChildTableID": 43002757
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016961,
+                "ChildTableID": 43002758,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016961,
+                        "ChildTableID": 43002758,
+                        "UserCount": 3234,
+                        "RightCount": 2831,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016961,
+                    "ChildTableID": 43002758
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43016961,
+                "ChildTableID": 43002759,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016961,
+                        "ChildTableID": 43002759,
+                        "UserCount": 3361,
+                        "RightCount": 2493,
+                        "FavCount": 55,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016961,
+                    "ChildTableID": 43002759
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016961,
+                "ChildTableID": 43002760,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016961,
+                        "ChildTableID": 43002760,
+                        "UserCount": 3469,
+                        "RightCount": 1967,
+                        "FavCount": 144,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016961,
+                    "ChildTableID": 43002760
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43016962,
+                "ChildTableID": 43002761,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016962,
+                        "ChildTableID": 43002761,
+                        "UserCount": 3361,
+                        "RightCount": 2178,
+                        "FavCount": 84,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016962,
+                    "ChildTableID": 43002761
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016962,
+                "ChildTableID": 43002762,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016962,
+                        "ChildTableID": 43002762,
+                        "UserCount": 3020,
+                        "RightCount": 2801,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016962,
+                    "ChildTableID": 43002762
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016962,
+                "ChildTableID": 43002763,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016962,
+                        "ChildTableID": 43002763,
+                        "UserCount": 3166,
+                        "RightCount": 2328,
+                        "FavCount": 59,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016962,
+                    "ChildTableID": 43002763
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016962,
+                "ChildTableID": 43002764,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016962,
+                        "ChildTableID": 43002764,
+                        "UserCount": 2957,
+                        "RightCount": 2705,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016962,
+                    "ChildTableID": 43002764
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016963,
+                "ChildTableID": 43002765,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016963,
+                        "ChildTableID": 43002765,
+                        "UserCount": 2960,
+                        "RightCount": 2593,
+                        "FavCount": 68,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016963,
+                    "ChildTableID": 43002765
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43016963,
+                "ChildTableID": 43002766,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016963,
+                        "ChildTableID": 43002766,
+                        "UserCount": 2943,
+                        "RightCount": 2472,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016963,
+                    "ChildTableID": 43002766
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41001197,
+                "ChildTableID": 41000104,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001197,
+                        "ChildTableID": 41000104,
+                        "UserCount": 2809,
+                        "RightCount": 2608,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001197,
+                    "ChildTableID": 41000104
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41001197,
+                "ChildTableID": 41000105,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001197,
+                        "ChildTableID": 41000105,
+                        "UserCount": 2760,
+                        "RightCount": 2642,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001197,
+                    "ChildTableID": 41000105
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41001198,
+                "ChildTableID": 41000106,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001198,
+                        "ChildTableID": 41000106,
+                        "UserCount": 2819,
+                        "RightCount": 2602,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001198,
+                    "ChildTableID": 41000106
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41001198,
+                "ChildTableID": 41000107,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001198,
+                        "ChildTableID": 41000107,
+                        "UserCount": 2901,
+                        "RightCount": 2534,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001198,
+                    "ChildTableID": 41000107
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41001198,
+                "ChildTableID": 41000108,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001198,
+                        "ChildTableID": 41000108,
+                        "UserCount": 2903,
+                        "RightCount": 2534,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001198,
+                    "ChildTableID": 41000108
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43000998,
+                "ChildTableID": 43000283,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000998,
+                        "ChildTableID": 43000283,
+                        "UserCount": 3311,
+                        "RightCount": 1573,
+                        "FavCount": 168,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000998,
+                    "ChildTableID": 43000283
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000998,
+                "ChildTableID": 43000284,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000998,
+                        "ChildTableID": 43000284,
+                        "UserCount": 2862,
+                        "RightCount": 2572,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000998,
+                    "ChildTableID": 43000284
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

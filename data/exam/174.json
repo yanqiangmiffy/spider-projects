@@ -1,0 +1,724 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 00:23:59 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "5a94c0a5ee5b97c75cf942b0660d6a525d5f923f5c887d58d37dc1a460326791ba69d647d66d1e7e65cd7f7a1b2c1e68ddab0ef34292b588ce69616c5b36a32e",
+                            "Explain": "脓液中白细胞计数尤其中性粒细胞显著增高。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "多表现为原发症状",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "中度和重度患者易发生感染",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "常见的感染部位是呼吸道、消化道及泌尿生殖道",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "可出现高热、败血症和脓毒血症",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "粒细胞严重缺乏时，脓肿穿刺可见大量脓液",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001448,
+                            "ATestID": 43001448,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题无误，不做修改。",
+                            "OperateTime": "2018年8月13日"
+                        },
+                        {
+                            "Title": "5a94c0a5ee5b97c75cf942b0660d6a525d5f923f5c887d58622b4f8c3404aa64e0f8a52acf3cf19f932e17b7fdf017105ddcbb3010dbcfed",
+                            "Explain": "粒细胞缺乏症需立即给予抗生素治疗。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "需住院治疗，争取严密消毒隔离"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "注意口腔、鼻咽部清洁卫生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "发生感染应进行理化检查，明确感染性质和部位"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "发生轻度感染原因未明时，可不给予抗生素治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "严重感染患者可应用G-CSF"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001449,
+                            "ATestID": 43001449,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "941b2f1afc705e5af5fe0be3da3d61d495aef9a02265a8f0f0a5606134d7cda6f23ce27ae21b736557a6b60e9e631915",
+                            "Explain": "白细胞减少症的治疗主要是病因治疗，给予促白细胞生成药，如粒细胞集落刺激因子；抗中性粒细胞抗体阳性或由细胞毒T细胞介导的骨髓衰竭患者可用免疫抑制剂治疗，感染患者要注意消毒隔离。EPO可促进红细胞生长，对白细胞减少无效。故本题选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "病因治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "消毒隔离"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "粒细胞集落刺激因子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "EPO"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "糖皮质激素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001935,
+                            "ATestID": 41001935,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "03a67c36ed0a9698f3ec1e0512240363bd1542725ef982b5bbaeb2c759fc54a003757515faa413a07dc4259d5d650f310861cf6ec0462db7",
+                            "Explain": "当外周血中性粒细胞绝对值成人低于2.0×10[SB9.gif]/L，为粒细胞减少症。当中性粒细胞绝对值<0.5×10[SB9.gif]/L，为粒细胞缺乏症。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "中性粒细胞占白细胞40%～60%"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "中性粒细胞减少是绝对值<3.0×10[SB9.gif]/L"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "中性粒细胞缺乏是绝对值<0.5×10[SB9.gif]/L"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "中等程度中性粒细胞减少是绝对值<(1.5～2.0)×10[SB9.gif]/L"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "中性粒细胞分叶过多是核左移"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001936,
+                            "ATestID": 41001936,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878e7addaa03e1950a6e6aaf45c0ef3a1059bce7a488ee19eeee52af0ecd2ca960c568f76e195515c3b169980072198c6ff9f0eaabbcb54731eaca52b6be0644238868e67796a9727b925c6dd59d1ec6c320be3020753c72111bfd9cdf08a3cb00d5a4c9cebf77b736ff1c5cf27e288cf68d9aa2fa698e1bcd94b85daef0300ea909ab2ac888dea37a598f612629ae56e6c666f39fe263db173d024c16f5841daff1e7763b99d8cfb72509ac067eca3908c426dd62052ae948630085b495f7f94232856511d149571b531379cfe56cb57dff1638c7f825d1f730cdec0530bf045cd19e68afb5e070d21f2bf1e45233f2e4db27ca9332a5acfb7fdf4a69f6fdc115954af8973ded36014d9c0f559dddf7a9649b852e1dc249c2c17cf7588fd56a4d190623686d46b052e636f00e3df0bb03ceb7513e15d90a132a008f5cd3621172104ce4abf314f25b173cb99f21c4cf5105",
+                            "Explain": "患者感染，血常规提示WBC2.0×10[SB9.gif]/L，分类中性粒细胞40%，红细胞和血小板正常，应诊断为粒细胞缺乏症。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性白血病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "慢性淋巴细胞白血病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "粒细胞缺乏症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "类白反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "再生障碍性贫血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001937,
+                            "ATestID": 41001937,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "bb76847dac2ee61a3c786894e875e96e378bf682cf5d1614e0ed72f235c4ad6e7db04016bdeefaba130be90eb02e6ec083a24b658128d23d0e6320045df0ce62c66e0d7c203d99cb4dc834bc0edad530a69f7cdb95add1e3845a6bcaf2dc62c1fd56f232e77a6be2c22dd4bda1a6b559b9b52e0b0e9f3710942bc21a62ee6fe7e7818064bf622e8dff5d54a3e642c3091484e1321ba8a58b",
+                            "Explain": "患者WBC1.9×10[SB9.gif]/L，考虑与长期服药有关。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "长期服药情况"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "家族史"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "营养及饮食情况"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "月经史"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "消化性溃疡病史"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001450,
+                            "ATestID": 43001450,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4fbbc5800e7204fab932f7278d89ee872f53fb6e60ea6915d0d6ae4158da0e94817d19911c5475a47b8e2f277b562053959230a697a90437718691842074e72d866e01ccb297658852f16c5049f3b755d4e6754b9bf64c12291045c65f8c7a3ac8ee2a0e30e40b87a7b65389d19a1fe4302c8adf90076b28d40b7d5dc46b87ebb5600b0dac9649ff3599a810515a41a72eaff597667055c9747e56a5f11b1ef14f0b7ebfde95df0f6e0c9f46d6c35035",
+                            "Explain": "周围血液白细胞计数低于4.0×109/L（4000/mm3）称为白细胞减少症，最常见是由中性粒细胞减少所致。中性粒细胞绝对计数低于（1.8～2.0）×109/L（1800～2000/mm3）称为粒细胞减少症；低于（0.5～1.0）×109/L（500～1000/mm3）称为粒细胞缺乏症，常伴有严重的难以控制的感染。起病可急可缓。患者发生感染的危险性与中性粒细胞计数减少的时间和减少的速率直接相关",
+                            "TestPoint": "中性粒细胞减少症",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "轻度减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "中度减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "重度减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "粒细胞缺乏症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "水平正常"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003315,
+                            "ATestID": 43003315,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "患者诊断考虑",
+                            "Explain": "1.患者血常规检查提示白细胞减少，中性粒细胞百分率减少，淋巴细胞百分率相对增加。患者有自身免疫性疾病，系统性红斑狼疮病史，一般自身免疫病继发中性粒细胞减少时可见粒系核左移。系统性红斑狼疮为免疫性疾病，可引起中性粒细胞消耗过多，使中性粒细胞破坏，因此本题考虑选C。类白血病反应中骨髓粒系比例增高，外周血白细胞也高达正常值数倍，故D不对。再障一般有血红蛋白的下降，故E不对。慢淋多有淋巴结肿大、白细胞增多。本题白细胞下降，故B不对。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性白细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慢性淋巴细胞白细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "粒细胞缺乏症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "类白血病反应"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "再生障碍性贫血"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f7844ef02698eff61afa15f4da416c22c8fe2c67af7ab46588da2a3335bd04341ddad38697c742cf019e07ca52daf0a375e1d2f3383d7aeec340c2a5ad4bd61128f04474b530659afa466eb216dd336903610619def528df24e946469bfba5e029db5a8cc0e18a853c1e929757ebaa1488ea225001aa880258c2688514cc0bb99b8debcc67fd937a7ce67c94a70a109cfc848f5012db85e918da56709e3fefd9f244cff0ec27b61aa1987af005b105eb3d625f6e609f7c3d09b09d55ae42c7904f1e92290f80436d77193acf3e8807f6d404a917ef739b65c0435f7415afa7d54a3cca9486290683014e65b34e52fbd8215c0aa62b130ec7a15575ba0a6d3d5fd9a92231af97dc65b98a6130d75b9e302c24f39304c564f3472c885e07e8d431631ed7d7cca1e2d8a255f27a0d742a9e43cc2cdf218c0bbf767a668d5781d73ba568764251983069de59aac70bfc1596c797b61f2d632a853310",
+                            "AllTestID": 41001938,
+                            "A3TestID": 41000265,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 174,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000265,
+                                    "Title": "461779aeee85d541eca2325cf46b68f29f2acac6c442d04e",
+                                    "Explain": "1.患者血常规检查提示白细胞减少，中性粒细胞百分率减少，淋巴细胞百分率相对增加。患者有自身免疫性疾病，系统性红斑狼疮病史，一般自身免疫病继发中性粒细胞减少时可见粒系核左移。系统性红斑狼疮为免疫性疾病，可引起中性粒细胞消耗过多，使中性粒细胞破坏，因此本题考虑选C。类白血病反应中骨髓粒系比例增高，外周血白细胞也高达正常值数倍，故D不对。再障一般有血红蛋白的下降，故E不对。慢淋多有淋巴结肿大、白细胞增多。本题白细胞下降，故B不对。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "急性白细胞"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "慢性淋巴细胞白细胞"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "粒细胞缺乏症"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "类白血病反应"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "再生障碍性贫血"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000266,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19f0ba45dfdd746286e905f48a61aaf6be60ae8774ee99babdd",
+                                    "Explain": "2.系统性红斑狼疮为免疫性疾病，某些非细胞毒类药物或病原微生物进入机体形成的半抗原能与粒细胞的蛋白质结合为全抗原，从而诱发产生针对该抗原的抗体使粒细胞破坏。故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "粒细胞生成障碍"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "粒细胞成熟障碍"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "粒细胞消耗过多"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "粒细胞破坏过多"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "粒细胞分布异常"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43001448,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001448,
+                        "ChildTableID": -1,
+                        "UserCount": 2501,
+                        "RightCount": 1346,
+                        "FavCount": 59,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001448,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43001449,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001449,
+                        "ChildTableID": -1,
+                        "UserCount": 2367,
+                        "RightCount": 1763,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001449,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 41001935,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001935,
+                        "ChildTableID": -1,
+                        "UserCount": 2436,
+                        "RightCount": 1491,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001935,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41001936,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001936,
+                        "ChildTableID": -1,
+                        "UserCount": 2426,
+                        "RightCount": 1401,
+                        "FavCount": 74,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001936,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 41001937,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001937,
+                        "ChildTableID": -1,
+                        "UserCount": 2279,
+                        "RightCount": 1889,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001937,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43001450,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001450,
+                        "ChildTableID": -1,
+                        "UserCount": 2283,
+                        "RightCount": 1769,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001450,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43003315,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003315,
+                        "ChildTableID": -1,
+                        "UserCount": 2487,
+                        "RightCount": 1075,
+                        "FavCount": 85,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003315,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41001938,
+                "ChildTableID": 41000265,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001938,
+                        "ChildTableID": 41000265,
+                        "UserCount": 2148,
+                        "RightCount": 1953,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001938,
+                    "ChildTableID": 41000265
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41001938,
+                "ChildTableID": 41000266,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001938,
+                        "ChildTableID": 41000266,
+                        "UserCount": 2307,
+                        "RightCount": 1289,
+                        "FavCount": 62,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001938,
+                    "ChildTableID": 41000266
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

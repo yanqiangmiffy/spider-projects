@@ -1,0 +1,4323 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:01:59 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 64,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d0903700949e130e28cbcdf48413b43085dc2471d777cc624e7976fda7321ff6671d3ad4c195eeaf9d3328e6869321dbf7439b984d4081ecb4cbb241c25bd969e708fd2ececa15c61d726194981eb53ee4f55c2e6b1fa9ec405db3d8e9503a8cf9857ad84255de8c351b29575dcbd9099b7931acee9ef562a4fe55719583ce9eac1ec3e03bc27eb0f14f68cd3fe1bcfb00ca4af45449d4fc73e32bc52ab6ade889e74ba13861b9c8db2d7de7fb7e02a3a2fcd9d3c10fe67096857a46cd07cef4760e9886935b1f8bc1974fc826f1304ffec4f01d3a68c6844374eb90b3788186f6ffc3e3bafa2da9e6267531ae6a556c49a000dd9516a33f593ee5d3b78a82bded489d0f2a96ab959664fca37634b654c7a4839e1b9b7a8a490dc5f8cd2aecf788785",
+                            "Explain": "患者餐后持续性上腹痛、呕吐，脉搏增快，血压降低，出现休克症状。急性胆囊炎、急性胃炎、胆囊结石不会出现休克；溃疡病穿孔时肠鸣音减弱或消失，故也排除溃疡病穿孔。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性胆囊炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性胃炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胆囊结石"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "溃疡病穿孔"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性胰腺炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005558,
+                            "ATestID": 43005558,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "98eb6fe700fd9f2cf26e7148d3b023da50c97c18261c280e826e392d9c658ad41f161f326ba13fa5298c0e1928f698576e4d750bc1c1dd23dc268eb545577dd4",
+                            "Explain": "长期服用非甾体抗炎药是导致消化性溃疡重要原因之一，其机制是抑制环氧化酶(COX)，使胃肠黏膜生理性前列腺素E合成不足，促进胃酸分泌，从而使胃肠黏膜保护性因素减弱，引起消化性溃疡。米索前列醇是一种人工合成的前列腺素衍生物，进入血液后与胃壁细胞的前列腺素受体结合，抑制胃酸分泌、增加胃十二指肠黏膜的黏液及碳酸氢盐分泌和增加黏膜血流及保护胃黏膜等作用，因此预防非甾体抗炎药所致消化性溃疡，米索前列醇已成为首选药物之一。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "硫糖铝"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胶体铋"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "米索前列醇"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "阿莫西林"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "以上都不对"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005559,
+                            "ATestID": 43005559,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b60d048b37d688df3dc6f00cb2ea30f60a4f6198856fd6dd07d72a9fed511fe0b6bac76fe8c530f95ab17225e50eb610097a88d9d8303834019d8601cae268d31d70e3b1c8374eb893575760d9e0759a1d30894f4dbbb27993bf69ab90b4b0b42e872b23374c5f13",
+                            "Explain": "长期服用非甾体抗炎药(NSAID)是发生消化性溃疡重要原因之一。如情况允许，应立即停用NSAID;若因病情需要不能停用，首选质子泵抑制剂（如奥美拉唑）进行治疗，因质子泵抑制剂作用于壁细胞胃酸分泌终末步骤中的关键酶H[SBjia.gif]-K[SBjia.gif]ATP酶，使其不可逆失活，因此较其他药物作用更强更持久，为不能停用NSAID时首选药物。其根本原因在于机制不同，选择预防非甾体抗炎药所致消化性溃疡首选药物要掌握非甾体抗炎药导致消化性溃疡的原因，然后对因预防，而选择非甾体抗炎药(NSAID)引起的消化性溃疡，当不能停用NSAID时的首选药物时，出发点要从治疗消化性溃疡考虑。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "雷尼替丁"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "硫糖铝"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "西沙必利"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "奥美拉唑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "米索前列醇"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005560,
+                            "ATestID": 43005560,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09034e5cd2f701973522da40ebeeac61dbebf5d84930b74ebd15e40de2e536e3c87dc6a80c21792cc941de0fe2958e9b311d47bd667779445cdaf754eaefed33f67255b8b6234019c1c000382dd3e398819bd9c99efd4aaebadd211fce7959ac575e48bf91932a3bcc564975316f94221dba17252c3bbd20561bc857f18a6544349d14e36ecc1a0ca1dc3cd9025d6c1fe00aae64137a836915809e03af5089e2da864428f5adbd264c46289dfeccee06b084",
+                            "Explain": "胃大部切除使壁细胞减少，壁细胞可分泌盐酸和抗贫血因子，胃酸不足可致缺铁性贫血；抗贫血因子缺乏致使维生素B[XB12.gif]、叶酸缺乏产生巨幼红细胞性贫血。胃大部切后铁吸收不足也可致缺铁贫。胃蛋白酶是由胃黏膜主细胞所分泌，功能是将食物中的蛋白质分解为小的肽片段。故贫血与胃蛋白酶缺乏无关。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "叶酸缺乏"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "维生素B[XB12.gif]缺乏"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃蛋白酶缺乏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃酸缺乏"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "铁缺乏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005562,
+                            "ATestID": 43005562,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "96dbe9f762e7fbcf055b081d1950fc5e6543bfd9cb63943b8f47f958c37e8e4aaa3684116bd87ae874ba5b1336505ff26c9e117bdb2ac7140b046ed443354340fb0aac79d2b4480f3b793b68d0b7a119",
+                            "Explain": "胃癌的部位不同，有其特殊表现。贲门胃底癌可有胸骨后疼痛和进行性吞咽困难；幽门附近的胃癌有幽门梗阻的表现；肿瘤破坏血管后可有呕血、黑便等消化道出血症状。腹部持续疼痛常提示肿瘤扩展超出胃壁。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃窦、胃体"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "贲门、胃窦"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃体，贲门"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃小弯，胃窦"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "贲门、胃底"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005563,
+                            "ATestID": 43005563,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02c0a36494d99c8656c79f512d0c51e8f0d6330485a9043a18d6f173da38220b4aad638ee1a3beb3",
+                            "Explain": "肝细胞癌：发生于肝细胞，最多见。分化程度差异较大。分化较高者癌细胞类似于肝细胞，分泌胆汁（E正确），癌细胞排列呈巢状，血管多（似肝血窦），间质少，分化低者，异型性明显，癌细胞大小不一，形态各异。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "形成腺腔"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肿瘤细胞弥漫散在"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "与肝细胞相似的癌细胞形似团块，其间为血窦"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "形成巨细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "分泌胆汁"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005564,
+                            "ATestID": 43005564,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a25c3f6d647a1820fe98d72b86783e06c14b531e69b56beafaa1aea301c2fd358e3512e2f56eb339ceb01cdaa45816eccd00b4ee822aea65",
+                            "Explain": "溃疡病急性穿孔后，大量胃肠内容进入腹膜腔，迅速出现弥漫性腹膜炎体征。肠鸣明显减弱或消失是因为毒素入血，导致麻痹性肠梗阻的表现。B项无特异性，胆道结石也有可能发生剧烈绞痛。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "有溃疡病史"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "上腹部剧烈绞痛"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "恶心、呕吐并休克"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "高热"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腹膜炎体征，肠鸣明显减弱或消失"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005565,
+                            "ATestID": 43005565,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "efd054ec562601098b9340ce8dd4281ab87612c711d3f539c46e6e98f41229900355e26ddbfac2fce0b6306b69a79a50ad09c435494095114222d0a332bbe044",
+                            "Explain": "肠易激综合征(1BS)是一种以腹痛或腹部不适伴排便习惯改变为特征的功能性肠病，经检查排除可引起这些症状的器质性疾病。按照最新的罗马Ⅲ诊断标准，支持1BS的临床表现有：①排便频率异常（每天>3次，或每周<3次）；②粪便性状异常（块状、硬便或稀水样便）：③粪便排出过程异常（费力、急迫感、排便不尽感）；④黏液便；⑤胃肠胀气或腹部膨胀感。故E选项错误。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "每天排便多于3次"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "每周排便少于3次"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "块状/硬粪便"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "稀水样便"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "粪便排出顺利，无不尽感"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005566,
+                            "ATestID": 43005566,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4da051fd89da9ed09c96e39ee5529da4bd0b08b9ad8a84635af13a09ba9345ec38906832759e675a",
+                            "Explain": "皮肤小动脉末端分支性扩张所形成的血管痣，形似蜘蛛，称为蜘蛛痣，多出现于上腔静脉分布的区域内，如面、颈、手背、上臂、前胸和肩部等处，与肝脏对雌激素灭活作用减弱有关，检查时用棉签等物品压迫蜘蛛痣的中心，其辐射状小血管立即消失，去除压力后又复出现；而皮下出血受压后不褪色。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "面部"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸部"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "上肢"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "颈部"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腹部"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005567,
+                            "ATestID": 43005567,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d04eb2e012b805f81eb2ccf92dc650cc4f0801aa54c37089d532828ed7e320da56b0489a986439937a9560d5e4864ce30aa3637bbd602afe7f2d70a5df9eb70f03114af24d0fa1de685889aee8c02d6f27a579467fd2c2b08074139fcf14a1f383cde929f2a2ad59cf6d33e9b08d7f9d34447b75d21a56db356651290ee5b85c7ce4f2f18ec3d63a27bae9d6cad51b9eb23f8768d7e6e3a779dadae1bcd9a76e74e7fd3cd28cf3c65b9",
+                            "Explain": "本例为血吸虫肝硬化、脾肿大脾亢（血小板减少）、门-腔静脉交通支扩张（食管静脉重度曲张），可诊断为门静脉高压症。既往曾有上消化道出血的病史，为预防食管静脉曲张再次破裂出血应选择手术治疗。手术术式应以贲门周围血管离断术为首选，该术式对病人打击较小，能达到即刻止血，又能维持入肝血流，对肝功能影响较小，手术死亡率及并发症发生率低，术后生存质量高，而且操作较简单，易于在基层医院推广。又因患者有脾功能亢进，故行脾切除加贲门周围血管离断术。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "单纯脾切除术"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "门腔静脉分流术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "脾肾静脉分流术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脾切除加贲门周围血管离断术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "曲张静脉套扎术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005568,
+                            "ATestID": 43005568,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "66717551bb6fa5c7ad7464e9df168bd0d2d42d203ab32781d4aaa4e654f30dfe0f284d8944940751",
+                            "Explain": "肠套叠是肠的一段套入其相连的肠管腔内，以小儿最多见，其中以2岁以下者居多。在小儿多为回结肠套叠，三大典型的症状是腹痛、血便、腹部肿块。一般无发热，排除ABE项，无里急后重排除C。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "腹痛、发热、黄疽"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腹痛、脓血便、发热"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腹痛、血便、里急后重"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腹痛、血便、腹部肿块"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血便、腹部肿块、发热"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005575,
+                            "ATestID": 43005575,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3fada0e4b381fed59ca614dd90ceab2c2c9db5d13fc28fe29f71ce178ea2fa69d7185171d80aebf2004142496208e99d1b3533f6b2f20f4b28dd93be69858cefbc6d62fd1f72a20225fef0b85bad3360",
+                            "Explain": "每15～30分钟测一次脉率，呼吸和血压，每30分钟查一次腹部体征，30～60分钟测一次红细胞计数，血红蛋白和HCT。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "30分钟"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "35分钟"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "15～30分钟"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "30～60分钟"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "60分钟"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005576,
+                            "ATestID": 43005576,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4a43b743f5ee6cba9efd5131cc6e9ca9c48b3a44e7f47008f75a66ebe5b058d43fa574ce629af369d7f7bfd33dd4998a9d529eb988e35df471691a78f1583a38d55bda27054934eb",
+                            "Explain": "阑尾的神经由交感神经纤维经腹腔丛和内脏小神经传入，其传入的脊髓节段在第10、11胸节，所以当阑尾炎发病开始时常表现为脐周痛，属内脏性疼痛。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "腹膜炎刺激"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "内脏功能紊乱"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "内脏神经反射"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃肠道反射痉挛"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "合并急性胃肠炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005577,
+                            "ATestID": 43005577,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "89725a64967e86fd13b683ec7a5d3f4e5f6f14778b321c31e0e86f449a71628464b32505d96580d287962e36c187c9a78fa7ecc37a029645c87f52ca6c518d03",
+                            "Explain": "急性梗阻性化脓性胆囊炎的病因即是“梗阻性”，A、C、E不会出现梗阻可除外，而B、D选项的区别在于结石所存在的部位，胆管结石所处部位更为狭窄而易出现梗阻，故选之。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性胃肠炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胆囊结石"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肝脓肿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胆管结石"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "上呼吸道感染"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005578,
+                            "ATestID": 43005578,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52a53ce24b0ca5eb3c1a899358546e65d6dcc89943182285e10de2dfa20a26043fb5bceb617021bb",
+                            "Explain": "积极处理原发病灶是治疗腹膜炎之首要。其他选项都是进一步处理。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "禁食、胃肠减压"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抗生素的联合应用"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "清理腹腔、吸尽腹腔脓液"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "有效的腹腔引流"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腹膜炎的病灶处理"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005580,
+                            "ATestID": 43005580,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903700949e130e28cbcc22f9c46a3b182e5d1b40cf9d7547d139ab7ab09c65a7020beeb2f16f0a974b791497d839e97ee36dc3f0be396a5cf48f01eb04dcf77d8ec09a63c8f4a9d74de8ebe8ef684d0b9b286ad14e3dc29f531453de3dfb37960c3b5a6112af271a0e65272dcc88d89ed6993a7e7cff2c6a5323cc44b0fa3525fb46e76e03a9b5d84a021f86db63fbf47e23c21255d51561f84d8deb2cb4466233bbfe87b610d6e567a610f85b9e23c903dc9849e394d69cc61",
+                            "Explain": "胆囊结石治疗原则是手术切除病变胆囊，而对于无症状的静止的胆囊结石，一般可不施行手术，随诊观察，胆囊切除术适应证：(1)口服胆囊造影胆囊不显影；(2)结石数量多及结石直径超过2～3cm;(3)合并瓷化胆囊；(4)伴有胆囊息肉>1cm；(5)胆囊壁增厚(>3mm)即伴有慢性胆囊炎；(6)合并糖尿病者在糖尿病已控制时；(7)有心肺功能障碍者。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "口服胆囊造影胆囊不显影"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "有心肺功能障碍者"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "既往有糖尿病病史"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胆囊内结石直径小于1cm"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "合并瓷化胆囊"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005581,
+                            "ATestID": 43005581,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3fada0e4b381fed59ca614dd90ceab2c60ee47b6d69fdd2fda6799d40a565b498bedae74acb0dfa7cf8eb9a512a172446d517a800df472c3c1b98c9b91183ad350bd2f05af0215a5d9bfde94cb9ce984",
+                            "Explain": "胰腺和胆囊等损伤，均出现明显的腹膜炎症状，腹部剧痛，呈持续性，一般伴有胃肠道出血。十二指肠损伤多发于第二、三部，其表现为右上腹痛及背部疼痛，血性呕吐物。应激性溃疡引起上消化道出血，一般不伴腹痛。而肝破裂引起外伤性胆道出血，可出现呕血，黑粪及腹部绞痛等症状。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "十二指肠破裂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胰腺损伤伴胰腺炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "外伤性胆道出血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胆囊破裂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "应激性溃疡"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005582,
+                            "ATestID": 43005582,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11517975896e7d326391368c25e286eb5f895dcdb159dd1711eb10b20bc7cf5b662e3e8a564fe3e5c65966efdc726457111b6a0f1b302813fe3ca008acd91904",
+                            "Explain": "①右下腹压痛是急性阑尾炎常见的重要体征。②当有腹膜刺激征象时常提示阑尾炎已发展到化脓、坏疽或穿孔的阶段。③腰大肌试验阳性说明阑尾位置较深或在盲肠后位靠近腰大肌处。④闭孔内肌试验阳性提示阑尾位置较低，靠近闭孔内肌。⑤结肠充气试验（Royvsing试验）阳性可提示阑尾有炎症。结肠的积气刺激阑尾导致腹痛，但若结肠内气体少或气体传导不畅，或检查手法不当等，此体征可能阴性，但并不能排除阑尾炎的诊断。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "右下腹固定压痛是阑尾炎的主要体征"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "右下腹腹膜刺激征提示阑尾炎症已不是早期阶段"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰大肌试验阳性提示阑尾位置较深"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "闭孔内肌试验阳性提示阑尾位置较低"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "结肠充气试验阴性可排除阑尾炎诊断(18～20题共用题干)男，48岁，呕血5小时，查体：P120次/分，BP95/60mmHg。营养状况差，巩膜明显黄染。腹壁可见静脉曲张，肝未触及，脾肋下6cm，移动性浊音阳性。"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005583,
+                            "ATestID": 43005583,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "030f19c2ebf45e76b55ac5f666b3dc158aac1e8428916891fefe8737ba9fefdb",
+                            "Explain": "目前主要应针对出血状况，胃镜检查是明确上消化道出血病因的首选检查方法，故行急诊胃镜以了解出血部位，同时还可行内镜下止血治疗。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "腹部B超"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "上消化道X线钡剂造影"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃镜"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腹部CT"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腹部X线平片"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005585,
+                            "ATestID": 43005585,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3c41b96f03884da891b5775ad732ef8ea897fa8c35b0808157071535c9e3f40a",
+                            "Explain": "患者目前血压、心率尚稳定，也未达到紧急输血指征，可先给予葡萄糖盐水或平衡液，维持血容量和电解质水平。全血无必要，还有并发症风险。白蛋白为胶体液不作为首选加入。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "人血白蛋白"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "复方氨基酸溶液"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "全血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "平衡盐溶液"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "5%葡萄糖溶液"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005586,
+                            "ATestID": 43005586,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6881789cbcf192d0e16e21037050aa0b011411267e472dfa415338b0916d0154bf551c1a78f1e1344f4de4710a535c1b83291746c07f06031878af1db3a24b4798ba206815af88c9",
+                            "Explain": "腹痛鉴别参见下表：[YS432_386_3.gif]",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性阑尾炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "绞窄性肠梗阻"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "泌尿系结石，肾绞痛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "外伤性肝破裂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性单纯性肠梗阻"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005587,
+                            "ATestID": 43005587,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8392171d275f55d6e1d233cd64a493992276b4e9f550e599",
+                            "Explain": "Charcot三联征，肝外胆管结石的典型表现：腹痛、寒战发热、黄疸。注意：次序不能错！往年就曾经数次考过这样的神仙题！",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "发热、包块、黄疸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腹痛、寒战发热、腹部包块"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腹痛、寒战发热、黄疸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腹痛、寒战发热、昏迷"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "休克、腹痛、黄疸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005588,
+                            "ATestID": 43005588,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4a43b743f5ee6cba519908d623dc1f56b422d7344a5064b8af96aa209ffc59c4bc27034803571868c57ae0e517166fb4b44f3e1c4872b81886a8b700ef291a14a6e2e2b1ad4701d2c95ed52e5723d55ede5df1c2b12b7f319aabc16616d5391fda65292c3119a6e3",
+                            "Explain": "根据本题提示的急性阑尾炎患者的发病经过，可见患者炎症可能局限，右下腹可触及压痛的肿块，为大网膜包裹病变的阑尾，形成粘连，出现炎性肿块或阑尾周围脓肿。局限的脓肿有自行吸收的可能性。治疗上可暂不手术，用足够量的广谱抗生素治疗，并密切观察。E项不需手术的廉洁不严谨。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "立即手术，切除阑尾"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "立即手术，切除肿块"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "立即手术，腹腔引流"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "暂不手术，用广谱抗生素治疗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "用广谱抗生素治疗，不需手术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005589,
+                            "ATestID": 43005589,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903cfdb12a93d82e643ecae1d4f6ccb2bce3b15e2e195fd345ff7d4bf0cdb369c3e0562e9017efd4fe603ddd2959768f3047c8e79a5ef62d6b1a039c58658a673eca91a0d76a740558a3e190d465f8056cf17a6ba293ef58116bd3c8ae33396ad850380f5bd9fbc2517c0dae1994656bbbdea13ad8e46739e65ecbb38e8eb1f3eea4527beb458bb14c485aab6309e059591c026861a33d193a6216a465d4ea67e20d7490ef3096cba07566641b91e821ed67f7ee3e65a3847c90edd63441a88803c4011113aafe6db7a5dc17ea55e495217e2ceb9b10021b916b7e626ff1964576082ef95974dad38021c720b7526b30659b8dbc16b1b46d0a6c5539a7d05a1a872b8db0549ab0fae8e22b636c3028a76f7cdfc6cf35dfe58942129e8f9fccdc22a",
+                            "Explain": "本病例特点为60岁男性患者，右阴囊可复性肿物不能还纳1天，局部明显压痛。应考虑为右腹股沟疝嵌顿。因伴有呕吐、停止排便排气、腹部膨隆、肠鸣音亢进等症状，说明已并发了机械性肠梗阻。患者心率快，白细胞升高，也不能完全排除发生绞窄的可能。应选择紧急手术治疗，解除梗阻，处理被嵌顿的肠管。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "立即剖腹探查"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急诊室留观"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "止痛，抗炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃肠减压，择期行修补术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急做腹股沟疝探查，并作肠切除准备"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005591,
+                            "ATestID": 43005591,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1aedff3306cd3599ebec532e05fc06ec4e38d0eb3ad2195d18a4cc6389e351a40e0828bf8f69bd1e9992f096ee3e49aa806ada0898b1d7a30924a51f0d0ccb28",
+                            "Explain": "溃疡性结肠炎是一种病因不十分明确的直肠和结肠慢性非特异炎症性疾病，抗生素治疗无效，主要应用氨基水杨酸制剂及糖皮质激素治疗。细菌性痢疾为痢疾杆菌引起，抗生素治疗效果明显。故为两者的鉴别要点，其余选项均是两者的共有表现，不能鉴别。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "有无里急后重"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "有无脓血便"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "有无便血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抗生素治疗是否有效"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "有无发热"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005596,
+                            "ATestID": 43005596,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8956ea808c16feff045be71f9b41ab6afe1fa05ff50cf4c45bcb9cd2ecbde3dfb8888a2112833d53a33dce71c2e4c976b63085749035f889",
+                            "Explain": "脑病各期特点见下表。\n　　[YS432_388_1.gif]",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "肌张力降低",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "抽搐",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "各种反射消失",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "脑电图异常",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "扑翼样震颤",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005597,
+                            "ATestID": 43005597,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题无误，不做修改。",
+                            "OperateTime": "2018年8月10日"
+                        },
+                        {
+                            "Title": "a387ff5c2c34d0d83023bf4c66a877ab895d29cf951a402b9a4c5c87c878579e76887f3791f9ece3444b520014c5e0e90cb2b2cb83026b10e595e4c2a1f877ab5b4c0c743c892c2221a5e3c4843fef7d",
+                            "Explain": "肝硬化并发原发性肝癌多在大结节性或大、小结节混合性肝硬化基础上发生。如患者短期内出现肝迅速增大、持续性肝区疼痛、血性腹水、肝表面发现肿块应怀疑并发原发性肝癌。结核性腹膜炎有腹痛和发热症状，首先排除(A)。肝肾综合征(HRS)临床表现为自发性少尿或无尿，氮质血症和血肌酐升高，稀释性低钠血症，低尿钠(D)。门静脉血栓出现急性完全阻塞时，可出现剧烈腹痛、腹胀、血便、休克，脾脏迅速增大和腹水迅速增加(C)。自发性细菌性腹膜炎(SBP)是肝硬化常见的一种严重的并发症，临床表现为发热、腹痛、短期内腹水迅速增加，体检发现轻重不等的全腹压痛和腹膜刺激征(E)。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "结核性腹膜炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "原发性肝癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "门静脉血栓形成"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肝肾综合征"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "自发性腹膜炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005600,
+                            "ATestID": 43005600,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09039a7ac6ac53d40b3be7e77b13bad7c02351ad8491c6b7d229f9c05f127898ecd3089ffb8f773cda6a53a2090f21100b0d2fc1d58faf53f278b2b110f2f7e63af522199c38cd1a62888f38e98b5959088a8db7e86e160cf3db0029c3135453d42323dde354767522ec90af7f042696df89dc512d1101b8e3ff828d00b854fcc657206c6fa6d56c95899f45b348f67b9a299b5e3e196f8805801a74e1c06dfb0665c84163da5cfeb1ed1a2e30fb84bbd57fceccceb422b97cbb62ce954e011d15666bc083f5984c5e51907e817848ce264f",
+                            "Explain": "患者出现休克症状，应迅速纠正休克，补充血容量。典型的临床思维题，历年必考。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "升压药提高血压"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抗纤维蛋白溶解剂止血"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急诊内镜检查明确出血部位"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "三腔双囊管压迫止血"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "迅速补充血容量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005601,
+                            "ATestID": 43005601,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09037e4f6f3813a2c4dce6bacde8cabf8ffd72f6a326a587515300d1c05591fc4876a7e5ac036b22732007cc42ae3ca782b0758891e6c2a296559d304d48084b173180a5919b4d91c079dca6b8db1e9a8cf8dfcce42af470a3455f678a997233a00a0516e029d031266f9f7192aaf5f39dcba961f898f96d9ce13738f3a0093af8a368871bf6ae084613f1ee70fdad6cade63aa113f6a6617ef5d0b296be2c7a31c017b9d466bf9bd030",
+                            "Explain": "易误选E。患者为突发上腹痛，开腹探查见十二指肠球部前壁溃疡穿孔，诊断为急性十二指肠穿孔，急性十二指肠穿孔以穿孔缝合术为主要方式。并且患者胃十二指肠水肿，不宜行胃大部切除术。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Roux-en-Y式胃肠吻合"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "全胃切除术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "单纯穿孔修补"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "毕Ⅰ式"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "毕Ⅱ式"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005602,
+                            "ATestID": 43005602,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3942ff06b6fc7eebfbf60c8a7b9f421a734081b8b180eca5ef94ed3ca921760ba96a03f5630184565bad6460200e6742f581ff6c886199888ab29a2a189208ca72e91e7f9df1eab9",
+                            "Explain": "目前诊断肠易激综合征(IBS)国际采取罗马Ⅲ标准，①排便频率异常（每天>3次，或每周<3次）；②粪便性状异常（块状、硬便或稀水样便）；③粪便排出过程异常（费力、急迫感、排便不尽感）；④黏液便；⑤胃肠胀气或腹部膨胀感。罗马Ⅲ标准并没有提及情绪问题。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "排便频率异常（每天>3次，或每周<3次）"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "粪便性状异常（块状、硬便或稀水样便）"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "粪便排出过程异常（费力、急迫感、排便不尽感）"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃肠胀气或腹部膨胀感"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "情绪不稳，表现失眠、抑郁等"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005603,
+                            "ATestID": 43005603,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d0450ebcd2ac3d1b6036864977b6b432b2ceadee4a41875f32b7fdf03bfd16d6f2205c083bf4c36cd7f6cee4b89428e7097b0ee974ea60f9d66e23bb105faa0759787ba70c462ab51af88914d7476669a7d264eae9288bd3fb08f8dcad520a0616b885986f465df85faaf9510d04a301aeff709fe240118a31672fef9ad6dbbc2a8e3e54ee2de548bd0e98358a8b5c25c4f22d3295896fdcd1c3687613d7f9f537406309a41bb35f11b",
+                            "Explain": "克罗恩病是一种病因未明的胃肠道慢性炎性肉芽肿性疾病，多见于末段回肠和邻近结肠，呈阶段性或跳跃式分布。主要临床表现为腹痛、腹泻、腹部包块、瘘管形成、肛门周围病变等。内镜表现为回肠末端病变呈跳跃性，纵行溃疡，溃疡周围黏膜呈鹅卵石样。溃结肠镜表现为充血水肿，多发性痰疡。溃疡型肠结核内镜表现为环形边缘呈鼠咬状。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "溃疡性结肠炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "溃疡型肠结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肠伤寒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "克罗恩病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肠易激综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005604,
+                            "ATestID": 43005604,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699abae68e9eba205600528191fae80c3fa3dffa6222022e8cfaf6d3df92b216da1f98dc08141c0315fd65db0b5b35c1c2c5bf646e0c4aa623f3",
+                            "Explain": "胃食管反流病的临床表现包括食管症状和食管外症状。食管症状的特征性表现为烧心和反流，即典型症状，非典型症状指反流物刺激食管引起的症状：如胸痛、吞咽困难、吞咽疼痛等。反流物刺激食管可引起胸痛，疼痛可发生在胸骨后，向后背、胸部、肩部、颈部、耳后放射，疼痛可为剧烈刺痛，有时可酷似心绞痛。而食管外症状为反流物刺激或损伤食管以外组织或器官引起，如咳嗽、哮喘及咽喉炎等。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "反流物刺激食管痉挛所致"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "疼痛可发生在胸骨后"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "疼痛不向他处放射"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "疼痛可为剧烈刺痛"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "有时可酷似心绞痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005605,
+                            "ATestID": 43005605,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903e9bdb7a0c199b152c5dcf6f54312f18f3423063bc97bc3dbb7d79f7f4b37b3b89c84b48ca9fd888110ffc98cf9a07493a14291e4acb9e377a53cec80e35506b090041ba8518aa0af406d6706ccc709fac5b1e40ce42920d2b0a8e90a12270c37e633ca1488bfc5045e56b8fe282b067f419ae3c57640524ef83d791fa7bd0d9e5bbf89a9187b0e22717c72949995596ed02775a7679e87b2bdde4c61534e07fb19a6d3e75832dd03f21acdb5eaa93db9daaedae54296ec7e2f12e2b28bf360eb8b276cd62cc3863afea86739976cb7c8ef42e197910f06448077ad3ee382142eaeffc5433d5661485e884799b45cb33c",
+                            "Explain": "患者无痛性进行性皮肤巩膜黄染，肝大、胆囊大提示胰头癌的可能性大，CT可显示>2cm的肿瘤，可见胰腺形态变异、局限性肿大、胰周脂肪消失、胰管扩张或狭窄、大血管受压、淋巴结或肝转移等，诊断正确率可达80%以上，胰腺动态薄层增强扫描及三维重建检查在临床中广泛应用，对于胰腺肿瘤的定性、定位诊断提供非常重要的影像学依据，尤其是对胰腺肿瘤的术前可切除性评估具有重要意义，目前可作为胰腺肿瘤病人的首选影像学检查。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "MRI"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "B超"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "X线"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "核素扫描"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CT"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005606,
+                            "ATestID": 43005606,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699ab9918b1d2169b25702e324cd8cbd12c95f66723cd9443b621780a1eaeb9888577c6fdf7aebd7d271a62d949b31569ba9b708fb6c1acebb80",
+                            "Explain": "出血是消化性溃疡最常见的并发症。十二指肠溃疡由于基础胃酸较高，且黏膜薄，因此比胃溃疡更易出血。当成人每日出血量>5～10ml，可出现大便隐血试验阳性。每日出血量在50ml～100ml可出现黑便。短时间（并非半小时）内出血量超过1000ml，可出现周围循环衰竭表现。第一次出血后容易再发。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃溃疡一般比十二指肠溃疡容易发生"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "一般出血50～100ml即可出现黑便"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "出血超过500ml时就可引起循环障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "半小时内出血超过1000ml时均会发生休克"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "第一次出血后很少复发"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005607,
+                            "ATestID": 43005607,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "381c47737fd63e56419495f9278c8672b7251f5f96613a6317e836ab1052d78e1cbd073cb21dc323",
+                            "Explain": "胃癌血行播散最常转移到肝脏（经门静脉），其次见于肺、腹膜，及肾上腺，也可转移到肾、脑、骨髓等。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨骼"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "卵巢"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "皮肤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肝"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005608,
+                            "ATestID": 43005608,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d13b36849c22fc5536dd285a63b3103a56e86f40d58994e9e5c8ddf89ec9d18909fd5a78eed314c2f729932a19281d6565bcf35933de1c5aa675cbdc0fb8a353edd3bd260c8e6b43545187ed07a6a6e736185032078111b8df20f5f56f61b74a",
+                            "Explain": "高选择性迷走神经切断术治疗十二指肠溃疡病，手术应注意保留分布到胃窦的“鸦爪”支（见下图）。鸦爪支是分布于胃窦处的最后3～4支终末支进入胃窦，呈“鸭爪”状。控制胃窦的运动和幽门的排空。倘若手术损伤“鸦爪支”导致胃潴留和胃排空障碍。\n　　[YS432_390_1.gif]",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "迷走神经的前干",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "肝支",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "腹腔支",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "分布到胃窦的“鸦爪”支",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "迷走神经的后干",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005609,
+                            "ATestID": 43005609,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a00d6e4a6ccf5fd27dedd951d3256e793594bf3be8113a83de82117344b415da8057747ba6b61a00f2f7e3d146a0ca0d25181bdbeaea2f59",
+                            "Explain": "胃酸中Cl[SBjian.gif]离子可与Ca[SB2jia.gif]/Fe[SB2jia.gif]结合，形成可溶性盐，从而促进小肠对钙铁的吸收，胃酸分泌减少导致铁离子吸收减少，导致缺铁性贫血。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "巨幼红细胞性贫血"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腹泻"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "缺铁性贫血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脂肪泻"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005610,
+                            "ATestID": 43005610,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a5e049f0809d5b5cac3439ca498c8575abe4f404d92fbd15a6628fd5dc80ffd7fe9be9ddbfb4e4ff599865a222a02a5570629418125353b4",
+                            "Explain": "肝内胆管结石可多年无症状或仅有上腹和胸背部胀痛不适；常见的临床表现为急性胆管炎引起的寒战高热和腹痛，除合并肝外胆管结石或双侧肝胆管结石外，局限于某些肝段、肝叶的可无黄疸。(《外科学》第8版P458)又因肝细胞分泌的胆汁，经左右肝管-肝总管-与胆囊管汇合-胆总管-与主胰管汇合共同通路开口于十二指肠降部，故当胆汁流出道受阻时（如胆总管结石、肝门部胆管癌、胰头癌、壶腹部肿瘤等），均会出现梗阻性黄疸。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肝内胆管结石"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肝门部胆管癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胰头癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "壶腹部肿瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胆总管结石"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005611,
+                            "ATestID": 43005611,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2019年2月11日",
+                            "OldTestJson": "{\"Title\":\"下列疾病中，可不出现梗阻性黄疽的是\",\"Explain\":\"肝内胆管结石可多年无症状或仅有上腹和胸背部胀痛不适；常见的临床表现为急性胆管炎引起的寒战高热和腹痛，除合并肝外胆管结石或双侧肝胆管结石外，局限于某些肝段、肝叶的可无黄疸。(《外科学》第8版P458)又因肝细胞分泌的胆汁，经左右肝管-肝总管-与胆囊管汇合-胆总管-与主胰管汇合共同通路开口于十二指肠降部，故当胆汁流出道受阻时（如胆总管结石、肝门部胆管癌、胰头癌、壶腹部肿瘤等），均会出现梗阻性黄疸。\",\"TestPoint\":\"\",\"Answer\":\"A\",\"Difficulty\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"肝内胆管结石\"},{\"ItemName\":\"B\",\"Content\":\"肝门部胆管癌\"},{\"ItemName\":\"C\",\"Content\":\"胰头癌\"},{\"ItemName\":\"D\",\"Content\":\"壶腹部肿瘤\"},{\"ItemName\":\"E\",\"Content\":\"胆总管结石\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "002235026aa4a92257c02d597ed8ccde0e4f9cfd2881f2022621bbcd07470ebc3676dc163d4adaaf7dcc1c25ae44769b23210227786a33e681cf129e04b5f69f",
+                            "Explain": "急性重症（水肿型）胰腺炎血清淀粉酶的高低与病情程度无确切关联，反应重症急性胰腺炎病理生理变化的实验室检测指标见下表\n　　反映SAP病理生理变化的实验室检测指标\n　　[YS432_391_2.gif]\n　　低蛋白血症、低氧血症、氮质血症、高血糖症等都是重症胰腺炎的指标。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "低蛋白血症",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "AKP增高",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "低氧血症",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "氮质血症",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "高血糖症",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005614,
+                            "ATestID": 43005614,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "04d81beb42e54af5d787ef0adf6decf9c3c1a309dbd969e2df02864ca54a44e36cad1c5e61492957cacb7b5354963718a1c5307fe22dd3dc",
+                            "Explain": "腹腔内大量积液使血容量明显减少，导致低血容量休克，同时细菌毒素入血而引发感染性休克。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "大量毒素吸收"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "中毒性心肌炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "毒素吸收及血容量减少"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "体液丧失于腹腔"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性呼吸衰竭"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005621,
+                            "ATestID": 43005621,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c56c84843598e8479e78725efd1249821913c1af12ab107de830a6301f80163eda0887bff9f9e9ecfa68f4ccbc88f6a3c81d0ed0f9eda556b1b120ec031991e8d8849c0af1b1409775aac99c8fbbbbd8",
+                            "Explain": "下列情况应考虑有消化道活动出血①反复呕血或黑粪（血便）次数增多、粪质稀薄，肠鸣音活跃（而B选项为肠鸣音减弱，故选之）；②周围循环状态经充分补液及输血后未见明显改善，或虽暂时好转而又继续恶化；③血红蛋白浓度、红细胞计数及血细胞比容继续下降，网织红细胞持续性增高；④补液与尿量足够情况下，血尿素氮持续或再次增高。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "贫血"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肠鸣音减弱"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "网织红细胞增高"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "血尿素氮增高"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "反复呕血或黑粪（血便）次数增多"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005623,
+                            "ATestID": 43005623,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cc870755dcfe7606cff826300507ab1627fa211adeeb4105920831b4f341a4736ea4ae5db2dcee8c1811632f3ef3d085d1b8cbaa55d5be6f4d3e41ea340b28246523284ef7b290bf93478869b706896dde85523e2b97eae75b89c6137f6bcb0f8b61f01920a7ff73e4a22735c0a9e6be84a3ebb2c6a266742b33a620633a003b",
+                            "Explain": "此患者嵌顿性疝发展成绞窄性疝，此时，为避免修补术失败，应行“疝囊高位结扎术”而非“疝修补术”。绝大部分嵌顿坏死的小肠都会局限在疝囊内，而不必要再剖腹探查。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "剖腹探查，行肠切除，肠吻合术"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "坏死肠段外置术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "坏死肠段切除，肠吻合术，疝囊高位结扎术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肠切除、肠吻合术、Bassini修补术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "切开疝环，回纳肠管后行Bassini修补术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005625,
+                            "ATestID": 43005625,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c8d7d20d99f8f37442986d8eb639f0507d2ead7dadef8837796e6ec29b1aaa26aeef1787fc0a37d19f10e5e17c37890d3eec800ffe1898ee9d034b211bae8dd7",
+                            "Explain": "梗阻性化脓性胆管炎是由于在胆道梗阻的基础上发生胆道系统的细菌感染。治疗的关键是解除胆道的梗阻、引流胆道。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "非手术治疗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "作胆总管切开减压、T管引流手术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "经皮肝穿刺胆道造影引流(PTCD)"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "鼻胆管引流(ENBD)"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胆囊造瘘手术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005626,
+                            "ATestID": 43005626,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "eaeab46e6b3157b22c38cd75e7ae278cccbe8cd70d1e5572d23df9d67f1c132cc6211ac5d067128b79d5a29ff1d0b7a2b2eb8164e8c894743aefee80efa952ce514cd6160b5e23a0a85ccfd2fba845e2",
+                            "Explain": "急诊胃镜检查与急诊肠镜检查既可明确消化道出血的原因和部位，必要时还可做止血治疗（双极电凝、激光、套扎和注射硬化剂等）；选择性血管造影对确定出血部位尤有帮助，明确出血部位后，还可将导管插至出血部位，进行栓塞等介入止血治疗；而核素扫描只能用于消化道出血的诊断，不能用于治疗。本题解题的关键是“诊断和治疗”五个字，虽然所给选项均为消化道出血病人可做的辅助检查，但是应分清每项的用途。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急诊胃镜检查"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急诊肠镜检查"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "选择性血管造影"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "核素扫描"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急诊胃肠镜检查"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005627,
+                            "ATestID": 43005627,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "50037f072b7f006f832a0473542839251f6ec0d583e64f1cb75f6051c9afe52e738e54749101f91465fddf5f1377ca7d4fa2f56c6903e14da5e4fef7b51017779a8829db77aa2cd83e93b678cf59ca9b",
+                            "Explain": "行钡剂灌肠X线检查时见扭转部位钡剂受阻，钡影尖端呈现“鸟嘴”形；而杯口或弹簧状阴影为肠套叠行钡灌肠时，结肠受阻的表现；克罗恩病钡剂检查的典型表现为末端回肠线状征；“倒3征”为胰头癌行钡餐十二指肠造影的征象。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "“中断”"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "“杯口”"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "“鸟嘴”"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "“线状”"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "“倒3征”"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005628,
+                            "ATestID": 43005628,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d0450ebcd2ac3d1b603d4f864040be1bb95da5a4438184142c89a24ea31c69513cc99e02603e2a521136ac50a869f3e61af2bc1ff62fe8c947a4cb2ad339d97ff5ac89fdb1033ee8d641965b1bd4835954cfa6fb9b7c39a3eb2f48c6ae1dcc5f23f0ed91fe99983243c50fe7b92cae07836309a7104959d7ca4ed03c4b6d3a2ed5e9eebf9385dd64e37914f364e9373a4847031041fff37ef45eb11770a0a64de92b871df3fe24f0b59",
+                            "Explain": "有下列情况之一者，应考虑腹内脏器损伤：①早期出现休克征象者，尤其是出血性休克；②有持续性甚至进行性加重的腹部剧痛伴恶心、呕吐等消化道症状者；③有明显腹膜刺激征者；④有气腹表现者：⑤腹部出现移动性浊音；⑥有便血、呕血或血尿者；⑦直肠指诊发现前壁有压痛或波动感，或指套染血者。该患者有外伤史、腹痛及腹膜炎刺激征，故考虑有腹内脏器损伤；因患者血压偏低、心率快、血红蛋白100g/L，说明有内出血，X线片示右膈升高，故初步诊断应是肝破裂。因肝外伤后可能有胆汁溢出，故腹痛和腹膜刺激征常较明显。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肝破裂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脾破裂"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃破裂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腹膜后血肿"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胰腺破裂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005629,
+                            "ATestID": 43005629,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699af9cdd8f7783c865cd5fd7b2cfa220a0f58f51417645187c6da6f4d6ecece2edd88315e11c15c9ec1",
+                            "Explain": "①有慢性病理改变（如血吸虫病、疟疾、淋巴瘤等）的脾更易破裂；②由于脾组织脆弱，止血、修补缝合有一定的困难，故通常采用脾切除术；③按病理解剖脾破裂可分为中央型破裂（破在脾实质深部）、被膜下破裂（破在脾实质周边部）和真性破裂（破损累及被膜）等三种，临床所见脾破裂约85%是真性破裂，即有脾包膜和脾实质破裂；④脾破裂后表现为典型实质脏器损伤后的失血性改变，需急诊手术止血；⑤Ⅰ、Ⅱ级损伤可能保留脾脏。故E项错误。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "有慢性病理改变的脾更易破裂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "通常采用脾切除术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "85%有脾包膜及脾实质破裂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "治疗原则是紧急手术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Ⅲ级及以下损伤可保留脾脏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005630,
+                            "ATestID": 43005630,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1ad6b5a221bcaa60bc640361c6d2f3195078dc01c42a8758fa7edd812dbbdb6070ae08a235a6b35be8c8bd980bcbcbe144d0688738b7a33b28d5f65121b9ca7660834c328cfc08b2c0b77e0ccee3de2ad8a82c8344d30b5dfe5f11c008f1b525",
+                            "Explain": "Ferguson修补术是加强或修补腹股沟管前壁的方法，它是在精索前方将腹内斜肌下缘和联合肌腱缝至腹股沟韧带上，目的是消灭腹内斜肌弓状下缘与腹股沟韧带之间的空隙。本题并非难，而是要区分手术中精索的前后位置。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Mcvay修补术"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "Bassini修补术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "Ferguson修补术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "Halsted修补术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "疝成形术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005631,
+                            "ATestID": 43005631,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c56c84843598e8479e78725efd1249825058c2481cfcc629c4f6ad314c30fe933aa39d0f678eadb5832320f18bfba6df5fa28487a9f4ff748bd5792abd13da65",
+                            "Explain": "手术修补是腹股沟疝最有效的治疗方法，其基本原则是疝囊高位结扎、加强或修补腹股沟管管壁。但一岁以下婴幼儿可暂不手术，因其腹肌可随躯体生长逐渐强壮，疝有自行消失的可能；可采用棉线束带或绷带压住腹股沟管深环（如图所示），防止疝块突出并给发育中的腹肌以加强腹壁的机会。\n　　[YS432_393_1.gif]",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "婴幼儿疝",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "嵌顿性疝",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "切口疝",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "直疝",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "斜疝",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005632,
+                            "ATestID": 43005632,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185519fa0b55c43b1d95e6ecef29b37cb56398c78a07dc266be39927e63ba76209cfeaa560f976a79079ea98616765530f85481da7054001bf6",
+                            "Explain": "疝门是疝内容物突向体表的门户，亦是腹壁薄弱区或缺损所在，应予以关闭。手术修补是腹股沟疝最有效的治疗方法，其基本原则是疝囊高位结扎、加强或修补腹股沟管管壁。所谓高位，解剖上应达内环口，术中以腹膜外脂肪为标志；结扎偏低只是把一个较大的疝囊转化为一个较小的疝囊，达不到治疗目的。将腹股沟管内环口关闭，疝内容物即缺少了向外突出的路径，即使外环口不加任何处理，其也不可能突出体表，故无需修补外环口。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "修补外环口"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "关闭疝门"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "加强或修补腹股沟管管壁"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "高位结扎疝囊"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "解剖上应达内环口"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005634,
+                            "ATestID": 43005634,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7b152f764e1cb121eb693e7aba911391ebb83f0253c6bb6af5dbdaa3757d8274038d098a92c7459c1d8b57d8c64c1282ed75c35b0de1c6f537b65a1dfb1b6cfe1ba36d39e7f87e185ed76f06cd0eae83c81e169e9d504e7a46892dd3a3b13ec95d4a5c4daaed547b8e931eba371dcc95",
+                            "Explain": "Miles手术适用于距肛门7cm以下的直肠癌。（如图所示）[YS432_394_1.gif]",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Dixon手术"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "Miles手术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "Hartmann手术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "局部切除"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "经骶尾直肠癌切除术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005635,
+                            "ATestID": 43005635,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11763ad0b542ae48b1b3a8e85c03d3c9635ae420487f8e2e4d79257792992692603965ad1427ec266d8a5fd8b1b42157330f9575ce3e2c26f6198417838d70a7c4ec750252fbbf9e343f31ce593b913fbca39a07309341255045184dcdc4afc964e5d07d44b3b0f96caf2133bba8a9a3",
+                            "Explain": "行胆管对端吻合修补术后，应吻合口放置内支撑管6个月以上。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "不必放置任何引流"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "放置烟卷引流"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "放置T管引流2周"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "放置T管引流6个月"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "烟卷加T管引流2周"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005636,
+                            "ATestID": 43005636,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09034e5cd2f701973522d6c792395c2fd7eff084d23aad24e34cc5a80e5c6dd0b263b88f96d4ad04f1c20f84f7032395c4e40e1ddae2f65a1e0439b28610fff0ef0c6ebf902bced2377dbba96a364de997d44a9b3f2194c8ea123b1288fc3672971cdc092629361feed4c9ebf5de27d0bf3e352e6b74ad24f6e4f321b7dd0a16432a34ef4cae09e7f195ed2b9feb424ad73aa0753c908e48b8734185a60a72ad61635f656bdb1e3b689fbe50e73abcaaa0931fffd203def509105be0d22079d498da9c1c481e35a30a2ed797d038ae0c347ddc4775f5abbcacfd6746ed8ff57c5fbd676cf55a93af5685b4e73911958ad9d133d2ec28049cbe297a57f07e819f142a9c8050db63f7ae0739b536c897110202b4855810493dac51be430b3ad2da74133f322b05403a44da9292f572dfc5c033",
+                            "Explain": "疝内容物如为肠袢，则肿块柔软、光滑，扣之呈鼓音。回纳时常先有阻力；一旦回纳，肿块即较快消失，并常在肠袢进入腹腔时发生咕噜声。若疝内容物为大网膜，则肿块坚韧叩呈浊音，回纳缓慢。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "乙状结肠"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "大网膜"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "膀胱壁"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "回肠"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "盲肠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005637,
+                            "ATestID": 43005637,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea81852abfdbe818a7bbf056614465a566554339c437da339363220f5dbe775e0fa7e1",
+                            "Explain": "阑尾炎并发症包括腹腔脓肿、内、外瘘形成和门静脉炎。注意阑尾炎并发症和阑尾炎手术后并发症含义不同！阑尾炎手术后并发症包括切口感染、出血、肠梗阻、粪瘘和阑尾残株炎。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "门静脉炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肠内瘘"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肠外瘘"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腹腔脓肿"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "粘连性肠梗阻"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005638,
+                            "ATestID": 43005638,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c7b47004ec9eb49fc15386da53b5b389a11868c78fc4d960516b180de2858369c2cec963196c567b37cb7f4c8c2e3d8c2e9242060db8ffc5ebeff5b635843e6b9cb4eb10833c923b57b569e04ab250fa9a694af55d40a96a9fc3cd3efd8bbf1a3890fee01fcf71e410dd9922e268781b7ac67de70f74384a950932c948acaae6ea235a677175cff3b6f3d1801081b48578d7b5dd1dc3512afc25e78864a511879f3a51eaa82bf251775c17b21a0bc0dc3aef57ed02405db0",
+                            "Explain": "患者为溃疡穿孔修补术后，故目前的临床表现多与此手术相关。故排除A、E，因细菌性痢疾可有腹泻、直肠刺激症状和里急后重，但与手术无关；同样，直肠癌虽可有直肠刺激症状及尿频尿急，也可有直肠肿物，但无发热，也与手术无关。而肠功能紊乱可有腹泻，但一般无直肠刺激症状；膀胱炎仅有尿频尿急尿痛，也无直肠刺激症状，故均予以排除。所以，考虑该患者体温升高，伴直肠刺激症状及尿频尿急等症状，最大可能是并发盆腔脓肿。其原因是溃疡病穿孔后，胃内容物顺右结肠旁沟流人盆腔；术后半卧位，也有部分腹腔渗液流入盆腔，盆腹膜的吸收能力比上腹差，故易积聚盆腔形成脓肿。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "细菌性痢疾"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肠道功能紊乱"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "膀胱炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "盆腔脓肿"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "直肠癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005639,
+                            "ATestID": 43005639,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09037e4f6f3813a2c4dce2a1dab3e557eb1ed954991ff0fb17cde57212993f335f2a3deab83f6dd4798ae5c4985d18fc2c33b3e9252f228ab81dc4410bc4ccab71d8cbd757ea1d7e10d8ba439b2406c4d2f9db2ffc5dc6bd655221b1ee8e37ecd2a864869076ddaf077c1b1b117359cb46555ee9c2cbb486704e92e9806822d07880a848d77b76194f08079882f37ae587bd80cfa21a4e68edcadaa7498e7a6db9ef73df8e9e80bfb3f213da9c9093033f1ed13aa975f5781144e1ef5451d4727daf8b5ea78f132b4bbb3b37121e1bc8031c7c9203e856c78cb64ebb22ffd684c38283ea959b536df8bb0bb8172a4001a0f01b5dd647d4c69891",
+                            "Explain": "患者有腹部外伤史，B超示腹腔有中等量积液，应考虑腹腔脏器损伤；面色苍白，脉搏快而弱，以及疼痛能忍受，轻度反跳痛均提示该患者腹腔内的液体最可能是血液。其他选项不会表现失血性的表现，如面色苍白，脉搏快而弱等。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃内容物"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胆汁"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胰液"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "血液"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肠液"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005640,
+                            "ATestID": 43005640,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c56c84843598e8479e78725efd124982abbeb0c8dd9c6f99a9f45df2b2b7d236ddc5f4b6d5a1317598d17c4fedc177d6e2096a9e80f869cf11d4a3b92a46908f",
+                            "Explain": "无张力疝修补术是在无张力情况下，利用人工高分子修补材料进行缝合修补，克服了传统疝修补术的缺点，如缝合张力大、术后手术部位有牵扯感、疼痛等，其具有术后疼痛轻、恢复快、复发率低等优点；由于无张力，因此适用于某些有腹压增高的患者；但是人工高分子修补材料毕竟属于异物，因此有潜在的排异和感染危险，故临床上应选择适应证应用。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "适应于某些有腹压增高的患者"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "术后下地早，恢复快"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "复发率低"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "较常规手术不易感染"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "缝合张力小"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005641,
+                            "ATestID": 43005641,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a13eadd3bc8184e1c4ae53e5f60a4847784b4a6875d28c57f4e1022e29ad17fc8c819a1199af93175c2e06a3cb58a990d",
+                            "Explain": "各类型疝的鉴别参见下表：\n　　[YS432_394_2.gif]",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "滑疝多见于右侧",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "嵌顿性疝多发生在斜疝",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "直疝的疝内容物多为小肠和大网膜",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "难复性疝的主要特点是疝块不能完全还纳",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "绞窄性疝疼痛减轻，但肿块仍在，说明病情好转",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005642,
+                            "ATestID": 43005642,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a922bae865622870493e25732440702b53e7cd3d2f0bd4565bab5b112293c9849493cfb5addae280a1b8d57169aad93aa1df56a1b70f4a3f9fe9",
+                            "Explain": "急性化脓性腹膜炎腹痛是最主要的临床表现。疼痛程度与发病的原因、炎症的轻重、年龄及身体素质等有关。疼痛一般都很剧烈，难以忍受，呈持续性（B项错误）；深呼吸、咳嗽、转动身体改变体位时加剧；病人多不愿改变体位。疼痛从原发病变部位开始，随炎症扩散而延及全腹，原发病变部位最重。阵发性腹痛多为机械性肠梗阴及结石的特点。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "剧烈、持续性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "阵发性全腹痛"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "改变体位时疼痛加剧"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "原发病变部位显著"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "病人多不愿改变体位"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005643,
+                            "ATestID": 43005643,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09037e4f6f3813a2c4dcebe7ec978c1794ce85f464f746501de2eec08dc64a4226a7f5cbc4c9d3b14f6725081e1474d43c122f4d42acbef6989a07191dc8e75548756bf8caa045fcfb26ebaaa525ad5220af420a53f094ec13610b7753be6b84a1489cf83a5217452ca37ba876f7da05afb0ef627ad3f6f19b45b75296c5bb0ba00d9923631c5e4967552b34e3ac637cea443980dd6e81d3395530a26a373316bfe19d5c8ce95313140d5377e344b22d946aaf95231912f9a9de59be683556175def7f5dd52546838667fffecfd223af45fcc573e9d64724b03ea7cb8a18e28ddae837c925c8bbc32cc273f45e55b9b90ef00f233d24780a91fdfd49c7ad9c8f4e2487346e1eaa25dc2eaf07bbe3cbd8dbacc658486a10061b0198d21c79a7e1014842a8182be9516ad48bdbf920b8fb685e",
+                            "Explain": "胃大部切除术后梗阻包括吻合口梗阻、输入袢梗阻和输出袢梗阻。参见下表：\n　　[YS432_395_1.gif]\n　　该患者为毕Ⅱ式胃大部切除术后6天，上腹胀满，进食半小时后尤甚，常恶心、呕吐，吐出多量胆汁样液体，不含食物，故最可能的诊断是慢性不全性输入袢梗阻。而倾倒综合征包括早期倾倒综合征和晚期倾倒综合征，早期倾倒综合征常发生在进食后半小时左右，与餐后高渗食物快速进入肠道引起肠道内分泌细胞大量分泌肠源性血管活性物质有关，表现为心悸、心动过速、出汗、无力、面色苍白、恶心呕吐、腹泻等症状；晚期倾倒综合征多发生在餐后2～4小时。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "吻合口梗阻",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "输入袢梗阻",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "输出袢梗阻",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "倾倒综合征",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "术后胃瘫",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005650,
+                            "ATestID": 43005650,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a387ff5c2c34d0d869c0c0b3f0b217ef83ee6e34c5fa158fec0b23c7f018f6b380e7203119a427bbbc56c9d6807aa1c281e6b825d6edd5071649ecb21abc7043",
+                            "Explain": "肝硬化患者易发生消化性溃疡的主要原因是因为门静脉高压使胃黏膜静脉回流缓慢，胃十二指肠的上皮后机制消弱，大量代谢产物淤滞于黏膜，屏障功能受损，黏膜糜烂、溃疡。血流淤滞导致黏膜缺氧，故答案为A胃十二指肠的上皮后机制为胃黏膜丰富的毛细血管网为上皮细胞旺盛的分泌功能及自身不断更新提供足够的营养，也将局部代谢产物及反渗回黏膜的盐酸及时运走，胃黏膜的健康血液循环对保持黏膜完整甚为重要。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "黏膜缺氧"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "刺激胃酸分泌的物质不能被灭活"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高胃泌素血症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "内毒素增多"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "易感染"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005651,
+                            "ATestID": 43005651,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fcbefbf5734f78460300556ae70b5e114a0eb8b0f85b223862f41cb80541d72532fd84182d2a2d8489c189b5eb83680c69e569b3f34aa2042035f76f359468872b42d0e6bcd3ade727d35a92eefc988d4e03a40f6d9c7a8b6585389869d1baf429ed70e38689225828a569da6f91460eb69fad02178034105f16fe43a2ea3835b940baa44c7d2afc21f87f787c4a268140f6992c1e9d7ee3a15c757a6d924a43390944bf749384d0454e2f99e348f80d457292620aa3051afe17d4507bfb271e8ff9120aa889bc37d9a45303818406ff04eebc8831432ed80df62c7eaede24b70601a40baa53c22e35864808b0e82494ef8dd408155c56f",
+                            "Explain": "功能性消化不良的病因和发病机制至今尚未清楚，可能与多种因素有关。①胃肠动力障碍；②内脏感觉过敏；③胃底对食物的容受性舒张功能下降；④精神和社会因素。功能性消化不良诊断标准：①有上腹痛、上腹灼热感、餐后饱胀和早饱症状之一种或多种，呈持续或反复发作的慢性过程（罗马Ⅲ标准规定病程超过半年，近3个月来症状持续）；②上述症状排便后不能缓解（排除症状由肠易激综合征所致）；③排除可解释症状的器质性疾病。该患者腹痛、饱胀、嗳气且多次胃镜检查只是浅表性胃炎表现，腹部B超未见异常；并且患者有功能性消化不良的诱因（近期睡眠不佳），故可初步诊断为功能性消化不良。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "慢性咽炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胃癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃食管反流病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "功能性消化不良"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Oddi括约肌功能障碍"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005652,
+                            "ATestID": 43005652,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7b152f764e1cb121422458e46a07ad24bf718e02862e01533f0f50afdddf143fc532943ca68bb8ef7d1efdc1ea92919eb85f2eaaa6b88216f314ce3e736da024ee561bccd71aba77361dc6d8ae166c884731ce7a79b3ecd62114a1d4d97b0207b481870bc6dcfcc2845e0be53bad6353828aaada89a2c942c1f6f69bb6b6c2e90d9546bf2d729c86f6d469385bbd4d5506f6128dfc103fcf58c11662d8f53b59d930dc688d0189e6f473a324f003dbe2e5622c43e4e1d98156e0e12506a40fcc5105784e545637f16c826df466be356a43254e7b40e6c6a0c3c13a8b7857881bf78ccabc7b8fb008fba9238e5ef4564366128ba508d534f833c6b006753b6ebdd414a0b90294243da4c0068a71222031",
+                            "Explain": "肠易激综合征(IBS)是一种以腹痛或腹部不适伴排便习惯改变为特征而无器质性病变的常见功能性肠病。起病隐匿，症状反复发作或慢性迁延，病程长达数年至数十年，但全身健康状况却不受影响。精神、饮食等因素往往可诱使症状复发或加重。最主要的临床表现是腹痛或腹部不适、排便习惯和粪便性状的改变。该患者反复发作腹痛腹泻3年，大便有黏液，无脓血，心理因素加重病情，且抗生素治疗无效，符合肠易激综合征。感染性腹泻和炎症性肠病（克罗恩病、溃疡性结肠炎）的大便均有脓血，且使用抗生素治疗有效，故不支持。该患者在使用抗生素治疗前即有症状，所以也不支持抗生素相关性腹泻。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肠易激综合征"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "感染性腹泻"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "克罗恩病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抗生素相关性腹泻"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "溃疡性结肠炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005653,
+                            "ATestID": 43005653,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a6d500a89dd4dd53d19919e0cd6d6d9f9d36e96d19e577cb99d8ee4c8352b1e7a70e4ee0a4d3db42186e97f305e05f5f77cd9c558db3203eded55cf56ec34aaec074bcf34ec0455c8dec1406f74e9ca7877cca2021a69e4e6821c80cf45bf2f9d9ed6e1037bbf5b3d",
+                            "Explain": "溃疡性结肠炎是一种病因未明的直肠和结肠慢性非特异性炎症性疾病。其肠外表现包括：外周关节炎、结节性红斑、坏疽性脓皮病、巩膜外层炎、前葡萄膜炎、口腔复发性溃疡等，这些肠外表现在结肠炎控制或结肠切除后可以缓解或恢复；骶髂关节炎、强直性脊柱炎、原发性硬化性胆管炎及少见的淀粉样变性、急性发热性嗜中性皮肤病等，可与溃疡性结肠炎共存，但与溃疡性结肠炎本身的病情变化无关。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "淀粉样变性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "强直性脊柱炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "外周关节炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骶髂关节炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "原发性硬化性胆管炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005655,
+                            "ATestID": 43005655,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 542,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43005558,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005558,
+                        "ChildTableID": -1,
+                        "UserCount": 1794,
+                        "RightCount": 1617,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005558,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005559,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005559,
+                        "ChildTableID": -1,
+                        "UserCount": 2040,
+                        "RightCount": 1062,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005559,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005560,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005560,
+                        "ChildTableID": -1,
+                        "UserCount": 2047,
+                        "RightCount": 1333,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005560,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005562,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005562,
+                        "ChildTableID": -1,
+                        "UserCount": 1952,
+                        "RightCount": 1049,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005562,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43005563,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005563,
+                        "ChildTableID": -1,
+                        "UserCount": 1928,
+                        "RightCount": 996,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005563,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005564,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005564,
+                        "ChildTableID": -1,
+                        "UserCount": 1995,
+                        "RightCount": 678,
+                        "FavCount": 68,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005564,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005565,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005565,
+                        "ChildTableID": -1,
+                        "UserCount": 1754,
+                        "RightCount": 1418,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005565,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005566,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005566,
+                        "ChildTableID": -1,
+                        "UserCount": 1885,
+                        "RightCount": 992,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005566,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005567,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005567,
+                        "ChildTableID": -1,
+                        "UserCount": 1872,
+                        "RightCount": 1063,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005567,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43005568,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005568,
+                        "ChildTableID": -1,
+                        "UserCount": 1689,
+                        "RightCount": 1310,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005568,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005575,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005575,
+                        "ChildTableID": -1,
+                        "UserCount": 1684,
+                        "RightCount": 1512,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005575,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43005576,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005576,
+                        "ChildTableID": -1,
+                        "UserCount": 1862,
+                        "RightCount": 1048,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005576,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005577,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005577,
+                        "ChildTableID": -1,
+                        "UserCount": 1747,
+                        "RightCount": 1437,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005577,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005578,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005578,
+                        "ChildTableID": -1,
+                        "UserCount": 1714,
+                        "RightCount": 1563,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005578,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005580,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005580,
+                        "ChildTableID": -1,
+                        "UserCount": 1873,
+                        "RightCount": 1185,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005580,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005581,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005581,
+                        "ChildTableID": -1,
+                        "UserCount": 1819,
+                        "RightCount": 1226,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005581,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005582,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005582,
+                        "ChildTableID": -1,
+                        "UserCount": 1879,
+                        "RightCount": 816,
+                        "FavCount": null,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005582,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005583,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005583,
+                        "ChildTableID": -1,
+                        "UserCount": 1723,
+                        "RightCount": 1321,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005583,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005585,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005585,
+                        "ChildTableID": -1,
+                        "UserCount": 1722,
+                        "RightCount": 1356,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005585,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005586,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005586,
+                        "ChildTableID": -1,
+                        "UserCount": 1658,
+                        "RightCount": 1390,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005586,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005587,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005587,
+                        "ChildTableID": -1,
+                        "UserCount": 1714,
+                        "RightCount": 1294,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005587,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005588,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005588,
+                        "ChildTableID": -1,
+                        "UserCount": 1677,
+                        "RightCount": 1536,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005588,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43005589,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005589,
+                        "ChildTableID": -1,
+                        "UserCount": 1769,
+                        "RightCount": 1160,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005589,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005591,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005591,
+                        "ChildTableID": -1,
+                        "UserCount": 1672,
+                        "RightCount": 1393,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005591,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005596,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005596,
+                        "ChildTableID": -1,
+                        "UserCount": 1678,
+                        "RightCount": 1426,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005596,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005597,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005597,
+                        "ChildTableID": -1,
+                        "UserCount": 1762,
+                        "RightCount": 1083,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005597,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005600,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005600,
+                        "ChildTableID": -1,
+                        "UserCount": 1732,
+                        "RightCount": 1297,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005600,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005601,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005601,
+                        "ChildTableID": -1,
+                        "UserCount": 1781,
+                        "RightCount": 1202,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005601,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005602,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005602,
+                        "ChildTableID": -1,
+                        "UserCount": 1867,
+                        "RightCount": 816,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005602,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005603,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005603,
+                        "ChildTableID": -1,
+                        "UserCount": 1828,
+                        "RightCount": 1081,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005603,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43005604,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005604,
+                        "ChildTableID": -1,
+                        "UserCount": 1714,
+                        "RightCount": 1281,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005604,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005605,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005605,
+                        "ChildTableID": -1,
+                        "UserCount": 1791,
+                        "RightCount": 1250,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005605,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005606,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005606,
+                        "ChildTableID": -1,
+                        "UserCount": 1822,
+                        "RightCount": 681,
+                        "FavCount": null,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005606,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005607,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005607,
+                        "ChildTableID": -1,
+                        "UserCount": 1758,
+                        "RightCount": 1124,
+                        "FavCount": null,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005607,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005608,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005608,
+                        "ChildTableID": -1,
+                        "UserCount": 1771,
+                        "RightCount": 1149,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005608,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005609,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005609,
+                        "ChildTableID": -1,
+                        "UserCount": 1593,
+                        "RightCount": 1325,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005609,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43005610,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005610,
+                        "ChildTableID": -1,
+                        "UserCount": 1713,
+                        "RightCount": 1231,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005610,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005611,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005611,
+                        "ChildTableID": -1,
+                        "UserCount": 1722,
+                        "RightCount": 1078,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005611,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005614,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005614,
+                        "ChildTableID": -1,
+                        "UserCount": 1745,
+                        "RightCount": 902,
+                        "FavCount": null,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005614,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43005621,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005621,
+                        "ChildTableID": -1,
+                        "UserCount": 1629,
+                        "RightCount": 1352,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005621,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005623,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005623,
+                        "ChildTableID": -1,
+                        "UserCount": 1770,
+                        "RightCount": 1057,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005623,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005625,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005625,
+                        "ChildTableID": -1,
+                        "UserCount": 1643,
+                        "RightCount": 1274,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005625,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005626,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005626,
+                        "ChildTableID": -1,
+                        "UserCount": 1596,
+                        "RightCount": 1485,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005626,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005627,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005627,
+                        "ChildTableID": -1,
+                        "UserCount": 1719,
+                        "RightCount": 1277,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005627,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005628,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005628,
+                        "ChildTableID": -1,
+                        "UserCount": 1700,
+                        "RightCount": 1251,
+                        "FavCount": 55,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005628,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005629,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005629,
+                        "ChildTableID": -1,
+                        "UserCount": 1643,
+                        "RightCount": 1354,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005629,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43005630,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005630,
+                        "ChildTableID": -1,
+                        "UserCount": 1665,
+                        "RightCount": 1245,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005630,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43005631,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005631,
+                        "ChildTableID": -1,
+                        "UserCount": 1676,
+                        "RightCount": 1055,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005631,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43005632,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005632,
+                        "ChildTableID": -1,
+                        "UserCount": 1622,
+                        "RightCount": 1388,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005632,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005634,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005634,
+                        "ChildTableID": -1,
+                        "UserCount": 1783,
+                        "RightCount": 965,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005634,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005635,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005635,
+                        "ChildTableID": -1,
+                        "UserCount": 1727,
+                        "RightCount": 1003,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005635,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43005636,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005636,
+                        "ChildTableID": -1,
+                        "UserCount": 1871,
+                        "RightCount": 776,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005636,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43005637,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005637,
+                        "ChildTableID": -1,
+                        "UserCount": 1671,
+                        "RightCount": 1195,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005637,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43005638,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005638,
+                        "ChildTableID": -1,
+                        "UserCount": 1817,
+                        "RightCount": 789,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005638,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005639,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005639,
+                        "ChildTableID": -1,
+                        "UserCount": 1566,
+                        "RightCount": 1425,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005639,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005640,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005640,
+                        "ChildTableID": -1,
+                        "UserCount": 1635,
+                        "RightCount": 1336,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005640,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005641,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005641,
+                        "ChildTableID": -1,
+                        "UserCount": 1730,
+                        "RightCount": 935,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005641,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005642,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005642,
+                        "ChildTableID": -1,
+                        "UserCount": 1603,
+                        "RightCount": 1325,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005642,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005643,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005643,
+                        "ChildTableID": -1,
+                        "UserCount": 1780,
+                        "RightCount": 1150,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005643,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005650,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005650,
+                        "ChildTableID": -1,
+                        "UserCount": 1729,
+                        "RightCount": 947,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005650,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43005651,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005651,
+                        "ChildTableID": -1,
+                        "UserCount": 1841,
+                        "RightCount": 711,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005651,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005652,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005652,
+                        "ChildTableID": -1,
+                        "UserCount": 1690,
+                        "RightCount": 1287,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005652,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005653,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005653,
+                        "ChildTableID": -1,
+                        "UserCount": 1584,
+                        "RightCount": 1418,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005653,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005655,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005655,
+                        "ChildTableID": -1,
+                        "UserCount": 1762,
+                        "RightCount": 796,
+                        "FavCount": 60,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005655,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

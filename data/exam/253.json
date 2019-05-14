@@ -1,0 +1,929 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 15:04:08 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "83aac110bac4f34bf47e2df6e3b342b965bc97c73ee69593",
+                            "Explain": "卡马西平最初用于治疗三叉神经痛，后用于抗癫痫。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "氯硝西泮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "丙咪嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "氯丙嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "卡马西平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000500,
+                            "ATestID": 43000500,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f2de5a10aa3d3fcd8f373c47786dfdbc51883d054eaaff06b165f6ea544c4d8ec7f8cf4ea4ae29e3f6541466665354e68a9cbcadd1057442030968b89af649fd",
+                            "Explain": "苯妥英钠是治疗大发作和局限性发作的首选药物，无镇静催眠作用。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "地西泮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "苯巴比妥"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "扑米酮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上都不是"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000501,
+                            "ATestID": 43000501,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e246f9f74ea071a058039b3bc1e12a3d5993fbe23beb2f5a279e94e85125984a952a3633ce6a152d",
+                            "Explain": "本品对超强电休克、惊厥的强直相有选择性对抗作用，而对阵挛相无效或反而加剧，故其对癫痫大发作有良效，而对失神性发作无效。其抗癫痫作用机制尚未阐明，一般认为，增加细胞钠离子外流，减少钠离子内流，而使神经细胞膜稳定，提高兴奋阈，减少病灶高频放电的扩散。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "不宜肌内注射"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "无镇静催眠作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗癫痫作用与开放钠通道有关"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血药浓度过高则按零级动力学消除"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "有诱导肝药酶的作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002622,
+                            "ATestID": 43002622,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a92246919095504b029a9f83c1053c50ca5f446f430d44873f7bdfaa7de60c3dd1242752d4f5438bf557",
+                            "Explain": "癫痫患者需要长期口服药物控制病情，目前抗癫痫药物的种类繁多，对大多数癫痫患者有效的抗癫痫药被称为广谱抗癫痫药，常用的有以下三种。1.丙戊酸钠2.托吡酯3.拉莫三嗪",
+                            "TestPoint": "抗癫痫药和抗惊厥药。",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "苯巴比妥"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "丙戊酸钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "硝西泮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙琥胺"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002623,
+                            "ATestID": 43002623,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "88473f7fce94cdd479c59cea101830a13982691bfd1b7215153f65855f0c508d07970d8e535833483961c4d9e1f83c67",
+                            "Explain": "乙琥胺为琥珀酰胺类抗癫痫药，主要用于失神性发作和阵挛性发作，而对强直阵挛性和部分性发作无效。可与其他抗癫痫药一起用于混合型的癫痫发作。用于治疗失神性癫痫持续状态，有较好疗效。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乙琥胺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "卡马西平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "丙戊酸钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "地西泮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "扑米酮"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002624,
+                            "ATestID": 43002624,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5fabf65e626a2e51065b4523e47b544270b490ffbc71db393f4c7f2d61916da4d572af91a1c6e989c214165941ded7f2",
+                            "Explain": "具有致畸胎作用的抗癫痫药物是苯妥英钠。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "卡马西平"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "苯巴比妥"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "苯二氮[caozhuo.gif]类"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "多巴胺"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015407,
+                            "ATestID": 43015407,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "668039ec1ff436757023c236ff0be447bbd3c21bec09ac063f840cd463c25fac6f936b7ea13f290c17b700eae74dde47ec3893ac3cf55db4",
+                            "Explain": "卡马西平具有抗癫痫作用，对精神运动性发作、大发作、局限性发作和混合型癫痫均有效，对三叉神经痛、舌咽神经痛疗效较苯妥英钠好。丙戊酸钠对人的各型癫痫如各型小发作、肌阵挛性癫痫、局限性发作、大发作和混合型癫痫均有效。乙琥胺为癫痫小发作首选药，疗效好，不良反应小。苯巴比妥用于癫痫大发作的防治，作用出现快，也可用于癫痫持续状态。苯妥英钠能阻止脑部病灶发生的异常电活动向周围正常脑组织扩散，起到抗癫痫的作用。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "丙戊酸钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙琥胺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "苯巴比妥"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "卡马西平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000510,
+                            "ATestID": 41000510,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "c3de158c1ccdfddb3bf8e6297517ecec20a61c3a49f12cc38711e2d36d182faba7441cfbcf5af214c8f06fc3425dcb47988016cc3d9c3163ecb5e412d15816db7bc9864f75c163595a8e7f882552c4034a8034f61cb3903ff1a3f7ce8b398d23035d96cbb8bb704168c9f922c662c25df8f03cc99e12941079bc67a16ff3e9271e687cd58854ddb47d214c8233345e69deaf67ae74165c34",
+                            "Explain": "硫酸镁注射液，可作为抗惊厥药。常用于妊娠高血压。降低血压，治疗先兆子痫和子痫，也用于治疗早产。临产孕妇突感头痛，恶心，相继发生抽搐，查血压为22.0/14.6kPa，下肢水肿。应该是有子痫。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "地西泮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "水合氯醛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "苯巴比妥钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "硫酸镁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "硫喷妥钠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002625,
+                            "ATestID": 43002625,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d663d2499863c4ff9ff1521d7b0023fff7f673f97099cb1a64057960860d655ce26ce3fdee87d5b188712827ae75c19e31d9c0c28ab40f1741c7620db1e13c04b1b9028a38cdc6e97c66aaa3098796802d5e6c99e6d501339b1fba1082a59d702203acbb6a5f919a4cdfaf727cedbe1e5d4dc978a65b2d2c777c9305e73f803ebf92837cea73ff22cc8665387016e2c5",
+                            "Explain": "本品或其他巴比妥类药物中毒的急救：口服本品未超过3小时者，可用大量温生理盐水或1:2000的高锰酸钾溶液洗胃（注意防止液体流入气管内，以免引起吸入性肺炎)。洗毕，再以10～15g硫酸钠(忌用硫酸镁)导泻。并给碳酸氢钠或乳酸钠碱化尿液，减少在肾小管中的重吸收，加速药物排泄。亦可用甘露醇等利尿剂增加尿量，促进药物排出。又因呼吸抑制所致的呼吸性酸中毒时，可促进药物进入中枢，加重中毒反应，因此保证呼吸道通畅尤为重要，必要时行气管切开或气管插管，吸氧或人工呼吸。亦可适当给予中，枢兴奋药。血压偏低时，可静脉滴注葡萄糖盐水或低分子右旋糖酐。静滴氯化铵导致酸化尿液。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "人工呼吸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "静滴呋塞米"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "静滴碳酸氢钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "静滴氯化铵"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "静滴贝美格"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002626,
+                            "ATestID": 43002626,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e338cf0afb7d7a01cd3eed55887c27997845594f19c284705f29386da25345918b1cc252dfc39783a194fde9be90fad2780aa1c3bdf764b48a1dc21c1c6b6c62b49d795fd93d83869eaf217f31f8fdbd",
+                            "Explain": "新生儿惊厥以苯巴比妥为首选，因其具有镇静、保护脑细胞作用。静注显效快、维持时间长、副作用小等优点。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "苯巴比妥"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "地西泮"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "异丙嗪"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "硫喷妥钠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015409,
+                            "ATestID": 43015409,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题正确答案为A，已修改。",
+                            "OperateTime": "2019年2月25日",
+                            "OldTestJson": "{\"Title\":\"女，25天。不明原因反复惊厥发作3次，首选的止惊药物是\",\"Explain\":\"正在发作惊厥首选作用迅速的地西泮。平时口服药物首选苯妥英钠。\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"苯巴比妥\"},{\"ItemName\":\"B\",\"Content\":\"地西泮\"},{\"ItemName\":\"C\",\"Content\":\"苯妥英钠\"},{\"ItemName\":\"D\",\"Content\":\"异丙嗪\"},{\"ItemName\":\"E\",\"Content\":\"硫喷妥钠\"}],\"StyleType\":\"ATEST\"}"
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "6e9f7ac1543bb054f7a0dd0ce43194654f14719cf60a844acda9a8817e22a8053e83f3bec8cfe6c3",
+                            "Explain": "丙戊酸钠是对各种癫痫都有效的药物。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "乙琥胺"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "地西泮"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "丙戊酸钠"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "硫酸镁"
+                                }
+                            ],
+                            "AllTestID": 43002627,
+                            "BTestID": 43000678,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 253,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000678,
+                                    "Title": "6e9f7ac1543bb054f7a0dd0ce43194654f14719cf60a844acda9a8817e22a8053e83f3bec8cfe6c3",
+                                    "Explain": "丙戊酸钠是对各种癫痫都有效的药物。",
+                                    "TestPoint": "抗癫痫药和抗惊厥药",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000679,
+                                    "Title": "867148ff9d98add6ee58ff485dfc5e0ddf099c593f4c453bc1edac1418050d9b150455bdc0ad66da5d00ae7ff618da1a8c3267d286b0af18",
+                                    "Explain": "能诱导肝药酶加速自身代谢的药物是苯妥英钠。",
+                                    "TestPoint": "抗癫痫药和抗惊厥药",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000680,
+                                    "Title": "88473f7fce94cdd479c59cea101830a1af98b593c78cacb1756c1bad58f2937c",
+                                    "Explain": "对癫痫小发作最好选用乙琥胺。",
+                                    "TestPoint": "抗癫痫药和抗惊厥药",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000500,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000500,
+                        "ChildTableID": -1,
+                        "UserCount": 2738,
+                        "RightCount": 2273,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000500,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000501,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000501,
+                        "ChildTableID": -1,
+                        "UserCount": 2833,
+                        "RightCount": 1996,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000501,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43002622,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002622,
+                        "ChildTableID": -1,
+                        "UserCount": 2953,
+                        "RightCount": 1286,
+                        "FavCount": 103,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 48
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002622,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 48
+            },
+            {
+                "AllTestID": 43002623,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002623,
+                        "ChildTableID": -1,
+                        "UserCount": 2768,
+                        "RightCount": 1753,
+                        "FavCount": 62,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002623,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43002624,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002624,
+                        "ChildTableID": -1,
+                        "UserCount": 2556,
+                        "RightCount": 1964,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002624,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015407,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015407,
+                        "ChildTableID": -1,
+                        "UserCount": 2591,
+                        "RightCount": 1412,
+                        "FavCount": 93,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015407,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 41000510,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000510,
+                        "ChildTableID": -1,
+                        "UserCount": 2498,
+                        "RightCount": 2093,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000510,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002625,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002625,
+                        "ChildTableID": -1,
+                        "UserCount": 2523,
+                        "RightCount": 1749,
+                        "FavCount": 73,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002625,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002626,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002626,
+                        "ChildTableID": -1,
+                        "UserCount": 2671,
+                        "RightCount": 1232,
+                        "FavCount": 118,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 46
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002626,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 46
+            },
+            {
+                "AllTestID": 43015409,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015409,
+                        "ChildTableID": -1,
+                        "UserCount": 2569,
+                        "RightCount": 1269,
+                        "FavCount": 85,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015409,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002627,
+                "ChildTableID": 43000678,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002627,
+                        "ChildTableID": 43000678,
+                        "UserCount": 2432,
+                        "RightCount": 1920,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002627,
+                    "ChildTableID": 43000678
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002627,
+                "ChildTableID": 43000679,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002627,
+                        "ChildTableID": 43000679,
+                        "UserCount": 2400,
+                        "RightCount": 1610,
+                        "FavCount": 63,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002627,
+                    "ChildTableID": 43000679
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 43002627,
+                "ChildTableID": 43000680,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002627,
+                        "ChildTableID": 43000680,
+                        "UserCount": 2264,
+                        "RightCount": 2095,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002627,
+                    "ChildTableID": 43000680
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

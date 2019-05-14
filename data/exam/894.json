@@ -1,0 +1,184 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:49:47 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "aeab112ea0e6a9b8aca7e5257d948a503dbdcffd2ecaf76c9d4c405ae70b04b55260475f7ca5b20ff4cb12c73e648c89bc971701a877d851b5239913fd59e7409a6d422e1ef9f9bb77fbb1e92890e2ba850eefb22ffee950a4af673cb8e7ce972408c969635dbdba5963a2a436252a5307320472a698d303c6c1ecea35d023a2c345965facbf15057d2592eb2d7a1ed9",
+                            "Explain": "现患病例一新发病例偏倚是病例对照研究中的研究对象如果选自现患病例，特别是病程较长的现患病例，所得到的暴露信息可能与存活有关而与发病无关，或者是由于疾病而改变了原有的一些暴露特征，与新发病病例所提供的暴露信息有所不同，其结果可能将存活因素等作为疾病发生的影响因素，夸大或缩小了研究因素与研究疾病的真实关系。选用确诊一年以上的糖尿病患者因为接受过药物治疗，与新发发病例比较，诸多指标已经发生改变，故易产生现患病例一新发病例偏倚。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "检出症候偏倚"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "失访偏倚"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "现患病例-新发病例偏倚"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "入院率偏倚"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "不依从偏倚"
+                                }
+                            ],
+                            "AllTestID": 43007385,
+                            "BTestID": 43001583,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 894,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43001583,
+                                    "Title": "aeab112ea0e6a9b8aca7e5257d948a503dbdcffd2ecaf76c9d4c405ae70b04b55260475f7ca5b20ff4cb12c73e648c89bc971701a877d851b5239913fd59e7409a6d422e1ef9f9bb77fbb1e92890e2ba850eefb22ffee950a4af673cb8e7ce972408c969635dbdba5963a2a436252a5307320472a698d303c6c1ecea35d023a2c345965facbf15057d2592eb2d7a1ed9",
+                                    "Explain": "现患病例一新发病例偏倚是病例对照研究中的研究对象如果选自现患病例，特别是病程较长的现患病例，所得到的暴露信息可能与存活有关而与发病无关，或者是由于疾病而改变了原有的一些暴露特征，与新发病病例所提供的暴露信息有所不同，其结果可能将存活因素等作为疾病发生的影响因素，夸大或缩小了研究因素与研究疾病的真实关系。选用确诊一年以上的糖尿病患者因为接受过药物治疗，与新发发病例比较，诸多指标已经发生改变，故易产生现患病例一新发病例偏倚。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001584,
+                                    "Title": "954885d20b4978a253135e86971a5d8d7ed6ab4b58da67f04d17b1a1711f03b1bdf8d050e643e23e878d643d567c21d9df925bbe4f8895438f1da773de619f31d5efaa794709c90d",
+                                    "Explain": "当利用医院病人作为病例和对照时，由于所选的对照仅是某种或某些疾病病人中的一部分，而不是目标人群的随机样本，病例也只是该医院或某些医院的特定病例，而且由于医院的条件。病人的居住地区级社会经济文化等多方面因素的影响，病人对医院以及医院对病人都有一定的选择性，因此作为病例组的病例也不是全体病人的随机样本。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001585,
+                                    "Title": "17cb8cd40c8673fecf6f0db6c633ab3e41ec2b1e731debff89fe32a57e4fa91399610c62526e38f4ec9af82133015f70133439dc167b42e702e20c991334717cbdef1f2616fb511a7b71472c9056f06107e8320c76e07e90142453ac7dffabb2473fdeeb6a9edf683c23931088c78874",
+                                    "Explain": "检出症候偏倚：某因素如能引起或促进某症候（与所研究疾病的体征或症状类似）的出现，使患者因此而去就医，这就提高了该病的检出机会，使人误以为某因素与该病有因果联系。这种虚假联系造成的偏倚称为检出信号（或检出症候）偏倚。如，曾有研究发现子宫内膜癌与绝经期服用雌激素有关。这个研究结果是因为绝经期妇女服用雌激素会引起不规则子宫出血，因此而就医，得到检查子宫内膜的机会较多，从而增加了发现子宫内膜癌的机会。不服用雌激素的子宫内膜癌常无明显症状，发现机会较少。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43007385,
+                "ChildTableID": 43001583,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43007385,
+                        "ChildTableID": 43001583,
+                        "UserCount": 1233,
+                        "RightCount": 1072,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43007385,
+                    "ChildTableID": 43001583
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43007385,
+                "ChildTableID": 43001584,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43007385,
+                        "ChildTableID": 43001584,
+                        "UserCount": 1246,
+                        "RightCount": 528,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43007385,
+                    "ChildTableID": 43001584
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43007385,
+                "ChildTableID": 43001585,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43007385,
+                        "ChildTableID": 43001585,
+                        "UserCount": 1288,
+                        "RightCount": 466,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43007385,
+                    "ChildTableID": 43001585
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

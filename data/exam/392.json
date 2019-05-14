@@ -1,0 +1,591 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:19:04 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "48cc0b4c082a56e714c50822282ae2f6347bd494571c8b8c721deeb2c125303b61c46ce2bc4b69cb13eacf43f75570fc3ee8ae5ecc8d1b468fd5114f8c085d2c",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "红霉素",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "氯霉素",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "阿奇霉素",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "甲硝唑",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "利福平",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000557,
+                            "ATestID": 43000557,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 392,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "31cc4f39c0f8f88fa4ee093ee7c5763343649f06031e64698e6d55fdb5a5c05d294efd54dc62a7ac",
+                            "Explain": "克林霉素对以下微生物有活性；需氧革兰氏阳性球菌：金黄色葡萄球菌和表皮葡萄球状菌（均包括产青霉素酶和不产青霉素酶的菌株）、链球菌（粪肠道球菌除外）、肺炎球菌。厌氧革兰氏阴性杆菌属：拟杆菌属（含脆弱拟杆菌群和产黑拟杆菌群）和梭杆菌。厌氧革兰氏阳性不产芽孢杆菌属：丙酸杆菌属、真细菌属和放线菌属。厌氧和微需氧的革兰氏阳性杆菌属：消化球菌属、微需氧链球菌和消化链球菌属。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "立克次体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "放线杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "脆弱拟杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "金黄色葡萄球菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "产气荚膜杆菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002760,
+                            "ATestID": 43002760,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 392,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d515d7710873af9f6b92045341bcf4a254ffa58efb438911fa7977af6d51ed1012e23fb5ddb70dcc4c2dc4e3630f76d3",
+                            "Explain": "大环内酯类抗生素(macrolidesantibiotics，MA)是一类分子结构中具有12-16碳内酯环的抗菌药物的总称，通过阻断50s核糖体中肽酰转移酶的活性来抑制细菌蛋白质合成，属于快速抑菌剂。主要用于治疗需氧革兰阳性球菌和阴性球菌、某些厌氧菌以及军团菌、支原体、衣原体等感染。但最近的研究表明大环内酯类抗生素除了抗菌作用外，还具有其他广泛的药理作用。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "G[~+.gif]菌"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "G[~-.gif]球菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "大肠杆菌，变形杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "军团菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "衣原体、支原体"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002761,
+                            "ATestID": 43002761,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 392,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "afcab963cbd2ef2f16e45bd32725b34b0f84c88543525c0c462d27c4336c3fb2",
+                            "Explain": "抗生素治疗首选大环内酯类，疗程一般不少于2～3周，停药过早易于复发。如红霉素、阿奇霉素。",
+                            "TestPoint": "大环内酯类抗生素",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "阿莫西林"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "红霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "头孢曲松"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "林可霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "万古霉素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002762,
+                            "ATestID": 43002762,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 392,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5ccdcd3d53a92917e689800ef29739d5a162bedfbd1d3feb2d28853a42e84d181ec5299f41f3297c",
+                            "Explain": "红霉素是由红霉素链霉菌所产生的大环内酯类的代表性抗生素。主要对革兰阳性菌具有抗菌性。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "红霉素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "诺氟沙星"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "盐酸金刚乙烷"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "庆大霉素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "甲硝唑"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015522,
+                            "ATestID": 43015522,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 392,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "f07ff7324c7a69859374b8aad5e51b729114e188fe0bd7daf5cec655322dbc7b853a545dd21f0ba3403bf3b659fd486b93081b2fafd9196fbe135caff67f4dd0",
+                            "Explain": "克林霉素对革兰阳性菌有较强的抗菌作用，主要用于各种厌氧菌及金黄色葡萄球菌等革兰阳性菌感染，对各种肺炎包括小儿吸入性肺炎，腹腔、女性盆腔厌氧菌感染，压疮引起的败血症均有效。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "具有较强抗铜绿假单胞菌作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "具有抗DNA病毒的作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "为支原体肺炎首选药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "主要用于金黄色葡萄球菌引起的骨及关节感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "对念珠菌有强大抗菌作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000578,
+                            "ATestID": 41000578,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 392,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "9eab42989164543d527edfe2512676da",
+                            "Explain": "阿昔洛韦是抗病毒药物。克林霉素主要治疗厌氧菌引起的口腔、腹腔和妇科感染。对金葡菌引起的骨髓炎为首选药。也可用于需氧G[SBjia.gif]球菌引起的呼吸道、骨及软组织、胆道感染及败血症、心内膜炎等。克林霉素口服吸收好，抗菌活性高，临床疗效优于林可霉素。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "具有较强抗铜绿假单胞菌作用"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "主要用于金葡菌引起的骨及关节感染"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "为支原体肺炎首选药物"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "对念珠菌有强大抗菌作用"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "具有抗DNA病毒的作用"
+                                }
+                            ],
+                            "AllTestID": 43000558,
+                            "BTestID": 43000138,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 392,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000138,
+                                    "Title": "9eab42989164543d527edfe2512676da",
+                                    "Explain": "阿昔洛韦是抗病毒药物。克林霉素主要治疗厌氧菌引起的口腔、腹腔和妇科感染。对金葡菌引起的骨髓炎为首选药。也可用于需氧G[SBjia.gif]球菌引起的呼吸道、骨及软组织、胆道感染及败血症、心内膜炎等。克林霉素口服吸收好，抗菌活性高，临床疗效优于林可霉素。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000139,
+                                    "Title": "31cc4f39c0f8f88fe481cdf8c6f886a2",
+                                    "Explain": "阿昔洛韦是抗病毒药物。克林霉素主要治疗厌氧菌引起的口腔、腹腔和妇科感染。对金葡菌引起的骨髓炎为首选药。也可用于需氧G[SBjia.gif]球菌引起的呼吸道、骨及软组织、胆道感染及败血症、心内膜炎等。克林霉素口服吸收好，抗菌活性高，临床疗效优于林可霉素。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000557,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000557,
+                        "ChildTableID": -1,
+                        "UserCount": 1533,
+                        "RightCount": 1080,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000557,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002760,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002760,
+                        "ChildTableID": -1,
+                        "UserCount": 1628,
+                        "RightCount": 780,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002760,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002761,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002761,
+                        "ChildTableID": -1,
+                        "UserCount": 1620,
+                        "RightCount": 921,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002761,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002762,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002762,
+                        "ChildTableID": -1,
+                        "UserCount": 1451,
+                        "RightCount": 1194,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002762,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015522,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015522,
+                        "ChildTableID": -1,
+                        "UserCount": 1386,
+                        "RightCount": 1058,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015522,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41000578,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000578,
+                        "ChildTableID": -1,
+                        "UserCount": 1411,
+                        "RightCount": 1015,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000578,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43000558,
+                "ChildTableID": 43000138,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000558,
+                        "ChildTableID": 43000138,
+                        "UserCount": 1344,
+                        "RightCount": 1120,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000558,
+                    "ChildTableID": 43000138
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43000558,
+                "ChildTableID": 43000139,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000558,
+                        "ChildTableID": 43000139,
+                        "UserCount": 1351,
+                        "RightCount": 1183,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000558,
+                    "ChildTableID": 43000139
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

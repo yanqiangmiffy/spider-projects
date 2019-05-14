@@ -1,0 +1,705 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:28:35 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "a83a351dd5295f04ee9b99e9b8c965411669ea54b5733d40b5e1c9d7ec179b43098f08f2b9e619a576c4af00afac10b6",
+                            "Explain": "贝特类药物减少脂肪酸从脂肪组织进入肝合成TG及VLDL。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抑制乙酰辅酶A羧化酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "增加脂肪酸从脂肪组织进入肝合成TG及VLDL"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "增强LPL活化，加速CM和VLDL的分解代谢"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "增加HDL的合成，减慢HDL的清除"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "促进LDL颗粒的清除"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000530,
+                            "ATestID": 43000530,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8d1610cd85d4d25d2d4e5b846de0ddd41454b50476ce97308a9221b4d22b877abcf22eb97f34f9c8d4157bf6a6df9e50e843c5d6aae7675c8be7d785ce40ecb9",
+                            "Explain": "乐伐他汀，能抑制肝脏合成胆固醇的限速酶HMG-CoA还原酶活性，从而阻断HMG-CoA向甲基二羟戊酸转化的药物。与胆汁酸结合树脂合用，作用更强，也使VLDL明显下降，对TG作用较弱，可使HDL-c上升。能抑制肝脏合成胆固醇的限速酶HMG-CoA还原酶活性，从而阻断HMG-CoA向甲基二羟戊酸转化，使肝内胆固醇合成减少。由于肝内胆固醇含量下降，可解除对LDL受体基因抑制，使LDL受体合成增加，从而使血浆中LDL、IDL大量被摄入肝脏，使血浆LDL-c、IDL-c降低，理由于肝脏胆固醇减少，使VLDL合成减少。降LDL-c作用以乐伐他汀最强，普伐他汀最弱。",
+                            "TestPoint": "抗动脉粥样硬化药",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "烟酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "多烯脂肪酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "普罗布考"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "乐伐他汀"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "非诺贝特"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002728,
+                            "ATestID": 43002728,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "222375300d10e5fff873424ca00a15ad57f8cab4a2567b6e8d61e3e7364e59cde1f43bd20e7c76f381faa4723e3b7d24cbb9827badcfa07e4724493da55e35352386809523b62ce7",
+                            "Explain": "甲亚油酰胺是酰基辅酶A胆固醇酰基转移酶有促进细胞内胆固醇转化为胆固醇酯的功能，对胆固醇的吸收，蓄积，脂蛋白的形上海有促进作用。该药为此此酶的抑制剂，可以对抗以上作用，从而达到降低胆固醇的作用。",
+                            "TestPoint": "酰基辅酶A胆固醇酰基转移酶抑制药",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "甲亚油酰胺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "烟酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "考来替泊"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "辛伐他汀"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "维生素E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002729,
+                            "ATestID": 43002729,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "33c0f5de4c16af6c4f0df69436a03710642f4b9ced3ab33a5e6ea4f5905140a91d5b65738ec5c3cb",
+                            "Explain": "考来烯胺可用于Ⅱa型高脂血症，高胆固醇血症。本品降低血浆总胆固醇和低密度脂蛋白浓度，对血清甘油三酯浓度无影响或使之轻度升高，因此，对单纯甘油三酯升高者无效。本品还可用于胆管不完全阻塞所致的瘙痒。",
+                            "TestPoint": "抗动脉粥样硬化药",
+                            "Answer": "A",
+                            "Difficulty": "很难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "考来烯胺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "烟酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "多烯脂肪酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "低分子量肝素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "普罗布考"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002730,
+                            "ATestID": 43002730,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "638d3ff7ad9b8f92b1e0bcd494abc595db19750ca0d17bef7dd267f8a5db9365a0ad5462f61cf640e49bb8c86a9d5354e3c073ce22c09ecd",
+                            "Explain": "他汀类与HMG-CoA的化学结构相似，且和HMG-CoA还原酶的亲和力高出HMG-CoA数千倍，对该酶产生竞争性的抑制作用，使Ch合成受阻。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "抑制体内胆固醇氧化酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "阻断HMG-CoA转化为甲羟戊酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "具有促进细胞分裂作用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "使肝脏LDL受体表达减弱"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "具有降低细胞免疫的作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015458,
+                            "ATestID": 43015458,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "da9bc8f27f607596f3330d90ce12339ff260f3e9206fc0997a77683d37f3c9d85d52122c2779182763e9a4fe263cf268",
+                            "Explain": "洛伐他汀属于HMG-CoA还原酶抑制剂，在体内竞争性地抑制胆固醇合成过程中的限速酶β-羟-β-甲戊二酸单酰辅酶A还原酶，使胆固醇的合成减少，也使低密度脂蛋白受体合成增加，由此对动脉粥样硬化和冠心病的防治产生作用，多用于治疗高胆固醇血症和混合型高脂血症。但是洛伐他汀是杂合子家族型高胆固醇血症的首选药，对纯合子家族可降低LDL-C，适用于继发性高脂血症。原发性高胆固醇血症并非首选药物。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "是HMG-CoA还原酶抑制剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "糖尿病性、肾型高脂血症的首选药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "杂合子家族性高胆固醇血症的首选药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "可降低纯合子家族性高胆固醇血症的LDL-C"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "原发性高胆固醇血症、Ⅱ型高脂蛋白血症的首选药"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000537,
+                            "ATestID": 41000537,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "474e832d631e41eb740ca6fdf596143de820f0eea30b4ca8a954cef7977eff68aa58863f23d166a6cbcddc6306923858cd76310cc7b3b7535e90ecac84fd3a73",
+                            "Explain": "HMG-CoA还原酶抑制剂为他汀类药物，其不良反应较少而轻，大剂量应用时患者偶可出现胃肠反应、肌痛、皮肤潮红、头痛及肌酸磷酸激酶升高等暂时性反应；偶有横纹肌溶解症。动物实验发现超大剂量引起犬的白内障。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "苯氧酸类"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "多不饱和脂肪酸类"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "胆汁酸结合树脂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HMG-CoA还原酶抑制剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抗氧化剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000538,
+                            "ATestID": 41000538,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "638d3ff7ad9b8f92b1e0bcd494abc595db19750ca0d17bef6bff2a37ca7e76c9",
+                            "Explain": "洛伐他汀是HMG-CoA还原酶抑制剂是。",
+                            "TestPoint": "抗动脉粥样硬化药",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "考来烯胺"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "烟酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "非诺贝特"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "洛伐他汀"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "普罗布考"
+                                }
+                            ],
+                            "AllTestID": 43002731,
+                            "BTestID": 43000708,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 361,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000708,
+                                    "Title": "638d3ff7ad9b8f92b1e0bcd494abc595db19750ca0d17bef6bff2a37ca7e76c9",
+                                    "Explain": "洛伐他汀是HMG-CoA还原酶抑制剂是。",
+                                    "TestPoint": "抗动脉粥样硬化药",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000709,
+                                    "Title": "8419e849a5e7c8fef50417467c3f656ceed8649ccdf45be08b4762676ac6f28e3cd6fa413c7320d8",
+                                    "Explain": "具有抗氧化作用的药物是普罗布考。",
+                                    "TestPoint": "抗动脉粥样硬化药",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000710,
+                                    "Title": "1322c6b798d2ddee81a9dc3e4a7db7e8ab1a83d29f644a5089a674c27fb51e9f5f197121659af68b",
+                                    "Explain": "抑制胆固醇合成的药物是洛伐他汀。",
+                                    "TestPoint": "抗动脉粥样硬化药",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000530,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000530,
+                        "ChildTableID": -1,
+                        "UserCount": 1805,
+                        "RightCount": 933,
+                        "FavCount": 60,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 34
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000530,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 34
+            },
+            {
+                "AllTestID": 43002728,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002728,
+                        "ChildTableID": -1,
+                        "UserCount": 1721,
+                        "RightCount": 1381,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002728,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002729,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002729,
+                        "ChildTableID": -1,
+                        "UserCount": 1867,
+                        "RightCount": 667,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 39
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002729,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 39
+            },
+            {
+                "AllTestID": 43002730,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002730,
+                        "ChildTableID": -1,
+                        "UserCount": 1861,
+                        "RightCount": 942,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002730,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43015458,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015458,
+                        "ChildTableID": -1,
+                        "UserCount": 1558,
+                        "RightCount": 1135,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015458,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 41000537,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000537,
+                        "ChildTableID": -1,
+                        "UserCount": 1781,
+                        "RightCount": 822,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000537,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 41000538,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000538,
+                        "ChildTableID": -1,
+                        "UserCount": 1591,
+                        "RightCount": 1254,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000538,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43002731,
+                "ChildTableID": 43000708,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002731,
+                        "ChildTableID": 43000708,
+                        "UserCount": 1596,
+                        "RightCount": 1331,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002731,
+                    "ChildTableID": 43000708
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002731,
+                "ChildTableID": 43000709,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002731,
+                        "ChildTableID": 43000709,
+                        "UserCount": 1787,
+                        "RightCount": 597,
+                        "FavCount": 61,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002731,
+                    "ChildTableID": 43000709
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43002731,
+                "ChildTableID": 43000710,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002731,
+                        "ChildTableID": 43000710,
+                        "UserCount": 1639,
+                        "RightCount": 1153,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002731,
+                    "ChildTableID": 43000710
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

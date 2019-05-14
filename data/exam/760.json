@@ -1,0 +1,904 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 00:15:55 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 12,
+                    "TestItems": [
+                        {
+                            "Title": "最可能的诊断是",
+                            "Explain": "子宫颈癌主要表现为接触性出血，故49题选C。宫颈癌是最常见的妇科恶性肿瘤，确诊需要病理学依据，故应做宫颈活组织检查，故50题选E。子宫颈癌分期，ⅠB期：临床病变局限于子宫颈，或临床病变超过ⅠA期；ⅠB1期：临床病变不超过4cm；ⅠB2期：临床病变大于4cm；故51题选C。手术治疗主要用于ⅠA～ⅡA的早期患者，患者为ⅠB2期，应选用广泛性子宫切除术加盆腔淋巴结切除术。而宫颈锥切术用于原位癌。全子宫切除术主要用于ⅠA1期患者。放射治疗适用于ⅡB期以后及晚期患者，故52题选E。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "子宫颈息肉"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "子宫颈结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "子宫颈癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "子宫内膜异位症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "宫颈绒癌"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d0903700949e130e28cbcf4ed88af591a5705a90d4fdd6a33efe7f267eda8f60995f44a8a4e798b9295c5587b401a41e3742e8b2a1e622c79dc590d8d4095c0fb1e07a848a22602f95fb1433d68d2be845b545122cdd4c3d91adbfb7e0a798bd06aa5780e200ac12ce1af3321720008238864e0582b89335e984ad5d860c0ad7c4d5df882171573cbbf370e30ad00f3dda0ab195b2b6701a97f38027ec2bb954417ee445bf01b9436dcf5325bdcd70b46e9d82b3d545d77f99aeb0114e7760904030a",
+                            "AllTestID": 35002661,
+                            "A3TestID": 35000277,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 760,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000277,
+                                    "Title": "91c2beef1821172aa02421cc2b7a143016574b280934b3fd",
+                                    "Explain": "子宫颈癌主要表现为接触性出血，故49题选C。宫颈癌是最常见的妇科恶性肿瘤，确诊需要病理学依据，故应做宫颈活组织检查，故50题选E。子宫颈癌分期，ⅠB期：临床病变局限于子宫颈，或临床病变超过ⅠA期；ⅠB1期：临床病变不超过4cm；ⅠB2期：临床病变大于4cm；故51题选C。手术治疗主要用于ⅠA～ⅡA的早期患者，患者为ⅠB2期，应选用广泛性子宫切除术加盆腔淋巴结切除术。而宫颈锥切术用于原位癌。全子宫切除术主要用于ⅠA1期患者。放射治疗适用于ⅡB期以后及晚期患者，故52题选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "子宫颈息肉"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "子宫颈结核"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "子宫颈癌"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "子宫内膜异位症"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "宫颈绒癌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000278,
+                                    "Title": "215910474de99d7d177a1eab4931fe3316928f865352c06a04d3294d5770e8d1f4cb8a6eab551b01c047c2b9b0e84034",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "宫颈刮片细胞学检查"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "碘试验"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "阴道镜检查"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "氮激光肿瘤固有荧光诊断法"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "宫颈活检"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000279,
+                                    "Title": "8a51901691ece6e97cd2520ccc4a98c47e6d76cdcb3432d6555a2dea5b7cc200",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "ⅠA期"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "ⅠB1期"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "ⅠB2期"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "ⅡA期"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "ⅡB期"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000280,
+                                    "Title": "166e6b9d7d1c87ee1fc920db7089992d364cdf7817150d5cd331da24a7d2e60d",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "宫颈锥切术"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "放射治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "全子宫切除术"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "次广泛性子宫切除术加盆腔淋巴结切除术"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "广泛性子宫切除术加盆腔淋巴结切除术"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "为进一步确诊，最有诊断价值的辅助检查方法应为",
+                            "Explain": "老年女性绝经后阴道出血8个月，子宫增大稍软，首先考虑子宫内膜癌，最有诊断价值的辅助检查方法应为分段刮宫活组织检查，故55题选C。手术治疗是子宫内膜癌治疗的主要方法，该患者应行全子宫及双附件切除术，故56题选E。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "B超检查"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸部X线摄片"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "分段刮宫活组织检查"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "刮取宫颈管活组织检查"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腹腔镜检查"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d0903e9bdb7a0c199b1525f90c09f732f05335a713c3b29a2cab228234d2ce64fc5cc2f0c50e2d30f939cb7090ff1845fdeaeafbcdb7c38b18ebab7cd2665668deae32f2bb422804d0e22973dcbbf77a5de0401aafc40b56865bbba07e334a54d8a05",
+                            "AllTestID": 35002663,
+                            "A3TestID": 35000283,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 760,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000283,
+                                    "Title": "e15c863bfe1a796db76f8da9866d14caf91a36c4a3a8e4517d1a6d6d99e6721974bb28e5da43a587c182c5008bab9517008283f0996287ece860a156ed4e656e3764946c5aa145dc",
+                                    "Explain": "老年女性绝经后阴道出血8个月，子宫增大稍软，首先考虑子宫内膜癌，最有诊断价值的辅助检查方法应为分段刮宫活组织检查，故55题选C。手术治疗是子宫内膜癌治疗的主要方法，该患者应行全子宫及双附件切除术，故56题选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "B超检查"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "胸部X线摄片"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "分段刮宫活组织检查"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "刮取宫颈管活组织检查"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "腹腔镜检查"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000284,
+                                    "Title": "553a3604d673174cea22092c9d856f3fd35589ef57c41ca4b65136d9052dbaaca8e9fb0f4e7b69aec3dbcb289df284b02d86c720e31614e19374af60ac0be3f049d31ca6a8de538c",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "大剂量孕激素治疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "他莫昔芬治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "氟尿嘧啶、环磷酰胺治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "放射治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "行全子宫及双附件切除术"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "首先应怀疑的疾病是",
+                            "Explain": "绝经后阴道流血，首先考虑子宫内膜癌，一般不引起疼痛，故63题选E。子宫内膜癌明确诊断需行分段诊断性刮宫，64题选A。子宫内膜癌确诊后应手术治疗，确定病变范围、切除病灶，故65题选A。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "子宫肌瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "子宫腺肌病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "子宫颈炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "子宫内膜异位症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "子宫内膜癌"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d0903e9bdb7a0c199b1527d404b2b8084b91f9a02767e270d42e3967247f8bedb7da53028e3e156bb7200f87cf2245eb855ca74060b83b4719749e47904fdd1f0e52608be76bf6c1cb9113ad17fabc998b093843abaca866f1655b476d749cf5500cd9fe61d692688624f8841a4f29cf85e5f35dbe4a251aa872752109717bc6a859533e2a2da217167e41a461c47cb691f0cb3179f674717a221",
+                            "AllTestID": 35002666,
+                            "A3TestID": 35000291,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 760,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000291,
+                                    "Title": "3c41b96f03884da87c87dbf8ca3dd07515f64a0815d09f6605c12aa6ff09f5ec",
+                                    "Explain": "绝经后阴道流血，首先考虑子宫内膜癌，一般不引起疼痛，故63题选E。子宫内膜癌明确诊断需行分段诊断性刮宫，64题选A。子宫内膜癌确诊后应手术治疗，确定病变范围、切除病灶，故65题选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "子宫肌瘤"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "子宫腺肌病"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "子宫颈炎"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "子宫内膜异位症"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "子宫内膜癌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000292,
+                                    "Title": "34e8638a19fed41e48ab7eac475a2afefa8f3b697f64f5df24d1b00061a54dd6",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "分段诊断性刮宫"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "B型超声检查"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "宫腔镜检查"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "子宫碘油造影检查"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "子宫探针检查"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000293,
+                                    "Title": "8a51901691ece6e923c107b764861748c1595762c6a1e4fef7682ab721b860ccfeb102de62914e36",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "手术治疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "化学治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "放射治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "内分泌治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "免疫治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "该患者的分期是",
+                            "Explain": "宫颈癌的临床分期：Ⅰ期局限于亨颈肉眼未见癌灶，仅在显微镜下可见浸润癌为ⅠA期，间质浸润深度≤3mm，宽度≤7mm为ⅠA1；间质浸润深度3～5mm，宽度≤7mm为ⅠA2。超出ⅠA期范围，肉眼可见癌肿，最大直径≤4cm为ⅠB1期，>4cm为ⅠB2期。故66题选C。手术治疗适用于ⅠA～ⅡA期患者，ⅡB以上或不能耐受手术的早期宫颈癌患者应行放射治疗或同步放化疗，故67题选E。该患者病检结果为鳞癌且有转移，対放疗比较敏感。故68题选D。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "ⅠA1"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "ⅠA2"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "ⅠB1"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "ⅠB2"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Ⅱ"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d090364b4adea980e7977f794e16338510507e34d74b9a19c23fa5bda7352d31185b4297021cdd1b9e81963c5ef09788b02633a184ceb550c085c178488f5ea3309fa396e02538282066518e67fc631ed11425b2d51c9308e2040a12804572457cbb2ed8de9a3ae99d21429c6c2204bda383693103ec6474db6a64853a823ab3d57c377f57a3c3d8600cf5e668511fc47f01119165ca0d204bd335c3d68a458b7c6c73bf9dc9a9a9bd9aad85cc179235e1542a7259928cbbd5af6215161326d2f6c12a49d1a443d3ad6fb47d3e10ace50b55fdc3048172172b07258cccef6ee42c4988c7156b878938684",
+                            "AllTestID": 35002667,
+                            "A3TestID": 35000294,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 760,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000294,
+                                    "Title": "b8ebb5662d0ea15b19bfb4932b05d77117da56c292d545a0",
+                                    "Explain": "宫颈癌的临床分期：Ⅰ期局限于亨颈肉眼未见癌灶，仅在显微镜下可见浸润癌为ⅠA期，间质浸润深度≤3mm，宽度≤7mm为ⅠA1；间质浸润深度3～5mm，宽度≤7mm为ⅠA2。超出ⅠA期范围，肉眼可见癌肿，最大直径≤4cm为ⅠB1期，>4cm为ⅠB2期。故66题选C。手术治疗适用于ⅠA～ⅡA期患者，ⅡB以上或不能耐受手术的早期宫颈癌患者应行放射治疗或同步放化疗，故67题选E。该患者病检结果为鳞癌且有转移，対放疗比较敏感。故68题选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "ⅠA1"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "ⅠA2"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "ⅠB1"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "ⅠB2"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "Ⅱ"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000295,
+                                    "Title": "16fc7711b1ab4513540bd9fb0e9b91a9d7caa2e6328f375271fc54564c74d0c4",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "宫颈锥形切除术"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "筋膜外全子宫切除术"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "筋膜内全子宫切除术"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "广泛性子宫切除术"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "广泛性子宫切除术+盆腔淋巴结切除术"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000296,
+                                    "Title": "3ccf11a055aeb0a77e841d4c778ba80582e6a0b76ecf5167b32bdd25ce6e0e70d7ff9ea483b6f0a65046440eed8172338300a0b1b9ccb6cd6a09725186244404d0c2609622ecb05124c4afd88edab73d",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "随访观察"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "辅助性化疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "性激素治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "辅助性放化疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "物理治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35002661,
+                "ChildTableID": 35000277,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002661,
+                        "ChildTableID": 35000277,
+                        "UserCount": 2846,
+                        "RightCount": 2468,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002661,
+                    "ChildTableID": 35000277
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 35002661,
+                "ChildTableID": 35000278,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002661,
+                        "ChildTableID": 35000278,
+                        "UserCount": 2795,
+                        "RightCount": 2557,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002661,
+                    "ChildTableID": 35000278
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 35002661,
+                "ChildTableID": 35000279,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002661,
+                        "ChildTableID": 35000279,
+                        "UserCount": 3091,
+                        "RightCount": 1587,
+                        "FavCount": 55,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002661,
+                    "ChildTableID": 35000279
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 35002661,
+                "ChildTableID": 35000280,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002661,
+                        "ChildTableID": 35000280,
+                        "UserCount": 2961,
+                        "RightCount": 2144,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002661,
+                    "ChildTableID": 35000280
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 35002663,
+                "ChildTableID": 35000283,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002663,
+                        "ChildTableID": 35000283,
+                        "UserCount": 2795,
+                        "RightCount": 2419,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002663,
+                    "ChildTableID": 35000283
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 35002663,
+                "ChildTableID": 35000284,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002663,
+                        "ChildTableID": 35000284,
+                        "UserCount": 2623,
+                        "RightCount": 2455,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002663,
+                    "ChildTableID": 35000284
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 35002666,
+                "ChildTableID": 35000291,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002666,
+                        "ChildTableID": 35000291,
+                        "UserCount": 2716,
+                        "RightCount": 2424,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002666,
+                    "ChildTableID": 35000291
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 35002666,
+                "ChildTableID": 35000292,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002666,
+                        "ChildTableID": 35000292,
+                        "UserCount": 2574,
+                        "RightCount": 2496,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002666,
+                    "ChildTableID": 35000292
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 35002666,
+                "ChildTableID": 35000293,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002666,
+                        "ChildTableID": 35000293,
+                        "UserCount": 2613,
+                        "RightCount": 2428,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002666,
+                    "ChildTableID": 35000293
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 35002667,
+                "ChildTableID": 35000294,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002667,
+                        "ChildTableID": 35000294,
+                        "UserCount": 3041,
+                        "RightCount": 1520,
+                        "FavCount": 79,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002667,
+                    "ChildTableID": 35000294
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 35002667,
+                "ChildTableID": 35000295,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002667,
+                        "ChildTableID": 35000295,
+                        "UserCount": 2632,
+                        "RightCount": 2345,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002667,
+                    "ChildTableID": 35000295
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 35002667,
+                "ChildTableID": 35000296,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002667,
+                        "ChildTableID": 35000296,
+                        "UserCount": 2822,
+                        "RightCount": 1864,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002667,
+                    "ChildTableID": 35000296
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

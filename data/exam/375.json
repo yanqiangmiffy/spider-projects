@@ -1,0 +1,759 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 19:35:45 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "fcaaee4179186619938a21cd333c07e9b1fe788660bf7f8b40a16f82def91618aeff66018ef4f5a3e473eff5d750185a",
+                            "Explain": "1.女童期保健2.青春期保健3.围婚期保健4.围生期保健　5.生育年龄妇女非孕期保健6.围绝经期妇女保健7.老年期保健",
+                            "TestPoint": "妇女保健内容",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "青春期保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "中年期保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "生育期保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "围生保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "围绝经期保健"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003294,
+                            "ATestID": 43003294,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e002754c93f6fde0888024fbd0b2789bf1318d08008b19aa1062890962b6392a0f220c460c0ee588",
+                            "Explain": "青春期保健的三级预防包括对女青年疾病的治疗与康复。青春期保健分三级。一级预防：根据青春期女性的生理、心理、社会行为特点，为培养良好的健康行为而给予的保健指导。二级预防：通过学校保健，定期体格检查，早期发现各种疾病和行为异常，减少或避免诱发因素。三级预防：指青春期女性疾病的治疗和康复。青春期保健以预防为重点。",
+                            "TestPoint": "青春期保健",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "对女青年疾病的治疗与康复"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "合理的营养，培养良好的个人生活习惯"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "减少疾病危险因素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "早期发现疾病和行为偏异"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "适当的体格锻炼和劳动，进行心理卫生和性知识等的教育"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003295,
+                            "ATestID": 43003295,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3fedf5b5e1cdd0f891747b528d5abe6767a5265535fed087",
+                            "Explain": "围婚期所谓围婚期,是指从确定婚配对象到婚后受孕为止的一段时期。包括婚前、新婚及孕前三个阶段包括婚前医学检查、婚前卫生指导和婚前卫生咨询。",
+                            "TestPoint": "围婚保健",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "婚前医学检查、婚前卫生指导和婚后婚姻咨询"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "婚前精神病学、婚前卫生指导和婚前卫生咨询"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "婚前医学检查、婚前卫生指导和婚前卫生咨询"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "婚前医学检查、婚前婚姻关系指导和婚前卫生咨询"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "婚前遗传检查、婚前心理学指导和婚后婚姻关系咨询"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003296,
+                            "ATestID": 43003296,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "31526d8d8a0ae546a209549ab6f37797b86ba25f9c5c658299039d992a29002462812cb6235bd834",
+                            "Explain": "一级预防为重点：普及孕产期保健和计划生育技术指导；二级预防：使妇女在生育期因孕育或节育导致的各种疾病，能做到早发现、早防治，提高防治质量；三级预防：提高对高危孕产妇的处理水平，降低孕产妇死亡率和围产儿死亡率。",
+                            "TestPoint": "生育期保健",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "提高对高危孕产妇的处理水平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "妇女在生育期因孕育或节育导致的各种疾病，能做到早发现早防治，提高防治质量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "降低孕产妇死亡率及围生儿死亡率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "产褥期保健和哺乳期保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "普及孕产期保健和计划生育技术指导"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003297,
+                            "ATestID": 43003297,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fcaaee4179186619015e1157c100f88b4dd8818513f50dc6757a1bfb9fc10e2b8ee25b48a447d6b9",
+                            "Explain": "围生期保健（1）孕前期保健：孕前期保健的目的是为了选择最佳的受孕时机。内容包括选择适当的生育年龄、避免接触对妊娠有害的物质、预防遗传性疾病的传衍，并做好充分的精神心理准备。（2）孕期保健（3）产时保健（4）产褥期保健（5）哺乳期保健",
+                            "TestPoint": "围生保健",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "孕前期保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "产时保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "新生儿保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "产褥期保健"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "孕期保健"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003298,
+                            "ATestID": 43003298,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fcaaee4179186619015e1157c100f88ba1d61e7272c3e5d932efdf45f1a0650540c8bfdc58586973",
+                            "Explain": "围绝经期妇女保健的目的应以促进妇女心身健康为目标， 使她们能够顺利度过这一特殊 转变时期。主要内容包括：①建立健康的生活方式;②自我监测;③科学、合理、规范的应用 HRT;④心理保健;⑤性保健;⑥绝经 12 个月内仍应避孕。带宫内节育器者，应于绝经一年后取出。",
+                            "TestPoint": "围绝经期保健",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "进行肛提肌锻炼，以加强盆底组织的支持力，预防子宫脱垂及张力性尿失禁",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "定期体检，接受妇女病及肿瘤普查",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "加强身体锻炼，提高自身免疫力",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "应避孕至月经停止12个月以上",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "重视蛋白质、维生素及微量元素的摄入",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003299,
+                            "ATestID": 43003299,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题有误，已做修改。",
+                            "OperateTime": "2018年8月07日"
+                        },
+                        {
+                            "Title": "f53360ea4b8e82e238ae5e7d9c250c643b185c9f070317ef0ed8c72d2cc740bb81aa4c2bc92da586",
+                            "Explain": "围绝经期保健1.维持和谐的性生活。2.注意劳逸结合，工作、生活应有规律。3.此期女性有许多精神神经症状，单靠药物治疗有时难以奏效，还要从心理上给予指导和疏导。4.加强体育锻炼，促进血液循环和物质代谢。5.通过中医体质辨识，以预防为主，早期调理。6.医务工作者应使进入围绝经期的女性甚至其家属了解此期的生理变化、心理特点及围绝经期常见病的早期症状和防治知识。7.由于围绝经期女性生理和代谢等方面发生变化，胃肠功能吸收减退，应限制糖、热量、动物脂肪、胆固醇和盐的摄入，补充优质蛋白(奶类、鱼类、豆类、瘦肉、海产品、黑木耳等)、维生素、微量元素、钙和纤维素，以维持人体的正常代谢。可以在中医辨证的基础上食用药膳，肾阴虚者应多吃山药、枸杞、茯苓、黑芝麻等食物，肾阳虚者多吃鹿茸、杜仲、胡桃肉。8.讲究围绝经期个人卫生：口腔卫生：进入围绝经期，牙齿开始松动，应养成良好的口腔卫生习惯;外阴卫生：应每天冲洗外阴部，防止老年性阴道疾病。皮肤卫生：围绝经期皮肤的保护作用减弱，应经常洗澡，勤换内衣，不用肥皂洗澡，以防皮肤油脂过多洗去，引起感染;9.围绝经期女性肿瘤的发生率增高，所以应定期做妇科和乳腺检查。10.激素治疗是调整月经和缓解激素缺乏引起的症状最根本的解决方法。激素类药物要严格遵循医嘱服用，剂量不宜过大，定期B超检查子宫内膜。",
+                            "TestPoint": "围绝经期保健",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "定期体格检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "防治老年期常见病多发病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "提高生命质量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "多与子女沟通交流，保持家庭紧密"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "加强身体锻炼"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003300,
+                            "ATestID": 43003300,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ada66f40b6e3022483ac48e5685ed502bf6b4663bc9e01a0d7ab143bb35ba28b19ae83d04088f93178f0d48a2322211de1b6e50200e36aad",
+                            "Explain": "与身体健康有关的心理问题不是女性心理保健的问题。",
+                            "TestPoint": "女性心理保健",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "与月经有关的心理问题"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "与分娩有关的心理问题"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "与妇科手术有关的心理问题"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "与绝经有关的心理问题"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "与身体健康有关的心理问题"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003301,
+                            "ATestID": 43003301,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "4825eb18db8e3ad5b14b608f4de631e722a5d399102b6f72fe0174c510723c2fb4df6fde02433fcb3b7aafac29ef045230fd47302f55cd9edf21148310f5041b6ba1ce09ff1403ed9b9e4f6e5cd7b7f40dfe51b8a98982f4",
+                            "Explain": "叶酸需要在妊娠前3个月补充，孕早期缺乏叶酸，易发生胎儿神经管缺陷畸形。叶酸的主要来源是动物肝、酵母和绿叶蔬菜，妊娠前3个月最好口服叶酸5mg，每日一次。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "妊娠高血压综合征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "生出低体重儿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "孕期严重缺钙"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胎儿神经管畸形"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "伴有严重锌缺乏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001871,
+                            "ATestID": 41001871,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0761821fd510fb226d15c18eb7afd65d6aba2717f4bd8e4341688867b3d7a7e3d7d70b67b746e5030506893e4217d572b82bc07fdf54b42d6bfd8d7eff79eab49402a34afc509cb5f1be3efec181c714",
+                            "Explain": "产后访视：孕产妇出院后，立即将《孕产妇保健手册》交回原领取手册医院，医院接到手册后对孕产妇进行产后访视。访视次数：城市28天内至少访视3次，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1次"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "2次"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "3次"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "4次"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "5次"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001872,
+                            "ATestID": 41001872,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 375,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43003294,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003294,
+                        "ChildTableID": -1,
+                        "UserCount": 4383,
+                        "RightCount": 1864,
+                        "FavCount": 75,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003294,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003295,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003295,
+                        "ChildTableID": -1,
+                        "UserCount": 4424,
+                        "RightCount": 1155,
+                        "FavCount": 92,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003295,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43003296,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003296,
+                        "ChildTableID": -1,
+                        "UserCount": 4270,
+                        "RightCount": 3088,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003296,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43003297,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003297,
+                        "ChildTableID": -1,
+                        "UserCount": 4282,
+                        "RightCount": 1776,
+                        "FavCount": 81,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003297,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003298,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003298,
+                        "ChildTableID": -1,
+                        "UserCount": 4306,
+                        "RightCount": 1438,
+                        "FavCount": 79,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003298,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43003299,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003299,
+                        "ChildTableID": -1,
+                        "UserCount": 4017,
+                        "RightCount": 2475,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003299,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003300,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003300,
+                        "ChildTableID": -1,
+                        "UserCount": 3892,
+                        "RightCount": 2901,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003300,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43003301,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003301,
+                        "ChildTableID": -1,
+                        "UserCount": 3938,
+                        "RightCount": 2694,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003301,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41001871,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001871,
+                        "ChildTableID": -1,
+                        "UserCount": 3788,
+                        "RightCount": 3508,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001871,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41001872,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001872,
+                        "ChildTableID": -1,
+                        "UserCount": 3926,
+                        "RightCount": 2108,
+                        "FavCount": 55,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001872,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

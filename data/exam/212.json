@@ -1,0 +1,4193 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 20:17:08 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 17,
+                    "TestItems": [
+                        {
+                            "Title": "99bbc150567d1f074f1e2b36529236780757c8f6047c2ea6af9d003f6583a3cc8d87ae93c547063fc583ab6b692e9c51",
+                            "Explain": "早期肺癌特别是周围型肺癌往往没有任何症状，大多在胸部X线片检查时发现。癌肿（中心型肺癌）在较大的支气管内长大后，常出现刺激性咳嗽；当癌肿继续长大影响引流，继发肺部感染时可有脓性痰液。中心型肺癌早期的另一个常见症状是血痰。胸痛、声音嘶哑都是晚期表现。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "呼吸困难"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胸痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "声音嘶哑"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "发热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "刺激性咳嗽、痰中带血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35001259,
+                            "ATestID": 35001259,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4ed96793afe34538ff70e18baeae0305f5da2ee694181a06bae60342bb4cdc53",
+                            "Explain": "小细胞癌恶性度最高，预后最差。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "鳞形细胞癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "小细胞癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "腺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "大细胞癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "细支气管肺泡癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000820,
+                            "ATestID": 43000820,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "09a710914cd50addf52ed46dcbb66b4c7a9857b58c3ffb502c4e25f20b238beb6d232196e3e6b4a0b1fad8716607bb4384ea730de8cfbc82",
+                            "Explain": "原发性支气管肺癌存在气道癌肿，早期可因体位变化或其他因素突然刺激呼吸道黏膜，表现为刺激性干咳。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "刺激性咳嗽"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "顽固性胸痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "声音嘶哑"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "锁骨上淋巴结肿大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "霍纳(Homer)综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000821,
+                            "ATestID": 43000821,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b0923e18a29f8b29976e0103c9f0d5fb0578445c864283762bb6e589f968bb9b",
+                            "Explain": "肺腺癌为最常见的肺癌，也是不吸烟者（多数为女性的45岁以下）常见的类型，容易远端转移是其特征。治疗的原则得根据期别，通常一、二期可经由评估后进行手术，之后再做化疗等。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "Content": "腺癌",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "未分化癌",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "肺泡细胞癌",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "鳞状细胞癌",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "小细胞肺癌",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003142,
+                            "ATestID": 43003142,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题有误，已修改",
+                            "OperateTime": "2018年8月14日"
+                        },
+                        {
+                            "Title": "002235026aa4a9227be6de4a6d26e1a5ca8647dd818c7cc2735eb58e13e35387f8aaf352eeb0968a",
+                            "Explain": "肺鳞癌多见于老年男性，与吸烟有密切关系。肺鳞癌以中央型肺癌多见，并有胸管腔内生长的倾向，肺鳞癌早期常引发支气管狭窄，或阻塞性肺炎。肺鳞癌生长缓慢，转移晚，手术切除机会较多，5年生存率较高，肺鳞癌对放疗、化疗不如小细胞未分化癌敏感。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "肺癌常见类型",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "常为中心型",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "生长迅速，病程短",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "对放疗，化疗较敏感",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "血行转移发生晚",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003143,
+                            "ATestID": 43003143,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月24日",
+                            "OldTestJson": "{\"Title\":\"下列哪项对肺鳞癌不正确\",\"Explain\":\"肺鳞癌多见于老年男性，与吸烟有密切关系。肺鳞癌以中央型肺癌多见，并有胸管腔内生长的倾向，肺鳞癌早期常引发支气管狭窄，或阻塞性肺炎。肺鳞癌生长缓慢，转移晚，手术切除机会较多，5年生存率较高，肺鳞癌对放疗、化疗不如小细胞未分化癌敏感。\",\"TestPoint\":\"肺癌临床表现\",\"Answer\":\"C\",\"Difficulty\":\"中\",\"SelectedItems\":[{\"Content\":\"肺癌中最常见\",\"ItemName\":\"A\"},{\"Content\":\"常为中心型\",\"ItemName\":\"B\"},{\"Content\":\"生长迅速，病程短\",\"ItemName\":\"C\"},{\"Content\":\"对放疗，化疗较敏感\",\"ItemName\":\"D\"},{\"Content\":\"血行转移发生晚\",\"ItemName\":\"E\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "fb456895eb4383335e838b1dd91d5f393f2ffba2333b88f46d1256ea439daf0b540091f300d2d419721b9b261d13ee37",
+                            "Explain": "未分化癌的恶性度高，生长快，较早发生淋巴道和血道广泛转移；对放疗和化疗均较敏感，但预后最差。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "鳞癌发生血行转移出现早"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺泡细胞癌，早期血行淋巴转移"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "腺癌早期发生淋巴转移，血行转移较晚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "未分化癌早期出现血行，淋巴转移"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "淋巴转移只发生肺癌同侧"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003144,
+                            "ATestID": 43003144,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "861b5ea9feceff023d5e1af0871b7f9a85ee3f50b9274b2e9321c377da0e258f420635064b00b861c2b5cd9b17393546",
+                            "Explain": "早期肺癌的首选治疗方法是手术切除病肺。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "药物治疗",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "放射疗法",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "放疗加化疗",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "手术切除病肺",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "免疫疗法",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003145,
+                            "ATestID": 43003145,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "047c22b50a3a2c8575a026c3665853f528f276b06a413fe6",
+                            "Explain": "肺鳞癌首先经淋巴转移。",
+                            "TestPoint": "肺癌的治疗",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "血行转移"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "淋巴转移"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "局部浸润"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "支气管内膜扩散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上都不正确"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003146,
+                            "ATestID": 43003146,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "60e3fc06e22d7849db0521ad4d5696a3e35dbf47eafd0ab204aeaf0fdd2dcc0511bb4bc6026ad555",
+                            "Explain": "放疗对小细胞肺癌疗效最佳，鳞状细胞癌次之，腺癌最差。肺癌放疗照射野应包括原发灶、淋巴结转移的纵隔区。",
+                            "TestPoint": "肺癌的治疗",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "小细胞未分化癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "鳞癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "腺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺泡细胞癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均不敏感"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003147,
+                            "ATestID": 43003147,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4afeadc0bedd4a281c4957411cac2f5dcf5ef2070a62fd7840e8a0498cb8579d1982a8a1126fc999",
+                            "Explain": "放射治疗的绝对禁忌证很少，尤其是低姑息性治疗，例如对局部转移灶的止痛大部分有效。但也要看患者和单位的条件决定，一般来讲，晚期肿瘤患者处于恶病质的情况下，可做为放射绝对禁忌证。另外食管癌穿孔、肺癌合并大量腔积液也应列为绝对禁忌证。",
+                            "TestPoint": "肺癌的治疗",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "呈现恶病质者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "有广泛转移"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "高度肺气肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "癌性空洞，肿瘤过大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺门转移切除未彻底"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003148,
+                            "ATestID": 43003148,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8dcc5fa6ee97e70e1f133d286f8d63c62bcffe26112114163330eef7154a34b48666b490bf6cd04413df4069d8e62cd7a06f6ecf0ec050c8d613378b58fb6697",
+                            "Explain": "肺鳞癌多见于老年男性，与吸烟有密切关系。肺鳞癌以中央型肺癌多见，并有胸管腔内生长的倾向，肺鳞癌早期常引发支气管狭窄，或阻塞性肺炎。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肿瘤向管腔外生长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "支气管肿大淋巴结压迫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肿瘤向管腔内生长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "支气管内黏稠分泌物积聚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "支气管继发感染"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003149,
+                            "ATestID": 43003149,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e91cdc4349c3f8fd9d788a7a1a5450ccb564bd5003a70f1e9bef9dce7db32569087d6630385ea9996f5a4acdcbd27f1ce8f9792d243596ed730406448fd547fa1894c60555a783e7",
+                            "Explain": "肺外表现出现在呼吸道症状前12ｄ～18个月,相同肺外表现出现的时间长短不等,相同组织类型出现的肺外表现时间接近。平均鳞癌约3～4个月,小细胞肺癌约2～3个月,腺癌时间长短不等。可出现在呼吸道及X线表现之前",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "B",
+                            "Difficulty": "很难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "出现副癌综合征提示肺癌晚期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "可出现在呼吸道及X线表现之前"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "切除肺癌病灶后症状不能消失"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "出现副癌综合征为手术禁忌证"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺癌出现的杵状指(趾)具有无痛性特点"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003150,
+                            "ATestID": 43003150,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1385a068c8aec9dcce4809a3efb53ab9504b7eb264d0e05606e933442371b616ca3b0efa6bfff3a468198fc49e663e774b51836570ce8237be7f9e8e6c35da1b",
+                            "Explain": "与其他类型非腺癌比较，多结节型的细支气管肺泡癌患者的痰量相对较多。而随着病情的发展，呼吸困难还可能成为患者的突出症状之一，这种表现多见于弥漫型细支气管肺泡癌，这是唯一可以引起进行性呼吸困难的原发性肺癌。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "C",
+                            "Difficulty": "很难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "喘鸣"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胸痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "气急"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "咳嗽"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "咳痰带血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003151,
+                            "ATestID": 43003151,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bd5d26beae1665405e0b22d6781d07bfe9f46db8fd21bf594e5fd3f477b43a4cf4eae8ec3a40ad08fc54429df282e7bfd804350ced5b394c",
+                            "Explain": "最常见的是肺野周围孤立性圆形或椭圆形块影.直径从1～2cm到5～6cm或更大。块影轮廓不规则，常呈现小的分叶或切迹，边缘模糊毛糙，常显示细短的毛刺影。周围型肺癌长大阻塞支气管管腔后，可出现节段性肺炎或肺不张。癌肿中心部分坏死液化，可见厚壁偏心性空洞，内壁凹凸不平，很少有明显的液平面。",
+                            "TestPoint": "肺癌的临床表现",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺段或肺叶的局限性肺气肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "圆形或类圆形肿块呈分叶状，有脐样切迹或有毛刺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "阻塞性肺炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "出现囊状空洞或斑片状浸润"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可有\"S\"形的肺不张和密度较高的片状阴影"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003152,
+                            "ATestID": 43003152,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e746f98bf529a68b1e8ff75b8ef36ad1cf2c8e37fff42da65235dc07b551c70435a259c557cdabaeb61bc36efdd74cdf138cd720b71085cb80176b2ffecd0b034140faab8a4840b1be51046152538d09a00b3e75b47d8d9",
+                            "Explain": "部分肺癌患者癌变位于一个肺叶内，但已侵及局部主支气管或中间支气管，为了保留正常的邻近肺叶，避免作一侧全肺切除术，可以切除病变的肺叶及一段受累的支气管，再吻合支气管上下切端，临床上称为支气管袖状肺叶切除术。如果相伴的肺动脉局部受侵，也可以同时作部分切除，端端吻合，称为支气管袖状肺动脉袖状肺叶切除术。",
+                            "TestPoint": "肺癌的治疗",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "右肺上叶切除术",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "右肺上叶袖状切除术",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "右全肺切除术",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "放射治疗",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "化疗加免疫治疗",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003153,
+                            "ATestID": 43003153,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e685bf2f7d2b0aab17daca5e02cc0f5f59871673d7bc62219c359d432d0e6fb76a148e07c228471e650ff450bf25b272",
+                            "Explain": "这是一种肿瘤常见并发症，多为肺尖部肿瘤压迫颈部交感神经，引起病侧眼睑下垂、瞳孔缩小、眼球内陷，同侧额部及胸壁少汗或无汗的综合症。肺上沟癌又称“潘科斯特（Pancoast）综合症”、“肺尖肿瘤”、“肺尖癌”。上沟癌作为肺癌的一种常以肩痛为主要症状。包绕肺的顶端（即肺尖）的地方，形成了胸壁的一个特殊区域。来自颈部、支配上肢的感觉和运动的神经纤维均经此区进入上肢。",
+                            "TestPoint": "肺癌的临床表现",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "中心型肺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "周围型肺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺上沟癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "细支气管-肺泡癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺转移癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003154,
+                            "ATestID": 43003154,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5ddefb28af6d8b5484986ce5b922975e9c35b7c151899871149508d6cf52094ad20225a30c38bc24f842dded8c5a803eb7128e38cbf65e823f7f41d0de614f39",
+                            "Explain": "左肺上叶边缘性肺癌做支气管镜的检查意义最小",
+                            "TestPoint": "肺癌的诊断",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "用蓄痰集检法作细胞学检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "CT检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "气管镜检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胸部X线"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "B超引导下经胸壁肿块穿刺活检"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003155,
+                            "ATestID": 43003155,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 16,
+                    "TestItems": [
+                        {
+                            "Title": "5a609cd06da68351926fbda942c7f2ea888a998e3f9e066180e685c75274bc2543960cf06f2f49ef215b573479aea40208aecb0409a4fbf21260f6fb2dccab3f541675e01323b774f628aa0dd175b70c2bffd61187ce9d8e5604ffae426f4ebfaf7afd4b4a871eeb",
+                            "Explain": "肺癌的症状主要包括咳嗽、咯血、喘鸣、胸闷、气短、体重下降和发热，故选C。支气管哮喘对支气管解痉药较为敏感；肺炎支原体肺炎咳少量黏痰；克雷伯杆菌肺炎咳砖红色泡沫样痰；喘息型慢性支气管炎咳白色痰。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "喘息型慢性支气管炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "支气管肺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺炎支原体肺炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "克雷伯杆菌肺炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001019,
+                            "ATestID": 41001019,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5d785b2ca5d21afb36c3da890a39c65ce0d3148ec08b703f497df0650fc9ce93da32cae9acb581d2f9f0cca6cadae73daf19dbdcb4f72cae76107ab3a4751dfa",
+                            "Explain": "肺癌所致阻塞性肺炎一般不容易消散。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "短期内同一部位可反复出现炎症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "血白细胞计数常不增高"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "抗生素治疗后炎症很快吸收消散"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "经抗生素治疗炎症吸收后出现肿块阴影"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "患者一般不发热或仅有低热"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016429,
+                            "ATestID": 43016429,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d78b2fdc31f8b95a7d83d718e0990b81c8b396b45fa1019f510f61655153d92a",
+                            "Explain": "5年生存率最低的肺癌是小细胞癌。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "类癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "小细胞癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腺癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "大细胞癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "细支气管肺泡癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016431,
+                            "ATestID": 43016431,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a50f406aab3844dff0d9f4bf9a6140285ef33f47795ec90a9d5b8df5159c6f0f9fc0262222097e0f",
+                            "Explain": "中心型肺癌，肿瘤侵入段支气管内，故有咳嗽、血痰。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "上肢及颜面部肿胀"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "声音嘶哑"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高热、胸痛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "咳嗽、血痰"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "咯血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016432,
+                            "ATestID": 43016432,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3208afcca38962567c13fe5890777db29f65e03f23b30b4d345e0085d2a76b5472bd23c33d825d6e6a4cbb3ddb40978699a25cb208573f22b28a9f2de7d35510b1410c49d8a58cbd23b974acea172e793da85711712cbd60ea4b633991107b8edeaf341a0f6001abb2c221de083d68128c33a099983ec55067e01e9d9da34be5",
+                            "Explain": "声音嘶哑考虑有淋巴结转移，一般右侧锁骨上淋巴结转移为肺癌，左侧锁骨上淋巴结转移为胃癌。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "喉炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺不张"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016435,
+                            "ATestID": 43016435,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e93a015da6ee57b5ee7a3c7d7615e6481d141d7751514a6190fe3a8679b9e9989fac4c663a9e7b7d3d51bbcfb47d86f7a1799bf95c8f52acce20b0f617ff61f43e21329c6cd1b28bc2ff5bfd09e552843f91993449bdc208df541d0e197e75d2d870e367d07790387448160220e54f9ae8e4a1f0eb657eef33802bf4076ba3d21010f2edc7da77b66248a598f09b384dd4d4d93c65c7f8f273fc6150f6a383963ec11699bb550ef035b8417aa876de11e913fadc32a34e9b9dfd1a840b7b36307ab7a6383df4fe11135206fe61a06f695fbca9c5fb66fae41f57ff11d13c49137ed8128404c2636b5f615e41f5d98db6a949f231c163fe9f453e4679118d3e7",
+                            "Explain": "患者老年男性，近1个月来出现低热、胸痛、咳嗽、咳痰，血痰，消瘦，左锁骨上可触及一团质硬、固定、肿大的淋巴结，胸部X线片及胸部CT显示左上肺叶不张，首先考虑左肺中心型肺癌伴左锁骨上淋巴结转移，引起左上肺阻塞性肺不张。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺脓肿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺不张"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "支气管肺癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016436,
+                            "ATestID": 43016436,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fb456895eb438333839e9f61c4dcc4ffbff49d1c2f8bd82c7154345bb0b64e18eee6b26038fdae7a",
+                            "Explain": "肺癌、慢性支气管炎、肺脓肿患者都可有杵状指。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "杵状指"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "锁骨上淋巴结肿大"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吞咽困难"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "侧瞳孔缩小"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腹泻"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016437,
+                            "ATestID": 43016437,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3c0de14e49c0709c5d1ad5b1356032c3930345ff88be1ceefbe8ad373b8fbba6d5b5f43716ed4aa7ca2426463b296ddde3b5b6efe18bff5fbf250432c771f392f6c2496c02c9547ef8fc39478f544d3086f8475a62dbcd0d6dbd712369f6e7e70e14494bdda81c4e2ddc5c72a508d4fb10b3e6582f3cdf995dad46e80c896f9668e97c8301699954554f64a692cb8dbefe5fc70966bddd95b697a3c85bf7618e4e89d63c55cd838260be427150680f3753efb10d4947fe93b9716b0a55a3711bdf8c729286133df6804e985a0e74403eddd7a235f5f889f5e6fd7bbffbe2aa3a0957716e2a7eae371ba904d74afd41d948e472be3546223bf443c7f858280079843995a0b7715158",
+                            "Explain": "X线为肺部体检首选的、最便宜、最有效的检查。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血沉"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸部X线片"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "痰找结核杆菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "结核菌试验"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "PET"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016438,
+                            "ATestID": 43016438,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11d59c7972be80b6be876166d2438ba5a7f899cfba7d01e82777feabefb6ccd5c26a167fa037025176259033493565f257134854e22ed7262c76aa3f709ab6c720da6c1b8fb76787cef0ccd0a148274df34f3c66188b49d8c4e9f731e3041bcb4f8005eeda9b3970b48ef3f7f9ae7450cf86607fa0ae0dcb06019ce71d5cf974a38901647989fa4dc853a2afd445b2dcf642331609790459e32838bafe77e608c290f5a8f2abba1777c1fa4b549c009f",
+                            "Explain": "根据题干，患者最可能诊断为原发性支气管肺癌。纤维支气管镜检查可获取组织供组织学检查，阳性率较高，故A正确；痰细菌培养的阳性率低于纤维支气管镜检查，故不选B；结核菌素试验对肺癌的诊断没有意义，故不选C；血清癌胚抗原测定对肺癌诊断有一定帮助，但缺乏特异性，不选E。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "纤维支气管镜检查"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "痰细菌培养"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "结核菌素试验"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "血沉"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血清癌胚抗原测定"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016439,
+                            "ATestID": 43016439,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "823f9d978acaa826c3333b9916b778a53e84548935da1f759452c6dd07316a3fe77e4eea45c9c9eedef1c0093c1ac84c7a543ed6ad40621fec41882a987576214b17f77d0cd46ac59fcc9109957dc39fb20773b627846cd33c15047aa55b0c6ba2ebe14860eaac23",
+                            "Explain": "C项不是肺癌压迫引起的症状。肥大性肺性骨关节病常见于肺癌，也见于局限性胸膜间皮瘤和肺转移癌。多侵犯上、下肢长骨远端，发生杵状指和肥大性骨关节病。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "侵犯膈神经，引起同侧膈肌麻痹"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "侵犯喉返神经，引起声带麻痹、声音嘶哑"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨关节病综合征"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "侵犯胸膜，引起胸膜腔积液"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "侵入纵隔，压迫食管，引起吞咽困难"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016442,
+                            "ATestID": 43016442,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8842c7105b363ba487944ff677ace539fb7004c900a0c53987cc0a3cc415b6d1886b7f57c596093b32f86b61a2f8cfaca336ee68944d570bc253d6cad3541e787bb09f2def87f000395b69277fe07e46c38134090ba4f9cdd985815c723f238751a58872d1ae5dcf8ffa9f1f8dd4519b48c621ed5638f397bb1301f011e7dd8847d8fef127cf85d46ad815a064c41bfa7e0cd916b718700ef7a1060053cfa05c27dcb90d9b93bce315de85cdc3903131ce500ce169f2bdd3",
+                            "Explain": "颈交感神经庥痹综合征（霍纳综合征）是由于交感神经中枢至眼部的通路上受到任何压迫和破坏，引起瞳孔缩小、眼球内陷、上睑下垂及患侧面部无汗的综合征。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "面部无汗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "瞳孔缩小"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "眼球内陷"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "声音嘶哑"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "上眼睑下垂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016443,
+                            "ATestID": 43016443,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1a97dd47ce596e64197e458f72088f3417bb3dc18a58ae1370272887d21625b860a14f6307c3cb0f",
+                            "Explain": "周围型肺癌长大阻塞支气管管腔后，可出现节段性肺炎或肺不张。癌肿中心部分坏死液化，可见厚壁偏心性空洞，内壁凹凸不平，很少有明显的液平面。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "薄壁空洞，形状不规则"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "厚壁空洞，内壁光滑"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "薄壁空洞，内壁光滑"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "厚壁空洞，内壁凹凸不平"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "厚壁空洞，内有液平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016444,
+                            "ATestID": 43016444,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "abf670e4a5e1bf31987c5fbe03163a640df4f1577baedb972a3f74b6cf2eaa5078a35fcfe5ff5c8d93a8973c5dd24336fe574395ec509fffcf5edd189ed79a0614a0579eacab4cf40c1726caf4881e41b7d2b15755b7f2d8095c195d0c9366a00047b6b5962adf522fc22271cd5ca828496a4199670ccdc10507ac2c5d032803d7a8f85568c60fca21e323b877d1c8bfeb585aa0420ec294418e137f685ef513fd387b7610387b8d",
+                            "Explain": "正常情况下引流量应少于100ml/h，开始为血性，以后颜色为浅红色，不宜凝血。若引流量多、颜色为鲜红色或暗红色、性质较黏稠、易凝血则疑为胸腔内活动性出血。患者1.5小时引出血性液体500ml，且伴有呼吸循环障碍，P120次/分，BP100/75mmHg，提示胸腔内活动性出血，需再次开胸止血。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "输注全血"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "继续观察"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "开胸止血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "快速补液"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "静脉滴注多巴胺"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016445,
+                            "ATestID": 43016445,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11d59c7972be80b6e858ff40507c020fcb22b9c81cf49bf3d290b0ed6233369d3d69e4b694c324a16cdc873ee52d00587ae3bbe286b8c59637927e0b70a188389795cc3f97b49546a5b157a0cdaf947ff773cd0a67c82e2175d442b7a73908ea4fe5323714e1670002848c46d1a0c7c013ef5ad8998ad1e5c2e58affe87197c4b16cec55b5c0ea37c7315c3329bee95f82e44763e65d019a8cd7c8df5494ee67a1c68f2177a80bc831d277105d2ff2ae9b1fb215c050ea66d5da608be519ad3700521696da58b003b75cad1f885c54759f648842118a03854adf9975dc85f4c6a8158a511d855fe46268dd4afa3a0c5f141bf6195b0b6a97",
+                            "Explain": "无发热、咯血及呼吸困难，心肺正常，有小空洞，所以诊断为支气管肺癌。",
+                            "TestPoint": "肺癌",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慢性肺脓肿"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺囊肿继发感染"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "支气管肺癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Wegener肉芽肿"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016446,
+                            "ATestID": 43016446,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1c10258b009bffc1beba5b2d156f9e99745ee33cd93961b15e8449d359f799728b6552325619893fe310b5ada3b467ca5018a322f132d5a1a992b965ea6b92638cafe8854fcf910cbede571d9e9401ea01fef9be4c4297e07b6223e7194feee2f9a451a0bbcf2b40332eacc17289bf6e761b41ef10bf36246beec4b4bda75fd319f6f74f0c7605d61a23c20d31887e3db4a68fa1544408eeeb6813eb73ceab1458968a44340b26d3f0179cd6de139b64",
+                            "Explain": "肺癌患者首选手术治疗，能切除的尽量切除。",
+                            "TestPoint": "肺癌的治疗",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "免疫治疗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "手术治疗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "化学药物治疗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "介入治疗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "放射治疗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016447,
+                            "ATestID": 43016447,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d6f862ef660fd4efb0b3511465154ea9bbdec2c03729ad40ea671108ea816822f0b693d41dfe9a66e724ee8b5623e7903475330ef0b612fb0e0c0f02ca9da6e808ffc7007187882c78f98717ac7e7cee3acbe71b9a39a7abee5be7b6409b3f2539db269bc5dd15b11cf1df380705aa992533987c71cd5225499765c83658cf1659f4146cd9ba7180b7597109c37d5f7f2cdbdb1c41cabf88ea2af116f461499a3a2fe5f281c55c9a6d9f1db832b986005da010c971986963",
+                            "Explain": "纤维支气管镜检查对中央型肺癌可直接窥见肿瘤或黏膜浸润增厚及管腔狭窄等变化，并可取活组织检查。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "支气管镜检查"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "经胸壁穿刺活检"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸部MRI"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸部CT"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "再次痰液检查癌细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43016448,
+                            "ATestID": 43016448,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "7670f462bf2a878e35a0c1c8c8fc94a4ed8ec4804be5798a540378462db37428dbe3b910dc438122841e927c04faddd50541d7d19146090c47e58eff1384e1b5164b1652c85dec126a4e9d024c7db87800e18aecc8b133f414f019bc172c5c7b2109aa2bc48e3fb3743afbae0bb3772f4aed53468c9b67a42bb0c16b6e33aadab43508af8afc7eea9890c40643c6b81f95c37ac906b2ce971abc8a9e20ce5acd203c1b4b71935888a67744bee3ecac528b3e06be3ad03c534837a08203ed88cb8bf468fb6960e18627616e81c5d5720219313223078f83be7189db5ed8db7f28bb32e862ee7541fd49c1372d50abdc18e7cce977781d723d5c5b8285633f87d7eba0ca24f1ed4e91",
+                            "Explain": "经胸壁穿刺活检适应于靠近胸壁的周围型肺部结节的定性诊断。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "重复痰液细胞学检查",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "胸部CT",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "MRI",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "纤维支气管镜下穿刺活检",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "经胸壁穿活检",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000824,
+                            "ATestID": 43000824,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题有误，已做修改。",
+                            "OperateTime": "2018年8月10日"
+                        },
+                        {
+                            "Title": "e807b047f5563d043dfb01fac0f6b60d20ebad0050a58a3560be133b6eeea48c421a29367463d4d247057352c77857e46d631de91ef459dc0ecc2008380eef074e25471f46e2b4c56ebc6a88cc6db189e467b45aef8f761203b6d83bec43acf4fa01e657585cd9c6c4ea43b52dd78153243ae521677a7e52869523712b58dc302feb79ab688c1746be6bee18f15d7273a1420f887f277b8b3543c3fd747779b39f07d9f42e1a3d0ac633ca5030038808b7124b068d3a9d0208440654418fafde54836b6a4d9983d3",
+                            "Explain": "肺上沟癌又称“潘科斯特（Pancoast）综合症”、“肺尖肿瘤”、“肺尖癌”。上沟癌作为肺癌的一种常以肩痛为主要症状。包绕肺的顶端（即肺尖）的地方，形成了胸壁的一个特殊区域。来自颈部、支配上肢的感觉和运动的神经纤维均经此区进入上肢。患者的症状和肺上沟癌的表现相似",
+                            "TestPoint": "肺癌的临床表现",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胸膜增厚粘连"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺上沟癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺结节病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "转移性肺肿瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003156,
+                            "ATestID": 43003156,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7b152f764e1cb1215a86bdcb9f5feebcc7037916ccb450d0e36677ce1a24bb2fd05cb4a7eab7e69ebe5e2ba911c99d93b25689b55c418b44783c5b85781487e963a726a1a4a59ef06db0755c3f18a41653b77113c7015d4cdf3e0b011dac388230a79cde1002b58c39649ab57475065e16636c157c7132f3bc97bfb885c7ca98be52da6d260d3d13bd378da3bd26b29910362ab9bf1a4dc983b9e17b838bec877496a63dc14c5d5e2522ba8298c6eafc473b981fac6ceb0a56e321fbf66463a52acc22a8629fa208e0f0d5230df8f9e802425f1956170ff95578686dc5fdaf03ad56e7941fef1b1fa45484ede455c2538a700b358024e6640351b9da94683bb49ab4bba121b73b8c447d443e94dcbade",
+                            "Explain": "患者胸片左肺上叶前段反复出现片状阴影，抗生素治疗后肺部阴影消散不完全，排除有结核的问题，需要做个纤维支气管镜检查排除有肺肿瘤的问题",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "痰化脓菌培养及药物敏感试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "继续查痰结核菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "胸部CT检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "纤维支气管镜检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "结核菌素试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003157,
+                            "ATestID": 43003157,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d045c82def4b8a457e5daba9214bf111a13d926d84667f08402973522032f571066cc4afbc428952c79eb5f93185b0179960226baee087f3c3dc2fd6d451836958b682254243365a9f82a2ba5821cfa01d771ebe40aa1b7d027f91dccbb48de2a1288b97426001302527791de274c6a83f4b498ad294945765efd9b67e64e6da37a49964923c5a7761eed5b540156ae98a2f2f576e0e8853e203d58f58afa9cf4daa01cb88798b78c45dc67d7053492a80d7dd90ff3700bf41c92b47e228df0ce784da947df6db893a3c452b59f0080625468848c6ffbd091a8d7be352a2eb337a776f4651c3ad8b56c112a9698d2fd4e242800f457b3fd0fc24cec454a1ae5cda0e7fc246367aac2ab16e94c01ee148f448763aae168c6fbe2d31de682f61c01971e22b0128e150b6944ae91926a5a6c572e44b4df3bd2c761c08ecb89227196cbd82a60e870943c1ecd60146f0eb01e93708801c7d2acad2721a324e6ebc219ef",
+                            "Explain": "患者2个月前X线胸片示右肺下叶前基底段密度较高片状阴影，现胸片见右侧胸腔大量积液，纤支镜可见右下叶支气管呈漏斗样狭窄应该是有肺部肿瘤压迫导致的。",
+                            "TestPoint": "肺癌的诊断",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺结核并结核性胸腔积液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺癌并发癌性胸腔积液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "心力衰竭引起胸腔积液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺部化脓性炎症并发脓胸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胸膜间皮瘤伴胸腔积液"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003158,
+                            "ATestID": 43003158,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "初步诊断首先考虑的肺癌类型是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "周围型"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "弥漫型"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "结节型"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "中心型"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "浸润型"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "f6cb304e3637e5066b9471a62a6f78839d320aeebb1deee13dc3945682f93643df6f1b7c87ff687ca8f99ce927dbf709f317703f585d8c0994d9cce5bf3745736ffb8074e578742bced5611c1014e264ade242e5113164f4653524ea740a47e1f05139ce823d4e8a881681100ca4072b13a6bb8080a17732fdd4252c2951386bc1eb7e7e76a4ee9daff04e2dafd5eccbe9aabfb40b06a496e9ab323d5d27356da3149955eca09bad",
+                            "AllTestID": 43016449,
+                            "A3TestID": 43002660,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43002660,
+                                    "Title": "a4f39d020028e55ff3cd51e9a4b1c66379e71f04aab421645887da9883e593ae92981bbd80ff604188272a0322e22a21",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "周围型"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "弥漫型"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "结节型"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "中心型"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "浸润型"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002661,
+                                    "Title": "b8ebb5662d0ea15b2d60ba76f40da3dfda3fc652f09cf6dd985ca65fda93b5250a00ef7acdc01c0d",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "鳞癌"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "腺癌"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "小细胞癌"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "大细胞癌"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺泡细胞癌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002662,
+                                    "Title": "b8ebb5662d0ea15b1ea54ae057dce450536db342023fff4cb62f56c471b3df237320dc764210559b",
+                                    "Explain": "起源于肺段及段以上大的支气管，称为中心型肺癌，段以下的为周围型。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "头颅CT"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "全身骨扫描"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肝、肾、肾上腺B超"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "胸部CT"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "气管造影"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "最可能的诊断是",
+                            "Explain": "根据患者的临床表现、体征及血象可知该患者是肺癌合并肺部感染，选E。",
+                            "TestPoint": "肺癌",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺炎链球菌肺炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺纤维化"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性胸腔积液"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺癌合并肺部感染"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "c3fd1b143224096eb85e28a4d55ce0136c2d54ee650c66b40ea3e9e6c107617df8a5fa7da976067f08e1c08931be1bfddaa74f3a6405e43531da76bb8caa91b5e39ef880cdd12164ec78beab0d9fe794540c58de5f963191a3530baccdc411e1f5a4165f713c13771f625d773a2c79751c35de17c31022bd003416235fe4f957a9932edd034e1165752feca46847f86012e7219cf71a491905217cac24447c07ad72c4c5a456f4e0016679f49b41238fa9f510631df851c7efc434566376a5226103d4836d4402e53dde5e79f8c9283b3d38d0635a207d9d422764dac66e7638ecf03ad2c53f5bafae45bb4b258b5d19",
+                            "AllTestID": 43016450,
+                            "A3TestID": 43002663,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43002663,
+                                    "Title": "91c2beef1821172aa02421cc2b7a143016574b280934b3fd",
+                                    "Explain": "根据患者的临床表现、体征及血象可知该患者是肺癌合并肺部感染，选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "肺炎链球菌肺炎"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肺纤维化"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "急性胸腔积液"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺结核"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺癌合并肺部感染"
+                                        }
+                                    ],
+                                    "TestPoint": "肺癌",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002664,
+                                    "Title": "afd15fbc0c972c1b893943fa93e54f1228958a38e96fe03386cdb086779e388b",
+                                    "Explain": "纤维支气管镜检查是肺癌诊断中最重要的手段之一，对于肺癌的定性、定位诊断和手术方案的选择有重要作用，是拟行手术治疗患者的常规检查项目，对中心型肺癌诊断的阳性率较高，所以选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "胸部B超"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肺动脉造影"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "痰培养+药敏"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "支气管镜检"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "胸腔镜"
+                                        }
+                                    ],
+                                    "TestPoint": "肺癌",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43002665,
+                                    "Title": "8f9984183df9672b68510a4d057a31a4602bf71d888e92eaa704014c5cf1a80ed2dcae9da48fdd2e55ff274671ed27af49c6408b78d5d39fc03983763e9ecbbef4409beb1cddb80030cde219a27a92b6",
+                                    "Explain": "肺炎球菌肺炎约10%的患者有不同程度的胸腔积液，通常提示肿瘤转移累及胸膜或肺淋巴回流受阻，选C。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "结核性胸膜炎"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肺脓肿合并胸腔积液"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺癌胸膜转移"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺梗死合并胸腔积液"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "衣原体肺炎"
+                                        }
+                                    ],
+                                    "TestPoint": "肺癌",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 9,
+                    "TestItems": [
+                        {
+                            "Title": "该患者首选的检查是",
+                            "Explain": "老年男性，刺激性咳嗽、痰中带血，结合胸部X线片考虑为周围型肺癌，首选检查为CT。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胸部B超"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支气管镜"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸腔镜"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸部MRI"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胸部CT"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "02b50e5b583d0903cfdb12a93d82e64396a478e8ad1b8b5f7edd14df8e2adc339aa2490238ff945c9b6fa68a6d5446eb55eeb79c36d4eeefce675a95f4ae02409ddb46cd0742a614cf22713843e45ab3e606fdbc86c87ab2fef4d99f33e38b9c57b853e1144636d871dad61f68fb1547c3b75aeb4f1922a38ba953d44eec5d9da56311cdd8d48d47880b26737f9225eed4e48e19e9b5b97f415517d16113adbd700cb7cf406a9da194ed16bd9beeb60fe3dd2b82d6e6feea25d6b23bf4f06f96cd4ce4426bcf45cd8d544ce813e31f03ce871c5ef2325f4ef8c068fd9fd06e24bcbf4f90ad7d10db2a47b503840a500ddee817113ef666ae",
+                            "AllTestID": 35001268,
+                            "A3TestID": 35000050,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 35000050,
+                                    "Title": "b8ebb5662d0ea15b1ea54ae057dce4504ab44000158c51e002344b4551ac1ba2",
+                                    "Explain": "老年男性，刺激性咳嗽、痰中带血，结合胸部X线片考虑为周围型肺癌，首选检查为CT。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "胸部B超"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "支气管镜"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "胸腔镜"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "胸部MRI"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "胸部CT"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 35000051,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "肺脓肿"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肺炎性假瘤"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺错构瘤"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺结核"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肺癌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "有助于尽快明确诊断的检查首选",
+                            "Explain": "1.肺门肿块提示中心型肺癌，首选明确诊断检查为纤维支气管镜。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CT"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "磁共振"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸腔镜"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "纤支镜"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "核素扫描"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "4fbbc5800e7204fac3713632ab87d9616b2a18173d2350baff605de39d2df6867d77c787a08e7815214b945423265391e83a2173774bdcfc2bb14b21b7e9e9c61f523dce7a1197a98069ee0629b00ad0677c7dc938a9b2a23c2f4e34bf1a47ccd02f27e16e80cf0b6788dec0598d7c84302133d5947d0d9a99a020f4257ab508d6f2edff2a153fe6db9168fc6adbe12e89d865b9b86f36476697559520e7051c256d7248680e545ce06c7059ec31e97f413bc6984f656411baaf3ec551751744",
+                            "AllTestID": 43000827,
+                            "A3TestID": 43000009,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000009,
+                                    "Title": "a900bb444c2bfe36e7c56714e622cbdf2d79d049312e5ed574e936ecf9d638ceaf2b6cc384522a9c4ea066882a8b94d2",
+                                    "Explain": "1.肺门肿块提示中心型肺癌，首选明确诊断检查为纤维支气管镜。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "CT"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "磁共振"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "胸腔镜"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "纤支镜"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "核素扫描"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000010,
+                                    "Title": "a962a8b4f467413b9277e0f74c423cc1c07fad621ddd338167568b6685d21b40",
+                                    "Explain": "2.中老年人，痰中带血，低热，抗生素治疗无效，结合影像学，首先考虑肺癌。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "肺炎"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肺化脓症"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺癌"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肺结核"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "支气管扩张"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000011,
+                                    "Title": "39bc6cc7b9703b3b9ea74e36ef6679dd6a24ed871a051b9cc40e6305a61c8949",
+                                    "Explain": "3.手术根除性治疗是首选方案。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "抗炎治疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "抗炎止血治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "门诊随访"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "手术治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "抗结核治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "最可能的诊断是",
+                            "Explain": "中年人有刺激性咳嗽，痰中带血2周，胸片显示左肺门增大。要考虑肺癌的问题",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺良性肿瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "转移癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "支气管扩张"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "e807b047f5563d04d99e39b5e73b29a7b7509669287cd9fb4d624acac7c36e003c56143396c23afd87ca38880842641567a40c5ae7b46e76d20c8f98d666bc7bf91953f02cc946296060102ab24de10d56ea5f817f1bf8d0",
+                            "AllTestID": 43003159,
+                            "A3TestID": 43000289,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000289,
+                                    "Title": "91c2beef1821172aa02421cc2b7a143016574b280934b3fd",
+                                    "Explain": "中年人有刺激性咳嗽，痰中带血2周，胸片显示左肺门增大。要考虑肺癌的问题",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "肺癌"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "肺结核"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肺良性肿瘤"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "转移癌"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "支气管扩张"
+                                        }
+                                    ],
+                                    "TestPoint": "肺癌临床表现",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000290,
+                                    "Title": "2c73a14a02cd240a9a0e1d1e954b31a3",
+                                    "Explain": "支气管镜检查是将细长的支气管镜经口或鼻置入患者的下呼吸道，即经过声门进入气管和支气管以及更远端，直接观察气管和支气管的病变，并根据病变进行相应的检查和治疗。广义上包括经支气管镜病灶活检、支气管粘膜活检、经支气管镜透壁肺活检（TransbronchialLungBiopsy,TBLB）及经支气管镜针吸活检（TransbronchialNeedleAspiration,TBNA）。大多数肺部及气道疾病，如肿瘤、间质性肺病、肉芽肿性疾病以及某些感染性疾病需要通过经支气管镜活检术来确定诊断",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "纵隔镜检查"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "结核菌素试验"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "支气管镜检查"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "晨痰培养加药敏试验"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "放射核素检查"
+                                        }
+                                    ],
+                                    "TestPoint": "肺癌的诊断",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "对该患者最常用的检查是",
+                            "Explain": "",
+                            "TestPoint": "肺癌的诊断",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "Content": "纤支镜检查",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "X线检查",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "免疫学检查",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "胸穿检查",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "B超检查",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "e807b047f5563d048c254166aac325256d225d8ccccba3cdfee860390bdb8c71c140c8d96d70e362ca52056284000090a2710f1dd19efbfd244d7aa51f094e3bd338c4f125d2cce998661f25a5aa454eae35c052b7a4f6ecaaf09acd9d5ae4726b980afa3194b7332573d900afe4ca947d28202e5813510286f4176a7f764f84",
+                            "AllTestID": 43003160,
+                            "A3TestID": 43000291,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000291,
+                                    "Title": "b4b92e6f107d4a7c10c27b2fe3f19c270bdf41f1d3a831ed4a5291204e694a8287398e6f0cdbbc3f",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "纤支镜检查",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "X线检查",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "免疫学检查",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "胸穿检查",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "B超检查",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "肺癌的诊断",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000292,
+                                    "Title": "c630b83d4367bb35103e34446670990551307d525d896622d4a279a33231e5dd6e42e0fbe83f27ca5e459dbc59b9efdc",
+                                    "Explain": "肺癌首先选择的治疗方案是手术",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "化疗",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "放疗",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "右肺肿物切除术",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "化疗加免疫治疗",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "放疗加化疗治疗",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "肺癌的治疗",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "Title": "5a609cd06da68351926fbda942c7f2ea888a998e3f9e066180e685c75274bc2543960cf06f2f49ef215b573479aea40208aecb0409a4fbf21260f6fb2dccab3f541675e01323b774e507c993b8db2f63",
+                            "Explain": "1.支气管肺癌患者支气管黏膜破坏作用及刺激作用明显，其发病机制无明显气管痉挛，故支气管解痉药物不佳。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "喘息型慢性支气管炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "支气管肺癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "克雷伯杆菌肺炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺炎支原体肺炎"
+                                }
+                            ],
+                            "AllTestID": 43000826,
+                            "BTestID": 43000260,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000260,
+                                    "Title": "5a609cd06da68351926fbda942c7f2ea888a998e3f9e066180e685c75274bc2543960cf06f2f49ef215b573479aea40208aecb0409a4fbf21260f6fb2dccab3f541675e01323b774e507c993b8db2f63",
+                                    "Explain": "1.支气管肺癌患者支气管黏膜破坏作用及刺激作用明显，其发病机制无明显气管痉挛，故支气管解痉药物不佳。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000261,
+                                    "Title": "051fd0e3e654ffc20ca8725bb3ab006fc8b7d6c3026ec30ce79dcd6c20122acf6a244e5cc7e1808262303a3828c27bbf44527fb2266784118d8aafed942d2e655dddd95a51562eb3113d68c1cff83e92d50150867e6f357490b279a475156c67a53f799bdefcad9e9c3bea76fdcce2ec691cfa7e7961f7573136b308add96a9c10992739a06ae92b",
+                                    "Explain": "2.支原体肺炎主要为间质病变，起病缓慢，表现为明显干咳。故E为正确选项。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d04db45d3941ff5615b9097b3adb688f136695bdb5a57c27349c1d614f741a1bf67daf0783687d951e120aefccf5e97510b307bc895576550f5a9eeaeb021a6ff80db7069c63201345c9d57c67813a08179b11d8c0b4a744ea9d8f79f939630753f82a1ebf04bd065ce0510a7f9a14fe152e1dadb513412e46a15e1628c1a9a2ea3c32ec5afa9d846dd",
+                            "Explain": "高度怀疑肺结核，结核菌素试验有助于明确诊断。",
+                            "TestPoint": "肺结核病的分类和诊断要点和治疗",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "结核菌素试验",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "痰细胞学检查",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "支气管镜检查",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "痰培养加药敏试验",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "经胸壁穿刺活组织检查",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43003161,
+                            "BTestID": 43000797,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000797,
+                                    "Title": "e807b047f5563d04db45d3941ff5615b9097b3adb688f136695bdb5a57c27349c1d614f741a1bf67daf0783687d951e120aefccf5e97510b307bc895576550f5a9eeaeb021a6ff80db7069c63201345c9d57c67813a08179b11d8c0b4a744ea9d8f79f939630753f82a1ebf04bd065ce0510a7f9a14fe152e1dadb513412e46a15e1628c1a9a2ea3c32ec5afa9d846dd",
+                                    "Explain": "高度怀疑肺结核，结核菌素试验有助于明确诊断。",
+                                    "TestPoint": "肺结核病的分类和诊断要点和治疗",
+                                    "Answer": "A",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年1月23日",
+                                    "OldTestJson": "{\"Title\":\"男性，30岁。低热，乏力，咳嗽，痰中偶带血丝1年。胸片显示，双肺片状阴影，轮廓模糊。进一步的检查是\",\"Explain\":\"\",\"TestPoint\":\"肺结核病的分类和诊断要点和治疗\",\"Answer\":\"D\",\"Difficulty\":\"难\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"结核菌素试验\",\"ItemName\":\"A\"},{\"Content\":\"痰细胞学检查\",\"ItemName\":\"B\"},{\"Content\":\"支气管镜检查\",\"ItemName\":\"C\"},{\"Content\":\"痰培养加药敏试验\",\"ItemName\":\"D\"},{\"Content\":\"经胸壁穿刺活组织检查\",\"ItemName\":\"E\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43000798,
+                                    "Title": "e807b047f5563d04db45d3941ff5615b545e49265da6ca5216685f2fa429e770360ac24e089313827d86e6076bc9ea62dcd857ed0c13acab92f5566d2787257018a24cee820f9a1894463618d12d33e291549e0d8b30aec5cdaab95aedc39ff0b79fe29949c266df6d14a942ad73a742a401b86df651ae4ad8d4e1bba74819da3e4e8161f40c07e3475b5be6396ab0d1b0055e0f6cc940bb163730f8721cf000698029575982030e86ff795c111e2afb",
+                                    "Explain": "根据病情，怀疑肺炎，痰培养用来检测致病菌，药敏试验用来观察哪种药最为合适，所以选D。",
+                                    "TestPoint": "金黄色葡萄球菌肺炎",
+                                    "Answer": "D",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年1月23日",
+                                    "OldTestJson": "{\"Title\":\"男性，30岁。无吸烟史。高热，胸痛及咳嗽1周，咳脓痰3天，胸片显示右肺外周圆形肿块，中央薄壁空洞并有液平面。进一步的检查是\",\"Explain\":\"根据病情，怀疑肺炎，痰培养用来检测致病菌，药敏试验用来观察哪种药最为合适，所以选D。\",\"TestPoint\":\"金黄色葡萄球菌肺炎\",\"Answer\":\"D\",\"Difficulty\":\"难\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"结核菌素试验\",\"ItemName\":\"A\"},{\"Content\":\"痰细胞学检查\",\"ItemName\":\"B\"},{\"Content\":\"支气管镜检查\",\"ItemName\":\"C\"},{\"Content\":\"痰培养加药敏试验\",\"ItemName\":\"D\"},{\"Content\":\"经胸壁穿刺活组织检查\",\"ItemName\":\"E\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43000799,
+                                    "Title": "e807b047f5563d04d7c72a527a20dfcbaa0de32933e808548f939bc61ba1d55365524298be72f11d221c1ad9b3ba31fc08803246e3a8054dbe9d037e2ba5a21f48b8ff95c7cdd54baf9925d80263c8d841bfde7f206377b664aa4cea450fb03e01937d5dfcf8c9fbccac459950ae8c4dbeede4dab23ff90583dd1660b02157a5cb4831c77ea0f716dc3a57de70090e531e5369c7e433ca3a80d85edfc5e8a829cbdc5be892a82aa2",
+                                    "Explain": "根据病情，判断患者可以患有肺癌，应做支气管镜检查，选C。",
+                                    "TestPoint": "肺癌临床表现",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年1月23日",
+                                    "OldTestJson": "{\"Title\":\"男性，50岁。吸烟史30年，刺激性咳嗽，痰中带血丝3周，胸片显示右肺门处阴影增大，纵隔增宽，上叶不张，进一步检查是\",\"Explain\":\"根据病情，判断患者可以患有肺癌，应做支气管镜检查，选C。\",\"TestPoint\":\"肺癌临床表现\",\"Answer\":\"C\",\"Difficulty\":\"难\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"结核菌素试验\",\"ItemName\":\"A\"},{\"Content\":\"痰细胞学检查\",\"ItemName\":\"B\"},{\"Content\":\"支气管镜检查\",\"ItemName\":\"C\"},{\"Content\":\"痰培养加药敏试验\",\"ItemName\":\"D\"},{\"Content\":\"经胸壁穿刺活组织检查\",\"ItemName\":\"E\"}]}"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "1786fa3e4fbb38736c10534a763f579c",
+                            "Explain": "腺癌占所有肺癌类型的40%。鳞状细胞癌约占肺癌总数的25%～30%。",
+                            "TestPoint": "肺癌临床表现",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "腺癌",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "鳞状细胞癌",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "印戒细胞癌",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "黏液腺癌",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "肺泡细胞癌",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43016452,
+                            "BTestID": 43002983,
+                            "SrcID": 9,
+                            "SbjID": 47,
+                            "CptID": 212,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002983,
+                                    "Title": "1786fa3e4fbb38736c10534a763f579c",
+                                    "Explain": "腺癌占所有肺癌类型的40%。鳞状细胞癌约占肺癌总数的25%～30%。",
+                                    "TestPoint": "肺癌临床表现",
+                                    "Answer": "A",
+                                    "DealInfo": "经核实，试题正确答案为A，已修改。",
+                                    "OperateTime": "2018年12月24日",
+                                    "OldTestJson": "{\"Title\":\"肺癌大多是\",\"Explain\":\"鳞状细胞癌(鳞癌)在肺癌中最为常见，患者年龄大多数在50岁以上，男性占多数。大多起源于较大支气管，常为中央型肺癌。生长速度较缓慢，对放射和化学疗法较敏感。淋巴转移为主。\",\"TestPoint\":\"肺癌临床表现\",\"Answer\":\"B\",\"Difficulty\":\"难\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"腺癌\",\"ItemName\":\"A\"},{\"Content\":\"鳞状细胞癌\",\"ItemName\":\"B\"},{\"Content\":\"印戒细胞癌\",\"ItemName\":\"C\"},{\"Content\":\"黏液腺癌\",\"ItemName\":\"D\"},{\"Content\":\"肺泡细胞癌\",\"ItemName\":\"E\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43002984,
+                                    "Title": "1653aead2e4b5bea78299c55c23837c570817255632f5ca2dfe321419e36a321",
+                                    "Explain": "女性的肺癌大多是腺癌。",
+                                    "TestPoint": "肺癌临床表现",
+                                    "Answer": "A",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月24日",
+                                    "OldTestJson": "{\"Title\":\"女性的肺癌大多是\",\"Explain\":\"女性的肺癌大多是腺癌。\",\"TestPoint\":\"肺癌临床表现\",\"Answer\":\"A\",\"Difficulty\":\"难\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"腺癌\",\"ItemName\":\"A\"},{\"Content\":\"鳞状细胞癌\",\"ItemName\":\"B\"},{\"Content\":\"印戒细胞癌\",\"ItemName\":\"C\"},{\"Content\":\"黏液腺癌\",\"ItemName\":\"D\"},{\"Content\":\"肺泡细胞癌\",\"ItemName\":\"E\"}]}"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35001259,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001259,
+                        "ChildTableID": -1,
+                        "UserCount": 5040,
+                        "RightCount": 4072,
+                        "FavCount": 89,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 2,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001259,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 2,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 43000820,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000820,
+                        "ChildTableID": -1,
+                        "UserCount": 5018,
+                        "RightCount": 4249,
+                        "FavCount": 84,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000820,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000821,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000821,
+                        "ChildTableID": -1,
+                        "UserCount": 4863,
+                        "RightCount": 4312,
+                        "FavCount": 59,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000821,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003142,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43003142,
+                            "ChildTableID": -1,
+                            "Answer": "A",
+                            "AnswerCount": 3
+                        },
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43003142,
+                            "ChildTableID": -1,
+                            "Answer": "B",
+                            "AnswerCount": 2
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003142,
+                        "ChildTableID": -1,
+                        "UserCount": 5120,
+                        "RightCount": 3062,
+                        "FavCount": 149,
+                        "DiscussionCount": 6,
+                        "ExplainCount": 1,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003142,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 6,
+                "ExplainCount": 1,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003143,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003143,
+                        "ChildTableID": -1,
+                        "UserCount": 5344,
+                        "RightCount": 2500,
+                        "FavCount": 222,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003143,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43003144,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003144,
+                        "ChildTableID": -1,
+                        "UserCount": 5078,
+                        "RightCount": 2361,
+                        "FavCount": 236,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 51
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003144,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 51
+            },
+            {
+                "AllTestID": 43003145,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003145,
+                        "ChildTableID": -1,
+                        "UserCount": 4477,
+                        "RightCount": 3884,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003145,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43003146,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003146,
+                        "ChildTableID": -1,
+                        "UserCount": 4859,
+                        "RightCount": 2596,
+                        "FavCount": 205,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003146,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003147,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003147,
+                        "ChildTableID": -1,
+                        "UserCount": 4574,
+                        "RightCount": 3455,
+                        "FavCount": 118,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003147,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003148,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003148,
+                        "ChildTableID": -1,
+                        "UserCount": 5115,
+                        "RightCount": 2212,
+                        "FavCount": 228,
+                        "DiscussionCount": 6,
+                        "ExplainCount": 0,
+                        "ConcernCount": 35
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003148,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 6,
+                "ExplainCount": 0,
+                "ConcernCount": 35
+            },
+            {
+                "AllTestID": 43003149,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003149,
+                        "ChildTableID": -1,
+                        "UserCount": 4705,
+                        "RightCount": 3042,
+                        "FavCount": 115,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003149,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43003150,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003150,
+                        "ChildTableID": -1,
+                        "UserCount": 5033,
+                        "RightCount": 1904,
+                        "FavCount": 262,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 56
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003150,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 56
+            },
+            {
+                "AllTestID": 43003151,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003151,
+                        "ChildTableID": -1,
+                        "UserCount": 4998,
+                        "RightCount": 1578,
+                        "FavCount": 292,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003151,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43003152,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003152,
+                        "ChildTableID": -1,
+                        "UserCount": 4365,
+                        "RightCount": 3533,
+                        "FavCount": 112,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 33
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003152,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 33
+            },
+            {
+                "AllTestID": 43003153,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003153,
+                        "ChildTableID": -1,
+                        "UserCount": 4761,
+                        "RightCount": 2419,
+                        "FavCount": 225,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003153,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43003154,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003154,
+                        "ChildTableID": -1,
+                        "UserCount": 4580,
+                        "RightCount": 2310,
+                        "FavCount": 225,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 63
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003154,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 63
+            },
+            {
+                "AllTestID": 43003155,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003155,
+                        "ChildTableID": -1,
+                        "UserCount": 4745,
+                        "RightCount": 2429,
+                        "FavCount": 135,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003155,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 41001019,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001019,
+                        "ChildTableID": -1,
+                        "UserCount": 4070,
+                        "RightCount": 3876,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001019,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016429,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016429,
+                        "ChildTableID": -1,
+                        "UserCount": 4085,
+                        "RightCount": 3265,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016429,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43016431,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016431,
+                        "ChildTableID": -1,
+                        "UserCount": 3830,
+                        "RightCount": 3523,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016431,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43016432,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016432,
+                        "ChildTableID": -1,
+                        "UserCount": 4005,
+                        "RightCount": 3254,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016432,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016435,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016435,
+                        "ChildTableID": -1,
+                        "UserCount": 3822,
+                        "RightCount": 3637,
+                        "FavCount": 62,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016435,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016436,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016436,
+                        "ChildTableID": -1,
+                        "UserCount": 3858,
+                        "RightCount": 3670,
+                        "FavCount": 13,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016436,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016437,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016437,
+                        "ChildTableID": -1,
+                        "UserCount": 4445,
+                        "RightCount": 2096,
+                        "FavCount": 189,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016437,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016438,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016438,
+                        "ChildTableID": -1,
+                        "UserCount": 3910,
+                        "RightCount": 3362,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016438,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016439,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016439,
+                        "ChildTableID": -1,
+                        "UserCount": 3853,
+                        "RightCount": 3391,
+                        "FavCount": 32,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016439,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43016442,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016442,
+                        "ChildTableID": -1,
+                        "UserCount": 4062,
+                        "RightCount": 2795,
+                        "FavCount": 117,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016442,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43016443,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016443,
+                        "ChildTableID": -1,
+                        "UserCount": 4098,
+                        "RightCount": 2829,
+                        "FavCount": 130,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016443,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43016444,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016444,
+                        "ChildTableID": -1,
+                        "UserCount": 3934,
+                        "RightCount": 2858,
+                        "FavCount": 108,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016444,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43016445,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016445,
+                        "ChildTableID": -1,
+                        "UserCount": 4229,
+                        "RightCount": 2135,
+                        "FavCount": 174,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016445,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43016446,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016446,
+                        "ChildTableID": -1,
+                        "UserCount": 3702,
+                        "RightCount": 3509,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016446,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43016447,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016447,
+                        "ChildTableID": -1,
+                        "UserCount": 3735,
+                        "RightCount": 3357,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016447,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016448,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016448,
+                        "ChildTableID": -1,
+                        "UserCount": 3988,
+                        "RightCount": 2982,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016448,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43000824,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000824,
+                        "ChildTableID": -1,
+                        "UserCount": 4711,
+                        "RightCount": 2326,
+                        "FavCount": 163,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000824,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003156,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003156,
+                        "ChildTableID": -1,
+                        "UserCount": 4090,
+                        "RightCount": 3324,
+                        "FavCount": 120,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003156,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003157,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003157,
+                        "ChildTableID": -1,
+                        "UserCount": 4047,
+                        "RightCount": 3212,
+                        "FavCount": 62,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003157,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003158,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003158,
+                        "ChildTableID": -1,
+                        "UserCount": 3830,
+                        "RightCount": 3597,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003158,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016449,
+                "ChildTableID": 43002660,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016449,
+                        "ChildTableID": 43002660,
+                        "UserCount": 4004,
+                        "RightCount": 3406,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016449,
+                    "ChildTableID": 43002660
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43016449,
+                "ChildTableID": 43002661,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016449,
+                        "ChildTableID": 43002661,
+                        "UserCount": 3991,
+                        "RightCount": 3276,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016449,
+                    "ChildTableID": 43002661
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43016449,
+                "ChildTableID": 43002662,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016449,
+                        "ChildTableID": 43002662,
+                        "UserCount": 4100,
+                        "RightCount": 3194,
+                        "FavCount": 69,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016449,
+                    "ChildTableID": 43002662
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43016450,
+                "ChildTableID": 43002663,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016450,
+                        "ChildTableID": 43002663,
+                        "UserCount": 3869,
+                        "RightCount": 3571,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016450,
+                    "ChildTableID": 43002663
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43016450,
+                "ChildTableID": 43002664,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016450,
+                        "ChildTableID": 43002664,
+                        "UserCount": 3997,
+                        "RightCount": 3351,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016450,
+                    "ChildTableID": 43002664
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43016450,
+                "ChildTableID": 43002665,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016450,
+                        "ChildTableID": 43002665,
+                        "UserCount": 3903,
+                        "RightCount": 3511,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016450,
+                    "ChildTableID": 43002665
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 35001268,
+                "ChildTableID": 35000050,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001268,
+                        "ChildTableID": 35000050,
+                        "UserCount": 4558,
+                        "RightCount": 2401,
+                        "FavCount": 138,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001268,
+                    "ChildTableID": 35000050
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 35001268,
+                "ChildTableID": 35000051,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35001268,
+                        "ChildTableID": 35000051,
+                        "UserCount": 3874,
+                        "RightCount": 3728,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35001268,
+                    "ChildTableID": 35000051
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43000827,
+                "ChildTableID": 43000009,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000827,
+                        "ChildTableID": 43000009,
+                        "UserCount": 4140,
+                        "RightCount": 3204,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000827,
+                    "ChildTableID": 43000009
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43000827,
+                "ChildTableID": 43000010,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000827,
+                        "ChildTableID": 43000010,
+                        "UserCount": 3838,
+                        "RightCount": 3742,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000827,
+                    "ChildTableID": 43000010
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43000827,
+                "ChildTableID": 43000011,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000827,
+                        "ChildTableID": 43000011,
+                        "UserCount": 3870,
+                        "RightCount": 3679,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000827,
+                    "ChildTableID": 43000011
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43003159,
+                "ChildTableID": 43000289,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003159,
+                        "ChildTableID": 43000289,
+                        "UserCount": 3790,
+                        "RightCount": 3485,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003159,
+                    "ChildTableID": 43000289
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43003159,
+                "ChildTableID": 43000290,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003159,
+                        "ChildTableID": 43000290,
+                        "UserCount": 3799,
+                        "RightCount": 3656,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003159,
+                    "ChildTableID": 43000290
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43003160,
+                "ChildTableID": 43000291,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003160,
+                        "ChildTableID": 43000291,
+                        "UserCount": 4472,
+                        "RightCount": 2527,
+                        "FavCount": 103,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003160,
+                    "ChildTableID": 43000291
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43003160,
+                "ChildTableID": 43000292,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003160,
+                        "ChildTableID": 43000292,
+                        "UserCount": 3959,
+                        "RightCount": 3597,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003160,
+                    "ChildTableID": 43000292
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43000826,
+                "ChildTableID": 43000260,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000826,
+                        "ChildTableID": 43000260,
+                        "UserCount": 3799,
+                        "RightCount": 3657,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000826,
+                    "ChildTableID": 43000260
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000826,
+                "ChildTableID": 43000261,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000826,
+                        "ChildTableID": 43000261,
+                        "UserCount": 4113,
+                        "RightCount": 3191,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000826,
+                    "ChildTableID": 43000261
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003161,
+                "ChildTableID": 43000797,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003161,
+                        "ChildTableID": 43000797,
+                        "UserCount": 4709,
+                        "RightCount": 1825,
+                        "FavCount": 165,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003161,
+                    "ChildTableID": 43000797
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003161,
+                "ChildTableID": 43000798,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003161,
+                        "ChildTableID": 43000798,
+                        "UserCount": 4500,
+                        "RightCount": 2138,
+                        "FavCount": 137,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003161,
+                    "ChildTableID": 43000798
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43003161,
+                "ChildTableID": 43000799,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003161,
+                        "ChildTableID": 43000799,
+                        "UserCount": 3947,
+                        "RightCount": 3279,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003161,
+                    "ChildTableID": 43000799
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43016452,
+                "ChildTableID": 43002983,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016452,
+                        "ChildTableID": 43002983,
+                        "UserCount": 4066,
+                        "RightCount": 2957,
+                        "FavCount": 91,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016452,
+                    "ChildTableID": 43002983
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43016452,
+                "ChildTableID": 43002984,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43016452,
+                        "ChildTableID": 43002984,
+                        "UserCount": 3894,
+                        "RightCount": 3229,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43016452,
+                    "ChildTableID": 43002984
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

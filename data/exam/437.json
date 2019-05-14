@@ -1,0 +1,2260 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:17:14 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 11,
+                    "TestItems": [
+                        {
+                            "Title": "012bcc86f966aee04f7646aac9892b3057328e07a2518cf8ae0e8f9328aa961e8bb9c2239b22ffa9a7538e155cc545c883549446af90b04bf454304b109a77a1caa0121ac5134174d2453d2e7c20a073bf299ffa67429dcf06dc601ea7ee29426137b2b2e0500465fef90d8116fafa9591dba6e2c37f406106df092274d226725334bdf0aef66a5a",
+                            "Explain": "血培养标本采集的最佳时间是寒战发热时，此时，体内细菌正处于迅速生长繁殖期，此时作细菌培养，可提高阳性率，检出率高。故正确答案为D。",
+                            "TestPoint": "血培养时间",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "Content": "体温下降时",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "午后",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "清晨空腹时",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "寒战发热时",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "体温最高时",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000001,
+                            "ATestID": 42000001,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "91c2beef1821172a88a45e863e5be4c1e73942c827e2d51f88c0f2e221924fd7",
+                            "Explain": "“三凹征”多见于吸气性呼吸困难，吸气困难时，吸气时间延长，此时胸内压显著下降，造成胸骨上窝、锁骨上窝和肋间隙的凹陷，称为“三凹征”。多见于喉头水肿、痉挛、气管异物、肿瘤等引起的上呼吸道机械性梗阻及大支气管的狭窄和阻塞。故正确答案为C。",
+                            "TestPoint": "三凹征",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "大叶肺炎",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "胸膜肥厚",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "大气道狭窄",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "胸腔积液",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "间质性肺病",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000002,
+                            "ATestID": 42000002,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aef0e1d5f37ae114c6d9a7779f00a4c2a87e2c976f323becedb97d2127e6be54767ff0e73f2a752e32097d0f6ba147d0",
+                            "Explain": "咳嗽是一种呼吸道常见的突发性症状，咳嗽是一种保护性反射动作，当支气管粘膜或胸膜受炎症、异物刺激时，便会出现咳嗽，使异物咳出。咳嗽咳痰亦属一种病理现象，当气管和肺出现病变有痰液时，会诱发咳嗽咳痰。咳嗽控制中枢在延髓。胸膜疾病如胸膜炎会出现刺激性干咳，心血管疾病，如左心衰也会出现咳嗽。故正确答案为E。",
+                            "TestPoint": "咳嗽与咳痰",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "咳嗽是一种保护性反射动作"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "咳嗽亦属一种病理现象"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "咳嗽控制中枢在延髓"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "咳痰是一种病态现象"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胸膜疾病或心血管疾病不会出现咳嗽"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000003,
+                            "ATestID": 42000003,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3a059c0f01fcc7687a8c249d2e22b15943bc3a707abea43c",
+                            "Explain": "每日咯血量＜100m1为少量咯血，100～500ml为中等量咯血，在500ml以上或一次咯血量300～500ml为大量咯血。故正确答案为E。",
+                            "TestPoint": "咯血",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "日咯血量>100ml"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "日咯血量>200ml"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "日咯血量>300ml"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "日咯血量>400ml"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "日咯血量>500ml"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000004,
+                            "ATestID": 42000004,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a922ddc72949d04689de1bfc91a952e5a518fe0f650a5ab6b787",
+                            "Explain": "每日咯血量＜100ml为少量咯血（A错），每日咯血量100～500ml为中等量咯血，每日咯血量在500ml以上或一次咯血量300～500ml为大量咯血（C错）。咯出的血液常呈弱碱性，PH7.35～7.45左右（D错）。咯血患者宜患侧卧位，避免流出的血液反流进入健侧，引起健侧肺部感染（E错）。咯血前，血液刺激呼吸道，而出现胸闷、咳嗽。（B对）。故正确答案为B。",
+                            "TestPoint": "咯血",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "A",
+                                    "Content": "每日咯血量<150ml为小量咯血"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "B",
+                                    "Content": "咯血前患者常有胸闷、咳嗽等"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "C",
+                                    "Content": "一次咯血量>500ml为大量咯血"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "D",
+                                    "Content": "咯出的血液常呈酸性"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "E",
+                                    "Content": "咯血患者宜健侧卧位，以利血液排除"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000005,
+                            "ATestID": 42000005,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2019年1月28日",
+                            "OldTestJson": "{\"Title\":\"下列哪项是正确的\",\"Explain\":\"每日咯血量＜100m1为少量咯血（A错），100～500ml为中等量咯血，在500ml以上或一次咯血量300～500ml为大量咯血（C错）。咯出的血液常呈弱碱性，PH7.35～7.45左右（D错）。咯血患者宜患侧卧位，避免流出的血液反流进入健侧，引起健侧肺部感染（E错）。咯血前，血液刺激呼吸道，而出现胸闷、咳嗽。（B对）。故正确答案为B。\",\"TestPoint\":\"咯血\",\"Answer\":\"B\",\"Difficulty\":\"易\",\"SelectedItems\":[{\"HasImg\":1,\"ItemName\":\"A\",\"Content\":\"每日咯血量<150ml为小量咯血\"},{\"HasImg\":0,\"ItemName\":\"B\",\"Content\":\"咯血前患者常有胸闷、咳嗽等\"},{\"HasImg\":0,\"ItemName\":\"C\",\"Content\":\"一次咯血量>500ml为大量咯血\"},{\"HasImg\":0,\"ItemName\":\"D\",\"Content\":\"咯出的血液常呈酸性\"},{\"HasImg\":0,\"ItemName\":\"E\",\"Content\":\"咯血患者宜健侧卧位，以利血液排除\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "0949645e8f3add2736cf2fb1ca1f681b577928fd3e93cd02da1581e7ae691939bfa7530a4fb1fb229954f3bf1213fd44768f77c0511db61d",
+                            "Explain": "发绀是指血液中还原血红蛋白增多使皮肤和粘膜呈青紫色改变的一种表现（A对），此外，药物及化学物品中毒导致血中异常血红蛋白衍生物（如高铁血红蛋白血和硫化血红蛋白血）的出现亦可形成紫绀（B对）。发绀可分为中心性发绀（又包括①肺性发绀②心性混合性发绀）和周围性发绀（又包括①瘀血性周围性发绀②缺血性周围性发绀）（C、D对）。真性红细胞增多症以红细胞数及容量显著增多为特点，出现黏膜充血，呈淡蓝色，属于周围性发绀。故正确答案为E。",
+                            "TestPoint": "发绀",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "发绀是指血中还原血红蛋白增多"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "广义的发绀还包括高铁血红蛋白血症和硫化血红蛋白血症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "中心性发绀可分为：肺性发绀和心性混合性发绀"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "周围性发绀可分为：瘀血性和缺血性周围性发绀"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "真性红细胞增多症所致发绀不属于周围性发绀"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000006,
+                            "ATestID": 42000006,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "91e539d01bbb1ce5b27955a6d3ce85c3398ed18c22a729d5b85cc4bfc80d6706",
+                            "Explain": "呼吸困难分为吸气性呼吸困难、呼气性呼吸困难、混合性呼吸困难。其中吸气性呼吸困难主要见于大气道阻塞，如肿瘤、气管异物、喉头水肿等；呼气性呼吸困难主要见于支气管哮喘或哮喘合并阻塞性肺疾病引起广泛小气道痉挛；大气道阻塞、小气道痉挛同时存在时引起混合性呼吸困难。故C项.阻塞性肺气肿属于呼气性呼吸困难。正确答案为C。",
+                            "TestPoint": "呼吸困难",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性喉炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "甲状腺肿大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "阻塞性肺气肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺不张"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000007,
+                            "ATestID": 42000007,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "55bffcf087f0e533123581c52603997d7a072d245dc5f73a9cbcb444f8a597f2",
+                            "Explain": "呼吸困难分为吸气性呼吸困难、呼气性呼吸困难、混合性呼吸困难。1.其中吸气性呼吸困难主要见于大气道阻塞，如肿瘤、气管异物、喉头水肿等。2.呼气性呼吸困难主要见于支气管哮喘或哮喘合并阻塞性肺疾病引起广泛小气道痉挛。3.混合性呼吸困难常见于重症肺炎、重症肺结核、大面积肺梗死、大量胸腔积液、气胸等。正确答案为D。",
+                            "TestPoint": "呼吸困难",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性喉炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "气管异物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "大量胸腔积液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "颅脑外伤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000008,
+                            "ATestID": 42000008,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0758d6e6d5fb081a6f201a220ae85bc13f938e8cabbe17e60a96a062221197f0",
+                            "Explain": "潮式呼吸又称陈-施（Cheyne-Stokes）呼吸。潮式呼吸多见于中枢神经系统疾病，如脑炎、脑膜炎、颅内压增高以及某些中毒（如巴比妥类药物中毒），也见于心力衰竭（肺-脑循环时间延长）、缺氧及某些脑干损伤。有些老年人在深睡时也可出现潮式呼吸，可能是脑动脉硬化、脑供血不足的表现。正确答案为B。",
+                            "TestPoint": "潮式呼吸",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性传染病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "巴比妥类药物中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "尿毒症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "癔病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "重度贫血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000009,
+                            "ATestID": 42000009,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2680a7bc5f7d76e2115efe32ba218700b7e87c31bf6545b7",
+                            "Explain": "Biots呼吸（间停呼吸），表现为规则呼吸后出现长周期呼吸停止，又开始呼吸。常见于脑水肿、呼吸中枢抑制、麻醉药和镇静催眠药中毒。Biots呼吸也可见于巴比妥类药物中毒。正确答案为B。",
+                            "TestPoint": ".Biots呼吸",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性传染病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "巴比妥类药物中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "尿毒症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "癔症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "重度贫血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000010,
+                            "ATestID": 42000010,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c5126be6ddb03cc97f6169eefa39fefc564f663dca0fe39c614dcc6fa47e267e85b7a8389e26a23af79946b17c4956ff325549634adefe9d3304bb218938c002baaaa62dd20a078fe5a004ac90274f72",
+                            "Explain": "叹息样呼吸多为功能改变，见于神经衰弱、精神紧张或抑郁症。故正确答案为D。",
+                            "TestPoint": "叹息样呼吸",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺源性呼吸困难"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "心源性呼吸困难"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "中毒性呼吸困难"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "神经精神性呼吸困难"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血源性呼吸困难"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000011,
+                            "ATestID": 42000011,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "7b152f764e1cb12179a77151541de12b17b0cc338e764d4f22b5fdfab0feb5aac4d0a1f21fab041d358cdaccfd3251e18ec1f7de9779f308a17dd9dcd3e72a650626d833e18d0db715fd442e2b1658ca2eb258f78dc301f65ea5b99d1ab43412698e6ffe6d5929984f630de12627a2fbd81629f410c865d5594aaa6087601bb9d57f100ee2b4a13ad267a913b728691cdc501f33e140c2e5f0f06fbdb8acc52469207432473d2443",
+                            "Explain": "咳嗽是一种呼吸道自我保护的动作，通过咳嗽可以排出呼吸道的分泌物或异物，保持呼吸道的通畅和清洁。咳嗽的产生动作是由刺激神经末梢感受器产生冲动，经传入神经兴奋延髓的呼吸中枢，再由呼吸中枢发出冲动，经传出神经作用于肋间肌、膈和声门等而暴发咳嗽及咳痰，感受器冲动的传入咳嗽中枢和咳嗽中枢兴奋的传出主要通过迷走神经。夜晚睡觉以后，由于迷走神经的兴奋度会增加，支气管平滑肌收缩，使支气管的管腔变形缩小，呼吸道的敏感性增加，故夜间咳嗽加重。故正确答案为B。",
+                            "TestPoint": "咳嗽的机制",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "大脑皮层对延髓呼吸中枢抑制减弱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "迷走神经兴奋性增高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "交感神经兴奋性增高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "痰量增多"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均有关"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000012,
+                            "ATestID": 42000012,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d042bf0b49d162d3b7727e6bcf5c757d51b5b76fe8b166a63bce57605d1101287eef64a4b255b8419adc153e57bdfa4a6bc62c2ce9bf7282052962cc01a356f1abcf868db2846415029b84fa46c249f5c3488116e114124b7a6",
+                            "Explain": "慢性支气管炎的诊断标准为：①咳嗽、咳痰或伴喘息，每年发病3个月，连续2年或以上者；②每年发病不足3个月，而有明确的客观检查依据（如X线、肺功能测定等）者亦可诊断；③能排除其他心、肺疾病（如肺结核、哮喘、支气管扩张、肺癌、心脏病等）者。咳嗽有痰液对慢性支气管炎诊断最有意义。故答案为B。",
+                            "TestPoint": "慢性支气管炎的临床表现。",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "咳嗽无咳痰"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "咳嗽有痰液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "咳嗽伴咯血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "咳嗽伴发热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "吸烟史"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000013,
+                            "ATestID": 42000013,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d048c67a51470e35867fbce8a377a5e10760cb539179d21f220b3bf771a8d380e82c09d1468624037a28fca678b38f2e45f9e973da7f9e506c254e97916dc2d0bfd4071a10bd5da7347d4e03c6cc2dc36129919dd36cab0d74e",
+                            "Explain": "出现咳嗽伴大量脓痰最可能诊断为是支气管扩张。1.支气管扩张临床表现主要为慢性咳嗽、咳脓痰及反复咯血。2.肺结核：病人有低热，咳痰，一般多为白色黏痰。3.支气管哮喘：表现为发作性的喘息、气急、胸闷或咳嗽。4.肺癌：表现为刺激性干咳、憋气。5.胸膜炎：主要表现为胸痛、咳嗽、胸闷、气急，甚则呼吸困难。故答案为B。",
+                            "TestPoint": "呼吸系统疾病",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "支气管扩张症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "支气管哮喘"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胸膜炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000014,
+                            "ATestID": 42000014,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7b152f764e1cb1219311b7de36ed71a5fd6e69d94255d9b860883fac4ed3b62237c84a097e2b9e76ef95f9d9151d35eefacf44f6c8d853fb8002be1ad40ef513c8dbab39970508370935fd1b87ab6e5c9b069163d2f5f0cd25f7b94ca3dec45184282374111a8b6f62cd740dbce76f9cbd329fc2c3b2408d28a4c507e6b898888e2ac71400a8ec415ad66401cbcc869e",
+                            "Explain": "呼吸性碱中毒表现为：1.手、足、面部特别是口周麻木并有针刺样感觉。2.胸闷、胸痛、头昏、恐惧，甚至四肢抽搐。3.呼吸浅而慢。故答案为E。",
+                            "TestPoint": "呼吸性碱中毒的表现",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "意识障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "周围循环衰竭"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "大小便失禁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "腱反射减弱或消失"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "口周及肢体麻木"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000015,
+                            "ATestID": 42000015,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 24,
+                    "TestItems": [
+                        {
+                            "Title": "f50c65010195d3850e3b1fb534343e3ffedadc2fc357b72e",
+                            "Explain": "急性肾盂肾炎症状为发热伴寒战。",
+                            "TestPoint": "急性肾盂肾炎",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "发热伴寒战"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "发热伴口角疱疹"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "发热伴肝脾肿大"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "发热伴出血"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "发热伴昏迷"
+                                }
+                            ],
+                            "AllTestID": 42000016,
+                            "BTestID": 42000001,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 42000001,
+                                    "Title": "f50c65010195d3850e3b1fb534343e3ffedadc2fc357b72e",
+                                    "Explain": "急性肾盂肾炎症状为发热伴寒战。",
+                                    "TestPoint": "急性肾盂肾炎",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000002,
+                                    "Title": "43ac24506e974bdb312e6f09331b5c1816b08523b643906a",
+                                    "Explain": "流行性出血热症状为发热伴出血。",
+                                    "TestPoint": "流行性出血热",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000003,
+                                    "Title": "43ac24506e974bdbba081a5e069a6e1d",
+                                    "Explain": "流行性感冒症状为发热伴口角疱疹。",
+                                    "TestPoint": "流行性感冒",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000004,
+                                    "Title": "8f5238130760eaa5349bd8fb8842488d",
+                                    "Explain": "白血病症状为发热伴肝脾肿大。",
+                                    "TestPoint": "白血病",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "489c3fcc6d81de7160d1396f4a08b058e1e31bbb6f0dbcc5464e59b218027197",
+                            "Explain": "肺炎克雷伯杆菌肺炎咯砖红色胶冻样黏痰。",
+                            "TestPoint": "肺炎克雷伯杆菌肺炎",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "咯血颜色鲜红"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "铁锈色血痰"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "砖红色胶冻样黏痰"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "粉红色乳样痰"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "粉红色浆液性泡沫样痰"
+                                }
+                            ],
+                            "AllTestID": 42000017,
+                            "BTestID": 42000005,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 42000005,
+                                    "Title": "489c3fcc6d81de7160d1396f4a08b058e1e31bbb6f0dbcc5464e59b218027197",
+                                    "Explain": "肺炎克雷伯杆菌肺炎咯砖红色胶冻样黏痰。",
+                                    "TestPoint": "肺炎克雷伯杆菌肺炎",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000006,
+                                    "Title": "fe85c012531b4e59c79a1fec5d8073676c2b79a5259c9cd4",
+                                    "Explain": "肺炎球菌肺炎咯铁锈色血痰。",
+                                    "TestPoint": "肺炎球菌肺炎",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000007,
+                                    "Title": "41e3422fc52db5f9083b56cdfeabaf63",
+                                    "Explain": "出血性疾病咯血颜色鲜红。",
+                                    "TestPoint": "出血性疾病",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000008,
+                                    "Title": "dc6ae3ab162ce73ccdd9040ef67d85b76b1b83843c13348f",
+                                    "Explain": "左心衰竭肺水肿咯粉红色浆液性泡沫样痰。",
+                                    "TestPoint": "左心衰竭肺水肿",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "57d01e528653540f81e9be14b2ba98deb62d303d3b8d602f99621953c331c263b8756e1327d29c18",
+                            "Explain": "极度衰弱或声带麻痹患者咳嗽声音低微或无声。",
+                            "TestPoint": "声带麻痹",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "咳嗽声音低微或无声"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "咳嗽声音嘶哑"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "金属音调咳嗽"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "阵发性连续剧咳伴有高调吸气回声(鸡鸣样咳嗽)"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "咳嗽、咳粉红色泡沫痰伴呼吸困难"
+                                }
+                            ],
+                            "AllTestID": 42000018,
+                            "BTestID": 42000009,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 42000009,
+                                    "Title": "57d01e528653540f81e9be14b2ba98deb62d303d3b8d602f99621953c331c263b8756e1327d29c18",
+                                    "Explain": "极度衰弱或声带麻痹患者咳嗽声音低微或无声。",
+                                    "TestPoint": "声带麻痹",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000010,
+                                    "Title": "3b47426879ee83f9826f5e375c6c5a9b4979f547ecd6067b",
+                                    "Explain": "喉返神经麻痹者咳嗽声音嘶哑。",
+                                    "TestPoint": "神经麻痹",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000011,
+                                    "Title": "c05c722c0964de0abfc8d27d1210f2e590ba98afab7a2da92a89aed73512f31477c7a22a221b20e7",
+                                    "Explain": "纵隔肿瘤或淋巴瘤、结节病者有金属音调咳嗽。",
+                                    "TestPoint": "纵隔肿瘤",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000012,
+                                    "Title": "f50c65010195d385cea2ec1127f38da0",
+                                    "Explain": "急性肺水肿症状为咳嗽、咳粉红色泡沫痰伴呼吸困难。",
+                                    "TestPoint": "急性肺水肿",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "0fbbe3da90b3763eb6f64d61b7220a4c2d3cf348d8469ab947613fdcfab5f1a7",
+                            "Explain": "支气管子宫内膜异位症有周期性咯血。",
+                            "TestPoint": "支气管子宫内膜异位症",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "大量咯血伴低热"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "持续痰中带血伴Horner综合征"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "稍有痰中带血伴剧咳"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "间断咯血伴大量脓痰"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "周期性咯血"
+                                }
+                            ],
+                            "AllTestID": 42000019,
+                            "BTestID": 42000013,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 42000013,
+                                    "Title": "0fbbe3da90b3763eb6f64d61b7220a4c2d3cf348d8469ab947613fdcfab5f1a7",
+                                    "Explain": "支气管子宫内膜异位症有周期性咯血。",
+                                    "TestPoint": "支气管子宫内膜异位症",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000014,
+                                    "Title": "0fbbe3da90b3763e2634bbb22a4734d6",
+                                    "Explain": "支气管扩张症状为间断咯血伴大量脓痰。",
+                                    "TestPoint": "支气管扩张",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000015,
+                                    "Title": "54ebfccc004b916baee53b88f331f5aa",
+                                    "Explain": "肺结核空洞症状为大量咯血伴低热。",
+                                    "TestPoint": "肺结核空洞",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000016,
+                                    "Title": "0fbbe3da90b3763e2371f5f0a06311f1",
+                                    "Explain": "支气管肺癌症状是持续痰中带血伴Horner综合征。",
+                                    "TestPoint": "支气管肺癌",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "d0cf5ddc0e3b00fd8b0ae28a9adb4cf765e43963b2ef59e5",
+                            "Explain": "Eisenmenger综合征有心性混合性发绀。",
+                            "TestPoint": "Eisenmenger综合征",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺性发绀"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心性混合性发绀"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "瘀血性周围性发绀"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "缺血性周围性发绀"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "混合性发绀"
+                                }
+                            ],
+                            "AllTestID": 42000020,
+                            "BTestID": 42000017,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 42000017,
+                                    "Title": "d0cf5ddc0e3b00fd8b0ae28a9adb4cf765e43963b2ef59e5",
+                                    "Explain": "Eisenmenger综合征有心性混合性发绀。",
+                                    "TestPoint": "Eisenmenger综合征",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000018,
+                                    "Title": "ff10c8a898c37b417bb53cd0d2ab71cbadaa40bc7bac92ed",
+                                    "Explain": "缩窄性心包炎有瘀血性周围性发绀。",
+                                    "TestPoint": "缩窄性心包炎",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000019,
+                                    "Title": "0afbea810ae09150",
+                                    "Explain": "休克症状为缺血性周围性发绀。",
+                                    "TestPoint": "休克",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000020,
+                                    "Title": "063b502caaa95fc0664e88ec02d7a672",
+                                    "Explain": "全心衰竭症状为混合性发绀。",
+                                    "TestPoint": "全心衰竭",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "f455f092960beded559bcd9e27e146d0a7e28ba8ba8ed8cca7bb8f1651357513",
+                            "Explain": "急性呼吸道阻塞性疾病症状为发绀伴呼吸困难。",
+                            "TestPoint": "慢性阻塞性肺疾病",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "发绀伴呼吸困难"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "发绀伴杵状指(趾)"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "发绀伴意识障碍和衰竭"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "发绀伴红细胞增多"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "发绀伴心脏瓣膜显著杂音"
+                                }
+                            ],
+                            "AllTestID": 42000021,
+                            "BTestID": 42000021,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 437,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 42000021,
+                                    "Title": "f455f092960beded559bcd9e27e146d0a7e28ba8ba8ed8cca7bb8f1651357513",
+                                    "Explain": "急性呼吸道阻塞性疾病症状为发绀伴呼吸困难。",
+                                    "TestPoint": "慢性阻塞性肺疾病",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000022,
+                                    "Title": "52c2ce2eef5603169d185d351e946fe08c183f912820f2877e2e13e09576a87f",
+                                    "Explain": "慢性肺部化脓性疾病症状为发绀伴杵状指(趾)。",
+                                    "TestPoint": "慢性肺部化脓性疾",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000023,
+                                    "Title": "1d4718a0521c03516762aa170486943f57b424082c073dcd27380f68f26dbcfd4acc589d885d2ccc",
+                                    "Explain": "某些药物或化学物质急性中毒症状为发绀伴意识障碍和衰竭。",
+                                    "TestPoint": "中毒",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 42000024,
+                                    "Title": "f7b6d34d567751fccafd32d2eac651e69894a86a5e5e607c00786ffe61d6513b",
+                                    "Explain": "真性红细胞增多症症状为发绀伴红细胞增多。",
+                                    "TestPoint": "真性红细胞增多症",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 42000001,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000001,
+                        "ChildTableID": -1,
+                        "UserCount": 4126,
+                        "RightCount": 2999,
+                        "FavCount": 47,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 1,
+                        "ConcernCount": 63
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000001,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 1,
+                "ConcernCount": 63
+            },
+            {
+                "AllTestID": 42000002,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000002,
+                        "ChildTableID": -1,
+                        "UserCount": 3753,
+                        "RightCount": 2993,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000002,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 42000003,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000003,
+                        "ChildTableID": -1,
+                        "UserCount": 3690,
+                        "RightCount": 2745,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000003,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 42000004,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000004,
+                        "ChildTableID": -1,
+                        "UserCount": 3686,
+                        "RightCount": 2469,
+                        "FavCount": 88,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 1,
+                        "ConcernCount": 33
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000004,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 1,
+                "ConcernCount": 33
+            },
+            {
+                "AllTestID": 42000005,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000005,
+                        "ChildTableID": -1,
+                        "UserCount": 3975,
+                        "RightCount": 1407,
+                        "FavCount": 86,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000005,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 42000006,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000006,
+                        "ChildTableID": -1,
+                        "UserCount": 3029,
+                        "RightCount": 1650,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 46
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000006,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 46
+            },
+            {
+                "AllTestID": 42000007,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000007,
+                        "ChildTableID": -1,
+                        "UserCount": 2844,
+                        "RightCount": 2107,
+                        "FavCount": 30,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000007,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 42000008,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000008,
+                        "ChildTableID": -1,
+                        "UserCount": 3033,
+                        "RightCount": 1776,
+                        "FavCount": 59,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000008,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 42000009,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000009,
+                        "ChildTableID": -1,
+                        "UserCount": 2768,
+                        "RightCount": 2118,
+                        "FavCount": 81,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 33
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000009,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 33
+            },
+            {
+                "AllTestID": 42000010,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000010,
+                        "ChildTableID": -1,
+                        "UserCount": 3015,
+                        "RightCount": 1422,
+                        "FavCount": 75,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 39
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000010,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 39
+            },
+            {
+                "AllTestID": 42000011,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000011,
+                        "ChildTableID": -1,
+                        "UserCount": 2715,
+                        "RightCount": 1728,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000011,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 42000012,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000012,
+                        "ChildTableID": -1,
+                        "UserCount": 2800,
+                        "RightCount": 1500,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000012,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 42000013,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000013,
+                        "ChildTableID": -1,
+                        "UserCount": 2772,
+                        "RightCount": 1751,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000013,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 42000014,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000014,
+                        "ChildTableID": -1,
+                        "UserCount": 2443,
+                        "RightCount": 2138,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000014,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 42000015,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000015,
+                        "ChildTableID": -1,
+                        "UserCount": 2702,
+                        "RightCount": 1419,
+                        "FavCount": 67,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000015,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 42000016,
+                "ChildTableID": 42000001,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000016,
+                        "ChildTableID": 42000001,
+                        "UserCount": 2451,
+                        "RightCount": 1816,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000016,
+                    "ChildTableID": 42000001
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 42000016,
+                "ChildTableID": 42000002,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000016,
+                        "ChildTableID": 42000002,
+                        "UserCount": 2529,
+                        "RightCount": 1869,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000016,
+                    "ChildTableID": 42000002
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 42000016,
+                "ChildTableID": 42000003,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000016,
+                        "ChildTableID": 42000003,
+                        "UserCount": 2443,
+                        "RightCount": 1753,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000016,
+                    "ChildTableID": 42000003
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 42000016,
+                "ChildTableID": 42000004,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000016,
+                        "ChildTableID": 42000004,
+                        "UserCount": 2311,
+                        "RightCount": 2099,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000016,
+                    "ChildTableID": 42000004
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 42000017,
+                "ChildTableID": 42000005,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000017,
+                        "ChildTableID": 42000005,
+                        "UserCount": 2416,
+                        "RightCount": 2187,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000017,
+                    "ChildTableID": 42000005
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 42000017,
+                "ChildTableID": 42000006,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000017,
+                        "ChildTableID": 42000006,
+                        "UserCount": 2400,
+                        "RightCount": 1929,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000017,
+                    "ChildTableID": 42000006
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 42000017,
+                "ChildTableID": 42000007,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000017,
+                        "ChildTableID": 42000007,
+                        "UserCount": 2460,
+                        "RightCount": 1970,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000017,
+                    "ChildTableID": 42000007
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 42000017,
+                "ChildTableID": 42000008,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000017,
+                        "ChildTableID": 42000008,
+                        "UserCount": 2458,
+                        "RightCount": 2222,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000017,
+                    "ChildTableID": 42000008
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 42000018,
+                "ChildTableID": 42000009,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000018,
+                        "ChildTableID": 42000009,
+                        "UserCount": 2418,
+                        "RightCount": 1664,
+                        "FavCount": 35,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000018,
+                    "ChildTableID": 42000009
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 42000018,
+                "ChildTableID": 42000010,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000018,
+                        "ChildTableID": 42000010,
+                        "UserCount": 2336,
+                        "RightCount": 1898,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000018,
+                    "ChildTableID": 42000010
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 42000018,
+                "ChildTableID": 42000011,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000018,
+                        "ChildTableID": 42000011,
+                        "UserCount": 2560,
+                        "RightCount": 1435,
+                        "FavCount": 63,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000018,
+                    "ChildTableID": 42000011
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 42000018,
+                "ChildTableID": 42000012,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000018,
+                        "ChildTableID": 42000012,
+                        "UserCount": 2246,
+                        "RightCount": 1957,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000018,
+                    "ChildTableID": 42000012
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 42000019,
+                "ChildTableID": 42000013,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000019,
+                        "ChildTableID": 42000013,
+                        "UserCount": 2599,
+                        "RightCount": 1525,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000019,
+                    "ChildTableID": 42000013
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 42000019,
+                "ChildTableID": 42000014,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000019,
+                        "ChildTableID": 42000014,
+                        "UserCount": 2290,
+                        "RightCount": 1990,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000019,
+                    "ChildTableID": 42000014
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 42000019,
+                "ChildTableID": 42000015,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000019,
+                        "ChildTableID": 42000015,
+                        "UserCount": 2371,
+                        "RightCount": 1738,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000019,
+                    "ChildTableID": 42000015
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 42000019,
+                "ChildTableID": 42000016,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000019,
+                        "ChildTableID": 42000016,
+                        "UserCount": 2475,
+                        "RightCount": 1569,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000019,
+                    "ChildTableID": 42000016
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 42000020,
+                "ChildTableID": 42000017,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000020,
+                        "ChildTableID": 42000017,
+                        "UserCount": 2539,
+                        "RightCount": 980,
+                        "FavCount": 85,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 52
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000020,
+                    "ChildTableID": 42000017
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 52
+            },
+            {
+                "AllTestID": 42000020,
+                "ChildTableID": 42000018,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000020,
+                        "ChildTableID": 42000018,
+                        "UserCount": 2475,
+                        "RightCount": 1138,
+                        "FavCount": 73,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000020,
+                    "ChildTableID": 42000018
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 42000020,
+                "ChildTableID": 42000019,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000020,
+                        "ChildTableID": 42000019,
+                        "UserCount": 2292,
+                        "RightCount": 1599,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000020,
+                    "ChildTableID": 42000019
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 42000020,
+                "ChildTableID": 42000020,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000020,
+                        "ChildTableID": 42000020,
+                        "UserCount": 2341,
+                        "RightCount": 1567,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000020,
+                    "ChildTableID": 42000020
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 42000021,
+                "ChildTableID": 42000021,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000021,
+                        "ChildTableID": 42000021,
+                        "UserCount": 2168,
+                        "RightCount": 1765,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000021,
+                    "ChildTableID": 42000021
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 42000021,
+                "ChildTableID": 42000022,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000021,
+                        "ChildTableID": 42000022,
+                        "UserCount": 2217,
+                        "RightCount": 1592,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000021,
+                    "ChildTableID": 42000022
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 42000021,
+                "ChildTableID": 42000023,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000021,
+                        "ChildTableID": 42000023,
+                        "UserCount": 2110,
+                        "RightCount": 1846,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000021,
+                    "ChildTableID": 42000023
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 42000021,
+                "ChildTableID": 42000024,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000021,
+                        "ChildTableID": 42000024,
+                        "UserCount": 2075,
+                        "RightCount": 1816,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000021,
+                    "ChildTableID": 42000024
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,1828 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 00:45:05 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d09037e4f6f3813a2c4dc3258f041f5389f7687a183ea386bb03cac62fdc89678ea49dc90bc42a3f652cb86ced8dc1e8482566d039819ca13f90d59586410370bfc23902d45df7232d5fc01eafa4c471678ff56114560e320745f3f5f45f1aae3707fac1173988caf37d68e9d07c08623bc9963f260e83ac3c42db8954b60a38577f1dbde5998ecf6c749e68fe72eff60e0feea19b5f8292242f169e4342fdcf00493a7d3e44ed1ef35698a2916de329fdf3046fc72a840c4e98c5221d110256e788b",
+                            "Explain": "功能逐渐恢复只能是脊髓震荡，而其他几种损伤很难恢复。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脊髓断裂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脊髓震荡"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "马尾神经损伤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脊柱挫伤与出血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脊柱受压"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35003386,
+                            "ATestID": 35003386,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09031870272f54f3b0da61540554e918c3ec5ee77ec13bfc272770a104435165691c640ff32966edfdba2873bae15e10af96cf62ae89accb94b40578084ce40e8a38cabcf7835dd9e9baf9ed2455409d0519bd55f4a693928c3387f448703838111576f2bf50ea1185802996c34d1b6b822a1c45f7d5c3852afac4255ece1bcc4918bcba710bca3e862f631e636829c453ec4a416dfb3bb87e622db446ff34d997683e4f95cfff93da4487e952d5fba206ccfe474b964bc7110d801f776f3d6ae60f3a364173329ce8fc952fbfcc986131d8303664c494c6897825cf925d665c2712b7e32d66e005a1ae65576e8878f7733d5f69278f5bf76e6cceff1cd7b342c160f9a33a07e342a4efe9c0ec1d838b9f2dbd1c48d3416bb4bd942982cbd442e1312b3314407e60b8fc",
+                            "Explain": "有遗传史，夜间明显，活动后减轻，典型的强直性脊柱炎，所以首选骨盆X线片，看骶髂关节。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "腰椎X线片"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "骨盆X线片"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "骶椎关节MRI"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "右腿X线片"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "骶髂关节CT"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35003389,
+                            "ATestID": 35003389,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 11,
+                    "TestItems": [
+                        {
+                            "Title": "0c7129370b2ac0c2e33fa17832a756539ec2ec08c877263936e2feac3f6f4348ee3cbd5ab6d01604",
+                            "Explain": "脊柱骨折者从受伤现场转运至医院内的急救搬运方式至关重要。一人抬头，一人抬脚或用搂抱的搬运方式十分危险，因这些方法会增加脊柱的弯曲，可以将碎骨片向后挤入椎管内，加重脊髓的损伤。正确的方法是采用担架、木板甚至门板搬运。先使伤员双下肢伸直，木板放在伤员一侧，三人用手将伤员托至门板上，或二三人采用滚动法，使伤员保持平直状态，成一整体滚动至木板上。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "平托将伤员移至木板"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "平托将伤员移至担架"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "多人用手同时平托搬运"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "将患者躯干成一整体滚动"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "一人抬头一人抬足搬运"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002316,
+                            "ATestID": 41002316,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e161e8fb557477d36d18ecaee1663d0d31fbfe793dde3ab6ce8bcebb6c45cb768b5000a590f18a1195a84497227ad0d90d04841b67e8ed7eebd1821d3efdee0f46a1e9572a33a1352afd207bd19b9c80",
+                            "Explain": "胸髓第3～4节段病损，出现乳头平面感觉障碍；剑突水平的反射中枢在胸髓第5～6节段；上腹壁反射的反射中枢在胸髓第7～8节段；中腹壁反射的中枢在胸髓第9～10节段；下腹壁反射的反射中枢在胸髓第11～12节段。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "右侧胸髓第3～4节段病损"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "右侧胸髓第5～6节段病损"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "右侧胸髓第7～8节段病损"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "右侧胸髓第9～10节段病损"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "右侧胸髓第11～12节段病损"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002317,
+                            "ATestID": 41002317,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bdbd74b0ab70ac29119173c8a6672ba2de58cbfa3ab79d6f52f704bd7b83c52f36b0677f290fd43ee1ddef3340e052cc",
+                            "Explain": "Chance骨折为椎体水平状撕裂性损伤。也属于不稳定骨折，临床上比较少见。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "为椎体水平状撕裂性损伤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "损伤机制较为复杂，不只是发生在系有安全带的交通伤中"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "是一种稳定性脊柱骨折"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "临床上比较少见"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "短阶段螺丝钉治疗可重建脊柱的稳定性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019777,
+                            "ATestID": 43019777,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a0b62a30f1704154f4225da8cbdc563ee4d0a84552428bfe83dec3abfe14dc41",
+                            "Explain": "Chance骨折发病机制：以高速公路上交通事故为多发，乘员身体上部急剧向前移位及屈曲，此时以椎节的前方(柱)为枢纽，后柱韧带或棘突受牵张力作用而破裂并延及中柱亦可达前柱处。典型的Chance骨折骨折线是从后向前由棘突开始、经椎板、椎弓根达椎体。非典型者其损伤是棘突上韧带先破裂，而后棘间韧带、黄韧带、后纵韧带乃至椎间隙完全断裂，故选C。",
+                            "TestPoint": "胸腰椎chance骨折",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "不稳定性爆裂性骨折"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脊柱屈曲牵拉型损伤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "椎体水平状撕裂性损伤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "单纯性楔形压缩性骨折"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "稳定性爆裂型骨折"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019778,
+                            "ATestID": 43019778,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5114de397c6dc0402332ff32489055b442f2c862ab6f24b3dbba4cc4f63b456992cb346606096740fb612ea24f6a92790edeb3d9d5bf6f529bcc86aff1b1d6dc0f5f96deeba64440d96f175ecaaea8beffd106085362493d1a6d5f4c8b94f5fe7565f20fac8a10d6707ee491799edefcd469f3d671da62eac94e6ed05468108de9390d1ae39bfa54",
+                            "Explain": "脊髓损伤的正确搬运方法是采用担架，木板甚至门板运送。其它选项的搬运会加重脊髓损伤，故选E。",
+                            "TestPoint": "脊髓损伤",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "任意搬运都可"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "一人抬头、一人抬足"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "一人背运"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "两人扶架而走"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "患者平卧木板搬运"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019779,
+                            "ATestID": 43019779,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "13fe805c1b1221a7f06eb15d16754f7838b9c3eaecb89c7496f29e6a4d16553d3def7b933db7bbeea93f66808d900c976d75a44310fa384b15a4ae79949349a44b06e63a7aff81d75ef2bb8ea5349079ad21543aba8ff1be946d8423511d5b3cb92c56a9e4b027a50f8f2de2b125b73cc9859517b84c870d4c609726e7fd36a1d98569a8bf09795e1af5829a9919c40e74753db45b3456935815f451eacf1f84042af8b5889ed983ede660f7d113ef258aa16317e477c6b6d92ccb0ba4130640",
+                            "Explain": "髂骨挤压分离试验阳性表明骨盆骨折。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "股骨颈骨折"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "股骨干骨折"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "髋关节脱位"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨盆骨折"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "坐骨神经受损"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019781,
+                            "ATestID": 43019781,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6d1133d396968cc41c1029da4a58334bfad4145731bc84ce052e0ee395cc3f848212e63b3db44fa76a206dd0d713e25a08736bb061f901f085e3633c1c16d1684ac5d26e383384a971f753c740576df90b575d9046fca4223f4781960cbd4d56b84cba583b170c3cc8ea9589c74c6d21742094cd7ed53c0a12e5b9761c9b6e03ff9bfe50bbb730137249b5fa780a181a27046ee53f70b4c2",
+                            "Explain": "脊髓型颈椎病，出现神经受压表现，应尽早手术，而对手突出的颈椎间盘惟一直接有效的手术途径是经前路切除椎间盘，并植骨固定，故选A。",
+                            "TestPoint": "脊髓型颈椎病",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "前路人工椎间盘置换术"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "后路椎管扩大形成术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "后路椎板切除术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "前外侧椎管减压术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "前路髓核摘除植骨术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019784,
+                            "ATestID": 43019784,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e29f71914b3379ad1153ad3251f172620a4dc91092c342016a37609bc91d2d2f2aea25a712132b5fd01c4d7dcc6506810aabe5adbfe404345d185a3aed15a276d8d8ab4489e58542f4a44834e70c840d9c5e7ab46fbdf7d3b4c36041bc16b6e2a92f7e33da131cbbfc024686525dbb51",
+                            "Explain": "腰椎间盘突出的发病原因，有内因也有外因，内因主要是腰椎退行性改变，外因则有外伤、劳损或过劳、受寒受湿等。椎间盘缺乏血液供给，修复能量较弱，日常生活中椎间盘受到各方面的挤压、牵拉和扭转作用，易使椎间盘髓核、纤维环、软骨板逐渐老化，导致纤维环易于破裂而致椎间盘突出。当腰部负荷过重，长期从事弯腰工作，如煤矿工人或建筑工人，需长期弯腰取重物，腰椎间盘负重超过100kPa/cm[SB2.gif]以上时，即导致椎间盘纤维环破裂。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "腰椎骨折"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腰椎滑脱"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰部肌筋膜炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腰椎间盘突出症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腰扭伤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019785,
+                            "ATestID": 43019785,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2201a4feda076940342f2fa90bae7cb300f4b7e537c4bfc681e7cd5db26d457b",
+                            "Explain": "Chance骨折发病机制：以高速公路上交通事故为多发，乘员身体上部急剧向前移位及屈曲，此时以椎节的前方（柱）为枢纽，后柱韧带或棘突受牵张力作用而破裂并延及中柱亦可达前柱处。典型的Chance骨折线是从后向前由棘突开始，经椎板、椎弓根达椎体。非典型者其损伤是棘突上韧带先破裂，而后棘间韧带、黄韧带、后纵韧带乃至椎间隙完全断裂。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "单纯性压缩骨折"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨折一脱位"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "屈曲一牵拉性损伤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "水平状撕裂性损伤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "稳定性爆破型骨折"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019786,
+                            "ATestID": 43019786,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "266fa0f36bb1dead084a0585562b271faeb9ee648e07b9051f75f4f696ebd3be00577b89f08908c6b12ff3c972c1a92a172f098f16926221822bf86360bf13884991561d84a2ee2834eaa44b2dca3392b6902a7c9398c30d2f8297f42d752014f8a88b74cbca2ae73e6a29a3677a9f520ac3a260129d25e44630320914bb2004b06237d147b93b1b",
+                            "Explain": "患者有强大外伤史，骨盆分离和挤压试验阳性，且会阴部的瘀斑，为耻骨骨折特有的体征，所以首先应考虑耻骨骨折。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "髂关节脱位"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "尾骨骨折"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "耻骨骨折"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骶骨骨折"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腰椎骨折"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019787,
+                            "ATestID": 43019787,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1c10258b009bffc1cef01a57e81b92fc253c86967a369b0b6658ea58e3b212da0ec4700cdc18e31b85865a64ee55a022070f6b307b41ca0476a23d7ef1452cfad6e50abc6422a866bf7512be6dbfdb5a9f2c467e2be2315d696856cd571d0b0b1871ee0b5143f1dd8a0994297f0b26b8fb708734d6b8b4b1c464f90f8a1c74f12cf18cc6edaad7082e424058a503c52228cf2bade6a78e2b71ef83a18a529490078d7b016a55b78c2c1575285ab291476c296db1b595b399",
+                            "Explain": "患者属于高位截瘫，双肺痰鸣音，首选应该维持生命体征，气管切开保持呼吸顺畅。孤悬C。",
+                            "TestPoint": "脊柱骨折",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "颈托制动"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "颌枕带牵引"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "气管切开"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "手术复位固定"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "应用呼吸兴奋剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019788,
+                            "ATestID": 43019788,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "急救运送的方法是",
+                            "Explain": "脊髓损伤是脊柱骨折的严重并发症，脊柱骨折者从受伤现场转运至医院内的急救搬运方式至关重要。一人抬头，一人抬脚或用搂抱的搬运方式十分危险，因这些方法会增加脊柱的弯曲，可以将碎骨片向后挤入椎管内，加重脊髓的损伤。正确的方法是采用担架、木板甚至门板搬运。先使伤员双下肢伸直，木板放在伤员一侧，三人用手将伤员托至门板上，或二三人采用滚动法，使伤员保持平直状态，成一整体滚动至木板上，故选E。",
+                            "TestPoint": "脊髓损伤",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "双人扶着让患者走"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "一人搂抱运送"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "一人抱着运送"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "一人抬头、一人抬脚运送"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "躺在木板床上运送"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "31402facce1472dd8887728c7c9131d0ac20d796e8c07af99995f0e6025dfdf3f2f4ded8fd6523d1b6f0a269704a3c43f7b0488f28aa0ebde6112437b3fbb8b3053530de83d34eee",
+                            "AllTestID": 43019789,
+                            "A3TestID": 43003382,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003382,
+                                    "Title": "f1c68fdba55ce5b38ddde7f0564918e441cf0fb84755a335ec932c4e30e58326",
+                                    "Explain": "脊髓损伤是脊柱骨折的严重并发症，脊柱骨折者从受伤现场转运至医院内的急救搬运方式至关重要。一人抬头，一人抬脚或用搂抱的搬运方式十分危险，因这些方法会增加脊柱的弯曲，可以将碎骨片向后挤入椎管内，加重脊髓的损伤。正确的方法是采用担架、木板甚至门板搬运。先使伤员双下肢伸直，木板放在伤员一侧，三人用手将伤员托至门板上，或二三人采用滚动法，使伤员保持平直状态，成一整体滚动至木板上，故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "双人扶着让患者走"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "一人搂抱运送"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "一人抱着运送"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "一人抬头、一人抬脚运送"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "躺在木板床上运送"
+                                        }
+                                    ],
+                                    "TestPoint": "脊髓损伤",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003383,
+                                    "Title": "1e511886a6ef1d38712fe55b9a4b597448e801f4ad0359c314aadf29f920ebe418507c063dcb1c3566abbf7a1302e3bedf44b015337a18c2",
+                                    "Explain": "骨科首选的影像学检查是X线。考虑到脊髓损伤所致截瘫还应考虑进一步的CT或MRI以明确脊髓损伤的性质、程度等，故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "MRI"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "CT"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "核素骨扫描"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "X线片"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "脑脊液检查"
+                                        }
+                                    ],
+                                    "TestPoint": "脊髓损伤",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003384,
+                                    "Title": "ad5f47a9db2cbcbc3709e2a97ea92a4f23ccfa87f2791e25336c95e2300e3bca6f09ca104efe3fc2802431c679ace28216e9b391f1ac88139d7f7a68ac254d1cd9ca3d3e076782d030bca083878071752c4e1460d50284643aab11455abf12bcf74fb892625854d8",
+                                    "Explain": "胸椎单纯性压缩性骨折超过1／5可用双桌法过伸复位，但有骨块进入椎管，不宜复位，应手术治疗。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "石膏固定"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "仰卧硬板床，背部垫高"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "牵引"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "早期背伸锻炼"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "及早手术解除压迫"
+                                        }
+                                    ],
+                                    "TestPoint": "脊髓损伤",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "最可能的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "强直性脊柱炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腰肌劳损"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰椎肿瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腰椎结核"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腰椎间盘突出症"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "07ed5126269fe091127ac0093a26167b55e5d45bee650ce84a3dddf4a8a199be44c9b06041900cd0646ffb244ea6cb95b0da1123036f757314c52b481a82bb1a0f9f39372dbbc1ab330936914255dedadba9643b6a9e262b4045fd4c1d716107338fd7103329cfd2997e7d79b3ab4cdceac6a6360a05aff18261500ca573c014dd5d59ddab9b1bcd7d583aff852d9ea1efc5a5918aac795b6cda261b1f5873eed55b7c92bdbb4a8f5498f3fafbaae94d5b1467666e8122cfc234a90bf328ffc40f9ded1f9b6c5289",
+                            "AllTestID": 43019791,
+                            "A3TestID": 43003389,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003389,
+                                    "Title": "91c2beef1821172aa02421cc2b7a143016574b280934b3fd",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "强直性脊柱炎"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "腰肌劳损"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "腰椎肿瘤"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "腰椎结核"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "腰椎间盘突出症"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003390,
+                                    "Title": "91c2beef1821172a5e8d527db3714bafe59ec8ee980fa6bd2e5c2e7c20441a75",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "L[XB2dao3.gif]"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "L[XB3dao4.gif]"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "L[XB1dao2.gif]"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "L[XB4dao5.gif]"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "L[XB5.gif]～S[XB1.gif]"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003391,
+                                    "Title": "b761a82096da7fff4147202f76335db80846f704325ab876dfcd83a0b36e8f0a",
+                                    "Explain": "腰椎间盘突出症是指椎间盘纤维环破裂后，其髓核连同残存的纤维环和覆盖其上的后纵韧带向椎管内突出，压迫邻近的脊神经根或脊髓所产生的症状。临床症状有：①腰痛伴坐骨神经痛，疼痛剧烈。沿坐骨神经走行的方向放射，可放射至臀部、大腿后部和小腿外侧，甚至足跟和足背外侧，随咳嗽、打喷嚏、用力大便或弯腰而加剧，休息时好转，整个患病过程有明显间歇性。②局部压痛，在腰4～5或腰5～骶1的棘突间中线旁或中线有深部压痛，并常沿坐骨神经支配区放射。③腰部僵直，生理前凸平直，可出现脊柱侧凸，骶棘肌痉挛，腰椎活动受限。④直腿抬高试验和加压试验均阳性。⑤下肢的感觉、肌力和腱反射有改变，严重者有肌肉萎缩。腰4～5及腰5～骶1椎间盘所承受的压力最大，其活动度也最大，而位于这两个节段的后纵韧带却相对较窄（只有上部宽度的1/2），因而腰4～腰5及腰5～骶1椎间盘是最容易受损的部位，临床上也是以腰4～腰5及腰5～骶1间盘突出最为常见。结合患者的临床表现最可能为L[XB4dao5.gif]。早期症状轻的病例，以保守疗法为主。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "联合应用抗生素"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "休息，牵引治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "抗结核药物治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "单纯椎板减压术"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "髓核摘除术"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "其诊断为",
+                            "Explain": "1.脊髓型颈椎病是由于中央后突之髓核、椎体后缘骨赘、增生肥厚的黄韧带及钙化的后纵韧带等压迫所引起的一系列症状，患者早期颈痛不明显，而以四肢乏力，行走、持物不稳为最先出现的症状，该患者符合脊髓型颈椎病的诊断。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "脊髓型颈椎病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "神经根型颈椎病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "椎动脉型颈椎病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "交感神经型颈椎病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "混合型颈椎病"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f784e5d2bae7ef3949a4016c43103377bb1636d5828a37dc6808a707f3329bec6ba17d6e6515cc096f1424b7475be37839eb62df07b2681fa76a94bc26d8e79f11f3c07268f610a801eca36a3ccb4f63f248fe68a17d54a3ffcb3a65a615c20e72ec111651328377f8ee3e5132ab87f37a3ac06a7de57149ba39f4a2841722da1ea64a579a6dfd85717894c92256d55bfd75e98c99438dfd711ce0829161adfa7859a699b44ab3a129ee",
+                            "AllTestID": 41002324,
+                            "A3TestID": 41000358,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000358,
+                                    "Title": "ee340f8bfe46ed15c59b9a76fd2882f9",
+                                    "Explain": "1.脊髓型颈椎病是由于中央后突之髓核、椎体后缘骨赘、增生肥厚的黄韧带及钙化的后纵韧带等压迫所引起的一系列症状，患者早期颈痛不明显，而以四肢乏力，行走、持物不稳为最先出现的症状，该患者符合脊髓型颈椎病的诊断。故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "脊髓型颈椎病"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "神经根型颈椎病"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "椎动脉型颈椎病"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "交感神经型颈椎病"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "混合型颈椎病"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000359,
+                                    "Title": "29885b57fc0032df4ac36c670297ea451c1dc3437e88441ceaa5ef1267f9ffdec2494604e3bc9dcb",
+                                    "Explain": "2.诊断明确的颈椎病经非手术治疗无效，或反复发作者，或脊髓型颈椎病症状进行性加重者适于手术治疗。该患者为脊髓型颈椎病进行性加重半年，需要进行手术治疗。故选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "理疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "手术治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "推拿按摩"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "颏枕带牵引"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "戴围领和颈托"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "为明确诊断，应首选的辅助检查是",
+                            "Explain": "1.X线检查有其局限牲，它不能显示出椎管内受压的情况。凡有脊柱损伤或有神经症状者均需做CT检查。CT检查可以显示出椎体的骨折情况，还可以显示出有无碎骨片突出于椎管内，并可计算出椎管的前后径与横径损失了多少，但CT片不能显示出脊髓受损情况，为此必要时应做MRI检查。在MRI片上可以看到椎体骨折出血所致的信号改变和前方的血肿，还可以看到因脊髓损伤所表现出的异常高信号。该患者怀疑脊髓损伤，首选MRI检查。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "B超"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "X线片"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CT"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "MRI"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肌电图"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7670f462bf2a878e909763e63080369b16bb968632107266c43d03e29e67f2afddace01fb70c3b7c0ff26421cca6d6a8d217ad1bb46727db40782feaf9efcca84910b72600c88a1fa15c04f9f39f519dedf6f54eb9b950c5d737a3f7f48a7884a4f7c37c8c0460b8b143d1c39b24d1301320806c450c53d940620c9547de9f944a77b9aab8069a3398d70781d6b656b6941428f7b03ebe955472bcc185d218ee866189f0e0e9ffc32648ee9f256e744242cf0c72d665eeccd2e2a9dd54fd0ddb91c61a56e498314810155162b4f683561fea5d943ef62a478a3a32d4a699c5e507abc756c7c4f9a7b4fdc497a7a93ae6",
+                            "AllTestID": 41002325,
+                            "A3TestID": 41000360,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 113,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000360,
+                                    "Title": "dffdf4b7a93ad11b7c93c3de7fee42a5e523472c75750536d1984f09caefa2015d914fcf772db5b073a83996b5693fee",
+                                    "Explain": "1.X线检查有其局限牲，它不能显示出椎管内受压的情况。凡有脊柱损伤或有神经症状者均需做CT检查。CT检查可以显示出椎体的骨折情况，还可以显示出有无碎骨片突出于椎管内，并可计算出椎管的前后径与横径损失了多少，但CT片不能显示出脊髓受损情况，为此必要时应做MRI检查。在MRI片上可以看到椎体骨折出血所致的信号改变和前方的血肿，还可以看到因脊髓损伤所表现出的异常高信号。该患者怀疑脊髓损伤，首选MRI检查。故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "B超"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "X线片"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "CT"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "MRI"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肌电图"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000361,
+                                    "Title": "326fd7167bb4373aa6e9cdd7613b6cd1916d37c45ab279d48d8fca1672891f04",
+                                    "Explain": "2.脊柱骨折者从受伤现场转运至医院内的急救搬运方式至关重要。一人抬头，一人抬脚或用搂抱的搬运方式十分危险，因这些方法会增加脊柱的弯曲，可以将碎骨片向后挤入椎管内，加重脊髓的损伤。正确的方法是采用担架、木板甚至门板搬运。先使伤员双下肢伸直，木板放在伤员一侧，三人用手将伤员托至门板上，或二三人采用滚动法，使伤员保持平直状态，成一整体滚动至木板上。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "一人用一手抱颈，另一手抱腿放于担架上"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "一人抬头，另一人抬足放于木板上"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "两人架其上肢助其走上担架车"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "三人分别抬其头和两腿放于担架上"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "两人将其躯干成一体滚动至木板上"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000362,
+                                    "Title": "6b08491baf490581d708072a1302e5fe2429b47e50a037d742370392e4459a24fd7bcc7d4463f9385f9ee47d11d38079fed548ed710242357cf99eb73d409cd41c120c34cc8385f64380494a68706bb5c5c3efe3ab374b1d",
+                                    "Explain": "3.脊髓遭受强烈震荡后立即发生弛缓性瘫痪，损伤平面以下感觉、运动、反射及括约肌功能全部丧失，在数分钟或数小时内即可完全恢复。该患者有明确的外伤史，出现了脊髓损伤平面以下的肢体麻木、生理反射消失、受累肢体肌力减退等症状，并于伤后3小时出现双下肢感觉、运动功能逐渐恢复。故选C。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "脊髓休克"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "脊髓出血"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "脊髓震荡"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "脊髓挫伤"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "脊髓受压"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000363,
+                                    "Title": "6b08491baf49058168ebd27a9c507e9c82415ac5c0ec8ab7410bea3963da035b21451d84e2abaa0e255b9760339345d7b5a3b5777c013ceb19fc838a42c0bbaa928eaeff1126d819",
+                                    "Explain": "4.根据有明确外伤史，伤后出现腹胀、腹痛、大便秘结，可能为腹膜后血肿刺激所引起。肾脏损伤容易出现腹痛与失血性休克，膀胱或尿道损伤容易出现尿道出血、尿外渗、尿潴留等，直肠损伤容易出现弥漫性腹膜炎或直肠周围感染。根据以上情况排除A、B、C、D，故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "肾脏损伤"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "直肠损伤"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "膀胱损伤"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "尿道损伤"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "腹膜后血肿刺激"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35003386,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003386,
+                        "ChildTableID": -1,
+                        "UserCount": 3554,
+                        "RightCount": 2870,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003386,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 35003389,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003389,
+                        "ChildTableID": -1,
+                        "UserCount": 4121,
+                        "RightCount": 1268,
+                        "FavCount": 173,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003389,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 41002316,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002316,
+                        "ChildTableID": -1,
+                        "UserCount": 3302,
+                        "RightCount": 3084,
+                        "FavCount": 8,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002316,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41002317,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002317,
+                        "ChildTableID": -1,
+                        "UserCount": 3549,
+                        "RightCount": 1946,
+                        "FavCount": 194,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 35
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002317,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 35
+            },
+            {
+                "AllTestID": 43019777,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019777,
+                        "ChildTableID": -1,
+                        "UserCount": 3441,
+                        "RightCount": 1705,
+                        "FavCount": 101,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 47
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019777,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 47
+            },
+            {
+                "AllTestID": 43019778,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019778,
+                        "ChildTableID": -1,
+                        "UserCount": 3206,
+                        "RightCount": 2378,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019778,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43019779,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019779,
+                        "ChildTableID": -1,
+                        "UserCount": 2999,
+                        "RightCount": 2920,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019779,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019781,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019781,
+                        "ChildTableID": -1,
+                        "UserCount": 3054,
+                        "RightCount": 2861,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019781,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43019784,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019784,
+                        "ChildTableID": -1,
+                        "UserCount": 3423,
+                        "RightCount": 1278,
+                        "FavCount": 145,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019784,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43019785,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019785,
+                        "ChildTableID": -1,
+                        "UserCount": 3131,
+                        "RightCount": 2403,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019785,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43019786,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019786,
+                        "ChildTableID": -1,
+                        "UserCount": 2949,
+                        "RightCount": 2761,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019786,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019787,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019787,
+                        "ChildTableID": -1,
+                        "UserCount": 3153,
+                        "RightCount": 2437,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019787,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43019788,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019788,
+                        "ChildTableID": -1,
+                        "UserCount": 3361,
+                        "RightCount": 1695,
+                        "FavCount": 88,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019788,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43019789,
+                "ChildTableID": 43003382,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019789,
+                        "ChildTableID": 43003382,
+                        "UserCount": 3128,
+                        "RightCount": 3052,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019789,
+                    "ChildTableID": 43003382
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019789,
+                "ChildTableID": 43003383,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019789,
+                        "ChildTableID": 43003383,
+                        "UserCount": 3369,
+                        "RightCount": 2672,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019789,
+                    "ChildTableID": 43003383
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019789,
+                "ChildTableID": 43003384,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019789,
+                        "ChildTableID": 43003384,
+                        "UserCount": 3220,
+                        "RightCount": 3009,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019789,
+                    "ChildTableID": 43003384
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43019791,
+                "ChildTableID": 43003389,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019791,
+                        "ChildTableID": 43003389,
+                        "UserCount": 3110,
+                        "RightCount": 2757,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019791,
+                    "ChildTableID": 43003389
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43019791,
+                "ChildTableID": 43003390,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019791,
+                        "ChildTableID": 43003390,
+                        "UserCount": 3421,
+                        "RightCount": 2097,
+                        "FavCount": 82,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019791,
+                    "ChildTableID": 43003390
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43019791,
+                "ChildTableID": 43003391,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019791,
+                        "ChildTableID": 43003391,
+                        "UserCount": 3287,
+                        "RightCount": 2107,
+                        "FavCount": 88,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019791,
+                    "ChildTableID": 43003391
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41002324,
+                "ChildTableID": 41000358,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002324,
+                        "ChildTableID": 41000358,
+                        "UserCount": 3454,
+                        "RightCount": 2091,
+                        "FavCount": 109,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002324,
+                    "ChildTableID": 41000358
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 41002324,
+                "ChildTableID": 41000359,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002324,
+                        "ChildTableID": 41000359,
+                        "UserCount": 3357,
+                        "RightCount": 2465,
+                        "FavCount": 61,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002324,
+                    "ChildTableID": 41000359
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 41002325,
+                "ChildTableID": 41000360,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002325,
+                        "ChildTableID": 41000360,
+                        "UserCount": 3739,
+                        "RightCount": 1617,
+                        "FavCount": 100,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002325,
+                    "ChildTableID": 41000360
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41002325,
+                "ChildTableID": 41000361,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002325,
+                        "ChildTableID": 41000361,
+                        "UserCount": 3288,
+                        "RightCount": 2819,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002325,
+                    "ChildTableID": 41000361
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002325,
+                "ChildTableID": 41000362,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002325,
+                        "ChildTableID": 41000362,
+                        "UserCount": 3168,
+                        "RightCount": 2916,
+                        "FavCount": 17,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002325,
+                    "ChildTableID": 41000362
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41002325,
+                "ChildTableID": 41000363,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002325,
+                        "ChildTableID": 41000363,
+                        "UserCount": 3340,
+                        "RightCount": 2301,
+                        "FavCount": 84,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002325,
+                    "ChildTableID": 41000363
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

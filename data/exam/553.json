@@ -1,0 +1,501 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:08:51 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "Title": "3c0de14e49c0709c90b388e85f3162767333b8f69540634032624dd9cc1f3e05bf39a0afa3025c9a43bdef983f92d685292784d38041ccda06506ea99e8ec915e364426fdd518eec11ef2d3072d636c5d125e8d7451661b37cc902ec23e3b811c4c27b15ac62ea50ac25a86293716ae66da72d5edddebf850030f88809bc224792a3236356d0261bb4dbe214bbea67b0f5e5d7304cb1376b126e0f78f1f85c15f11733a6da3e0429239359526f1e8178fb25897e1a34bb245e3b92d4b3cad3d7a7d04154c8794c1b3924f23525a536d21a60a905129e14ea90fbf63e3b56db50daca674d808ce134",
+                            "Explain": "考点为尿路感染的诊断。患者有尿路刺激征，尿中又以白细胞增多为主，故为尿路感染，肾盂造影示肾盂缩小、肾盏扩张，提示有器质性病变，病史1年，故本病例应为慢性肾盂肾炎。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "慢性肾炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慢性肾盂肾炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "多囊肾"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肾结核"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肾盂积液"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023723,
+                            "ATestID": 43023723,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 553,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6b0d03f6d2ba34361f51fa652f8445957c41609847b7bc80a2f77fbc85d043b681e37781c626bc9d4b797f93b2064667d91bcc3a704d742fa168a069a9ccbbad00e3b06bfb85cd09ad1825e69be4a0ad3cbe6f5095be993315a342b504ceec3b31d948bfcc6eefb58bb1f3c670c141ff9c30ca82ec3278448c4f69af2a9b3b247ae96f9c03db441e8c10bb8f487f2b635052ddb92008bd4f1b03db6c59f2b303",
+                            "Explain": "考点为肾病综合征的血栓栓塞并发症的诊断。患者突然右下肢疼痛，足背动脉搏动触不清，故应考虑为右下肢动脉血栓。如为右下肢静脉血栓形成，足背动脉搏动应仍存在，主要出现回流障碍而使肢体肿胀、下尿路感染及急性肾损伤，不会出现下肢痛与足背动脉触不清。心源性休克因血压低可以触不清外周脉搏，但很少有下肢痛。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "下尿路感染"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "右下肢静脉血栓"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心源性休克"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性肾损伤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "右下肢动脉血栓"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023724,
+                            "ATestID": 43023724,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 553,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4bb9c249b715f855ef22ed4cc480c77dc6e7cbafb62344df992b5e9507d9b0ed857bd9d2abe0b401dc80178114c0a61596ee2617a3f2ad2f071d7888317f1853ca4a0db74696ac1fa04d955b9c297e038a8ef5d4c397d01c4b4c8e500d6d81d10df51d1519cabf69a51392d907917d837246c90840c6ee3fe6be0120e619f726f07787c6af5bad4b1fc0c99b4a888827244f8fc2e0b34e89396f85b5777cc799937010c021ac0378a303bb112ed0c887",
+                            "Explain": "考点为老年人原发肾病综合征的常见病理类型.膜性肾病和微小病变肾病。微小病变肾病起病较急，膜性肾病起病稍慢。另外，膜增生性肾炎和毛细血管内增生性肾炎多合并血尿；FSGS发病率更低，且多合并血尿。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "微小病变肾病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "膜性肾病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "FSCS"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "膜增生性肾炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "毛细血管内增生性肾炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023725,
+                            "ATestID": 43023725,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 553,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "95e1a403cb1a4156fe5c3d74b6810b2c26159cf956d93286c230ec67e2f6cdaa598ce3b5e7da7b1ee03de2f29efa731d3dcd377f5debf51283b8eb4ff199ad98750add15eaf2de556044e8055b47196b7e99e7b57dfa41386f2a0ec91fdaf695ef287a61fa4d726a12faa718677931d532fc98f492a8e92c6bb87a609119e841e161f08d2dd112ed9fd3d6684832c79f99f9b8449d8408dc23f6a1cdd8593efcb05c4041e02979c2d9d5ff1bab1e7feb710a2218dfae2d4021f8cb04082543a90d316721362a06392dc0271bfacc3e34228f46798e3ad9179213cbbea1308b7a2bd8a6202ca06fde8d2493fd999163c822fd0277cda38229a2ff2e5d49544edb361aefb7f7d3d1a6c502cbe4afcd4de300594d3a733a9aecb069d760a76cfaa9466ae0b844f1fe047528cc662ac438eaea00dbcdbf5639cea1b5c5e5779b3ba44e350ed09c2dfe10c8029761cd4471fbe50e5b7817776b2327e6c9cc6d89d9fc",
+                            "Explain": "考点为血尿的鉴别诊断。老年人，无痛性血尿，有血块，提示外科性血尿，肿瘤可能性最大。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性肾炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "尿路肿瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "尿路感染"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肾梗死"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急进性肾炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023726,
+                            "ATestID": 43023726,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 553,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c245ed1064f07383d7c3371c1e25dddd6f2b33f1d5fa74d94b381a018d6542d188d2825e3b8d4816ce513889c931112ccf13330e2e7ae096ca65eddb816661fda21f63c1789647dc7de77f07561091f2a4b6b0fae772582d02f661c94f22c5426a939ff9bd004403c53dfbdc30d53aabfa955b817646bcd2f85fac002707449340e293684a5ab316ae3c9fa3bfe57ae496d715add2ce562382f6a8e378c487669f389435cfcf6c475a4eae28b5fe9e5b8f65519abd1c381b494e45e583115a3d1a9e26d7accff807530fb35cda4941d58d647a6220d10ea555ebff11d7208ba2daee81dcc458be745826ab61f6861ac3db9e508554abb1f33a5c3f53fd3335f31f1cab1c322e703ded9e41d1334eb590d5c4e1fc3c73c94576e65994715ef6edc4e0be7e4f4d958b01e5dcb4e1011440311a92224be307c9577b284abed56fd2fd738723d873d7e68e2a66f87bf220186c319409830fc06325838ec7bd65a91f945eed8023d9dc1899a1cce49230ef312bcc5cc294667c4a2339aa9d396d9d2541f0beb20fe066a7",
+                            "Explain": "考点为原发性肾小球疾病的诊断与鉴别诊断。变形红细胞尿，提示肾小球肾炎；双肾轻度萎缩，血肌酐升高符合慢性肾小球肾炎依据，病史2年也是辅助证据。而IgA肾病是病理诊断，不是临床诊断。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "泌尿系统肿瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性肾小球肾炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "慢性肾小球肾炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "IgA肾病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "隐匿性肾小球肾炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023727,
+                            "ATestID": 43023727,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 553,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4929b9de7233d0dc3f07dd969dfdde66caeebb1672789cccfd2a0b72099755f989008323d3ca615a5c0eefc2c66f21fcd0351ea68a223a81a08155db90e0c9c9d879dd9fef54f64bf3e1a51b2f8f75dc0385b31aa18361fca398d2137d5636751720671900ee9e0be78a72d59fbbc36552ad75c33362fed700a78fa167918f6d937d5d09d24bec2add71fd6daeb9bd784dc2aac1a2626c73fe7d1fa33a4e9ab77ab5e7e8e235ec4334db3c0933d4c9ffb75d694d791e08142d22dd48506192608795fb9075666746d5ba72ad24f26a6ef5affa8ea0459fc88d822da762ba155d0e2646a0a52a13230f1828dbb57ce5db629f22a4c3c87d733d572aa81b4c4972bdf3cfbe09d86099d8128d2a4e354ffe99314fa4b262c2997c52f3ba5b6d8d291c24d4ce449b53c9",
+                            "Explain": "考点为各种原发性肾小球疾病的临床特点。青少年，突发起病的单纯（无血尿、高血药、肾功能不全）肾病综合征，大多是微小病变肾病。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "微小病变肾病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "膜性肾病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "IgA肾病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "局灶节段性肾小球硬化"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "狼疮性肾炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023728,
+                            "ATestID": 43023728,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 553,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b5691daab67779f53b4d1936ef163a1a26a087ab60fec1ca59f39f88019e2d2ac1375fb1db14a61f610c45f98047cea4f5af803848ca5bc5d673cf4857b83745fe717cdaae621b20ac9f87281c3c2aa7359f14f36528ad5984af97580730fb6786d3b80ed52e5f444f1b8a3f068785dd97eb1bd6637c879ad10e3c4ba4d7c8e8486d17d557947873c58b7340ec6adae92e326486e32faad37b9eb5322fb17d9fda05c7df4f03427c82e1c81a8b47cf5a81299c5eec61a96ea859bc373bac8d5a97ada7621459469acf0fb9800c82bd84cfc277eb630f30d4e276fb85fc82b730273b3120b5555b53919810c8169fc26aefea4f5562fd8ac54bc01f32d8ead26b47915a48b4bb5736701c8243b9db6c62f1317d0ac6bdccc8f027fdec1eb4ebcaac6d10e8ea89a43615987352d982dc194b66628a6cd52729a1466cb022486828757aa3fc7383f95c879f3f1f24b881d5149c53478af7ad7557bb2905ff93a2d0288670e147d767178b7c3cd193f7f950c2b441edad38c4095c99949dbe12398bfeb316a66c7c36337c51338b99242a6c1a53148d59a505782dfddb1f93f3f934a94e037ac6759290",
+                            "Explain": "考点为急性肾损伤的诊断及鉴别诊断。轻度蛋白尿、血尿，急性肾损伤伴白细胞尿，肾小管间质病的可能性大；病情加重后未再发热，没有尿路刺激征，不支持肾盂肾炎；之前有用药史，白细胞尿，不支持急性肾小管坏死，而急性间质性肾炎可能性最大。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肾盂肾炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急进性肾炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性肾小管坏死"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "急性肾炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "急性间质性肾炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43023729,
+                            "ATestID": 43023729,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 553,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43023723,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023723,
+                        "ChildTableID": -1,
+                        "UserCount": 1240,
+                        "RightCount": 993,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023723,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023724,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023724,
+                        "ChildTableID": -1,
+                        "UserCount": 1270,
+                        "RightCount": 932,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023724,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023725,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023725,
+                        "ChildTableID": -1,
+                        "UserCount": 1258,
+                        "RightCount": 937,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023725,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023726,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023726,
+                        "ChildTableID": -1,
+                        "UserCount": 1250,
+                        "RightCount": 815,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023726,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023727,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023727,
+                        "ChildTableID": -1,
+                        "UserCount": 1212,
+                        "RightCount": 934,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023727,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023728,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023728,
+                        "ChildTableID": -1,
+                        "UserCount": 1228,
+                        "RightCount": 840,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023728,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023729,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023729,
+                        "ChildTableID": -1,
+                        "UserCount": 1340,
+                        "RightCount": 436,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023729,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

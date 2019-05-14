@@ -1,0 +1,646 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:20:05 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "83a19ec3e7848fc8232fcd0077f59e1fb8269125ddb1ebda2c7affab3335a3de",
+                            "Explain": "乙胺嘧啶对恶性疟和间日疟的原发性红细胞外期有抑制作用，用作病因预防药，作用持久。亦能阻止疟原虫在蚊体内的孢子增殖，起控制传播的作用。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "伯氨喹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙胺丁醇"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "异烟肼"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "氯喹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙胺嘧啶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000570,
+                            "ATestID": 43000570,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 404,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "795e308182cb9d7a862633ac3a51360dfafb7084e6430b17f309d0a056f03cb9ec3c4453a6d0a298673aa3d48837c20c",
+                            "Explain": "青蒿素治疗疟疾易复发。",
+                            "TestPoint": "抗疟药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "氯喹对阿米巴痢疾有效"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "氯喹可根治间日疟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "青蒿素治疗疟疾易复发"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "伯氨喹可用作疟疾病因性预防"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙胺嘧啶能引起急性溶血贫血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002785,
+                            "ATestID": 43002785,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 404,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e1e76ae975073f9330b036c4327aea824d2b3af3e6104aa67e8261996c97764e",
+                            "Explain": "本药是喹啉类衍生物，对各种疟原虫的红细胞内期裂殖体均有较强的杀灭作用。本药能与疟原虫的DNA结合，形成复合物，抑制DNA的复制和RNA的转录，从而抑制原虫的蛋白合成，但作用较氯喹为弱。本药也能降低疟原虫氧耗量，抑制疟原虫内的磷酸化酶而干扰其糖代谢。本药还引起疟色素凝集，但发展缓慢，很少形成大团块。在血液中，一定浓度的本药可导致被寄生红细胞早熟破裂，从而阻止裂殖体成熟。本药对红外期无效，不能根治良性疟。长疗程可根治恶性疟，但对恶性疟的配子体亦无直接作用，故不能中断传播。此外，本药对心肌有抑制作用，可延长不应期，减慢传导，井减弱其收缩力。对妊娠子宫有微弱的兴奋作用。不能用于病因性预防。",
+                            "TestPoint": "抗疟药",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "最早用于治疗疟疾的药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "对红细胞内期滋养体有杀灭作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "主要用于耐氯喹或耐多药的恶性疟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "每周服药一次，用于病因性预防"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可出现心肌抑制作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002786,
+                            "ATestID": 43002786,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 404,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "76ca949658a422ee2d53b7a32df709b856a7f5c339d953a5514a9601b6bf045cd3d836527d9e4a55770717d6c6d1875c31a98fbe8205d3eb",
+                            "Explain": "乙胺嘧啶可抑制疟原虫的二氢叶酸还原酶，因而干扰疟原虫的叶酸正常代谢，对恶性疟及间日疟原虫红细胞前期有效，常用作病因性预防药。此外，也能抑制疟原虫在蚊体内的发育，故可阻断传播。临床上用于预防疟疾和休止期康复治疗。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "甲氟喹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "青蒿素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "伯氨喹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "氯喹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙胺嘧啶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000596,
+                            "ATestID": 41000596,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 404,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "6a48d7811d798048eb49df9c2bee3924c368440cd0aa60d4865135e7ea3bd4e3aa109231a80986aaaa1e46f3f2e6b79268744e640c876ae9",
+                            "Explain": "氯喹是临床上用于迅速控制临床发作，疟疾首选药。伯氨喹是根治间日疟，防止疟疾复发，中断传播的首选药。乙胺嘧啶是病因预防首选药。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "伯氨喹"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乙胺嘧啶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "氯喹"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "奎宁"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "哌喹"
+                                }
+                            ],
+                            "AllTestID": 35000654,
+                            "BTestID": 35000157,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 404,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000157,
+                                    "Title": "6a48d7811d798048eb49df9c2bee3924c368440cd0aa60d4865135e7ea3bd4e3aa109231a80986aaaa1e46f3f2e6b79268744e640c876ae9",
+                                    "Explain": "氯喹是临床上用于迅速控制临床发作，疟疾首选药。伯氨喹是根治间日疟，防止疟疾复发，中断传播的首选药。乙胺嘧啶是病因预防首选药。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000158,
+                                    "Title": "54dca5dfe4de02c6ccd2dbbd018f2afb7a88989a8e959e8b4d3ae1de9e810539483f9fb63a3f0321",
+                                    "Explain": "氯喹是临床上用于迅速控制临床发作，疟疾首选药。伯氨喹是根治间日疟，防止疟疾复发，中断传播的首选药。乙胺嘧啶是病因预防首选药。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "8339cd0134e80093659a204f60453d7e94a5b537b3a6edef77503038b07c000e90c258de2898b2ea3ab74ec0fad74a15525e4aeeb83cafca",
+                            "Explain": "一直是治疗疟疾首选药物的氯喹，所以选A。",
+                            "TestPoint": "抗疟药",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "氯喹"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "奎宁"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "伯氨喹"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "乙胺嘧啶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "甲氟喹"
+                                }
+                            ],
+                            "AllTestID": 43002787,
+                            "BTestID": 43000717,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 404,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000717,
+                                    "Title": "8339cd0134e80093659a204f60453d7e94a5b537b3a6edef77503038b07c000e90c258de2898b2ea3ab74ec0fad74a15525e4aeeb83cafca",
+                                    "Explain": "一直是治疗疟疾首选药物的氯喹，所以选A。",
+                                    "TestPoint": "抗疟药",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000718,
+                                    "Title": "fa09a0d7f73ba3ee0a96e3e41ed280fa87073866c0757fa85515b306913f3d8e00f444d0a804ed13f3f33a5ceb56edb75c0227fe4e996570",
+                                    "Explain": "可根治间日疟和控制疟疾的传播药是伯氨喹。",
+                                    "TestPoint": "抗疟药",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000719,
+                                    "Title": "687440bf32e2534df519442f1f0c818329cef237e401d1ad6f6ac195c79e07e622f38b114004d63af91bc2f12170cf18",
+                                    "Explain": "可用于治疗阿米巴肝脓肿的药是氯喹。",
+                                    "TestPoint": "抗菌药",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000720,
+                                    "Title": "474e832d631e41ebc2b92f1986e16ab3ba3ebbbf2166c56d55c464a6003cef815337b4a650c2c75d6ca45861fc76f559",
+                                    "Explain": "可引起巨幼红细胞性贫血的药物是乙胺嘧啶。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000570,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000570,
+                        "ChildTableID": -1,
+                        "UserCount": 1736,
+                        "RightCount": 984,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000570,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002785,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002785,
+                        "ChildTableID": -1,
+                        "UserCount": 1712,
+                        "RightCount": 860,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002785,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002786,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002786,
+                        "ChildTableID": -1,
+                        "UserCount": 1550,
+                        "RightCount": 943,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002786,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 41000596,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000596,
+                        "ChildTableID": -1,
+                        "UserCount": 1540,
+                        "RightCount": 1108,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000596,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 35000654,
+                "ChildTableID": 35000157,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000654,
+                        "ChildTableID": 35000157,
+                        "UserCount": 1572,
+                        "RightCount": 1085,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000654,
+                    "ChildTableID": 35000157
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 35000654,
+                "ChildTableID": 35000158,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000654,
+                        "ChildTableID": 35000158,
+                        "UserCount": 1483,
+                        "RightCount": 1102,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000654,
+                    "ChildTableID": 35000158
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002787,
+                "ChildTableID": 43000717,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002787,
+                        "ChildTableID": 43000717,
+                        "UserCount": 1465,
+                        "RightCount": 1195,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002787,
+                    "ChildTableID": 43000717
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002787,
+                "ChildTableID": 43000718,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002787,
+                        "ChildTableID": 43000718,
+                        "UserCount": 1538,
+                        "RightCount": 1044,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002787,
+                    "ChildTableID": 43000718
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002787,
+                "ChildTableID": 43000719,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002787,
+                        "ChildTableID": 43000719,
+                        "UserCount": 1597,
+                        "RightCount": 844,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002787,
+                    "ChildTableID": 43000719
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43002787,
+                "ChildTableID": 43000720,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002787,
+                        "ChildTableID": 43000720,
+                        "UserCount": 1587,
+                        "RightCount": 792,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002787,
+                    "ChildTableID": 43000720
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

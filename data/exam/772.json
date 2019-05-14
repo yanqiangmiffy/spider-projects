@@ -1,0 +1,759 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:33:14 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 13,
+                    "TestItems": [
+                        {
+                            "Title": "64599d070988af2cadbe2fc4450f4e7f9c5390f6202c877fab7bbcf22d07ecf1a93421cc2b71f846045fe32b23a7616570c5c26d9158ce4044d9706f19ad31ef",
+                            "Explain": "恶性卵巢生殖细胞及性索间质肿瘤常用化疗方案：BEP（博来霉素+依托泊苷+顺铂）、BVP（博来霉素+长春新碱+顺铂）、VAC（长春新碱+放线菌素+环磷酰胺），故41题选E。卵巢上皮性肿瘤对化疗比较敏感，多采用以钼类药物为主的联合化疗：TC方案（紫杉醇+卡铂）、TP（紫杉醇+顺铂）、PC（顺铂+环磷酰胺），故42题选C。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "EMA-CO方案"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "长春新碱+异环磷酰胺方案"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "紫杉醇+铂类药物"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "EP-EMA方案"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "BEP"
+                                }
+                            ],
+                            "AllTestID": 35002657,
+                            "BTestID": 35000387,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 772,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000387,
+                                    "Title": "64599d070988af2cadbe2fc4450f4e7f9c5390f6202c877fab7bbcf22d07ecf1a93421cc2b71f846045fe32b23a7616570c5c26d9158ce4044d9706f19ad31ef",
+                                    "Explain": "恶性卵巢生殖细胞及性索间质肿瘤常用化疗方案：BEP（博来霉素+依托泊苷+顺铂）、BVP（博来霉素+长春新碱+顺铂）、VAC（长春新碱+放线菌素+环磷酰胺），故41题选E。卵巢上皮性肿瘤对化疗比较敏感，多采用以钼类药物为主的联合化疗：TC方案（紫杉醇+卡铂）、TP（紫杉醇+顺铂）、PC（顺铂+环磷酰胺），故42题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000388,
+                                    "Title": "b678d2dac4ad783cb05ec4e92bd9ee03244b80868dc7431c004e9f163ae28024234475e603d23604472d62906cd951e7",
+                                    "Explain": "恶性卵巢生殖细胞及性索间质肿瘤常用化疗方案：BEP（博来霉素+依托泊苷+顺铂）、BVP（博来霉素+长春新碱+顺铂）、VAC（长春新碱+放线菌素+环磷酰胺），故41题选E。卵巢上皮性肿瘤对化疗比较敏感，多采用以钼类药物为主的联合化疗：TC方案（紫杉醇+卡铂）、TP（紫杉醇+顺铂）、PC（顺铂+环磷酰胺），故42题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "fb878a48572d1dcabe29549c06f4fe71ce9ca403fb7c7a590f8b603681bcd0fc73ba5aed9093f7d0",
+                            "Explain": "1.卵巢上皮性肿瘤对化疗比较敏感，多采用以铂类药物为主的联合化疗：TC方案（紫杉醇+卡铂）、TP（紫杉醇+顺铂）、PC（顺铂+环磷酰胺）。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "卡铂+吉西他滨"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "顺铂+阿霉素"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "顺铂+博来霉素+依托泊苷"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "顺铂+拓扑替康"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "卡铂+紫杉醇"
+                                }
+                            ],
+                            "AllTestID": 35002658,
+                            "BTestID": 35000389,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 772,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000389,
+                                    "Title": "fb878a48572d1dcabe29549c06f4fe71ce9ca403fb7c7a590f8b603681bcd0fc73ba5aed9093f7d0",
+                                    "Explain": "1.卵巢上皮性肿瘤对化疗比较敏感，多采用以铂类药物为主的联合化疗：TC方案（紫杉醇+卡铂）、TP（紫杉醇+顺铂）、PC（顺铂+环磷酰胺）。故选E。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000390,
+                                    "Title": "64599d070988af2cadbe2fc4450f4e7f9c5390f6202c877f30de920e1c632c7b6e8af970d5ba99cff16201abb63ffdb9",
+                                    "Explain": "2.恶性卵巢生殖细胞及性索间质肿瘤常用化疗方案：BEP（博来霉素+依托泊苷+顺铂）、BVP（博来霉素+长春新碱+顺铂）、VAC（长春新碱+放线菌素+环磷酰胺）。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "0a9bd440f5fcacd53eab9fa147fcffba422289249cbe3cc9ff2af07c9e9d10ba",
+                            "Explain": "1.血清AFP对卵巢内胚窦瘤有特异性诊断价值。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血清AFP"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "血清CA125"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "血清β-HCG"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "血清雌激素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血清雄激素"
+                                }
+                            ],
+                            "AllTestID": 35002659,
+                            "BTestID": 35000391,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 772,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000391,
+                                    "Title": "0a9bd440f5fcacd53eab9fa147fcffba422289249cbe3cc9ff2af07c9e9d10ba",
+                                    "Explain": "1.血清AFP对卵巢内胚窦瘤有特异性诊断价值。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000392,
+                                    "Title": "75e3c009e0199b99d1739d5967c28c01e8946bd1521eb9d54887c852f1972368dd4eee2f312b08a9117f3bab732fdb4157e98f8aa8df2fd9",
+                                    "Explain": "2.卵巢浆液性囊腺癌是卵巢的上皮性肿瘤，80%卵巢上皮性癌患者血清CA125水平升高。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "13bd42e0fe182eb864910fa205ce9fdbfd53cdb70dee28e1f3a5110efd71a86f",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "是最常见的卵巢良性肿瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "有恶性程度的逆转倾向"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "具有男性化作用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "CA125升高"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "HCG升高"
+                                }
+                            ],
+                            "AllTestID": 43018670,
+                            "BTestID": 43003216,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 772,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003216,
+                                    "Title": "13bd42e0fe182eb864910fa205ce9fdbfd53cdb70dee28e1f3a5110efd71a86f",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003217,
+                                    "Title": "75e3c009e0199b99d1739d5967c28c01036d89ec29ab1d8f3f4b411c3dd5cf02",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003218,
+                                    "Title": "44e41bac2d8af22015d1beda3d39cdaaed5b190e4a7e5ab9",
+                                    "Explain": "未成熟畸胎瘤多为实性，有恶变倾向；CA125升高对上皮性卵巢癌诊断及病情监测有价值；卵巢皮样囊肿即成熟畸胎瘤，是最常见的卵巢良性肿瘤。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "64599d070988af2cadbe2fc4450f4e7f9c5390f6202c877f2181f8ad6c646e65296f9a8409d65b96",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "顺铂+紫杉醇"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "紫杉醇+卡铂"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "顺铂+长春新碱+异环磷酰胺"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "顺铂+长春新碱"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "博来霉素+长春新碱"
+                                }
+                            ],
+                            "AllTestID": 43018671,
+                            "BTestID": 43003219,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 772,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003219,
+                                    "Title": "64599d070988af2cadbe2fc4450f4e7f9c5390f6202c877f2181f8ad6c646e65296f9a8409d65b96",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003220,
+                                    "Title": "b678d2dac4ad783ce9c0290e7ee960024ed15d3bb768e171",
+                                    "Explain": "本题考查卵巢肿瘤的化疗方案。卵巢恶性生殖细胞肿瘤化疗常采用顺铂十长春新碱+异环磷酰胺方案；卵巢上皮癌化疗采用紫杉醇+卡铂方案。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "fb878a48572d1dcabe29549c06f4fe71ce9ca403fb7c7a590f8b603681bcd0fc73ba5aed9093f7d0",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "顺铂+博莱霉素十依托泊苷"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "顺铂+拓扑替康"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "卡铂+紫杉醇"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "卡铂+吉西他滨"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "顺铂+阿霉素"
+                                }
+                            ],
+                            "AllTestID": 43018672,
+                            "BTestID": 43003221,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 772,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003221,
+                                    "Title": "fb878a48572d1dcabe29549c06f4fe71ce9ca403fb7c7a590f8b603681bcd0fc73ba5aed9093f7d0",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003222,
+                                    "Title": "64599d070988af2cadbe2fc4450f4e7f9c5390f6202c877f30de920e1c632c7b6e8af970d5ba99cff16201abb63ffdb9",
+                                    "Explain": "卵巢上皮性癌对化疗较敏感，多采用以铂类药物为主的联合化疗：TC方案（紫杉醇+卡铂）、TP方案（紫杉醇+顺铂）、PC方案（顺铂+环磷酰胺）。恶性卵巢生殖细胞常用化疗方案：BEP方案（博来霉素+依托泊苷+顺铂）、BVP方案（博来霉素+长春新碱+顺铂）、VAC方案（长春新碱+放线菌素+环磷酰胺）。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35002657,
+                "ChildTableID": 35000387,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002657,
+                        "ChildTableID": 35000387,
+                        "UserCount": 3230,
+                        "RightCount": 1453,
+                        "FavCount": 124,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002657,
+                    "ChildTableID": 35000387
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 35002657,
+                "ChildTableID": 35000388,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002657,
+                        "ChildTableID": 35000388,
+                        "UserCount": 2917,
+                        "RightCount": 2061,
+                        "FavCount": 83,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002657,
+                    "ChildTableID": 35000388
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 35002658,
+                "ChildTableID": 35000389,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002658,
+                        "ChildTableID": 35000389,
+                        "UserCount": 2889,
+                        "RightCount": 2313,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002658,
+                    "ChildTableID": 35000389
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 35002658,
+                "ChildTableID": 35000390,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002658,
+                        "ChildTableID": 35000390,
+                        "UserCount": 2717,
+                        "RightCount": 2347,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002658,
+                    "ChildTableID": 35000390
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 35002659,
+                "ChildTableID": 35000391,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002659,
+                        "ChildTableID": 35000391,
+                        "UserCount": 2826,
+                        "RightCount": 2258,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002659,
+                    "ChildTableID": 35000391
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 35002659,
+                "ChildTableID": 35000392,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35002659,
+                        "ChildTableID": 35000392,
+                        "UserCount": 2617,
+                        "RightCount": 2304,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35002659,
+                    "ChildTableID": 35000392
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43018670,
+                "ChildTableID": 43003216,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018670,
+                        "ChildTableID": 43003216,
+                        "UserCount": 2738,
+                        "RightCount": 1527,
+                        "FavCount": 75,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018670,
+                    "ChildTableID": 43003216
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43018670,
+                "ChildTableID": 43003217,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018670,
+                        "ChildTableID": 43003217,
+                        "UserCount": 2764,
+                        "RightCount": 1881,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018670,
+                    "ChildTableID": 43003217
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43018670,
+                "ChildTableID": 43003218,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018670,
+                        "ChildTableID": 43003218,
+                        "UserCount": 2754,
+                        "RightCount": 1774,
+                        "FavCount": 78,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018670,
+                    "ChildTableID": 43003218
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43018671,
+                "ChildTableID": 43003219,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018671,
+                        "ChildTableID": 43003219,
+                        "UserCount": 2486,
+                        "RightCount": 1986,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018671,
+                    "ChildTableID": 43003219
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43018671,
+                "ChildTableID": 43003220,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018671,
+                        "ChildTableID": 43003220,
+                        "UserCount": 2753,
+                        "RightCount": 1949,
+                        "FavCount": 45,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018671,
+                    "ChildTableID": 43003220
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43018672,
+                "ChildTableID": 43003221,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018672,
+                        "ChildTableID": 43003221,
+                        "UserCount": 2480,
+                        "RightCount": 2152,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018672,
+                    "ChildTableID": 43003221
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43018672,
+                "ChildTableID": 43003222,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018672,
+                        "ChildTableID": 43003222,
+                        "UserCount": 2378,
+                        "RightCount": 2231,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018672,
+                    "ChildTableID": 43003222
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

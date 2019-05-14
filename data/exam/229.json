@@ -1,0 +1,680 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:17:02 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 9,
+                    "TestItems": [
+                        {
+                            "Title": "0edf7ec8471596d3c70991204c718cdc3e387690520d488613d9a03d1aa37455459fbe701fb9baddee2911a48eefe6667f65b89db19104cec3e6c99f2cd68885f034c95e4c4bf0b5526f6626238ceac2c2d6adfbd47db242d5d895c04dc1e4eaa6eebd8fd0ef131a1e6b9c72c970d1c08655c2e7d0bb037c855d10a93279b8131cab5f44aded6f9a9547a11210968c82",
+                            "Explain": "该患者烧伤面积为3．5％+6．5％=10％；烫伤后剧痛、水泡、创面红肿，为浅Ⅱ度烧伤。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "5％浅Ⅱ度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "5％深Ⅱ度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "10％浅Ⅱ度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "10％深Ⅱ度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "15％浅Ⅱ度"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000240,
+                            "ATestID": 39000240,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2bd85704bfa597952c031a57ad616d15c154d8a6d28cf1df36c0d4b4b8ac026159822bd77207cfb7",
+                            "Explain": "病理形态学检查是目前确定肿瘤的直接、可靠的依据。包括细胞学检查及组织学检查。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "CT检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "DSA检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "B超检查或放射核素检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肿瘤标记物检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "病理学检查"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000242,
+                            "ATestID": 39000242,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6299e689aa94253316e1d03e2aa90adc39841d9ae3279fb7592e94856ee855ce3b3b649eff0217ccce3b4bae7f9d61e8",
+                            "Explain": "皮下脂肪瘤常见的肉眼特点呈分叶状，乳腺纤维腺瘤外观常见的肉眼特点呈结节状。故正确答案为D。",
+                            "TestPoint": "乳腺纤维腺瘤",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "息肉状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乳头状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "分叶状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "结节状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "囊状"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000243,
+                            "ATestID": 39000243,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "47b83f0e6ac0002cda63ad521294e917505d9ab2ff25d2344d885a55ae7412a5022576f5944d0b9ceac4d39d4f82b9b59e041d75a487ee11",
+                            "Explain": "肝癌转移常见脑，胰腺癌多周围浸润。胃癌最常见种植性转移至盆腔",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "胃癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肝癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "胰腺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胆管癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胆囊癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000244,
+                            "ATestID": 39000244,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "99eab82a98ed6eded398f24b27d86ee74e05aab2e1165d05",
+                            "Explain": "pH7.48，PaCO[XB2.gif]30mmHg，BE-3mmol/L为呼吸性碱中毒。",
+                            "TestPoint": "水、电解质代谢和酸碱平衡失调",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "pH7.30，PaCO[XB2.gif]64mmHg，BE+2mmol/L"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "pH7.20，PaCO[XB2.gif]90mmHg，EE-10mmol/L"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "pH7.45，PaCO[XB2.gif]60mmHg，BE+15mmol/L"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "pH7.48，PaCO[XB2.gif]30mmHg，BE-3mmol/L"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "pH7.38，PaCO[XB2.gif]54mmHg，BE-4mmol/L"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000245,
+                            "ATestID": 39000245,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "454140b24b956986fc1967402eca8bf65ff9563b1e64aae471671811602cdfd0327939b2e9d626c22315334fa1e6d9db",
+                            "Explain": "符合代谢性碱中毒的检查结果是HCO[SBjianXB3.gif]升高，BE升高，pH值升高。",
+                            "TestPoint": "代谢性酸中毒和碱中毒",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "HCO[SBjianXB3.gif]升高，BE降低，pH值升高"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "HCO[SBjianXB3.gif]降低，BE升高，pH值降低"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "HCO[SBjianXB3.gif]降低，BE降低，pH值降低"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "HCO[SBjianXB3.gif]升高，BE升高，pH值升高"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "HCO[SBjianXB3.gif]升高，BE降低，pH值降低"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000246,
+                            "ATestID": 39000246,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "693c306e8891a224e468acf4e8efb0d8aff1c03159740b5cb3b6998cd85a437806b2972a7c7dad0b55d97e6c61c6f8460715891ee144f53604114caf8748e2ab9929da9f32de05fdd3d93499b641b61ad3e3bfc28f78cce6b858d3c2de230fd5dd74ecd5569f9c80c7fab8852b5f0ce2453c897fc7c3eb543843d2de192723d095c0e509a8ec9d527ec6ace4203e7b9a",
+                            "Explain": "破伤风是一种由梭状芽孢杆菌引起的感染。发作期肌肉持续性收缩，最初是咀嚼肌，之后依次累及脸面、颈项、背、腹、四肢、膈肌、肋间肌等。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "面部表情肌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "咀嚼肌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "颈部肌群"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "背部肌群"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "四肢肌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000247,
+                            "ATestID": 39000247,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b2b0f2d4e104705b6f13dcebef050ff36b931955d4bf1de01ea80025b59b24f66d3ddca80869122efa010b9dfa68224133df548a6a29e828",
+                            "Explain": "一氧化碳中毒的患者需要迅速纠正缺氧状态，高压氧舱治疗能增加血液中溶解氧，提高动脉血氧分压，使毛细血管内的氧容易向细胞内弥散，可迅速纠正组织缺氧，其有效率达95%~100%。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "面罩给氧"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "呼吸新鲜空气"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "人工呼吸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "鼻导管吸氧"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "高压氧舱"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000249,
+                            "ATestID": 39000249,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09039a7ac6ac53d40b3b8fec25a608f12730e8eae90ac3a8eb0f49f03e995455ab3634d323a8e23b6f540d9cfb42a0faae0b5c6fdb6742f6d99d8ace0b1ac384388c3357194a7d35f7edd9faaa9b968dbe58a3d476f12a8c06751517caa1982c3558939d06875c6811c7da60d515c38f7f8a01e384e79892fe197703a58636de087412c079b4bdddd9690266d05f6f747536ef179c2b8fefb4b4519f3f3bb6ffb770513a4d2eca2096b721d703748c80599da5f5af1cce5f11a6469f0159745fbe975b0c917da76fbee0bb2d120f2b4a6073e417a1f12044b21f",
+                            "Explain": "中度休克神志清楚，收缩压正常或稍高，失血量估计在800ml以下，中度休克神志尚可，收缩压为70~90mmHg，脉压小，失血量在800~1600ml之间；重度休克神志模糊甚至昏迷，收缩压在70mmHg以下或测不到，失血量在1600ml以上。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "轻度休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "中度休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "重度休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "休克代偿期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "创伤性休克"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000251,
+                            "ATestID": 39000251,
+                            "SrcID": 9,
+                            "SbjID": 57,
+                            "CptID": 229,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 39000240,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000240,
+                        "ChildTableID": -1,
+                        "UserCount": 2116,
+                        "RightCount": 1624,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000240,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 39000242,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000242,
+                        "ChildTableID": -1,
+                        "UserCount": 2063,
+                        "RightCount": 1795,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000242,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 39000243,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000243,
+                        "ChildTableID": -1,
+                        "UserCount": 2194,
+                        "RightCount": 1191,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000243,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 39000244,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000244,
+                        "ChildTableID": -1,
+                        "UserCount": 2019,
+                        "RightCount": 1443,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000244,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 39000245,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000245,
+                        "ChildTableID": -1,
+                        "UserCount": 2060,
+                        "RightCount": 1228,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000245,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 39000246,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000246,
+                        "ChildTableID": -1,
+                        "UserCount": 2006,
+                        "RightCount": 1282,
+                        "FavCount": 43,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000246,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 39000247,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000247,
+                        "ChildTableID": -1,
+                        "UserCount": 1902,
+                        "RightCount": 1609,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000247,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 39000249,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000249,
+                        "ChildTableID": -1,
+                        "UserCount": 1828,
+                        "RightCount": 1713,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000249,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 39000251,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000251,
+                        "ChildTableID": -1,
+                        "UserCount": 1942,
+                        "RightCount": 1374,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000251,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

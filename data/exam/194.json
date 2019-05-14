@@ -1,0 +1,2180 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:34:29 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 19,
+                    "TestItems": [
+                        {
+                            "Title": "2e926df3323e5e9cdbfd85a701f7afb7a09606598c51b02e5302a6b2c9fd8ce8babb783eb6b383544e9b215b42ac37f76c969fecbe23f2466627dbe7720ed1d0c1e60f8bc43b20afbb599d12afa67d56",
+                            "Explain": "以上五种药都是利尿常用药，但作用原理不同，适应证也稍有不同。氢氯噻嗪（双氢克尿噻）作用于远曲小管和集合管，排钠、排钾、排水，作用强度中等；乙酰唑胺是碳酸酐酶抑制剂，作用于近曲小管，排钾、排水，作用强度弱；氨苯蝶啶作用于远曲小管和集合管，排钠、保钾、排水，作用强度弱；呋塞米（速尿）作用于髓袢，排钠、排钾、排水，作用强度强；甘露醇是渗透性利尿剂，能脱去组织间隙多余的水分，减少肾小管对水分的重吸收。故首选降低颅内压的药物是能脱去组织间隙水分的甘露醇。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "双氢克尿噻"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙酰唑胺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "氨苯蝶啶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "甘露醇"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "呋塞米（速尿）"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35003199,
+                            "ATestID": 35003199,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fb92df8d623bc47eece9c64821629cddd15bef24a42bec386959aea072c7102b666ff067050ee57",
+                            "Explain": "颅内压增高是神经外科常见的临床病理综合征，是颅内多种疾病的共有征象。1.头痛是其常见的症状之一，是脑膜、血管、感觉神经根等痛觉敏感组织受到增高压力的刺激牵张所致。2.头痛重时伴呕吐，喷射状为其特点。3.视神经乳头水肿为颅内压增高的重要客观体征之一。以上三者是颅内压增高的典型表现，称之为颅内压增高三主征。故正确答案为E。",
+                            "TestPoint": "颅内高压",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "头痛、视力下降、恶心"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "头痛、偏瘫、抽搐"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "偏瘫、偏盲、偏身感觉障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血压升高、脉搏变快、呼吸变快"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "头痛、呕吐、视神经乳头水肿"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001582,
+                            "ATestID": 43001582,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d497948644455cea9ba0d664d9176c9a0f7d5d832ec48b79a819f6cf6287970c06393aeae056e2b84d9a44619cd031e841669bebc1c3e58021ab33f09fe23389",
+                            "Explain": "急性颅内压增高时病人早期生命体征改变为心跳和脉搏变慢，血压升高（两慢一高），脉压增大，可伴有呼吸不规则、体温升高等。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "血压升高，脉搏变缓，脉压变小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "血压升高，脉搏增快，脉压增大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "血压降低，脉搏变缓，脉压变小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血压降低，脉搏增快，脉压变小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血压升高，脉搏变缓，脉压增大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001583,
+                            "ATestID": 43001583,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ccbfa9e5695d4aec8924140ae7f87bbd91e16f5b2b216adc6817864ba46ded324c2a166d99685d541c15e2dcb7245f20",
+                            "Explain": "频繁呕吐者应禁食以防误吸造成吸入性肺炎；补液过量可促使颅内压增高恶化；激素可减轻脑水肿，有助于缓解颅内压增高；病情稳定者应尽早查明病因明确诊断，尽快施行去除病因的治疗。高位灌肠不可作，也不能让病人用力排便，以免颅内压骤然增高，可用轻泻剂来疏通大便。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "频繁呕吐时宜禁食"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "限制输液量及速度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "早期行病因治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "静点地塞米松"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "便秘4天以上给予高位、高压灌肠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001585,
+                            "ATestID": 43001585,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fb92df8d623bc47eece9c64821629cd9d72a48f336e4f2039b2937b39b2d7e59e937bfc6cadf8b15a9256f0409a4af065c3737a3e2f9832eed162e61f4a28067a782a18874e8f2dab5ca6b0f4bd28a6",
+                            "Explain": "病情有加剧表现，首要的是明确加重原因。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "限制水、盐入量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "安静卧床，头抬高30°"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "保持大便通畅"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "20%甘露醇250ml，1日2次，静点"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "头颅CT，明确病变的性质和部位"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001587,
+                            "ATestID": 43001587,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0d67dc4605124973b80883ff7b2978fd5769bf9abbdf50e490b164431dc69cfd",
+                            "Explain": "颅内压增高所致的视盘肿胀称为视盘水肿，高颅压三联征就是头痛、呕吐，视盘水肿。视盘水肿是诊断颅压高可靠依据。视盘水肿：既往认为仅由于颅内压增高所致的视盘肿胀称为视盘水肿，为视盘非炎症性阻塞性水肿，约80％系由于颅内占位性病变所致，其他如炎症、外伤或先天性颅眶畸形等亦可引起。由于视盘水肿的名称并不能反映其临床征象和病理，有以视盘肿胀取代。Hayern研究结果不赞成用淤血乳头专指用颅内高压所致，用视盘水肿指其他原因所致者，因两者本质并无何不同。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "视乳头水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "剧烈头痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "频繁呕吐"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "癫痫发作"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "双外展神经麻痹"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003356,
+                            "ATestID": 43003356,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d497948644455cea9ba0d664d9176c9a15785b9bf4892e6cb3b97b17447ee58cfb282dd406cfe9c8",
+                            "Explain": "颅内压升高所致的Cushing三联征头痛、呕吐、视乳头水肿",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "剧烈头痛，频繁呕吐"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "Cushing征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "意识障碍加深"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "去大脑强直发作"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "X线片示脑回压迹加深"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003357,
+                            "ATestID": 43003357,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "23888d0e9d4cb651667cc50ac8060640ef56625b35a8db6fb4a210c177d84452e27a990066fa5684cfaafcbbccd49697117a4c91c0bac7d0",
+                            "Explain": "外展神经麻痹可发生在高颅压性头痛之早期，表现为眼外直肌瘫痪，眼球外展运动受限，出现复视。外展神经自脑桥走出后到达眼窝之前，走行距离较长，当颅内压增高时，可因直接或间接压迫，或因脑干向下方移位而牵拉外展神经引起麻痹。故本题选C",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "动眼神经"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "滑车神经"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "外展神经"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "面神经"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "听神经"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003358,
+                            "ATestID": 43003358,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6a758eb8318e240fa73314994f157634b6cf32a87448bbf21398974815faab078d935daf4d580ef3c6896cc30a1614d9e2ee8143e4cbc4decc3a068cce7c4668",
+                            "Explain": "颅内压增高所致头颅X线平片的特点：颅缝裂开，脑回压迹加深，蝶鞍扩大，前后床突骨质吸收，蛛网膜颗粒加深",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "颅缝裂开"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "枕骨大孔扩大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "脑回压迹加深"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "蝶鞍扩大，前后床突骨质吸收"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "蛛网膜颗粒加深"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003359,
+                            "ATestID": 43003359,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "46d95df45777d6f4d9077c665c91f3badfe2842f4167aa1d27bbfd4892f112f74d070ee28076cf2c5d3249f2f7364bc4c341e2cfbf4f59a8337ffdc6e9f5c857",
+                            "Explain": "临床常用20%的甘露醇高渗溶液。甘露醇是最常用的有效的脱水剂之一。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "50%葡萄糖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "30%尿素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "25%山梨醇"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "20%甘露醇"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "浓缩血清白蛋白"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003360,
+                            "ATestID": 43003360,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "31cc8a68dc34313a25c4f52cc609a42e84acdf7e903790ac9a2080956d458e2d74fc87632c940c5a49f552b23fbdb1272c48c147f8d7775c",
+                            "Explain": "CT扫描无异常改变：目前较好的CT是间隔3mm扫描一层，是目前定位检查手段较精细的。",
+                            "TestPoint": "颅内肿瘤和颅内感染",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "无视乳头水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "颅平片无颅内压增高表现"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "叩诊小儿头颅无破壶音"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脑超声中线波无移位"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CT扫描无异常改变"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003362,
+                            "ATestID": 43003362,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fb92df8d623bc47eece9c64821629cddaf02717f8d8b5ee86a436b5d1ea0fc431a21ca234a150558ba3df82f3f92d7e47250ba8ee63dfa180640f8370f84b27",
+                            "Explain": "颅内压增高时，机体通过减少颅内压血容量和脑脊液量来代偿，由于脑组织需要保持一定的血流量以维持其正常功能，所以脑脊液调节为主。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脑组织的压缩"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "颅腔的扩大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "脑脊液被排出颅外"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血压的下降"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脑血流量减少"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003363,
+                            "ATestID": 43003363,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fb92df8d623bc47f05438d07df8cd16183750653121d04413a44ab3ed4c8f137dad3367854d4537",
+                            "Explain": "颅内压增高的“三主征”(1)头痛：急性颅内压增高者突然出现头痛，慢性者头痛缓慢发展。多为跳痛、胀痛或爆裂样痛，用力、咳嗽、喷嚏、排便可使头痛加重。平卧或侧卧头低位亦N使头痛加重，坐姿时减轻。早期头痛在后半夜或清晨时明显，随后头痛为持续性疼痛伴阵发性加剧。(2)呕吐：多在头痛剧烈叫发生，常曼喷射状，与进食无关，伴有或不性有忍心。呕吐后头痛可有所缓解。(3)视神经乳头水肿：视神经乳头水肿早期出现视网膜静脉扩张、视乳头允血、边缘模糊，继之生理陷消失，视乳头降起，静脉中断，网膜有渗出物，视乳头内及附近可见片状或火焰状出血。早期视物正常或有一过性黑蒙，如颅内压增高无改善，可出现视力减退，继发性神经萎缩，以致失明。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "偏瘫，偏盲，偏身感觉障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "头痛，呕吐，偏瘫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "头痛，抽搐，意识障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "头痛，呕吐，视乳头水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "头痛，呕吐，血压增高"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003364,
+                            "ATestID": 43003364,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6fd8644f4507c89e03dfd382e4c9e19635eae1108bedab6bcf35339a6f937dcacea784cc072713b6e95a9f0ce8a34845",
+                            "Explain": "颅内压增高的“三主征”(1)头痛：急性颅内压增高者突然出现头痛，慢性者头痛缓慢发展。多为跳痛、胀痛或爆裂样痛，用力、咳嗽、喷嚏、排便可使头痛加重。平卧或侧卧头低位亦N使头痛加重，坐姿时减轻。早期头痛在后半夜或清晨时明显，随后头痛为持续性疼痛伴阵发性加剧。(2)呕吐：多在头痛剧烈叫发生，常曼喷射状，与进食无关，伴有或不性有忍心。呕吐后头痛可有所缓解。(3)视神经乳头水肿：视神经乳头水肿早期出视网膜静脉扩张、视乳头允血、边缘模糊，继之生理陷消失，视乳头降起，静脉中断，网膜有渗出物，视乳头内及附近可见片状或火焰状出血。早期视物正常或有一过性黑蒙，如颅内压增高无改善，可出现视力减退，继发性神经萎缩，以致失明。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "头痛，呕吐，肢体运动障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "头痛，瞳孔异常和肢体运动障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "血压，呼吸和脉搏改变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "头痛，呕吐，视乳头水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "进行性意识障碍"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003365,
+                            "ATestID": 43003365,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e527d9cd8c08545a5966fff26456973054a7efd9292c20540eb1e813b0ec8d2fddc8e3a09f3584ae6a3233dfd0aa2b785d3ff26b8e44e680",
+                            "Explain": "对于急性颅内压升高患者，因病情进展进展迅速，可以来不及出现头痛、呕吐、视乳头水肿这些病理改变，病情已发展到意识丧失阶段了。故选项D是正确的。婴幼儿，颅骨的骨缝较松弛，且颅骨在不断生长，颅骨的容积代偿较成人好，故出现症状较慢，一般症状较轻。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "喷射性呕吐多见"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "后期常伴视力障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "阵发性头痛是主要症状之一"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "某些病例可始终不出现\"三主症\""
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "在婴幼儿头痛出现较早且较重"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003366,
+                            "ATestID": 43003366,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "436d2c694b951de3ae6d2dac14f781bde4135387af13ebcc16c72474c098c0a43fce99931fc8dbc50b0f8f62e4d55292e6704d9b3bdc2c08",
+                            "Explain": "视神经乳头水肿：视神经乳头水肿早期出视网膜静脉扩张、视乳头允血、边缘模糊，继之生理陷消失，视乳头降起，静脉中断，网膜有渗出物，视乳头内及附近可见片状或火焰状出血。早期视物正常或有一过性黑蒙，如颅内压增高无改善，可出现视力减退，继发性神经萎缩，以致失明。是颅内压增高的重要体征之一",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "出现视乳头水肿，可肯定颅内有占位病变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "无视乳头水肿，可排除颅内占位病变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "视乳头水肿，对颅内占位病变性质有鉴别价值"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "无视乳头水肿，可排除颅内压增高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "视乳头水肿，是颅内压增高的重要体征之一"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003367,
+                            "ATestID": 43003367,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f1ecbec19aa8b35606170e94c5919647d95f34f6c5531530816fbb85635b780ea799cf39e80c41b42a23f9195e07822c",
+                            "Explain": "非手术治疗降低颅内压最有效易行的方法是使用脱水剂和利尿剂。若意识清楚，颅内压增高程度较轻的先选用口服药物。有意识障碍、症状较重者选用静脉或肌肉注射药物，对减轻脑水肿、降低颅内压有效。B、C、E项亦可用，腰穿大量引流脑脊液是禁忌，因为可诱发脑疝。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "腰椎穿刺大量引流脑脊液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "施行人工冬眠物理降温"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "进行控制性过度换气"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "使用脱水剂或利尿剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "将病员置于高压氧舱内"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003368,
+                            "ATestID": 43003368,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fb92df8d623bc47eece9c64821629cd7134e1e3dbebf51671560ecf896e6cc0455a980144296df73157ca416b20459fd334611f09ae0a58ad30a4747b0e3c7fec0ac239386cb03b",
+                            "Explain": "对待颅内压增高病人，作高位灌肠以疏通大便，不会对患者有好的作用，所以选D。",
+                            "TestPoint": "颅内压增高",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "注意观察意识，瞳孔及生命体征的变化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "频繁呕吐时，予以禁食，用脱水剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "意识不清且痰多者作气管切开吸痰"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "作高位灌肠以疏通大便"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "静脉补液以保持尿量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003370,
+                            "ATestID": 43003370,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fb92df8d623bc47eece9c64821629cd8d91935ba1261bf7427ceade5c01f6d60b1b54be40c188cbd75bdd7b7984b1d89b488a49451d931e6bdf6ae093f87bd39a4bc7c91a43afa0",
+                            "Explain": "吸道梗阻时，因患者用力呼吸，致胸腔内压力增高，加重颅内压。呼吸道梗阻使PaCO[XB2.gif]增高，致脑血管扩张、脑血流量增多，也加重颅内高压。昏迷患者或排痰困难者，应配合医生及早行气管切开，所以选D。",
+                            "TestPoint": "颅内压增高",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "通过鼻腔口腔导管吸痰"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "气管插管，呼吸机辅助呼吸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "环甲膜穿刺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "气管切开"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "用开口器侧卧位引流"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003371,
+                            "ATestID": 43003371,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "62e901ec9489d2e1176bf27f41b7e5dda9f27779d9d3732384d5a3fb78a243ff04e8f2292ae597a03cd78aa104afa4387ea02dd287315b75",
+                            "Explain": "小儿颅缝未闭合，颅内压增高可使颅缝裂开而相应地增加了颅腔容积，从而缓和了病情的发展；老年人由于脑萎缩使颅内代偿空间增多，故颅内压增高出现较晚，A错误。颅内压与颅内容物体积呈类指数关系，当颅内病变快速扩张时，可使颅内压调节功能失调，往往短期内出现颅内压增高危象；而病变扩张速度缓慢时，由于颅内压调节功能存在，可以长期不出现颅内压增高。颅内中线或颅后窝占位性病变，由于容易阻塞脑脊液通路，而发生梗阻性脑积水，故颅内压增高的症状出现得早而严重；病变位于影响颅内静脉回流的部位时，易使颅内压增高早期出现。病变伴发的脑水肿明显时，颅内压增高出现得早而重。同样，全身性疾病可引起继发性脑水肿而致颅内压增高加重。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "婴幼儿、老年人出现症状早"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "与病变的扩张速度有关"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "颅脑中线的占位病变出现症状早"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "高热往往加重颅内压增高"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脑灌注压下降"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002131,
+                            "ATestID": 41002131,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2b17b062703b9d70489f41e5d6ae3bcb80c84388f684e7bd648ff11398c6012d3a4739df9c2b925349f3400c4826efef91fd55946c025a74",
+                            "Explain": "高血压脑出血往往为急性出血，引起急性颅内压升高。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脑膜瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "高血压脑出血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "胶质瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "听神经瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "慢性硬膜下血肿"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002132,
+                            "ATestID": 41002132,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f9e03cd81e3fc6a1f36401761c1cccdb702e7863baef69f157fb2353b57247aa9cd0838e1c4d844f",
+                            "Explain": "颅内肿瘤的非定位症状是头痛以及视盘水肿。",
+                            "TestPoint": "颅内肿瘤",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "头痛、视盘水肿"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "癫痫、幻嗅"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肢体运动和感觉障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "视力、视野障碍"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "眼睑下垂、眼球运动障碍"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019478,
+                            "ATestID": 43019478,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aa66e55d899a9dc3207b5011b87f2287dec40329ad7d024c0cf9b4d140b504f83d368b0d2bdfc93464a2cf88c81c83568f4826a6316e030aaba13aaf572aceaff6c01f0c8bd73800",
+                            "Explain": "此题多处提及\"扩大\"，对考生产生干扰，因此有一定难度。要求考生了解颅内压增高的病理生理学知识，并掌握头颅X线平片的阅片基础知识。①2～12岁的儿童，有脑回压迹属于正常现象。成人脑回压迹很少，如增多，是颅压增高的征象；②7岁以前的小儿颅缝尚未闭合，当颅内压增加时，出现颅缝代偿性增宽、颅缝哆开以及头围增大，故可排除选项B；③头颅X线正位片上矢状窦两侧可见到蛛网膜压迹，当慢性颅内压增高时这些压迹明显显现，亦能排除选项C；④慢性颅内压增高时以及第三脑室对蝶鞍产生压迫致使蝶鞍扩大、前后床突及鞍背的骨质吸收，故可排除E；⑤备选答案中除D外皆为慢性颅内压增高的X线表现，利用排除法均可一一排除，选项D应为所选答案。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "脑回压迹增多加深",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "颅缝增宽",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "蛛网膜颗粒压迹扩大增深",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "枕大孔扩大",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "蝶鞍扩大，前后床突及鞍背的骨质吸收",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019482,
+                            "ATestID": 43019482,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5114de397c6dc040856e872198753fdc51cef19d93cb87cec14c9838ebba49301eef63f6c0aa9ad7bd56691eda8bf7e2af1929fc5e2dc141542fe9a52d97af4cfd6be49f11b11a7d1439570591d6e2b0e97f3e8774683929d4fc08e149ae6d0e7df33e72e469c81d5e34e889ee93b52179fc955795b3a284eff4da5044e1598c3ba104bfa9a55499",
+                            "Explain": "对于颅脑损伤的患者要慎用镇静剂，以防掩盖患者的病情。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血压、脉搏、呼吸监测"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "注意意识状态"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "穿刺抽吸头皮下血肿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "给予镇静剂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "给予脱水剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019483,
+                            "ATestID": 43019483,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d497948644455cea9ba0d664d9176c9a58ac5ba378be467ff9254342a95cb41c50be997b9ea7187a144a42e798576388c2b849094e587353bbd72802abfcf737",
+                            "Explain": "急性颅内压增高，有脑疝征象时，应立即使用20%甘露醇。",
+                            "TestPoint": "颅内压增高和颅疝",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "50%葡萄糖"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "20%甘露醇"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "25%山梨醇"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "50%甘油"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "呋塞米"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019484,
+                            "ATestID": 43019484,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2024fd9b8a6a1b028a7492f71b456cfdc43ed817f321533ec49e0c93afc4ba59bd7f89cf0113812b",
+                            "Explain": "第四脑室接受由第三脑室通过中脑导水管流来的脑脊液，并通过中孔或侧孔流向蛛网膜下腔，再通过蛛网膜颗粒进入静脉系统。第四脑室底呈菱形，脑桥与延髓的神经核团多与此相毗邻，如延髓的舌下神经核、迷走神经背核、耳蜗和前庭神经核，脑桥的面神经核、三叉神经运动核和三叉神经感觉核等。因此当第四脑室发生肿瘤时，首先产生脑脊液循环受阻，肿瘤向脑室周围扩展侵犯或使其周围组织受压时，即产生相应的临床症状，主要为颅神经受损症状。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "额叶肿瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "颞叶肿瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "顶叶肿瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "枕叶肿瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "第四脑室肿瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019487,
+                            "ATestID": 43019487,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fb92df8d623bc47eece9c64821629cd6178c56e61e8d186d0dd41faceb37010a7a6e59d51c9bdbc",
+                            "Explain": "引起颅内压增高常见病因有：①脑组织体积增加如脑水肿；②脑脊液增多，由于各种原因所导致的脑积水；③颅内血容量增加；④颅内占位性病变如颅内血肿、脑肿瘤等；⑤颅腔容积变小如狭颅症、颅底凹陷症等。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "硬膜外血肿"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脑水肿"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "梗阻性脑积水"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "颅骨缺损"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "脑肿瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019488,
+                            "ATestID": 43019488,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "cf5e32895bce54dd2c81c74ad8cef0cf789b55071600bc201cd1db9b699fabf24901200d7545360acc3bcd310f1ac7e16918cca90d1893b8",
+                            "Explain": "引起颅内压增高的原因可分为五大类：①颅内占位性病变挤占了颅内空间，如颅内血肿、脑肿瘤、脑脓肿等；②脑组织体积增大，如脑水肿；③脑脊液循环和（或）吸收障碍所致梗阻性脑积水和交通性脑积水；④脑血流过度灌注或静脉回流受阻，见于脑肿胀、静脉窦血栓等；⑤先天性畸形使颅腔的容积变小，如狭颅症、颅底凹陷，所以不会是颅内压的生理调节功能失调，选E。",
+                            "TestPoint": "颅内压增高",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "颅内新生物生长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脑积水"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "颅腔内有出血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "颅腔内有感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "颅内压的生理调节功能失调"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003372,
+                            "ATestID": 43003372,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6f15297dc8fe1f08629158239824dfc1287243600fc16f0e61a937bd8f4c05ec4eddfe9c230f7c3dca227d1d3a58c7e0b2ef3dd44c4e1e1deda116d621c3ea25e9bdfc87a9edc282ee11be3f9f9deacb",
+                            "Explain": "颅内压增高所致头颅X线平片的特点是：①颅缝裂开；②脑回压迹加深；③蝶鞍扩大，前后床突骨质吸收；④蛛网膜颗粒加深。故选E。",
+                            "TestPoint": "颅内压增高",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "颅缝增宽",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "脑回压迹增多",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "蝶鞍扩大，前后床突骨质吸收",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "蛛网膜颗粒压迹扩大",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "一侧或双侧内听道扩大",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003373,
+                            "ATestID": 43003373,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改",
+                            "OperateTime": "2017年8月29日"
+                        },
+                        {
+                            "Title": "6f15297dc8fe1f08629158239824dfc1287243600fc16f0e61a937bd8f4c05eca847f5674f57509b9c95d6a0dbd67b0cd2628e5ac28b7d14b070bd878d49f401a49a1f02e5fee6c43ce54a1c1e11f2a385bb692f75210df81cee20cf18657a97",
+                            "Explain": "颅内压增高病人，持续颅内压增高导致病理生理紊乱，不会出现早期血压下降，脉搏变快，呼吸增快的现象。",
+                            "TestPoint": "颅内压增高",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脑血管自动调节功能失调"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胃肠道出血，溃疡"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "脑疝形成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺水肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "早期血压下降，脉搏变快，呼吸增快"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003374,
+                            "ATestID": 43003374,
+                            "SrcID": 9,
+                            "SbjID": 53,
+                            "CptID": 194,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35003199,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003199,
+                        "ChildTableID": -1,
+                        "UserCount": 2597,
+                        "RightCount": 2483,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003199,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001582,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001582,
+                        "ChildTableID": -1,
+                        "UserCount": 2532,
+                        "RightCount": 2215,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001582,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43001583,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001583,
+                        "ChildTableID": -1,
+                        "UserCount": 2779,
+                        "RightCount": 1092,
+                        "FavCount": 114,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001583,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43001585,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001585,
+                        "ChildTableID": -1,
+                        "UserCount": 2546,
+                        "RightCount": 1506,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001585,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43001587,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001587,
+                        "ChildTableID": -1,
+                        "UserCount": 2618,
+                        "RightCount": 1495,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001587,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43003356,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003356,
+                        "ChildTableID": -1,
+                        "UserCount": 2327,
+                        "RightCount": 1610,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003356,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003357,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003357,
+                        "ChildTableID": -1,
+                        "UserCount": 2592,
+                        "RightCount": 863,
+                        "FavCount": 94,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003357,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003358,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003358,
+                        "ChildTableID": -1,
+                        "UserCount": 2487,
+                        "RightCount": 620,
+                        "FavCount": 109,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003358,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43003359,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003359,
+                        "ChildTableID": -1,
+                        "UserCount": 2478,
+                        "RightCount": 775,
+                        "FavCount": 94,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003359,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003360,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003360,
+                        "ChildTableID": -1,
+                        "UserCount": 2088,
+                        "RightCount": 2019,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003360,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003362,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003362,
+                        "ChildTableID": -1,
+                        "UserCount": 2138,
+                        "RightCount": 1614,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003362,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43003363,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003363,
+                        "ChildTableID": -1,
+                        "UserCount": 2245,
+                        "RightCount": 1018,
+                        "FavCount": 84,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003363,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003364,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003364,
+                        "ChildTableID": -1,
+                        "UserCount": 1964,
+                        "RightCount": 1903,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003364,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43003365,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003365,
+                        "ChildTableID": -1,
+                        "UserCount": 2102,
+                        "RightCount": 1381,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003365,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43003366,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003366,
+                        "ChildTableID": -1,
+                        "UserCount": 2148,
+                        "RightCount": 1237,
+                        "FavCount": 67,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003366,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43003367,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003367,
+                        "ChildTableID": -1,
+                        "UserCount": 1956,
+                        "RightCount": 1741,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003367,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003368,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003368,
+                        "ChildTableID": -1,
+                        "UserCount": 1924,
+                        "RightCount": 1683,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003368,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43003370,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003370,
+                        "ChildTableID": -1,
+                        "UserCount": 1876,
+                        "RightCount": 1720,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003370,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003371,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003371,
+                        "ChildTableID": -1,
+                        "UserCount": 2135,
+                        "RightCount": 965,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003371,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41002131,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002131,
+                        "ChildTableID": -1,
+                        "UserCount": 1858,
+                        "RightCount": 1548,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002131,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 41002132,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002132,
+                        "ChildTableID": -1,
+                        "UserCount": 1949,
+                        "RightCount": 1230,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002132,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43019478,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019478,
+                        "ChildTableID": -1,
+                        "UserCount": 1779,
+                        "RightCount": 1190,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019478,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43019482,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019482,
+                        "ChildTableID": -1,
+                        "UserCount": 1882,
+                        "RightCount": 808,
+                        "FavCount": 60,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019482,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43019483,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019483,
+                        "ChildTableID": -1,
+                        "UserCount": 1820,
+                        "RightCount": 1133,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019483,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43019484,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019484,
+                        "ChildTableID": -1,
+                        "UserCount": 1626,
+                        "RightCount": 1535,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019484,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019487,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019487,
+                        "ChildTableID": -1,
+                        "UserCount": 1726,
+                        "RightCount": 1073,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019487,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43019488,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019488,
+                        "ChildTableID": -1,
+                        "UserCount": 1630,
+                        "RightCount": 1454,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019488,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003372,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003372,
+                        "ChildTableID": -1,
+                        "UserCount": 1758,
+                        "RightCount": 1330,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003372,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003373,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003373,
+                        "ChildTableID": -1,
+                        "UserCount": 1874,
+                        "RightCount": 966,
+                        "FavCount": 65,
+                        "DiscussionCount": 7,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003373,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 7,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003374,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003374,
+                        "ChildTableID": -1,
+                        "UserCount": 1792,
+                        "RightCount": 1103,
+                        "FavCount": 48,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003374,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

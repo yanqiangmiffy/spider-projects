@@ -1,0 +1,1426 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:28:31 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 12,
+                    "TestItems": [
+                        {
+                            "Title": "30a86de879c55572a547a2cb0344a988ab1b5fd003e2dcea4f9a3c2b59b92cba18e7c359f29867849630d1bbfb411d8e",
+                            "Explain": "洋地黄中毒最常见的心电图是各种心律失常，最常见的是室性期前收缩。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "心房颤动"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "室性期前收缩"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "房性期前收缩"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "ST-T缺血性改变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "房室传导阻滞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000524,
+                            "ATestID": 43000524,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "55dc07c48b2f9c222470e7f184276f44e3cd789d40de642ad1fcb4339e8c9ef3486c676db09b2df8",
+                            "Explain": "心力衰竭患者由于心脏扩大，心室壁张力提高，以及代偿性的心率加快，使心肌耗氧量增加，应用强心苷后，心肌收缩力增强虽可增加心肌耗氧量，但又能使心室排空完全，循环改善，静脉压降低等，因而使心力衰竭时扩大的心脏体积缩小，心室张力降低，同时还使心率减慢，这两方面的作用使心肌耗氧量降低，提高了心脏的工作效率。对正常心脏，由于加强心收缩力，而对心室壁张力无明显影响，心率仅稍减弱，故总耗氧量增加，对高血压或瓣膜病引起的心衰效果好。",
+                            "TestPoint": "治疗心衰的药物",
+                            "Answer": "E",
+                            "Difficulty": "很难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺源性心脏病引起"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "严重二尖瓣狭窄引起的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "甲状腺功能亢进引起的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "严重贫血引起的"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "高血压或瓣膜病引起的"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002706,
+                            "ATestID": 43002706,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a69992ac826ffab45bdc16cb2342f3f41867aa8252ee192b9430ff1a45586234",
+                            "Explain": "强心苷（cardiacglycoside）是一类具选择性强心作用的药物，又称强心甙或强心配糖体。临床上主要用以治疗慢性心功能不全，此外又可治疗某些心律失常，尤其是室上性心律失常。有正性肌力作用、有负性频率作用、安全范围小。",
+                            "TestPoint": "治疗心衰的药物",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "有正性肌力作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "有正性心肌传导功能"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "有负性频率作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "安全范围小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "用于治疗心衰，也可治疗室上性心动过速"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002707,
+                            "ATestID": 43002707,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "55dc07c48b2f9c226f7f2df294e59ec6c951ec0845e3364d620f34daace46e49d71fee847e28beeb",
+                            "Explain": "强心苷心肌毒性的发生机制抑制心肌细胞膜Na[~+.gif]-K[~+.gif]-ATP酶。",
+                            "TestPoint": "治疗心衰的药物",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "激活心脏细胞膜Na[~+.gif]-K[~+.gif]-ATP酶"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "抑制心肌细胞膜Na[~+.gif]-K[~+.gif]-ATP酶"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "增加心肌细胞中的K[~+.gif]"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "增加心肌细胞中的Ca[~2+.gif]"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "增加心肌细胞中的Na[~+.gif]"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002708,
+                            "ATestID": 43002708,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0131cb44e00bc3f811cb2dcea2f6a80baaee8601f5a804d57c56e2f53b0f671e49ba59cff91599ef9cc496abd2562897",
+                            "Explain": "在治疗时，对心脏的作用表现为正性肌力作用，是直接作用，而不是通过神经机制实现的。增强心肌收缩力，改善泵功能，减慢心率，抑制心肌传导系统，使心搏出量、输出量增加，改善肺循环及体循环。使扩大的心脏缩小，但不能改善心肌舒张功能。",
+                            "TestPoint": "抗心律失常药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "缩短心房有效不应期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抑制窦房结"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "减慢房室传导"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "降低普肯耶纤维的自律性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "直接降低心房的兴奋性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002709,
+                            "ATestID": 43002709,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "55dc07c48b2f9c22c98f444abb28adf52b9e875a65639d0b2f8eed5836eb9e42f8167ee943223316006e8dc55e8baf3d5895f6ecd929f2f0",
+                            "Explain": "洋地黄中毒的处理，如果出现心率减慢可以使用阿托品，如果出现III度房室传导阻滞可以按装临时起搏器。也可以使用异丙肾上腺素提高心率。",
+                            "TestPoint": "抗心律失常药",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "异丙肾上腺素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "氯化钾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肾上腺素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "阿托品"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "苯妥英钠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002710,
+                            "ATestID": 43002710,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e9c9d922f48e6043a13c6bfb4036afd1bdd9cb82d659fff6ac895dd425e37fa75ddf5dc75d3755455543285ff24fd312dc5183ddfaf0c1521fad5249310b5d290988c487f19360275dc4ea5f9582592b7f3a80c8480fc78a",
+                            "Explain": "抑制RAAS系统的血管紧张素转换酶（ACEI），阻止血管紧张素Ⅰ转换或血管紧张素Ⅱ，并能抑制醛固酮分泌，减少水钠潴留。对多种类型高血压均有明显降压作用，并能改善充血性心力衰竭患者的心脏功能。对不同肾素分型高血压患者的降压作用以高肾素和正常肾素两型；对低肾素型在加用利尿剂后降压作用亦明显。其降压机制为抑制血管紧张素转化酶活性、降低血管紧张素Ⅱ水平、舒张小动脉等。本品具有轻至中等强度的降压作用，可降低外周血管阻力，增加肾血流量，不伴反射性心率加快。本品可通过以下机制降低血压：抑制血管紧张素转换酶，使血管紧张素I转变为AngII减少，从而产生血管舒张；同时减少醛固酮分泌，以利于排钠；特异性肾血管扩张亦加强排钠作用；由于抑制缓激肽的水解，减少缓激肽的灭活；此外尚可抑制局部血管紧张素I在血管组织及心肌内的形成。可改善心衰患者的心功能。",
+                            "TestPoint": "抗高血压药",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "地高辛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "米力农"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "氢氯噻嗪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "硝普钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "卡托普利"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002711,
+                            "ATestID": 43002711,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a92246919095504b029ae61f1adf80a5819d004219998d3173efd48fb38201e27f19bd5e7c1e3016caa9eb671552504bfbf8",
+                            "Explain": "奎尼丁在洋地黄过量时本品可加重心律失常。本品可使地高辛血清浓度增至中毒水平，也可使洋地黄毒苷血清浓度升高，故应监测血药浓度及调整用量。",
+                            "TestPoint": "治疗心衰的药物",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "奎尼丁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "利多卡因"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "氯化钾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "呋塞米"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002712,
+                            "ATestID": 43002712,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "55dc07c48b2f9c22e366c002c388568b2b2e3828f60c93c50c7d882442ac556b8b5ee805f22f37c62ecc00089fe88d17b74a397d3509938b27c884d3ac8ec84c6d581a4347152a32",
+                            "Explain": "一般先心病患者应用强心苷效果好。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "甲状腺功能亢进"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "严重二尖瓣狭窄"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "维生素B[XB1.gif]缺乏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "先天性心脏病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "外伤性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015447,
+                            "ATestID": 43015447,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "55dc07c48b2f9c226e6ef669cc9fcb5ae732de5155c84e30fbf5436639e45c381c28e5fa1629fd0ecddc212ffabce3b8",
+                            "Explain": "强心苷主要是通过兴奋迷走神经或对房室结的直接作用减慢房室传导、增加房室结中隐匿性传导、减慢心室率、增加心排血量，从而改善循环障碍，但对多数患者并不能终止心房颤动。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "缩短心房有效不应期"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "减慢房室传导"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "抑制窦房结"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "直接抑制心房颤动"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "增加房室传导"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015448,
+                            "ATestID": 43015448,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9f1c95e933ce128c3e2121573042d82d23e644e19bd3cb5310ed63e411b8a9bdbd432e0fd3796f28317c30eb76a18c1a",
+                            "Explain": "ACE抑制药可抑制体循环及局部组织中血管紧张素Ⅰ向Ⅱ的转化，从而减弱了Ⅱ的血管收缩作用，ACE抑制药还能抑制缓激肽的降解，使血中缓激肽含量增加，发挥扩血管、降低心脏后负荷的作用。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "减少前列腺素合成"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "增加去甲肾上腺分泌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "拮抗钙离子的作用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "减少血管紧张素Ⅱ的生成"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "增加肾上腺素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015449,
+                            "ATestID": 43015449,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d5cfcee1c96c3e58eb33a3bf345f959c391c4c90a5178bf88f91a9b214382e50c3e1cfadd1654ea923fb611908182f8420bcff2df210c7c1fdccd69e32366ff2",
+                            "Explain": "血管紧张素转换酶抑制剂：ACEI不仅能用以治疗轻中度或者严重的高血压，而且对某些情况特别有用：①高血压并有左室肥厚；②左室功能不全或心力衰竭；③心肌梗死后及心室重构；④糖尿病并有微量蛋白尿；⑤高血压病人伴有周围血管病或雷诺现象，慢性阻塞性呼吸道疾病、抑郁；⑥硬皮病高血压危象；⑦透析抵抗肾性高血压。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "高血压件主动脉瓣狭窄"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "妊娠期高血压"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高血压伴左心室肥厚"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "高血压伴高血钾血症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "高血压伴双侧肾动脉狭窄"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015451,
+                            "ATestID": 43015451,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "30a86de879c55572a547a2cb0344a988fa823fa93388fedbca172667f075c557530aa7adf2e81d97cde81085659d563a95f0508cd2e84f9f8bb8709ef5bff2f6",
+                            "Explain": "洋地黄的中毒表现中心律失常最常见，最多的为室性期前收缩，其次为房室传导阻滞、阵发性或加速性交界性心动过速、阵发性房性心动过速伴房室传导阻滞、室性心动过速、窦性停搏、心室颤动等。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "心律失常"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胸痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "黄视或绿视"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "恶心"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "咳粉红色泡沫痰"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000533,
+                            "ATestID": 41000533,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "abf670e4a5e1bf31ff556fe45b6946d992e1d6c4ac0cb68377ec31efae55d63dba6fef506079cece4c90c92c374ab31cbda383df4804c9178bbd9ba6c9894f708ce7ef650f0e4d4726cf60d75c25ef04a9f513397f6ae30883ad631fe69824bd02f82f8154d838a239690be02c901fdd34da45e2532d6bbe459a7abc92aac9f5aedf5d57fda94373ec6d3664966a6a3fef8a3a47e789e7bc89c4a2b55b7d43fc",
+                            "Explain": "此患者为洋地黄毒性反应，地高辛属于洋地黄类，可减慢心率，47次为心室率，心房由于心房颤动无有效收缩，不产生有效搏动，故而律齐，皆为心室率。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "窦性心动过缓"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "病态窦房结综合征"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心房颤动合并完全性房室传导阻滞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "房性逸搏心律"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心室颤动"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015452,
+                            "ATestID": 43015452,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "8419e849a5e7c8fe0443abaa2f30a644cd8537b78de97c1d4a0952acbace73339416af2788827e48a1336ea7bc8f6b08b6332a43b1f2b8b352647a11aff830c6dc1c3583601f587519428f54bd9b863c",
+                            "Explain": "具有抑制磷酸二酯酶，扩张血管和正性肌力作用的药物是氨茶碱。",
+                            "TestPoint": "作用于血液及造血器官的药物",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "地高辛"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "氨茶碱"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "卡托普利"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肼屈嗪"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "硝普钠"
+                                }
+                            ],
+                            "AllTestID": 43002713,
+                            "BTestID": 43000698,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000698,
+                                    "Title": "8419e849a5e7c8fe0443abaa2f30a644cd8537b78de97c1d4a0952acbace73339416af2788827e48a1336ea7bc8f6b08b6332a43b1f2b8b352647a11aff830c6dc1c3583601f587519428f54bd9b863c",
+                                    "Explain": "具有抑制磷酸二酯酶，扩张血管和正性肌力作用的药物是氨茶碱。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000699,
+                                    "Title": "6b39952e3dee5f71fe58641e236634a1b38c76c9a93436996f98ecd8c7cf39d194ef097d312454b5680e9205e14cc12f5669e3f3ba0c52c23ab3146f8de5e89be38b765f0c7c6c128eec053e5981c23c1d463ee56660cdf0ac159124548bd9ba",
+                                    "Explain": "具有血管紧张素I转换酶抑制作用，能防止和逆转心室肥厚的药物是卡托普利。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000700,
+                                    "Title": "83add72ab58c0882eb40bd324325a8ef653cf5d1142b87f108e0242e2e64b43cf5a6276b11bb901f1f1a389b0d7648ffc0cd96730cf358a625a4f40790283853637263977d4e3356",
+                                    "Explain": "扩张小动脉，小静脉，作用强快短的扩血管药物是硝普钠。",
+                                    "TestPoint": "作用于血液及造血器官的药物",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "03830279955ee4968706a95ac0f6d8d52de01d8616012898a089a5bb48bb704c28ac49809574f79928919f8f07ef4f1d94881f7cd8d1f726eea8982aa94328c0a1bd3205a48e494db991956e3b207db5152de262e5649d7d",
+                            "Explain": "抑制Na[SBjia.gif]-K[~+.gif]-ATP酶，使心肌细胞内Ca[~2+.gif]增加的药物是地高辛。",
+                            "TestPoint": "抗心律失常药",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "地高辛"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "米力农"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "卡维地洛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "硝普钠"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "多巴酚丁胺"
+                                }
+                            ],
+                            "AllTestID": 43002714,
+                            "BTestID": 43000701,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 340,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000701,
+                                    "Title": "03830279955ee4968706a95ac0f6d8d52de01d8616012898a089a5bb48bb704c28ac49809574f79928919f8f07ef4f1d94881f7cd8d1f726eea8982aa94328c0a1bd3205a48e494db991956e3b207db5152de262e5649d7d",
+                                    "Explain": "抑制Na[SBjia.gif]-K[~+.gif]-ATP酶，使心肌细胞内Ca[~2+.gif]增加的药物是地高辛。",
+                                    "TestPoint": "抗心律失常药",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000702,
+                                    "Title": "bcea17265d41e75bb16fd2099161b356b18dda070dfa6ecb817d9e9e6324d2e4d3e0c8b596bff264a4bf43d93f518bf15a0637a9d402d3398ecab705febb24c082a6198ab43059e170e71a61f631a399ab10f68230b4cd296ae0b90fd94385e2b3e3f6c7b7474476c815f46d3a4bd67e",
+                                    "Explain": "抑制磷酸二酯酶Ⅲ，提高细胞内cAMP含量，增加心肌细胞内Ca[~2+.gif]浓度的药物是米力农",
+                                    "TestPoint": "心脏血功能的调节",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000703,
+                                    "Title": "83add72ab58c088276ece9e0928e281073b9add0a40d556b6d4590a787d54ae439641bb18c117bba6c12f4f58bf5f9a56d5b9ac4c218d85437abde5ae800298e41b9bf81aebac87e89ad6440a9938a94",
+                                    "Explain": "扩张小动脉和小静脉，降低心脏的前、后负荷的药物是硝普钠。",
+                                    "TestPoint": "抗心律失常药",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000704,
+                                    "Title": "5665fd38765b5313e3c90bf0cd27bf1e6b60c16b6fa1c19aa427869d55fb0258ccdbafbe4e980cd7f32f573b606995397334584776820af780fa1571afa6b07f5d2627b15bf2e9202699294c62337a75",
+                                    "Explain": "激动心脏β受体，增强心肌收缩力，增加心排血量的药物是多巴酚丁胺。",
+                                    "TestPoint": "抗心律失常药",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000705,
+                                    "Title": "797314feab82ba261455b607da33f38328da4c4d9a05cc5c1227fc01d3fff875ca39228f33e2846a82cd903831b0d61a5e07aa198eb64fc19f368774efbcc7cde7b4437d275031bfe8828cfdea421aeb",
+                                    "Explain": "阻断心脏的β受体，拮抗交感神经对心脏的作用的药物是卡维地洛。",
+                                    "TestPoint": "抗心律失常药",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000524,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000524,
+                        "ChildTableID": -1,
+                        "UserCount": 1868,
+                        "RightCount": 1203,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000524,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002706,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002706,
+                        "ChildTableID": -1,
+                        "UserCount": 1913,
+                        "RightCount": 1030,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002706,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43002707,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002707,
+                        "ChildTableID": -1,
+                        "UserCount": 1926,
+                        "RightCount": 990,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002707,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002708,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002708,
+                        "ChildTableID": -1,
+                        "UserCount": 1741,
+                        "RightCount": 1175,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002708,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43002709,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002709,
+                        "ChildTableID": -1,
+                        "UserCount": 1821,
+                        "RightCount": 995,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002709,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002710,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002710,
+                        "ChildTableID": -1,
+                        "UserCount": 1800,
+                        "RightCount": 854,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002710,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002711,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002711,
+                        "ChildTableID": -1,
+                        "UserCount": 1656,
+                        "RightCount": 1211,
+                        "FavCount": 28,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002711,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002712,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002712,
+                        "ChildTableID": -1,
+                        "UserCount": 1742,
+                        "RightCount": 837,
+                        "FavCount": 67,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002712,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43015447,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015447,
+                        "ChildTableID": -1,
+                        "UserCount": 1647,
+                        "RightCount": 916,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015447,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015448,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015448,
+                        "ChildTableID": -1,
+                        "UserCount": 1524,
+                        "RightCount": 1232,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015448,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015449,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015449,
+                        "ChildTableID": -1,
+                        "UserCount": 1494,
+                        "RightCount": 1236,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015449,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015451,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015451,
+                        "ChildTableID": -1,
+                        "UserCount": 1558,
+                        "RightCount": 1169,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015451,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41000533,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000533,
+                        "ChildTableID": -1,
+                        "UserCount": 1620,
+                        "RightCount": 1236,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000533,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015452,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015452,
+                        "ChildTableID": -1,
+                        "UserCount": 1515,
+                        "RightCount": 1154,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015452,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002713,
+                "ChildTableID": 43000698,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002713,
+                        "ChildTableID": 43000698,
+                        "UserCount": 1778,
+                        "RightCount": 796,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002713,
+                    "ChildTableID": 43000698
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002713,
+                "ChildTableID": 43000699,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002713,
+                        "ChildTableID": 43000699,
+                        "UserCount": 1518,
+                        "RightCount": 1399,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002713,
+                    "ChildTableID": 43000699
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002713,
+                "ChildTableID": 43000700,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002713,
+                        "ChildTableID": 43000700,
+                        "UserCount": 1570,
+                        "RightCount": 1337,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002713,
+                    "ChildTableID": 43000700
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002714,
+                "ChildTableID": 43000701,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002714,
+                        "ChildTableID": 43000701,
+                        "UserCount": 1614,
+                        "RightCount": 1218,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002714,
+                    "ChildTableID": 43000701
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002714,
+                "ChildTableID": 43000702,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002714,
+                        "ChildTableID": 43000702,
+                        "UserCount": 1760,
+                        "RightCount": 823,
+                        "FavCount": 63,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002714,
+                    "ChildTableID": 43000702
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002714,
+                "ChildTableID": 43000703,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002714,
+                        "ChildTableID": 43000703,
+                        "UserCount": 1523,
+                        "RightCount": 1321,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002714,
+                    "ChildTableID": 43000703
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002714,
+                "ChildTableID": 43000704,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002714,
+                        "ChildTableID": 43000704,
+                        "UserCount": 1717,
+                        "RightCount": 857,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002714,
+                    "ChildTableID": 43000704
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002714,
+                "ChildTableID": 43000705,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002714,
+                        "ChildTableID": 43000705,
+                        "UserCount": 1582,
+                        "RightCount": 1209,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002714,
+                    "ChildTableID": 43000705
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

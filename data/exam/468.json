@@ -1,0 +1,1216 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:34:33 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 17,
+                    "TestItems": [
+                        {
+                            "Title": "08aad83c66a34e5b1045093be637340bfe52392ee5e319890aa60cfae0555623b9b65bdef056d9550080c660e381b328047fc3c19dbb3d02fbefe612af2826d16cbaeb708d73e59aababd3942ee6708b610158e3e9c6e438c9664d832c525a06ab1074104c78861c",
+                            "Explain": "《临床输血申请单》由主治医生核准签字。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "申请单由经治医生填写"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "患者及其家属在上面签字"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "由主治医生核准签字"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "连同患者血样在预定输血日前送交输血科（血库）备血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "输血科（血库）留血备查"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000695,
+                            "ATestID": 43000695,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f17fd5a23a0464763173067085c562f9e37046290c98264709f6ef0e869a5d48de60f65d9192ba81a5251d84efa9118d",
+                            "Explain": "为加强医疗机构临床用血管理，推进临床科学合理用血，保护血液资源，保障临床用血安全和医疗质量",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "推进临床科学合理用血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "保护血液资源"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "保障临床用血安全和医疗质量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "以上都是"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上都不是"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003041,
+                            "ATestID": 43003041,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bba38359c92f3334485b74dece9baa1a882409c5bf8d5c284ed085a232459eb4f6d44fe2f342e12d450b15e9c1eaa7486a",
+                            "Explain": "医疗机构法定代表人为临床用血管理第一责任人",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医疗机构应当加强组织管理，明确岗位职责，健全管理制度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "医疗机构临床用血管理委员会为临床用血管理第一责任人"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "二级以上医院和妇幼保健院应当设立临床用血管理委员会"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "临床用血管理委员会负责本机构临床合理用血管理工作"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "临床用血管理委员会主任委员由院长或者分管医疗的副院长担任"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003042,
+                            "ATestID": 43003042,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "638832fe550f9777ace4d8100aae81342212cb90c681d0479c6abaa7097535f0f74cba48b2ad5341ed281b9c4feb78170fc5de1fc0ea7e17d8822fa35b5520f59733dcb63ac1bbb82359c108e8553d64aa1c5ecfcfe90716c455f70f06ca7c52dcc6390c55da4c56",
+                            "Explain": "临床用血管理委员会或者临床用血管理工作组应当履行以下职责：（一）认真贯彻临床用血管理相关法律、法规、规章、技术规范和标准，制订本机构临床用血管理的规章制度并监督实施；（二）评估确定临床用血的重点科室、关键环节和流程；（三）定期监测、分析和评估临床用血情况，开展临床用血质量评价工作，提高临床合理用血水平；（四）分析临床用血不良事件，提出处理和改进措施；（五）指导并推动开展自体输血等血液保护及输血新技术；（六）承担医疗机构交办的有关临床用血的其他任务",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "认真贯彻临床用血管理相关法律、法规、规章、技术规范和标准，根据省级卫生行政部门核发的临床用血管理的规章制度监督实施"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "评估确定临床用血的重点科室、关键环节和流程"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "定期监测、分析和评估临床用血情况，开展临床用血质量评价工作，提高临床合理用血水平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "分析临床用血不良事件，提出处理和改进措施"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "指导并推动开展自体输血等血液保护及输血新技术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003043,
+                            "ATestID": 43003043,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185ba7f7e687ce94c53cc0c0818ad483296b8f0b455492ce7189ec60575a053a07bc4764f0a9ed9b6f2c768b2c544d8bc64bde8477cb21aea326d918537377367e7dc4107bec209519669be1168c874b038",
+                            "Explain": "输血科及血库的主要职责是：（一）建立临床用血质量管理体系，推动临床合理用血；（二）负责制订临床用血储备计划，根据血站供血的预警信息和医院的血液库存情况协调临床用血；（三）负责血液预订、入库、储存、发放工作；（四）负责输血相关免疫血液学检测；（五）参与推动自体输血等血液保护及输血新技术；（六）参与特殊输血治疗病例的会诊，为临床合理用血提供咨询；（七）参与临床用血不良事件的调查；（八）根据临床治疗需要，参与开展血液治疗相关技术；（九）承担医疗机构交办的有关临床用血的其他任务。",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "认真执行临床输血技术规范"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "严格掌握临床输血适应证"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "根据患者病情和实验室检测指标"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "对输血指证进行综合评估"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "正确应用成熟的临床输血技术和血液保护技术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003044,
+                            "ATestID": 43003044,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "638832fe550f97770a2b08c01d096dc25da839515cab4a1f3c68571444036fb5b33937ab07f41480",
+                            "Explain": "医疗机构应当建立临床用血申请管理制度。同一患者一天申请备血量少于800毫升的，由具有中级以上专业技术职务任职资格的医师提出申请，上级医师核准签发后，方可备血。同一患者一天申请备血量在800毫升至1600毫升的，由具有中级以上专业技术职务任职资格的医师提出申请，经上级医师审核，科室主任核准签发后，方可备血。同一患者一天申请备血量达到或超过1600毫升的，由具有中级以上专业技术职务任职资格的医师提出申请，科室主任核准签发后，报医务部门批准，方可备血。以上第二款、第三款和第四款规定不适用于急救用血。",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医疗机构应当建立临床用血申请管理制度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "同一患者一天申请备血量少于800毫升的，由具有中级以上专业技术职务任职资格的医师提出申请，上级医师核准签发后，方可备血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "同一患者一天申请备血量在800毫升至1600毫升的，由具有中级以上专业技术职务任职资格的医师提出申请，经上级医师审核，科室主任核准签发后，方可备血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "同一患者一天申请备血量达到或超过1600毫升的，由具有中级以上专业技术职务任职资格的医师提出申请，科室主任核准签发后，报医务部门批准，方可备血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "急救用血程序需严格参照执行"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003045,
+                            "ATestID": 43003045,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bb97e29b330161c83ab96152a2c2975702893ccb3fda6e8c87e7ca1f071949d85e776154ab89353cddd856412935ccd53181eb4e15373cdfe741e59413994590d649d6acc79a9eca571b3f2dc0f3a4e02e2de36877b039e3457ac920b0cc176d02638b3ce47a2fdaca6640709274fa1aa954bf5fb25de01aec3d24439d8e5b163c062f09ceb60d1b7bf917bfccd43d7d8a74def599bbbcd18a0034868c488bbd6fa39fad1adfc795e7",
+                            "Explain": "医疗机构应当制订应急用血工作预案。为保证应急用血，医疗机构可以临时采集血液，但必须同时符合以下条件：（一）危及患者生命，急需输血；（二）所在地血站无法及时提供血液，且无法及时从其他医疗机构调剂血液，而其他医疗措施不能替代输血治疗；（三）具备开展交叉配血及乙型肝炎病毒表面抗原、丙型肝炎病毒抗体、艾滋病病毒抗体和梅毒螺旋体抗体的检测能力；（四）遵守采供血相关操作规程和技术标准。医疗机构应当在临时采集血液后10日内将情况报告县级以上人民政府卫生行政部门。",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "危及患者生命，急需输血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "所在地血站无法及时提供血液，且无法及时从其他医疗机构调剂血液，而其他医疗措施不能替代输血治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "具备开展交叉配血及乙型肝炎病毒表面抗原、丙型肝炎病毒抗体、艾滋病病毒抗体和梅毒螺旋体抗体的检测能力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "遵守采供血相关操作规程和技术标准"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "医疗机构应当在临时采集血液后7日内将情况报告县级以上人民政府卫生行政部门"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003046,
+                            "ATestID": 43003046,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bba38359c92f3334485b74dece9baa1a88c4dea9fcc8fc7739513e31a3ebe58caddc25f4bb9eb0110632a7419751484ccf322984f4d1b38e8456088b50e7266005",
+                            "Explain": "医疗机构应当建立临床用血医学文书管理制度，确保临床用血信息客观真实、完整、可追溯。医师应当将患者输血适应证的评估、输血过程和输血后疗效评价情况记入病历；临床输血治疗知情同意书、输血记录单等随病历保存。",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "应当建立临床用血医学文书管理制度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "确保临床用血信息客观真实、完整、可追溯"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "医师应当将患者输血适应证的评估、输血过程和输血后疗效评价情况记入病历"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "临床输血治疗知情同意书、输血记录单等随病历保存"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上皆正确"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003047,
+                            "ATestID": 43003047,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bbf809b848a6217e7bf2111cc90d020470626d0d45a903b65e5c34565b25ecc086eb66d1745721914e305e41aebb9c148dc7a9df237d5f0e8c27287a9095a01ef5b51107512909a7de4985f09f4c9bc1e6abf04aab2e55fa850a6b1ffbfdfc4b9f13812d7dded9290b023bae81058aea3c68714a78ae415d26683cb637e77fe3aa",
+                            "Explain": "医疗机构使用未经卫生行政部门指定的血站供应的血液的，由县级以上地方人民政府卫生行政部门给予警告，并处3万元以下罚款；情节严重或者造成严重后果的，对负有责任的主管人员和其他直接责任人员依法给予处分",
+                            "TestPoint": "《医疗机构临床用血管理办法》",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "由县级以上人民政府卫生行政部门责令限期改正"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "逾期不改的，进行通报批评，并予以警告"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "对负有责任的主管人员和其他直接责任人员依法给予处分"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "情节严重或者造成严重后果的，可处3万元以下的罚款"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "由县级以上地方人民政府卫生行政部门给予警告，并处3万元以下罚款"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003048,
+                            "ATestID": 43003048,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "499c6b6b00dd65592a65a646f134452e651a3ddd6d4a8094411df22975222d744380e2c91ae55e1180e79ef5b758797a9361cedc40fabf22a1bfd069813eb2f7",
+                            "Explain": "目前血库的血多来自无偿献血，故公民不需交付购买血液费用。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "采集血液费用"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "检验血液费用"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "分离血液费用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "储存血液费用"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "购买血液费用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015962,
+                            "ATestID": 43015962,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11acc88e1f1c10bba38359c92f3334485b74dece9baa1a88f76fef9e8047a2f92dc4af9581e9086c05ed14f5cb8c40717df031b0155759462fff36d098fde543",
+                            "Explain": "《献血法》第十六条 医疗机构临床用血应当制定用血计划，遵循合理、科学的原则，不得浪费和滥用血液，故选D。",
+                            "TestPoint": "献血法",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "公平、公正的原则"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "慎用、节约的原则"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "准确、慎用的原则"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "合理、科学的原则"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "认真、审查的原则"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015963,
+                            "ATestID": 43015963,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "13b7dce152b7851188fda710992d97d220b7d41aa55612ef42047bf42ee3f2a110c51265fdec63542d371a591c0a8a1425a5c64243a79087721f38d99886a93dedb6a6a5671a8b95eddce1ebdfe77fa0",
+                            "Explain": "根据《临床输血技术规范》总则第一条，为了规范、指导医疗机构科学、合理用血，根据《中华人民共和国献血法》和《医疗机构临床用血管理办法》（试行）制定本规范。本题选A。",
+                            "TestPoint": "临床输血技术规范",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "科学、合理用血"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "合理、安全用血"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "安全、科学用血"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "合理、卫生用血"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "认真、审查用血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015964,
+                            "ATestID": 43015964,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "01e362b9bc570c3af628d6bc764a917c8a9209a7ea934338aafb7dff4d627604c2d38653fee0dd6ad47af3e49204170b450e040db74dc5c00f9f2f52420503338a00ad687053ec78be03de3bbc348d6b",
+                            "Explain": "需临床输血的，应由经治医师逐项填写的医疗文书是临床输血申请单。输血治疗同意书需由医生告知患者，然后由患者或其家属签字，故选B。",
+                            "TestPoint": "临床输血技术规范",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "输血反应回报单"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "临床输血申请单"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "交叉配血报告单"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "输血治疗同意书"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "自愿献血申请书"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015966,
+                            "ATestID": 43015966,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "325ace61469aad4c5718dbcb43be76e3c85389590f03785af3bf6931f56c2f72a1d108af33dd3aa95bce7a9f7bd1f193ae544cac102d2817c8e98feacd702a74650fb6cd1e9f88bf",
+                            "Explain": "受血者血标本必须是输血前3天之内的，或者能代表患者当前的免疫学状态，故选B。",
+                            "TestPoint": "临床输血技术规范",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "2天之内的"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "3天之内的"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "4天之内的"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "5天之内的"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "10天之内的"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015967,
+                            "ATestID": 43015967,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5988e4d29cbb8e0bb424ef8497f2dca9539dc80b69e1fd6ab2f67d9f4df2e6dfae80dbd4fed0eccde65246918f065a84c22a5c30e294507a775ff92c3e24329be02dd8b7f5ee8aa09c0addfff76eaa75a67f1f99d77b1e40230fa0cabda014860ad0e08c10e74c3b7049dc15131d5ceb",
+                            "Explain": " 《临床输血技术规范》 第十一条 新生儿溶血病如需要换血疗法的，由经治医师申请，经主治医师核准，并经患儿家属或监护人签字同意，由血站和医院输血科（血库）提供适合的血液，换血由经治医师和输血科（血库）人员共同实施，故选D。  ",
+                            "TestPoint": "临床输血技术规范",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "住院医师实施"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "上级医师实施"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "输血科人员实施"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "经治医师和输血科人员共同实施"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "上级医师和输血科人员共同实施"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015969,
+                            "ATestID": 43015969,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4903d9c0730f11f65186e2a63bec04c72a7ea7f78fc7a6ea9a92193929a12edfa964ddaf44178c514c3704b1896570a116f32580f296463c460b46265369bae2686926b12c10c2c54dbae47e59d85468dbcf888b80261361d552c405e10f9659729bf95807702f12693b3b38983a548f3cd365e92206a2aa2982f6c9f760738ae1ac20f155013e63",
+                            "Explain": "根据《临床输血技术规范》第二十七条：血液发出后，受血者和供血者的血样保存于2～6℃冰箱，至少7天，以便对输血不良反应追查原因。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1天"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "4天"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "5天"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "6天"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "7天"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015970,
+                            "ATestID": 43015970,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2e19b9bc232ba0a8f96bbacd324b4bfb79f672f8a66b4172cc23de9a61ee30cc7957ebe8be898564ebb2af07a9c5186530f4a60a1c28214f41c80b3d37a9e0443a4eff6ea593ed81f9fca65a2f5b7d9550f67ed19839257bbbb9453688818597b3257f820b9dc990007f35e618c0c6bd33160d168129aa288fc8d4a1ee3e08d8896ae0663f51ef7d783bba251b2d127a2d03e03b2b6dbcea1d8d5df00affbb085c0113fc3f50bbb271a81a1bc10e67a16763757145364495afe65ffe26693342fded06274bf9a235404aab68677e3beaa9ed05716643c45cc8f3b2905ae13102815135f2ffe3dbd4e23d6c24a9f9691fd1e707649008cdebd27308ffb836d30260662a45cc16d1f2c3c7d1ae225b8893aaa08853ce46cb1b0645ceb9e93cbcda967b82e4a0dd03093c3316196b5669f9b6038bd3d2a5cbb9a2f757b7f214f5515b3acc0600c5334771b7731f3cc8e02dfcb21bdb01cb1ced144e73af338916a6118f01fc9f7ab8e10e115e6dfd70cf5285b8e783a7f68b129f798ef14ae81d43df2cee6d0423ab00b997e5ff6b20716cdb0cc79ab0ecfc5ad0911d1a2cf89fb7b54b391278a697e017247c4203b24ee1b154e3996ff71e9a442cfe98860ae7cf50ee65b38b799a16176808d49078d18929e91956b9238795d1581c213841f3d41896b05a51efa7ec700f495d3aeb03107c8656b3f40acd27bf0fcfffa5b35a3efead644cd5ff0de9f1930897008ea970996efa5660533bf4bb627939506cb88bc897e5765cf4278931f17f099a2d96648ca2b5628bb87e3d",
+                            "Explain": "《临床输血技术规范》第十五条 输血科（血库）要逐项核对输血申请单、受血者和供血者血样，复查受血者和供血者ＡＢＯ血型（正、反定型），并常规检查患者Ｒｈ（Ｄ）血型（急诊抢救患者紧急输血时Ｒｈ（Ｄ）检查可除外），正确无误时可进行交叉配血。血库工作人员甲将血样试管搞错，导致定错血型，属于违反交叉配血规定，故选A。",
+                            "TestPoint": "临床输血技术规范",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "输血申请规定"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "受血者血样采集和送检规定"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "交叉配血规定"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "发血规定"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "输血规定"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015971,
+                            "ATestID": 43015971,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 468,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000695,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000695,
+                        "ChildTableID": -1,
+                        "UserCount": 872,
+                        "RightCount": 514,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000695,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43003041,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003041,
+                        "ChildTableID": -1,
+                        "UserCount": 808,
+                        "RightCount": 592,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003041,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003042,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003042,
+                        "ChildTableID": -1,
+                        "UserCount": 825,
+                        "RightCount": 435,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003042,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43003043,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003043,
+                        "ChildTableID": -1,
+                        "UserCount": 854,
+                        "RightCount": 358,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003043,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43003044,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003044,
+                        "ChildTableID": -1,
+                        "UserCount": 797,
+                        "RightCount": 503,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003044,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43003045,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003045,
+                        "ChildTableID": -1,
+                        "UserCount": 770,
+                        "RightCount": 388,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003045,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43003046,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003046,
+                        "ChildTableID": -1,
+                        "UserCount": 708,
+                        "RightCount": 513,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003046,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003047,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003047,
+                        "ChildTableID": -1,
+                        "UserCount": 686,
+                        "RightCount": 578,
+                        "FavCount": 0,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003047,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003048,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003048,
+                        "ChildTableID": -1,
+                        "UserCount": 756,
+                        "RightCount": 382,
+                        "FavCount": 14,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003048,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43015962,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015962,
+                        "ChildTableID": -1,
+                        "UserCount": 644,
+                        "RightCount": 517,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015962,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015963,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015963,
+                        "ChildTableID": -1,
+                        "UserCount": 645,
+                        "RightCount": 516,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015963,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43015964,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015964,
+                        "ChildTableID": -1,
+                        "UserCount": 669,
+                        "RightCount": 523,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015964,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43015966,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015966,
+                        "ChildTableID": -1,
+                        "UserCount": 645,
+                        "RightCount": 560,
+                        "FavCount": 0,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015966,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015967,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015967,
+                        "ChildTableID": -1,
+                        "UserCount": 696,
+                        "RightCount": 394,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015967,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015969,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015969,
+                        "ChildTableID": -1,
+                        "UserCount": 654,
+                        "RightCount": 511,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015969,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015970,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015970,
+                        "ChildTableID": -1,
+                        "UserCount": 681,
+                        "RightCount": 396,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015970,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015971,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015971,
+                        "ChildTableID": -1,
+                        "UserCount": 683,
+                        "RightCount": 439,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015971,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

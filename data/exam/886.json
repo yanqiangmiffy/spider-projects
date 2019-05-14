@@ -1,0 +1,1412 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:10:15 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 26,
+                    "TestItems": [
+                        {
+                            "Title": "58aa80f491bf3bb70c9e6e5dd0eb6271f152cd141055e79d2c7535b9a3928830b446a80f1fc530c7d5ee03481d8ec560858707b1cdd5378d1dd37796851d282100eec87d5088462a",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "滤过膜受损"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "基底膜受损"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "分子屏障受损"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "电荷屏障受损"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "系膜基质受损"
+                                }
+                            ],
+                            "AllTestID": 43005680,
+                            "BTestID": 43001216,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43001216,
+                                    "Title": "58aa80f491bf3bb70c9e6e5dd0eb6271f152cd141055e79d2c7535b9a3928830b446a80f1fc530c7d5ee03481d8ec560858707b1cdd5378d1dd37796851d282100eec87d5088462a",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001217,
+                                    "Title": "bcad70e0f90e1ba21188cd60c64d163d45b86588e5fadb584b1365f378c7df33c59472b5cddbdb5b3809c94b2a129b8b183a788958af449567ff6b21f674b37755898085574c133166fb803c628edf774c7fb7d054aeefcc7c4346f42ed3b7429eb0b6ff5dc837bc1ae92d36576b477c5df993b511bc8906d4b9804d09c98b72",
+                                    "Explain": "肾小球滤过膜由肾小球毛细血管内皮细胞、基底膜和脏层上皮细胞（足细胞）所构成，滤过膜屏障作用包括：①分子屏障：肾小球滤过膜仅允许较小的蛋白质分子通过；②电荷屏障：内皮及足细胞含涎蛋白，而基底膜含硫酸类肝素，使肾小球滤过膜带负电荷，通过同性电荷相斥原理，阻止带负电荷的血浆蛋白（如白蛋白）滤过。大量蛋白尿，以白蛋白为主的多为肾小球滤过膜的电荷屏障受损，因为白蛋白携带的是负电荷；当分子屏障被破坏时，尿中还可出现除白蛋白外分子量更大的血浆蛋白，如免疫球蛋白、C3等，提示肾小球滤过膜有较严重的结构损伤。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "0e4f520a1673da6b9a5fff0db5891f5d4ea74b1a15ff3fdc28d4560cdd10f3459268465b7e9053b187971c87fc5278ee",
+                            "Explain": "大肠埃希菌是引起急性肾盂肾炎最常见的致病菌，约占60%～80%。",
+                            "TestPoint": "肾盂肾炎",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "β溶血性链球菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "金黄色葡萄球菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "大肠埃希菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "粪肠球菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "变形杆菌"
+                                }
+                            ],
+                            "AllTestID": 43005681,
+                            "BTestID": 43001218,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43001218,
+                                    "Title": "0e4f520a1673da6b9a5fff0db5891f5d4ea74b1a15ff3fdc28d4560cdd10f3459268465b7e9053b187971c87fc5278ee",
+                                    "Explain": "大肠埃希菌是引起急性肾盂肾炎最常见的致病菌，约占60%～80%。",
+                                    "TestPoint": "肾盂肾炎",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001219,
+                                    "Title": "0269126658cef8bc96fbae65fc022407177cf419676692c04ec1ac6430b26bc83bb00410b9c467279e62d38b7e448f97d9a997adb1b35ef9",
+                                    "Explain": "与急性肾小球肾炎有关的细菌是β溶血性链球菌。",
+                                    "TestPoint": "肾小球肾炎",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "7cdd017c9845a85e8e974d55ec47c65fd56fece04eb2cd6487a7ed224ace7da1486471a3487a11d965c6370fda575cef26f0d7ff09089762c993f0e6d03c48a5",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "狼疮性肾炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "尿酸肾病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肾淀粉样变性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "糖尿病肾病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "原发性肾小球肾炎"
+                                }
+                            ],
+                            "AllTestID": 43005682,
+                            "BTestID": 43001220,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43001220,
+                                    "Title": "7cdd017c9845a85e8e974d55ec47c65fd56fece04eb2cd6487a7ed224ace7da1486471a3487a11d965c6370fda575cef26f0d7ff09089762c993f0e6d03c48a5",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001221,
+                                    "Title": "ba17dbadef6e07f2cd6da75fee4b34594ca1d93e9fd9368cad5c7dfbb7f51d27740f4e81b47ae5070747e01b1d8292287c14d67c777201b8",
+                                    "Explain": "狼疮性肾炎以青年女性最为多见，以蛋白尿为主要表现，有时有血尿、管型尿和高血压，治疗时以免疫抑制剂为主。年青女性蛋白尿患者，故应当注意首先排除狼疮性肾炎。原发性肾小球肾炎男性多见，病变主要在肾小球，引起血尿、蛋白尿、肾小球滤过率下降，可引起水肿、高血压。当青年男性出现蛋白尿时，应当首先考虑原发性肾小球肾炎。排除本病后，再考虑其他的肾病：蛋白尿是糖尿病肾病的一个临床线索，但糖尿病史，相应的肾小球滤过率增高等可有助于诊断；蛋白尿也可为肾淀粉样变性的早期表现；慢性感染或炎症病史，多系统受累表现可提示本病。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "f7d6a96fd3a5fd37456850eddbf3eff6c3d361b37f670ba391e2d8bdc3386e8c02ea86e0a4d63403950bfdebe8e8e9386a5eb59b121aa862d081a8528426dbcb",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "慢性前列腺炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性附睾炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "膀胱炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "淋病性尿道炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肾积脓"
+                                }
+                            ],
+                            "AllTestID": 43005715,
+                            "BTestID": 43001222,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43001222,
+                                    "Title": "f7d6a96fd3a5fd37456850eddbf3eff6c3d361b37f670ba391e2d8bdc3386e8c02ea86e0a4d63403950bfdebe8e8e9386a5eb59b121aa862d081a8528426dbcb",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001223,
+                                    "Title": "66e88e39a1ba1955a12f0627a74dd219",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001224,
+                                    "Title": "f5af91aa020f6eb7935a2fadd3a75e6186836b4e9f59d0b33ff7cb3988ae772228f52532fffd306234549429d112d64fd2343722764b35c13271dff3ca048a5e",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001225,
+                                    "Title": "8545e54d8dd578c16a5910accc8938d7c49775a4f656684ae358f2942a3909e5",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001226,
+                                    "Title": "c2a134943f8909e14609ce49c12dce7c211b545daaa25f3b5797358ee153439e547a7afb0088a521",
+                                    "Explain": "[YS432_404_1.gif]",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "3110e4fc6748f8aaacc2d872d09669563ccc8e10f6a9f9b425d1de6b62843fe0100fbae47631adac9b87e3f00f622913a02bc6153875e03b4de012f86f6f582eb00cf56f9ac502d7",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "体外冲击波碎石"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "经皮肾碎石"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "经输尿管碎石"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腹腔镜下取石或开放性手术取石"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "药物治疗及大量饮水"
+                                }
+                            ],
+                            "AllTestID": 43005716,
+                            "BTestID": 43001227,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43001227,
+                                    "Title": "3110e4fc6748f8aaacc2d872d09669563ccc8e10f6a9f9b425d1de6b62843fe0100fbae47631adac9b87e3f00f622913a02bc6153875e03b4de012f86f6f582eb00cf56f9ac502d7",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001228,
+                                    "Title": "e9158fd500543ffa212cea49b9a4193fdcae8cc68633c0c262bc786c83fb9afb208cdb2da84d9b7d",
+                                    "Explain": "结石小于0.6cm、表面光滑、结石以下尿路无梗阻时可采用药物排石治疗；直径<2.5cm的肾结石及输尿管上段结石采用体外冲击波碎石。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903d71bad7ba2b6819ebf48f9d7e27637f6531e0fa8c0c4dd692b96250652e7b4ef99ed3134b22ea24beb0e86f461f81beb45704c1e45af3d5513bdd9f9568eafe3517632a8bae2bb044254b3f959d7b41569390f9b649a682a8d93eb32806f815fc99b75325327f09e2da9a3cd2db3e38a",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "淋菌性尿道炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "支原体或衣原体性尿道炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性前列腺炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "慢性前列腺炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "尿道癌"
+                                }
+                            ],
+                            "AllTestID": 43005747,
+                            "BTestID": 43001229,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43001229,
+                                    "Title": "02b50e5b583d0903d71bad7ba2b6819ebf48f9d7e27637f6531e0fa8c0c4dd692b96250652e7b4ef99ed3134b22ea24beb0e86f461f81beb45704c1e45af3d5513bdd9f9568eafe3517632a8bae2bb044254b3f959d7b41569390f9b649a682a8d93eb32806f815fc99b75325327f09e2da9a3cd2db3e38a",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001230,
+                                    "Title": "02b50e5b583d0903e9bdb7a0c199b1527d404b2b8084b91f5d3033e7d9df9c5c2da0f37e55bc4c00ee9f8a9dadf6440195acfbc969883f0f02c9ee6b872abeb181a84447b34f4edf",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001231,
+                                    "Title": "02b50e5b583d0903d71bad7ba2b6819e8cf331cd001a8b52d2e93d8812550e50defc54edcc824db1a9a06a7984119cf5834d6b9789320706085ba9c492ba38eb77c2caae3f1f7c3d26eeb42dd8bd02e75d93f6132d61caf3e52a8b3e01029d5a7484cd6e03cc5f5a",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001232,
+                                    "Title": "02b50e5b583d09037e4f6f3813a2c4dcadea630fc963257c398873ffb4d7b24f754a53c0db4151b18f86fde802d23d8c242b63fc94751b58d46ef7e7ca431647686841449d372dcf2a141bec491f1e167873a43047e2a7cf67c147dc8f1c03713243217809b4e5f2",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43001233,
+                                    "Title": "02b50e5b583d09037e4f6f3813a2c4dc9a8fb332fe3d8656a76d41875796a8f9b22841c495e0faf9a4f7fa5c227006c602ce2b99007ab43dac28f1ebb1202806b7e10cf11fbd5d6fdc713a078a9bad1593a8246d640223e070ce585fdc608e11d27b316bcf72fd84e81190e223c3c508d354a37a533c0aea",
+                                    "Explain": "淋菌性尿道炎和非淋菌性尿道炎（主要是支原体、衣原体）均属性传播性疾病，与不洁性接触或污染有关。前者为流脓性分泌物，镜检可见淋病双球菌；后者分泌物稀薄、无色或白色，可找到支原体或衣原体。前列腺炎以慢性多见，典型症状为尿道“滴白”；而急性前列腺炎常起病突然，有高热、疼痛明显。若尿道有血性分泌物应高度怀疑尿道癌。尿道分泌物的性质、相关的症状以及性行为常能提示疾病之诊断。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "f50c65010195d3850e3b1fb534343e3f90434daee62e1c57305c31f872c48432839d5a85c8b30cc0",
+                            "Explain": "急性肾盂肾炎是近期发病，故通常采用敏感药物，两周疗程，既治疗又巩固。如药物不敏感应及时换药。轮流用药用于慢性肾盂肾炎，需较长期治疗，而又避免副作用。消炎药与激素不是抗菌药。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "敏感抗生素分组轮流使用"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "用药后症状消失即停药"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "敏感抗生素，疗程2周"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "用糖皮质激素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "应用吲哚美辛"
+                                }
+                            ],
+                            "AllTestID": 43023734,
+                            "BTestID": 43003713,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003713,
+                                    "Title": "f50c65010195d3850e3b1fb534343e3f90434daee62e1c57305c31f872c48432839d5a85c8b30cc0",
+                                    "Explain": "急性肾盂肾炎是近期发病，故通常采用敏感药物，两周疗程，既治疗又巩固。如药物不敏感应及时换药。轮流用药用于慢性肾盂肾炎，需较长期治疗，而又避免副作用。消炎药与激素不是抗菌药。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年2月11日",
+                                    "OldTestJson": "{\"Title\":\"急性肾盂肾炎的治疗应是\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"敏感抗生素分组轮流使用\"},{\"ItemName\":\"B\",\"Content\":\"用药后症状消失即停药\"},{\"ItemName\":\"C\",\"Content\":\"敏感抗生素，疗程2周\"},{\"ItemName\":\"D\",\"Content\":\"用糖皮质激素\"},{\"ItemName\":\"E\",\"Content\":\"应用吲哚美辛\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43003714,
+                                    "Title": "52c2ce2eef560316e76d9e94e9143a36f37890413bd427039901a16dbe72c2a3464d8e1c747e22fc",
+                                    "Explain": "第1小题：急性肾盂肾炎是近期发病，故通常采用敏感药物，两周疗程，既治疗又巩固。如药物不敏感应及时换药。轮流用药用于慢性肾盂肾炎，需较长期治疗，而又避免副作用。消炎药与激素不是抗菌药。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "0224c94c631953c02a3c54a5f874295be82d7b41408caf87b7a7eff5d68564e09869ef2ca11483d9",
+                            "Explain": "遗传性肾病的遗传方式。85%的Alport综合征是X染色体显性遗传。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "常染色体显性遗传"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "常染色体隐性遗传"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "X染色体显性遗传"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "X染色体隐性遗传"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "多基因遗传"
+                                }
+                            ],
+                            "AllTestID": 43023737,
+                            "BTestID": 43003720,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003720,
+                                    "Title": "0224c94c631953c02a3c54a5f874295be82d7b41408caf87b7a7eff5d68564e09869ef2ca11483d9",
+                                    "Explain": "遗传性肾病的遗传方式。85%的Alport综合征是X染色体显性遗传。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年2月11日",
+                                    "OldTestJson": "{\"Title\":\"大多数Alport综合征患者是\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"常染色体显性遗传\"},{\"ItemName\":\"B\",\"Content\":\"常染色体隐性遗传\"},{\"ItemName\":\"C\",\"Content\":\"X染色体显性遗传\"},{\"ItemName\":\"D\",\"Content\":\"X染色体隐性遗传\"},{\"ItemName\":\"E\",\"Content\":\"多基因遗传\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43003721,
+                                    "Title": "3ecfefac0df50e9f084c09d0b995c776db241ad605a31cdd",
+                                    "Explain": "遗传性肾病的遗传方式。85%的Alport综合征是X染色体显性遗传；成人多囊肾的遗传方式是常染色体显性遗传。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "1262d46e5de17529a3848a7a7dc9a592ac1d1bbe0a1f4e7ab55214e31cb0c57919721aaa076f1e40",
+                            "Explain": "了解药物药效和副作用。呋塞米是排钾利尿剂，可降血钾；螺内酯是保钾利尿剂，可升血钾；糖皮质激素的副作用包括高血压、高血糖、感染等；环磷酰胺可以导致感染、出血性膀胱炎、性腺抑制等副作用。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "呋塞米（速尿）"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "螺内酯"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "糖皮质激素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "环磷酰胺"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "环孢素A"
+                                }
+                            ],
+                            "AllTestID": 43023738,
+                            "BTestID": 43003722,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003722,
+                                    "Title": "1262d46e5de17529a3848a7a7dc9a592ac1d1bbe0a1f4e7ab55214e31cb0c57919721aaa076f1e40",
+                                    "Explain": "了解药物药效和副作用。呋塞米是排钾利尿剂，可降血钾；螺内酯是保钾利尿剂，可升血钾；糖皮质激素的副作用包括高血压、高血糖、感染等；环磷酰胺可以导致感染、出血性膀胱炎、性腺抑制等副作用。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年2月11日",
+                                    "OldTestJson": "{\"Title\":\"可作为降血钾治疗的药物是\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"A\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"呋塞米（速尿）\"},{\"ItemName\":\"B\",\"Content\":\"螺内酯\"},{\"ItemName\":\"C\",\"Content\":\"糖皮质激素\"},{\"ItemName\":\"D\",\"Content\":\"环磷酰胺\"},{\"ItemName\":\"E\",\"Content\":\"环孢素A\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43003723,
+                                    "Title": "cbb2c602fe9dae15e97ac59a6aabe3bb0f9d8f082aba463f85db75b3a78ad83e21017926e7c71c3c",
+                                    "Explain": "了解药物药效和副作用。呋塞米是排钾利尿剂，可降血钾；螺内酯是保钾利尿剂，可升血钾；糖皮质激素的副作用包括高血压、高血糖、感染等；环磷酰胺可以导致感染、出血性膀胱炎、性腺抑制等副作用；环孢素A的副作用包括肾毒性、高血压、多毛、肝损害、感染等。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "e1dc3beea99f71843a9fc2cc7861cdb80a1abfe38d138387c99f793576917635a08b26fe1e392af877a74dda40fd696273b8983a26c763e4",
+                            "Explain": "考点为原发性肾病综合征的治疗原则。微小病变肾病初治，单用足量激素。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "大剂量甲泼尼龙冲击+环磷酰胺冲击+血浆置换"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "足量泼尼松+环磷酰胺静脉滴注，每月一次"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "足量泼尼松"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "足量泼尼松+环孢素A"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "休息+对症处理+ACEI"
+                                }
+                            ],
+                            "AllTestID": 43023739,
+                            "BTestID": 43003724,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 886,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003724,
+                                    "Title": "e1dc3beea99f71843a9fc2cc7861cdb80a1abfe38d138387c99f793576917635a08b26fe1e392af877a74dda40fd696273b8983a26c763e4",
+                                    "Explain": "考点为原发性肾病综合征的治疗原则。微小病变肾病初治，单用足量激素。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年2月11日",
+                                    "OldTestJson": "{\"Title\":\"微小病肾病-肾病综合征，首选治疗为\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"大剂量甲泼尼龙冲击+环磷酰胺冲击+血浆置换\"},{\"ItemName\":\"B\",\"Content\":\"足量泼尼松+环磷酰胺静脉滴注，每月一次\"},{\"ItemName\":\"C\",\"Content\":\"足量泼尼松\"},{\"ItemName\":\"D\",\"Content\":\"足量泼尼松+环孢素A\"},{\"ItemName\":\"E\",\"Content\":\"休息+对症处理+ACEI\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43003725,
+                                    "Title": "34753c9e8a035951263b088bef50cd1eed2f8baeecda104d22b20f3126688598c03478a1b7fc068d76d81c215fa14f7d",
+                                    "Explain": "第1小题：考点为原发性肾病综合征的治疗原则。微小病变肾病初治，单用足量激素。第2小题：考点为糖尿病肾病的治疗原则。确诊糖尿病肾病的患者，禁用激素及免疫抑制剂。目前证据表明，只有控制血糖、血压及使用ACEI或ARB能有效延缓病情恶化。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43005680,
+                "ChildTableID": 43001216,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005680,
+                        "ChildTableID": 43001216,
+                        "UserCount": 2306,
+                        "RightCount": 1096,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005680,
+                    "ChildTableID": 43001216
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43005680,
+                "ChildTableID": 43001217,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005680,
+                        "ChildTableID": 43001217,
+                        "UserCount": 2184,
+                        "RightCount": 1381,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005680,
+                    "ChildTableID": 43001217
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43005681,
+                "ChildTableID": 43001218,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005681,
+                        "ChildTableID": 43001218,
+                        "UserCount": 2044,
+                        "RightCount": 1740,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005681,
+                    "ChildTableID": 43001218
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005681,
+                "ChildTableID": 43001219,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005681,
+                        "ChildTableID": 43001219,
+                        "UserCount": 1929,
+                        "RightCount": 1748,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005681,
+                    "ChildTableID": 43001219
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005682,
+                "ChildTableID": 43001220,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005682,
+                        "ChildTableID": 43001220,
+                        "UserCount": 1981,
+                        "RightCount": 1471,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005682,
+                    "ChildTableID": 43001220
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43005682,
+                "ChildTableID": 43001221,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005682,
+                        "ChildTableID": 43001221,
+                        "UserCount": 1817,
+                        "RightCount": 1405,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005682,
+                    "ChildTableID": 43001221
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005715,
+                "ChildTableID": 43001222,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005715,
+                        "ChildTableID": 43001222,
+                        "UserCount": 1842,
+                        "RightCount": 1300,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005715,
+                    "ChildTableID": 43001222
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005715,
+                "ChildTableID": 43001223,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005715,
+                        "ChildTableID": 43001223,
+                        "UserCount": 1695,
+                        "RightCount": 1516,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005715,
+                    "ChildTableID": 43001223
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005715,
+                "ChildTableID": 43001224,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005715,
+                        "ChildTableID": 43001224,
+                        "UserCount": 1777,
+                        "RightCount": 1199,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005715,
+                    "ChildTableID": 43001224
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005715,
+                "ChildTableID": 43001225,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005715,
+                        "ChildTableID": 43001225,
+                        "UserCount": 1584,
+                        "RightCount": 1549,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005715,
+                    "ChildTableID": 43001225
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005715,
+                "ChildTableID": 43001226,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005715,
+                        "ChildTableID": 43001226,
+                        "UserCount": 1568,
+                        "RightCount": 1494,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005715,
+                    "ChildTableID": 43001226
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005716,
+                "ChildTableID": 43001227,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005716,
+                        "ChildTableID": 43001227,
+                        "UserCount": 1644,
+                        "RightCount": 1077,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005716,
+                    "ChildTableID": 43001227
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005716,
+                "ChildTableID": 43001228,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005716,
+                        "ChildTableID": 43001228,
+                        "UserCount": 1555,
+                        "RightCount": 1356,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005716,
+                    "ChildTableID": 43001228
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005747,
+                "ChildTableID": 43001229,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005747,
+                        "ChildTableID": 43001229,
+                        "UserCount": 1705,
+                        "RightCount": 732,
+                        "FavCount": 21,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005747,
+                    "ChildTableID": 43001229
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005747,
+                "ChildTableID": 43001230,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005747,
+                        "ChildTableID": 43001230,
+                        "UserCount": 1504,
+                        "RightCount": 1256,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005747,
+                    "ChildTableID": 43001230
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43005747,
+                "ChildTableID": 43001231,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005747,
+                        "ChildTableID": 43001231,
+                        "UserCount": 1442,
+                        "RightCount": 1202,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005747,
+                    "ChildTableID": 43001231
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005747,
+                "ChildTableID": 43001232,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005747,
+                        "ChildTableID": 43001232,
+                        "UserCount": 1501,
+                        "RightCount": 1076,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005747,
+                    "ChildTableID": 43001232
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43005747,
+                "ChildTableID": 43001233,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005747,
+                        "ChildTableID": 43001233,
+                        "UserCount": 1410,
+                        "RightCount": 1168,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005747,
+                    "ChildTableID": 43001233
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43023734,
+                "ChildTableID": 43003713,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023734,
+                        "ChildTableID": 43003713,
+                        "UserCount": 1122,
+                        "RightCount": 956,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023734,
+                    "ChildTableID": 43003713
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023734,
+                "ChildTableID": 43003714,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023734,
+                        "ChildTableID": 43003714,
+                        "UserCount": 1135,
+                        "RightCount": 832,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023734,
+                    "ChildTableID": 43003714
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023737,
+                "ChildTableID": 43003720,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023737,
+                        "ChildTableID": 43003720,
+                        "UserCount": 1083,
+                        "RightCount": 419,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023737,
+                    "ChildTableID": 43003720
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023737,
+                "ChildTableID": 43003721,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023737,
+                        "ChildTableID": 43003721,
+                        "UserCount": 1062,
+                        "RightCount": 516,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023737,
+                    "ChildTableID": 43003721
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023738,
+                "ChildTableID": 43003722,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023738,
+                        "ChildTableID": 43003722,
+                        "UserCount": 958,
+                        "RightCount": 853,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023738,
+                    "ChildTableID": 43003722
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023738,
+                "ChildTableID": 43003723,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023738,
+                        "ChildTableID": 43003723,
+                        "UserCount": 967,
+                        "RightCount": 692,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023738,
+                    "ChildTableID": 43003723
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023739,
+                "ChildTableID": 43003724,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023739,
+                        "ChildTableID": 43003724,
+                        "UserCount": 1018,
+                        "RightCount": 582,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023739,
+                    "ChildTableID": 43003724
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43023739,
+                "ChildTableID": 43003725,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023739,
+                        "ChildTableID": 43003725,
+                        "UserCount": 984,
+                        "RightCount": 620,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023739,
+                    "ChildTableID": 43003725
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,1060 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 00:22:57 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "002235026aa4a9229614b60d2f1f3cbc556508692906be2a72d8e71d787ba89d9fadc2c097450ee96c7128df59d0a5c11047cb72e40660844cc782c138b9cbc4",
+                            "Explain": "RAEB-T型被视为白血病的前期表现，应按早期白血病予以治疗。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "见到病态造血就可诊断MDS"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "出现环形铁粒幼红细胞，即可诊断MDS(RARS型)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "骨髓中原始粒细胞>24%，可诊断MDS(RAEB-T型)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "RAEB-T型MDS可作为早期白血病对待"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "RAEB-T型MDS不作为早期白血病对待"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001436,
+                            "ATestID": 43001436,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ff8b320e355de3dc7db1767e007fa88fe3e8674a236376fe4d5bc50ab6600be128d5b3357629cc3d",
+                            "Explain": "骨髓增生异常综合征(myelodysplasticsyndromes,MDS)是起源于造血干细胞的一组异质性髓系克隆性疾病，特点是髓系细胞分化及发育异常，表现为无效造血、难治性血",
+                            "TestPoint": "骨髓增生异常综合症概念",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "红细胞系疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "巨核细胞系疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "造血干细胞克隆性疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "粒细胞系疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "浆细胞系疾病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003302,
+                            "ATestID": 43003302,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ff8b320e355de3dc7db1767e007fa88fe3e8674a236376fe2dd46a559fc196e0055abd2f56c84167aa5d4d9f13da0f66afe3a407a287a8e7",
+                            "Explain": "1982年FAB协作组提出以形态学为基础的FAB标准，主要根据MDS患者外周血和骨髓细胞病态造血、特别是原始细胞比例、环形铁粒幼细胞数、Auer小体及外周血单核细胞数量，将MDS分为5型：难治性贫血（refractoryanemia，RA）、环形铁粒幼细胞性难治性贫血（RAwithringedsideroblasts，RAS）、难治性贫血伴原始细胞增多（RAwithexcessblasts，RAEB）、难治性贫血伴原始细胞增多转化型（RAEBintransformation，RAEB-t）、慢性粒-单核细胞白血病（chronicmyelomonocyticleukemia，CMML）。",
+                            "TestPoint": "骨髓增生异常综合症概念",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "难治性贫血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "伴环形铁粒幼细胞的难治性贫血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "难治性贫血伴原始细胞增多转变型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "急性单核细胞白血病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "难治性贫血伴原始细胞增多"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003303,
+                            "ATestID": 43003303,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "13e9ae6dc8bbdc127df43d3e1a74f425116a95ebc30d14272d7fd91af84f20a2da2d2878b15f2cfa25d63feeb5aa3508e3e497e23e20ad5c076da1679b06e347",
+                            "Explain": "Allo-BMT能使骨髓增生异常综合征部分患者长期缓解甚至治愈",
+                            "TestPoint": "骨髓增生异常综合症概念",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "口服维生素B[12.gif]及叶酸后血象很快恢复"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "糖皮质激素治疗1个月后血象正常"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "化疗疗效好，可根治本病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "Allo-BMT能使部分患者长期缓解甚至治愈"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "多数患者不需输血支持"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003304,
+                            "ATestID": 43003304,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "efd054ec5626010904cc27a17adc355ab5de91b7a744c22a8d61b19faf7d9a7efbe0e64627a41a80f6701caa693ed983c595afc793e1dc5bacc753c18524aca7b19f741fd308d7a8d4a8abc7ea5253df",
+                            "Explain": "骨髓增生异常综合征是造血干细胞增殖分化异常所致的造血功能障碍。主要表现为外周血全血细胞减少，骨髓细胞增生，成熟和幼稚细胞有形态异常即病态造血。红系各阶段幼稚细胞常伴类巨幼样变，核质成熟失衡，红细胞体积大或呈卵圆形，有嗜碱点彩、核碎裂和Howell-Jolly小体。RAS能检出环形铁粒幼细胞。粒系在RAEB和RAEB-t均可见原始细胞比例高于正常，胞质内颗粒粗大或减少，核分叶过多或过少，出现Pelger-Huet畸形，部分可见Auer小体。巨核细胞数和质异常，多增多，检出小巨核细胞（MDS支持诊断指标之一）。血小板体积大，颗粒少。故只有E不对，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "红系核质发育不平衡"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "粒系核分叶过多"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "粒系细胞颗粒过多"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "粒系细胞颗粒过少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "见到幼稚型巨核细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001922,
+                            "ATestID": 41001922,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "834a4763661b3bc3ae2cc9161c68d44103ac21cee78cd505878666f740d16d1d92a3ca93fc13e87be066121d000cfb8c3337cd78b40850cb7ec6ffce7826dd5e",
+                            "Explain": "成人慢性类风湿关节炎合并粒细胞减少及脾大为Felty综合征三大主征。本病病因不明，发病机制可能是免疫系统异常，免疫破坏过多导致中性粒细胞减少，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "生成减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "成熟障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "分布异常"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "非免疫性破坏过多"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "免疫性破坏过多"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41001923,
+                            "ATestID": 41001923,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9caa449543e3262063675f919ea90ab09183a8a1d12c7e35cd44490fa8931c5f2184e3581ea5e7d05ada55fae28ada3eb59fed38298ce86c0a1d49ea98f80039e4ed5c1abab0c5f9ecfce755c06afb63fab46509ccb86b2a78cdb8e8ae4c1f285d826f2eb222ec63ff82655d9343e02ce4b23764cd1bd50ba070522054db68417f6bb12fc997628b50263f73ab37e4ac680d244856b539ba83a0f61b5d4d01350c85d08353fa63fbc9218c8f95bbf0b21c9e1a3bbf2493abceed880f00ac9f6ac6ea85987ca50f1e43af746c748418c014c9b4bf782a968e422b1c0d110977ea8d8490ed4c2c1c724cf7233d7bc9d4f6cd10a3ede985e15a475e73288d78db43a78f6f528bf528d4dc812df9f0770334b1458eda638f3fc95f003650f438dcfd27fdf453f6726d8e77164dac075670325a2a1ad89c4a1fe77e8ac0893d4e87537c1243f4e8ee8e00d2302cb21f23e70cf94fc67c33fa0f3969f8cfb7e1fe723a8e7d547bb1b3126c7d55b4f836d5c058162a464c46b3e66236443bb04c53fcf3365fbe1a909b6b6c281a63f3f787738068530690a9ffc605",
+                            "Explain": "只有RAEB-t型可见Auer小体。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "RA型"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "RAS型"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "RAEB型"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "RAEB-t型"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CMML型"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43018934,
+                            "ATestID": 43018934,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "abf670e4a5e1bf3153a1b62adc00ff1757b85cd1614091b9f33fe0888913045dbbb4b2bd03836c8382d0503ae5bb3c2f2cfc41b4e3b04854dbc0bf33652059eb7b3cd12becfd45fab1f69f5c6350e39a444ce4a91cd24068f8d9237587cdd46db418d22c639294aeba3799438d6b28d86efaf099fa853a84970a3b64dabbb75af3db815d1478bc7a095e6eacbaa6ddfab1d8623088d0d381d7c1a2b1e96421351c674e0e7452a5966efb746dccb6440e625b232f5cfadf7d200c29bb755cb9f0b5ff08f9090aa589ad9f92b48e1688ba771aa421eea589cb2b00cb02002893538436dbc787a1c838066fc3944c2a0f3a12648947495995aab3976149b5b376bca52759b66c8a521a7239cd88a7f8005d935a63b35ede5c1ca981e85e8efa61284bddbd9bab22387617d76266b6f6b73b7ea66e567b97c0721a3525190dcab8f45db32ee09234f2f9871e5050ea791e8bdfa39bd5cf7e89901821b1550486ee2ed454576834ba2e500bb717870557ea4f1dcb0e165b2cfc474ae67d3e247e950b",
+                            "Explain": "[YS424_349_19.gif]/\\n/根据题意，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "RA型"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "RAS型"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "RAEB型"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "RAEB-t型"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CMML型"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43018935,
+                            "ATestID": 43018935,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e93a015da6ee57bafe620b702ca9fb5c731677061d5ac810edde20c6191579a7cdb28fcdfaa0adf92995f8ced7c9fbec4fbc91a0bdb0231ff046e7b944677de6534cec5b2b563f409b99bd6e5018e68f27a864f98762e6f681e6c9b4bf75fb39e79a5c677cf6b556a770e6bb9fd5d3399897f31251660c7bcde548685a5576bfaa02642614290c9d4c27b1fcf3b28209a67ee7687bcf6984c0a2e7ceacbeda2efc87f69c1ed5157cd2beb1274ba5467fa945e67a66c95c40197df7855443c19941732c11963f3085545acfabeb88d551787c37f175bc45a13685de69c13e28beeda24fc6ebcf0a5",
+                            "Explain": "FAB分型是根据骨髓中原始细胞的百分率及其细胞特点，将骨髓增生异常综合征分为难治性贫血、伴有环形铁粒幼细胞的难治性贫血、伴原始细胞增多的难治性贫血、转变中的伴原始细胞增多的难治性贫血、慢性粒单核细胞白血病。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "网织红细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨髓铁染色"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "染色体检查"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨髓活检"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血沉"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43018936,
+                            "ATestID": 43018936,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "7670f462bf2a878e5a20b983b615a66f8c1ef8b25c35546a56258c282744db936d45d089295dd8a9de24bff1d4376f750393119100659483881266504c72b92cfd7ed13f6756d57d9e56f457671f086e26052787e4519f7afcb3e6bad15d55361f9b608cb8458c2687f7438e967bb6f01f5b029efe6cb0b2af8aa252f043846677cce1d325644aae9cfa2f7109bf4ef937c195465927d045cf94f31f2765123c7150ad18a9bac4f8922e2346f2e0e29be446efbfbc0796b5633c8fa032f1a2d09a7d811f53843f3989aeb849344bac03290f680ae603d5ac",
+                            "Explain": "缺铁性贫血呈小细胞低色素性贫血。平均红细胞体积（MCV）低于80fl，平均红细胞血红蛋白含量（MCH）小于27pg，平均红细胞血红蛋白浓度（MCHC）小于0.32。血片中可见红细胞体小、中心浅染区扩大。网织红细胞计数多正常或轻度增高。白细胞和血小板计数可正常或减低，患者检查血红蛋白70g/L，白细胞2.6×10[~9.gif]/L，血小板20×10[~9.gif]/L，和它不用鉴别",
+                            "TestPoint": "急性白血病分类、临表、实验室、诊断、治疗",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "再生障碍性贫血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "阵发性睡眠性血红蛋白尿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "巨幼细胞贫血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "缺铁性贫血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "骨髓增生异常综合征"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003305,
+                            "ATestID": 43003305,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fcbefbf5734f7849dec9b3a3321694ca95c239613ce8753259c41f88c8e5823a13334fc227b9198d8b13faf2f85d2501c96b43d57b123203f1bbe73643d223b14a70048e9d201645453531ba3ce4bf7fedeba8f6371319348ee97524ed5fb3f866c725bcf20a9d660f2dc10092bc66bd4ff1c137d5f28b1",
+                            "Explain": "患者出现全血细胞减少，放疗可能导致细胞继续减少故不合适",
+                            "TestPoint": "骨髓增生异常综合症概念",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "支持治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "雄激素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "去甲基化药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "异基因造血干细胞移植"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "放疗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003306,
+                            "ATestID": 43003306,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "外周血细胞减少定义为Hb<100g/L，PLT<100×109/L，中性粒细胞计数<1.8×10[~9.gif]/L；少数情况下，MDS可以是高于上述数值的轻度贫血或血小板减少。外周血单核细胞必须<1.0×10[~9.gif]/L。",
+                            "TestPoint": "多发性骨髓瘤临表",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨髓纤维化"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "低增生急性白血病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "MDS-RAEB"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "溶血性贫血"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "阵发性睡眠性血红蛋白尿"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f7844b49613d8fb766a974b3519899f34d5098214ac6532ecaf2b879d242a4775ccbd77e08c6ce167f39a6336143c726697115286950794c0695146259fec14f1ced06a5e7d8291297ac8c16ea1ad828fd22137ecfa73f427e5bb28de330eb3a3dc6006ce152736fb204c30b0e9ec1f32e997d83e37da839a8dbf2b5dcdad3398ed8c6457941395827c7f48b64e15b6b7a2645f008987dde39c6b7a61a71080184dffe65ed50dd3c6e6a7e22ef1a644af788fb86353e7bb162b171e0a78314be98bab42eb019f2d81bffa8b3672d085e8236ab00d7fb367633c5d39f0cc4a9f26132090782624342c5d96330cc7f1dcb715827b1650ae92aa52feffd0d8e41e1caba5a6760d7a8addcbaaa3476b00ba4446fe3b08403d28d217f53cf470bb0822ccd2f9a05e781b3d25f889837e5c9a3d8e3ff2246778768c8848b4f8df6586b3d78d8cedb8632fabe65e01ed46ba6f084aed3ff3e9c280a74cf16e1432a9860fdd8dc1ca322d8fc275ecb84a8e9c9a592be61af99d158b17183847302abc3d7505e",
+                            "AllTestID": 43003307,
+                            "A3TestID": 43000301,
+                            "SrcID": 9,
+                            "SbjID": 51,
+                            "CptID": 82,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000301,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "外周血细胞减少定义为Hb<100g/L，PLT<100×109/L，中性粒细胞计数<1.8×10[~9.gif]/L；少数情况下，MDS可以是高于上述数值的轻度贫血或血小板减少。外周血单核细胞必须<1.0×10[~9.gif]/L。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "骨髓纤维化"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "低增生急性白血病"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "MDS-RAEB"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "溶血性贫血"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "阵发性睡眠性血红蛋白尿"
+                                        }
+                                    ],
+                                    "TestPoint": "多发性骨髓瘤临表",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000302,
+                                    "Title": "b8ebb5662d0ea15ba33099d4140ff535a1e848aad564f120",
+                                    "Explain": "MDS国际预后积分系统（IPSS）积分00.5123预后因素原始细胞比例<5%5-10%11-19%20-30%核型2好中差血细胞减少系数30-12-31WHO分型将此组归入AML2核型：好=正常，-Y，5q-,20q-核型差=复杂核型（≥3种异常）或7号染色体异常中=其它异常3血细胞减少：Hb<100g/L,中性粒细胞（ANC）<1.8×109/L,血小板（PLT）<100×109/L",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "0.5分"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "1.0分"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "1.5分"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "2.0分"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "2.5分"
+                                        }
+                                    ],
+                                    "TestPoint": "多发性骨髓瘤临表",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43000303,
+                                    "Title": "b8ebb5662d0ea15bc25aa82b00a560b61b4e3352d04ca7e41fdec902b1e10f34",
+                                    "Explain": "危险分类总分值不治疗者平均生存（年）不治疗者25%进展为AML（年）低危（33）05.79.4中危1（38）0.5-1.03.53.3中危2（22）1.5-2.01.11.1高危（7）≥2.50.40.2",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "低危组"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "中危-1组"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "中危-2组"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "高危组"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "极高危组"
+                                        }
+                                    ],
+                                    "TestPoint": "多发性骨髓瘤临表",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43001436,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001436,
+                        "ChildTableID": -1,
+                        "UserCount": 3553,
+                        "RightCount": 1672,
+                        "FavCount": 93,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001436,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 43003302,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003302,
+                        "ChildTableID": -1,
+                        "UserCount": 3322,
+                        "RightCount": 2814,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003302,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003303,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003303,
+                        "ChildTableID": -1,
+                        "UserCount": 3273,
+                        "RightCount": 2761,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003303,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43003304,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003304,
+                        "ChildTableID": -1,
+                        "UserCount": 3391,
+                        "RightCount": 2499,
+                        "FavCount": 86,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003304,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 41001922,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001922,
+                        "ChildTableID": -1,
+                        "UserCount": 3441,
+                        "RightCount": 1291,
+                        "FavCount": 99,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001922,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 41001923,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41001923,
+                        "ChildTableID": -1,
+                        "UserCount": 3323,
+                        "RightCount": 2135,
+                        "FavCount": 110,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41001923,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43018934,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018934,
+                        "ChildTableID": -1,
+                        "UserCount": 3108,
+                        "RightCount": 1965,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018934,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43018935,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018935,
+                        "ChildTableID": -1,
+                        "UserCount": 2970,
+                        "RightCount": 2193,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018935,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43018936,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018936,
+                        "ChildTableID": -1,
+                        "UserCount": 3171,
+                        "RightCount": 1607,
+                        "FavCount": 61,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018936,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003305,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003305,
+                        "ChildTableID": -1,
+                        "UserCount": 3381,
+                        "RightCount": 2077,
+                        "FavCount": 74,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003305,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43003306,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003306,
+                        "ChildTableID": -1,
+                        "UserCount": 3294,
+                        "RightCount": 2106,
+                        "FavCount": 92,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003306,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43003307,
+                "ChildTableID": 43000301,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003307,
+                        "ChildTableID": 43000301,
+                        "UserCount": 3052,
+                        "RightCount": 2644,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003307,
+                    "ChildTableID": 43000301
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003307,
+                "ChildTableID": 43000302,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003307,
+                        "ChildTableID": 43000302,
+                        "UserCount": 3110,
+                        "RightCount": 1554,
+                        "FavCount": 105,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 58
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003307,
+                    "ChildTableID": 43000302
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 58
+            },
+            {
+                "AllTestID": 43003307,
+                "ChildTableID": 43000303,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003307,
+                        "ChildTableID": 43000303,
+                        "UserCount": 3096,
+                        "RightCount": 1368,
+                        "FavCount": 83,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 31
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003307,
+                    "ChildTableID": 43000303
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 31
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

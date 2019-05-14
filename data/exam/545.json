@@ -1,0 +1,769 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 15:29:52 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 11,
+                    "TestItems": [
+                        {
+                            "Title": "6f93e7e24f885139b93c6b8d869bfa399faad59b6bc2105401ddba250ef9d9ea524a3ed680ba7c261122c00a77ff0aa1e2ec44144aa44e2bbb2884cb66b08f45c6d63511b85f5fb00c72e8619b2a02869ae0d8ffa354954a0edd49e117eebe95e7919d64aaae98144e1ae051838df43a83743a806ce51e3a798115eec52c36775bedd28b333b5b0f842f062ce5fbd8a2646f1aba1f60cce02f01d3655a81bc89a90a027113d5147b4539ad6538d5c2bb10a3e0fa6396bbb7070876997ce096bcb21e0340e32e0ab7414b370cf074afcc26ca9661604d374c611aa2a34bd0c188",
+                            "Explain": "患者皮肤有瘀斑，提示出现凝血机制障碍，属于Ⅲb期。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Ⅰ度胎盘早剥"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "Ⅱ度胎盘早剥"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胎盘早剥Ⅲa"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胎盘早剥Ⅲb"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "子宫破裂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005975,
+                            "ATestID": 43005975,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a922b28fb82a9bd945a56eecb0633e20fd50a2d00d3b20c1a3d0ed9366319971647515b2d6953215a16adbec11a9e11efc98",
+                            "Explain": "发生巨大儿的高危因素；①孕妇肥胖；②妊娠合并糖尿病，尤其是2型糖尿病；③过期人生；④经产妇；⑤父母身材高大；⑥高龄产妇；⑦有巨大胎儿分娩史；⑧种族、民族因素。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "母亲高大、肥胖"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "母亲患妊娠期糖尿病"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "母亲孕期体重增加迅速"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "母亲患妊娠期胆汁淤积症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "过期妊娠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005976,
+                            "ATestID": 43005976,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "adfeb447f2a53b89bdc0921a43e13fbd67ffb173771466f104d69c9c5eda31ed2aad3a19cc9b3cda7181bf98201b7e7478151e3e0a2fac06e2150c70ddbf35df105dccbcf3469d50793529fcaee30938e021eb1a96cb0a1eb1f59c3274255e24cf7029ee754cb3b9029c98c30312895f46c3e296cc44041d7bcba258bcce597e0ae9c55b1a78c284142dfc7df1107909e6575055f205da3585a89641104d9b4251766489977281171e334cbb015ff6d43eaa495b094638adffcda1e1e723b3858e3ca9614efa62713f5d98e5ccf073d70181cf3897bdd2e257f0fc7d85d69d01",
+                            "Explain": "第一胎儿娩出后，胎盘侧脐带必须立即加紧，以防止第二个胎儿失血",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "如果出现宫缩乏力，可以用缩宫素低浓度缓慢静脉滴注"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "做好输液、输血、抢救新生儿的准备"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "严密观察产程变化，注意胎心及宫缩"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "第一胎儿娩出后应等期待动脉搏动停止后断脐"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "第一胎儿娩出后行阴道检查"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005977,
+                            "ATestID": 43005977,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aeac64de932ae500292c710bef44f5a7e3aa3dbc463a0122d03aa86706d3aca95f5a830ef1c1d1b04f4cdb6811dbcfee4b6fcc6602a425895988b5f28eaf4b64e64b1adaaed262d41501b36064ae09dc4b6fd91009a0689e3b1435c2ca0276d0556e6593c273b1f674deefe3e5a8368c2dbd0c41a858927643e18d51a75396ddea0ab0fc29654d184f6294c1dc240308073b696db406393e",
+                            "Explain": "由于巨大儿容易造成宫颈的损伤，宫颈内口松弛常发生于妊娠中期，胎儿长大，羊水增多，宫腔内压力增加，羊膜囊经宫颈内口突出，宫颈管逐渐缩短、扩张。患者常无自觉症状，一旦胎膜破裂，胎儿速即娩出，造成流产。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "染色体异常"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "ABO血型不合"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "宫颈内口松弛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "子宫肌瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "卵巢黄体功能不足"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005978,
+                            "ATestID": 43005978,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6f93e7e24f8851394c71a9df547ee5a5fc6c55e4429c193225f58b79ed4b3488acd7f4f84f01fe611a913e44581411d82eec07cb8a616a4d54e3196d051705cad0db90b27f789664911cc282845c5908e8027c97e7e0b6f82af95c722cf091c114d2235483d7140ba75dbacbc8aecda6153e4ee5974e5186d166c7bd0130a9761301fb07e032a7a46646d69d82d8c5fd2e660853abf50fefaf5b01ce0e4c033fcf23d10e2f9e2c38b1581ec7d329dd85b5b5cad82d09fba2cabf31cb5eae8f9b3cb3b733cd72f9ac2a4ed01f6334c9eb4a6a20c063960ce22a2cb8cae193261b30669172ae5c15ff75fe638f98d06faa885779f135d5ebdd57cff2f761175ccf502d8695bacee7cde734bad09424f78767e5cfc240b1f74548be613b0fbca3e3397e3dc3f4685a4b85d500dc51e2a98d375c0f524c490cb90dc3213cb4ea5477bf4f63be7816ae0622ba11bb689d877b4b16f653fde23318",
+                            "Explain": "应当使用压前肩法，助手在产妇耻骨联合上方触到胎儿前肩部位并向后下加压，使双肩径缩小，同时助产者牵拉胎头，二者相互配合持续加压与牵引，不能用暴力。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "抬高臀部"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "屈曲大腿"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "耻骨联合上方后肩压前肩并同时牵拉胎儿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "当后肩入盆时，将后肩向上旋转，同时将胎头通向旋转，当后肩旋转至前肩位置时娩出"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "握住胎儿后上肢沿胎儿胸前滑出阴道而娩出后肩及后上肢，再将胎肩旋转至盆骨斜径上，牵引胎头使前肩入盆即可娩出"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005979,
+                            "ATestID": 43005979,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "89d7f18857220d8e194492c084c626ece799b1b2500bcad0d7ef91902604623da036fe1fcdb665a8e625cdcf2b87f1db65cf0bb3b159ce69fabb8a504f14664ee79487b14e02804c",
+                            "Explain": "异位妊娠的鉴别诊断见下表\n　　[YS432_432_1.gif]",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "白细胞计数",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "有无阴道流血",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "B型超声",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "血β-hCG",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "后穹窿穿刺",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005980,
+                            "ATestID": 43005980,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "279a549f82a40fb7114b1761d93dde1a3737b0e71e5339df47352a7f4f75b2e64c0da8bf7ce0b762ea7531103e91fc684ec3e0179548fa66",
+                            "Explain": "妊娠期糖尿病产妇阴道分娩应避免产程延长，应在12小时内结束分娩，因产程大于16小时易发生酮症酸中毒。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "对阴道分娩患者应在12小时内结束分娩"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "剖宫产应选择练习硬膜外麻醉，不可用局麻"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "对糖尿病孕妇应严格控制饮食，以便使血糖控制在正常水平"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "因糖尿病孕妇娩出的新生儿抵抗力弱，故主张对糖尿病孕妇应等到预产期以后再终止妊娠"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "一旦确诊妊娠期糖尿病即应加用胰岛素治疗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005981,
+                            "ATestID": 43005981,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b1136559e971a8d27b77a7701c360d748a40f16a01b93b0938c1c0549ccde6c9287df8c20bc8e1f0250dc92b20f66451623411541933ab044b52802106d31083cadd667be2869ec853df434b772ed6ff",
+                            "Explain": "协调性宫缩乏力，当宫口扩张≥3cm、无头盆不称、抬头已衔接者，可行人工破膜。破膜后可引起反射性子宫收缩，加强产程进展。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "镇静剂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "剖宫产术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "缩宫素静脉滴注"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "等待产程自然进展"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "人工破膜后缩宫素静脉滴注"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005982,
+                            "ATestID": 43005982,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "adfeb447f2a53b897680224bc006b3bf2f8bfe8d1f935a88e98f35fd9a3d6b27e56ee5d8cf3587f681acd6a63470b861d16274d410040250275c69413540ca13e38d35496f977e8bcb95073fab6963e6e0bad36343d428c6d0251e6788dffb39f7b66ae329ab0bbaef0a01291f109c63646c59f3ecabc1ba97187ca982e5b787358fc920cff96fed7be7987fadbbad8c68db1df4ac126ade8cfd3ce6d83261f7b7f2850dfb5c5755a84c33ff894e0402375ac81ed649a8d8bc0f3ea14c1f61161a298dc7564f57e4b413002a7ee049bfa916bd6239945c03c23623e567b13cfad6f8ffc01348522f3b6fa82bd47f4112ac35a49449f4cd6e5999b660efa96cb62c2f40a052f5b41a",
+                            "Explain": "该案例足月妊娠临产，宫口开全1小时，宫缩、胎心均无异常，坐骨结节间径8cm，后矢状径6cm，二者之和<15cm，存在盆骨出口平面狭窄，足月胎儿不易经阴道分娩，应行剖宫产术结束分娩。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "剖宫产"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "产钳"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胎吸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "静滴缩宫素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "等待自然分娩"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005983,
+                            "ATestID": 43005983,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7cb23e470d815702cb1a7e7fad5ec68dab5dd83db29c936e21f7022e3ab29735b5d94208ebf1fca79a39c308767f7245c402544ad85819e40b0bb9e5aa1f7c396e76c4d16c741980d243d8c5bba737fafd7d9f3fd6d6348459003a9857ef0e9380de7960f5402177f5cdbdd8c0a3408208632204fc87658839516e9d7c78d5d7a0a9d55cbf38882c4617b83fa711ebd6b5cf0ff8f6b0858296283440db61d68fe6d46a5740a16aacb4b800446887d41e4a4c381c881c98a0",
+                            "Explain": "转移性滋养细胞肿瘤更多见于绒癌，最常见的转移部位为肺，患者可同时出现原发灶和继发灶症状，也可仅表现为转移灶症状。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "先兆流产"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "葡萄胎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "绒癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "原发肺癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "侵蚀性葡萄胎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005984,
+                            "ATestID": 43005984,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6b4308b1bb77e3ed8904f7817220e1db9a62c193dd2592a0191390ed48ad45e307fdcee840c9e7d13f3c5af7ff28bfd4778555ac05414510aa9683790207fc26eda8824b4f3e095b",
+                            "Explain": "羊水栓塞一旦发生，立即抢救。抢救措施包括抗过敏、纠正呼吸循环功能衰竭和改善低氧血症、抗休克、防止DIC和肾衰竭发生。首先应在改善缺氧同时，立即给予大剂量肾上腺糖皮质激素抗过敏。解痉，稳定溶酶体，保护细胞。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "正压输氧"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "纠正酸中毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "地塞米松20～40mg，静脉推注"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "静注氨茶碱"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "使用肝素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43005985,
+                            "ATestID": 43005985,
+                            "SrcID": 12,
+                            "SbjID": 66,
+                            "CptID": 545,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43005975,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005975,
+                        "ChildTableID": -1,
+                        "UserCount": 1800,
+                        "RightCount": 1081,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005975,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43005976,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005976,
+                        "ChildTableID": -1,
+                        "UserCount": 1715,
+                        "RightCount": 1189,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005976,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43005977,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005977,
+                        "ChildTableID": -1,
+                        "UserCount": 1637,
+                        "RightCount": 1167,
+                        "FavCount": null,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005977,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43005978,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005978,
+                        "ChildTableID": -1,
+                        "UserCount": 1527,
+                        "RightCount": 1233,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005978,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43005979,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005979,
+                        "ChildTableID": -1,
+                        "UserCount": 1620,
+                        "RightCount": 974,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005979,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43005980,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005980,
+                        "ChildTableID": -1,
+                        "UserCount": 1607,
+                        "RightCount": 958,
+                        "FavCount": 23,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005980,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005981,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005981,
+                        "ChildTableID": -1,
+                        "UserCount": 1707,
+                        "RightCount": 640,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005981,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005982,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005982,
+                        "ChildTableID": -1,
+                        "UserCount": 1586,
+                        "RightCount": 962,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005982,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43005983,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005983,
+                        "ChildTableID": -1,
+                        "UserCount": 1502,
+                        "RightCount": 1114,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005983,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005984,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005984,
+                        "ChildTableID": -1,
+                        "UserCount": 1545,
+                        "RightCount": 1071,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005984,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43005985,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43005985,
+                        "ChildTableID": -1,
+                        "UserCount": 1669,
+                        "RightCount": 596,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43005985,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

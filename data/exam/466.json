@@ -1,0 +1,692 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 16:47:19 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "6ebfd7daaddcef7201b7766025076f1d81c764c235eb2db094c23ad4b975f071",
+                            "Explain": "产前诊断常用方法：(1)观察胎儿外形：利用B型超声、X线检查、胎儿镜、磁共振等观察胎儿体表畸形。超声波检查在胎儿畸形产前筛查中占有重要作用。(2)染色体核型分析：利用羊水、绒毛细胞和胎儿血细胞培养，检测染色体疾病。(3)基因检测：利用DNA分子杂交、限制性内切酶、聚合酶链反应技术检测DNA。(4)检测基因产物：利用羊水、羊水细胞、绒毛细胞或血液，进行蛋白质、酶和代谢产物检测，检测胎儿神经管缺陷、先天性代谢疾病等。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "骨髓检查",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "染色体核型分析",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "基因检测",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "检测基因产物",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "观察胎儿外形",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001333,
+                            "ATestID": 43001333,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。\n",
+                            "OperateTime": "2017年8月25日"
+                        },
+                        {
+                            "Title": "fcaaee41791866198f89bac003d1ac10bc618c6fee048bbecbb49533f26743e8e08c902e3e02de86",
+                            "Explain": "遗传咨询（GeneticCounseling），根据中国遗传学会遗传咨询分会的定义，是指联合人类基因组技术和人类遗传学知识，为病人开展遗传咨询、基因诊断、遗传病治疗等相关医学服务。遗传咨询的服务内容主要包括单基因和多基因遗传病的治疗，产前诊断，结婚、妊娠、生产和婴儿保健的指导，近亲婚姻的危险性，放射性对遗传的影响，亲子鉴定等，没有控制人口的目的",
+                            "TestPoint": "遗产咨询的定义",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "及时确定遗传性疾病患者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "减少遗传病儿出生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "控制人口数量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "降低遗传性疾病发生率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "及时确定遗传性疾病携带者"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003263,
+                            "ATestID": 43003263,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c6570a931b9afda63424f2798ae5b04df120a5a2935c1aa85957c5d6b3ad2ec766a9598839d1b5bf8900490c8cf231225bbe26a9e60a7715430f48f415b1ff16",
+                            "Explain": "产前诊断对象包括：高龄孕妇(胎儿染色体畸形机会多)，曾生育过染色体异常患儿的孕妇，夫妇一方为染色体异常或单基因病患者，生育过神经管缺损儿者，不明原因的反复自然流产史、畸胎史、死胎或新生儿死亡史的孕妇，有环境致畸危险因素的孕妇。D项没有注明流产的次数，是自然还是人为的流产。",
+                            "TestPoint": "遗产咨询的定义",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "不明原因反复自然流产者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "既往分娩智力低下或畸形儿者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "年龄超过35岁的高龄产妇"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "既往有流产病史者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "孕期接受放射线照射者"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003264,
+                            "ATestID": 43003264,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fcaaee417918661969a3cab55d38a24842ccf9a742fa7f3ea9f6fdf3e5344024901d91296c089177b6dda18e6b3b108b",
+                            "Explain": "产前筛查目前常用的是：胎儿非整倍体的早中孕期母血清学筛查及胎儿结构异常的超声影像学筛查。CA129检测是肿瘤标志物的检查",
+                            "TestPoint": "产前筛查",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "妊娠相关蛋白A(PAPPA)和游离β-HCG"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "AFP、HCG与uE3的检测"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "CA129检测"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "羊水穿刺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "超声波检查"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003265,
+                            "ATestID": 43003265,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fcaaee417918661969a3cab55d38a248961f86b67667a8cadc6546bf8d950ef0b68398f3b32ff4cb98214683ec44d811",
+                            "Explain": "妇产科产前诊断的常用方法主要包括以下内容：（1）观察胎儿结构：利用超声检查、X线检查、胎儿镜检查、磁共振成像等，观察胎儿结构有无畸形。（2）染色体核型分析：利用羊水、绒毛、胎儿细胞培养，检测胎儿染色体疾病星恒教育搜集整理。（3）基因检测：利用胎儿DNA分子杂交、限制性内切酶、聚合酶链反应技术、原位荧光杂交等技术，检测胎儿基因的核苷酸序列，诊断胎儿基因疾病。（4）检测基因产物：利用羊水细胞、绒毛细胞或血液，进行蛋白质、酶和代谢产物检测，诊断胎儿神经管缺陷、先天性代谢疾病等。",
+                            "TestPoint": "产期检查",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "利用B型超声、X线检查、胎儿镜、磁共振等观察胎儿体表畸形",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "利用羊水、绒毛细胞和胎儿血细胞培养，检测染色体疾病",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "利用DNA分子杂交、限制性内切酶、聚合酶链反应技术检测DNA",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "利用羊水、羊水细胞、绒毛细胞或血液，进行蛋白质、酶和代谢产物检测，检测胎儿神经管缺陷、先天性代谢疾病等",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "利用肾血流量检查、肾小球滤过率检查，检查母体和婴儿肾功能状况",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003266,
+                            "ATestID": 43003266,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题无误，不做修改。",
+                            "OperateTime": "2018年8月07日"
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "d872ff2b0e25ffbc12518c1b8ff5299eb8df3564d1e1ec0847e410992019fcacfdf5d7defaf22cff1475659da483746b634934d1dd55d68d301ae481eb4dde68b542c060535d68ca818933ac91a76cba9e9991b9e07ebd73",
+                            "Explain": "产前筛查是防治出生缺陷的重要步骤。目前首先采用经济、简便、无创伤及安全的生化检测进行初步检查，筛查出高风险人群，再用各种产前诊断方法对高风险人群进行确诊试验。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "产前诊断"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "孕妇保健"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胎儿保健"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "母婴保健"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "产妇保健"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43018407,
+                            "ATestID": 43018407,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1c562f33cd711f8ef1ca31bb58fc1f4f4e8362d8ff598bd929a7538f8af0ffd14b390125d90566ef6578b568eea5d10032a2e61194be908d556cedde41dfa01a93754e4ab217997f",
+                            "Explain": "孕妇血提取胎儿细胞准确性差，选A。",
+                            "TestPoint": "胎儿遗传性疾病",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "孕妇血提取胎儿细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "羊水穿刺"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胎儿镜下活检"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "经皮脐血穿刺技术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "绒毛穿刺取样"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43018408,
+                            "ATestID": 43018408,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "63d804fedd8cdffa81e21a87e0931c2cf8473f17757cdbb8301e1e0714c00f8654ff13627fe6e4db56679cd512ff6dec",
+                            "Explain": "对胎儿危险性最大的检查手段为脐带血穿刺术。",
+                            "TestPoint": "胎儿监护",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "绒毛活检术"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "超声影像检查"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "羊膜腔穿刺术"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脐带血穿刺术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "孕妇外周血分离胎儿细胞"
+                                }
+                            ],
+                            "AllTestID": 43003268,
+                            "BTestID": 43000808,
+                            "SrcID": 9,
+                            "SbjID": 50,
+                            "CptID": 466,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000808,
+                                    "Title": "63d804fedd8cdffa81e21a87e0931c2cf8473f17757cdbb8301e1e0714c00f8654ff13627fe6e4db56679cd512ff6dec",
+                                    "Explain": "对胎儿危险性最大的检查手段为脐带血穿刺术。",
+                                    "TestPoint": "胎儿监护",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000809,
+                                    "Title": "73a5b6fd24d616bc51415cc44f01a69cb44645c5a9bd670aba2908212353ff12d93dc3564e6a664318f0fb5eed3f254b1b623a3e41fdcb14",
+                                    "Explain": "准确检查胎儿心脏有无异常的方法为超声影像检查。",
+                                    "TestPoint": "胎儿监护",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000810,
+                                    "Title": "2745194f31fa4da6de88448d6b615e107a6c75a196b0d7b7949586c774238d72e9dc04a8b3bdf037672ca277e9514541",
+                                    "Explain": "最常应用的侵袭性产前诊断技术为羊膜腔穿刺术。",
+                                    "TestPoint": "胎儿监护",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43001333,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001333,
+                        "ChildTableID": -1,
+                        "UserCount": 3270,
+                        "RightCount": 2386,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001333,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003263,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003263,
+                        "ChildTableID": -1,
+                        "UserCount": 2993,
+                        "RightCount": 2783,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003263,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003264,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003264,
+                        "ChildTableID": -1,
+                        "UserCount": 3440,
+                        "RightCount": 1762,
+                        "FavCount": 80,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003264,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43003265,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003265,
+                        "ChildTableID": -1,
+                        "UserCount": 3360,
+                        "RightCount": 1990,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003265,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43003266,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003266,
+                        "ChildTableID": -1,
+                        "UserCount": 3297,
+                        "RightCount": 1583,
+                        "FavCount": 80,
+                        "DiscussionCount": 6,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003266,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 6,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43018407,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018407,
+                        "ChildTableID": -1,
+                        "UserCount": 2798,
+                        "RightCount": 2470,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018407,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43018408,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43018408,
+                        "ChildTableID": -1,
+                        "UserCount": 2911,
+                        "RightCount": 1975,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43018408,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003268,
+                "ChildTableID": 43000808,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003268,
+                        "ChildTableID": 43000808,
+                        "UserCount": 3217,
+                        "RightCount": 1572,
+                        "FavCount": 104,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003268,
+                    "ChildTableID": 43000808
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43003268,
+                "ChildTableID": 43000809,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003268,
+                        "ChildTableID": 43000809,
+                        "UserCount": 2851,
+                        "RightCount": 2604,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003268,
+                    "ChildTableID": 43000809
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003268,
+                "ChildTableID": 43000810,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003268,
+                        "ChildTableID": 43000810,
+                        "UserCount": 3185,
+                        "RightCount": 2161,
+                        "FavCount": 59,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003268,
+                    "ChildTableID": 43000810
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

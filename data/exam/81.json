@@ -1,0 +1,2283 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 22:56:37 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 13,
+                    "TestItems": [
+                        {
+                            "Title": "08aad83c66a34e5ba48422329b25c7869f6b1a59cc23a48483c03bbd4a5d47ddcc8e35b0f3d5141ca865148c1f09a33b4588158bd3078d017ea58b08fc2a788640930275b282ae3293d3c684ddf0fa518ef78bc2103e3302633f2d64f9c6922efb2207dce077850e6d7063edc91b98e837d4e1940b544b5521e900cd08634772680608518c2de4e6f55623a0d1443bc8",
+                            "Explain": "有权对医疗事故争议或重大事故医疗过失行为做出行政判定的单位是医疗机构所在地的县级以上人民政府卫生行政部门。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "司法鉴定机构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "县级以上地方卫生行政部门"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "医学会"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "医师协会"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "医院协会"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000853,
+                            "ATestID": 35000853,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9ec77c69ffc1343582ecf221d3952429ae7f292856e4380307abc166e9442c800eb21fb2c376508c2c123792e7c54961c414c878b20e25e7ea939be54b2f5fc124a8d4ce8f5691fcf19d74ff665080be166e91d4ee24351e87e458f65cc8a35970090dc0529d19d41f02c0cd0b8aee6c20bb010784529990b6f73a570ed83b5ddb93baa0a057dc3981a7147241cfeda6fb66675cdf4d534c7912de1f4bcb68e7554b1c7f5acc09a2886bbb973d85234da17a7a7542fd9d9346123e70f67100875acc29cd4f480d252c4949fbbb2a5814",
+                            "Explain": "按条例规定，医患双方协商解决，应当制作协议书；医患双方在卫生行政部门主持下，就赔偿事宜达成和解，应当将和解内容制作成调解书。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "裁定书"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "协议书"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "调解书"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "判决书"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "决定书"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000856,
+                            "ATestID": 35000856,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bd4393562394befa5eebad251a8f7fe7acb15ac1db52356765467bb5b8b0f3a48a3645ea36061f52ed5a966e2d9eb585bbb3cd36deab09fac797d943e62c220e7611e4b7121f7895ff1bd3516442af10ab3b185d39a2ca5e8a3ef62e6494062b4b50f488bb4d113fee329adcbb8be16e7e9eafa78ab80e69f39c12f1d397170ff36fe33998917aeccab981cff7f9d26dea112bd611b9a2d236371055f75ed1feb570fcc5015bc79e54f0a351e1dc80c3ad61433080896199bcc0275fc3020ec9857a7cbe50f04f683294497091028786",
+                            "Explain": "医务人员在紧急情况下为抢救垂危患者生命而采取紧急医学措施造成不良后果的，不属于医疗事故。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "违规操作，构成医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "非法行医，不属医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "采取紧急医疗措施，不属医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "见义勇为，不构成医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "超范围执业，构成医疗事故"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000858,
+                            "ATestID": 35000858,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "914fbec760949da5479d878a40cb4aaf39f788049beaac6f7f689bbe9678dc93757cd4eb3b8c6d757518216875aec8a1ab18c0c0b387c9c97e77485fa267aa9d549033c1f91003eab7a8dbaa3f9ddc87d43523e55915dc186b35906e85c051280e232c3ad7c2522cf449afaa39ae2f5bbf470d656a7e4087999605ec7606012a252e7fbb99f3e2804b4ad482770c179bfffcbdc4234a909c4c6ad737be558b9543e6dadd8df282a9ec7c69dface1b607",
+                            "Explain": "医疗事故赔偿，按照下列项目和标准计算：（1）医疗费；（2）误工费；（3）住院伙食补助费；（4）陪护费；（5）残疾生活补助费；（6）残疾用具费；（7）丧葬费；（8）被抚养人生活费；（9）交通费；（10）住宿费；（11）精神损害抚慰金。营养费是不应由医方赔偿的，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "住院费"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "检查费"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "治疗费"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "护理费"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "营养费"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000861,
+                            "ATestID": 35000861,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fdefd506793dc2f3ef1b9192b8f2a18f293a47884a8ac4bad173020dda02589db265a7e261692261ad2fbc583b357328088b1483636929d2aa8cf694b6fea1f911d6ecc8ce9e919ac6cad83a969a314f",
+                            "Explain": "以下情况应当回避：是医疗事故争议当事人或者当事人的近亲属的；与医疗事故争议有利害关系的；与医疗事故争议当事人有其他关系可能影响公正鉴定的。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "系当事人近亲属"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "涉及死因、伤残等级鉴定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "与医疗事故争议无利害关系"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "与医疗事故争议当事人没有其他关系"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "为处理医疗事故争议提供医学证据"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000663,
+                            "ATestID": 43000663,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3b07ab6f4d2b8674659aabcbc985d84fa19ca2094e85f6dbb716eb032ce27d520eeb579e557fc16266b90c607b5991ae",
+                            "Explain": "《《医疗事故处理条例》的概述》第二条规定，本条例所称医疗事故，是指医疗机构及其医务人员在医疗活动中，违反医疗卫生管理法律、行政法规、部门规章和诊疗护理规范、常规，过失造成患者人身损害的事故。故本题选B。",
+                            "TestPoint": "《医疗事故处理条例》的概述",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "过于自信的过失"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "违反卫生法规和诊疗护理规范、常规的责任过失"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "故意违反操作规程"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "无意识的错误"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "技术水平欠缺的技术过失"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015848,
+                            "ATestID": 43015848,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4fcf08ebafa7ed9479c2ebfee77df3d43f50259da67bc19c1570e6e9b45247952ad60f178a466f057d6766641addd4b8863b421dbcaa293db1da0434ecf4b8ae76a17b1b55519b765db0394246b4b645877a9354328007da33b42163dab6b3e0",
+                            "Explain": "这里所指的\"医疗机构\"是指按照《医疗机构管理条例》取得医疗机构执行许可证的机构。\"医务人员\"是指本院从事医疗活动的所有有关医疗技术人员。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "院长"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "依法注册的医师、护士"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "本院的医师、护士以及外聘人员"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "本院从事医疗活动的所有有关人员"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "本院从事医疗活动的所有有关医疗技术人员"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015849,
+                            "ATestID": 43015849,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "748baf5a7d7af613f3869194132b6c6725c523587e997fc4f27c317511b7fe1d470562cf5133dddb79885b3c831cb1d7",
+                            "Explain": "《《医疗事故处理条例》的概述》第二条规定，本条例所称医疗事故，是指医疗机构及其医务人员在医疗活动中，违反医疗卫生管理法律、行政法规、部门规章和诊疗护理规范、常规，过失造成患者人身损害的事故。故本题选B。",
+                            "TestPoint": "《医疗事故处理条例》的概述",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "疏忽大意的过失"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "违反卫生法规和诊疗护理规范、常规的责任过失"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "故意违反操作规程"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "技术水平欠缺的技术过失"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "无意识的错误"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015850,
+                            "ATestID": 43015850,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "28df8e792c6255489921d79351d9a0f9962a15ecfe657f76c4677dd4bbc6bb5e0bcfa671771eb0a3cdf21aa6059c905e05dc29a9529aec808f7e1e9d8e5187397ff8e84e46e5a0fe",
+                            "Explain": "处理医疗事故，应当遵循公开、公平、公正、及时、便民的原则，坚持实事求是的科学态度，做到事实清楚、定性准确、责任明确、处理恰当。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "及时、利民"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "准确、利民"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "便民、准确"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "及时、便民"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "及时、谨慎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015851,
+                            "ATestID": 43015851,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3953a81201059eb64e34988bb7aeb3479073aeb0920c6151ff3bd4eae04062283d6abc6ee5021d011078059a0b32faa2a8598aae7372858b45d339d66c4903a0e8dce167c67aea0f5ca97b49ea7cc0f0a69a03fe1763512ce6379fabe2444dc2dd40847990286f701baa8e4c72f55d934ffb783a74de004b4ecc20a3e4b92cda0753140740697edde56de1ebce782d49",
+                            "Explain": "因抢救急危患者，未能及时书写病历的，有关医务人员应当在抢救结束后6小时内据实补记，并加以注明，故选C。",
+                            "TestPoint": "医学法规",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "2小时内"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "4小时内"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "6小时内"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "8小时内"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "24小时内"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015854,
+                            "ATestID": 43015854,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dd346b26ef529fac3a084a1e2ecf23456b8a311024cf3c04dee7d8f951d0956159d003ac6d7c427b28be8bcb22bb5425d82eb8180b18fd5e66612b8317f3c810101d0b46c261ebd21413b99b139dfb84",
+                            "Explain": "根据《《医疗事故处理条例》的概述》第二章第十三条，医务人员在医疗活动中发生或者发现医疗事故、可能引起医疗事故的医疗过失行为或者发生医疗事故争议的，应当立即向所在科室负责人报告。本题选A。",
+                            "TestPoint": "《医疗事故处理条例》的概述",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "所在科室报告"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "所在医院医务部门报告"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "当地公安机关报告"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "所在医疗机构的主管负责人报告"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "所在医疗机构医疗质量监控部门报告"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015855,
+                            "ATestID": 43015855,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4fcf08ebafa7ed94d43ffb837e870c6fdad1e8e8b05a30721714268c566785725cd531e44fb579bf65f9c091f849272a",
+                            "Explain": "职业病是指企业、事业单位和个体经济组织的劳动者在职业活动中，因接触粉尘、放射性物质和其他有毒、有害物质等因素而引起的疾病，不包括在《医疗事故处理条例》的概述的疾病内，故选E。",
+                            "TestPoint": "《医疗事故处理条例》的概述",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "严重遗传性疾病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "精神分裂症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "狂躁抑郁型精神病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "艾滋病"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "职业病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015858,
+                            "ATestID": 43015858,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "da5614e388e2a21c8846a88cb1a800de0d929f500a7bcc7d4c14ae507612517a76eb5fc57426778e4c591749045fa9cb02c9d0925fca5953eef36429fe001346da0fde572aa5c71fce3f01052ebeaf18c83ba9414ad4ef41142bb8374bb758bf28b625ec05e8000aa498cbf83f87bd4c74699741dd478aec",
+                            "Explain": "疑似输液、输血、注射、药物等引起不良后果的，医患双方应当共同对现场实物进行封存和启封，封存的现场实物由医疗机构保管；需要检验的，应当由双方共同指定的、依法具有检验资格的检验机构进行检验；双方无法共同指定时，由卫生行政部门指定。疑似输血引起不良后果，需要对血液进行封存保留的，医疗机构应当通知提供该血液的采供血机构派人员到场。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "患者保管"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "医疗机构保管"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "患者和医疗机构共同委托的第三人保管"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "患者和医疗机构任何一方均可以保管"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "医疗机构所在地的卫生行政部门保管"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015859,
+                            "ATestID": 43015859,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "3b07ab6f4d2b8674659aabcbc985d84fa19ca2094e85f6dbb716eb032ce27d52e9c02e43bc8d153718ffbe9ebfcc0097",
+                            "Explain": "医疗事故，是指医疗机构及其医务人员在医疗活动中，违反医疗卫生管理法律、行政法规、部门规章和诊疗护理规范、常规，过失造成患者人身损害的事故。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "技术水平欠缺的技术过失"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "违反卫生法规和诊疗护理规范常规的责任过失"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "违反操作规程的故意"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "疏忽大意的过失"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "过于自信的过失"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000743,
+                            "ATestID": 41000743,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2d4ea0e8c3259abe4c869210fdbc4e942e501718bdbc7ff831c37b81b7b18674954e849e024a9a841c682512db8ab96c3c1788191b77a315f1789831c70c182393d889ba5ff4d180f4c800b706c062c05a11e710ca5a129b",
+                            "Explain": "根据《医疗事故处理条例》第六章第五十九条：以医疗事故为由，寻衅滋事，抢夺病历资料，扰乱医疗机构正常医疗秩序和医疗事故技术鉴定工作，依照刑法关于扰乱社会秩序罪的规定，依法追究刑事责任；尚不够刑事处罚的，依法给予治安管理处罚。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "给予治安管理处罚或追究刑事责任"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "与医疗机构进行协商调解"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "给予治安管理处罚或追究行政责任"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "说服教育，必要时给予治安管理处罚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "给予治安管理处罚或追究民事责任"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000745,
+                            "ATestID": 41000745,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dddc5a0c1d40bed1fb5abb092659f27f0d426c7d01659612c08cdcc8cfbee213b9147bf6c13461c61a6f35ec0b93deddfd8b6c902d4ee358637ece8dd0492495bf40cee1a5bd7317265be4b560435dc35b595445fbfdf1c1b235f105ac7b89b347e4642c564723024a9b900b87dd1d641f393c7176f73df2",
+                            "Explain": "根据《医疗事故处理条例》第四条：根据对患者人身造成的损害程度，医疗事故分为四级：一级医疗事故，造成患者死亡、重度残疾的；二级医疗事故，造成患者中度残疾、器官组织损伤导致严重功能障碍的；三级医疗事故，造成患者轻度残疾、器官组织损伤导致一般功能障碍的；四级医疗事故，造成患者明显人身损害的其他后果的。综上，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "一级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "二级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "三级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "四级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "严重医疗差错"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000746,
+                            "ATestID": 41000746,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "736d15b5e6fe3f19f5ddf10672bc707be30c2599809363f550c20759c1ae56e598cc26d48a92507cfdde3db67a9209a395e88340ebae5330dcb0dbcb34160f6639986b6c05bde59504b64e0d97747d2c666dc02596d65e22b439b95be0eed1791da42d9eb47254f50a9ef8d8ddf59400863e75ec3d396e863d12cf51fd9d5f22ae33a694ee102518e1bb61da4d333e3e2434df3dfe14156e136db80d94c6ec91177ba9ad8dc5d209cfccaa638e69b68a47cc71e41fb7a3252d52bb56389aaf0fabf4de2761d86ff7ddfbb7ba7c3b0b6ae25f553605448cc221599a74419083bb2aa63f7202ecc1aab635e0c032f386af841603687a9c49d1",
+                            "Explain": "医疗事故责任的主体是该医疗机构及其医务人员，乙医院邀李某到本医院进行手术，并发生了医疗事故，因此乙医院和李某应当承担民事责任，与甲医院无关。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "甲医院"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙医院"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "李某"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "甲医院和李某"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙医院和李某"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000750,
+                            "ATestID": 41000750,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "7670f462bf2a878e5a20b983b615a66f5f7bf1eaf8ce4b6950f501f9c6afe0ad4d375f524180099d588ff99080f3b9783b818099a13fcc2e68f7db60949445874e01d948cd7ef0cfd38368428aa9f0ddb544286f431f6e8e6749af5c5fa85bec8ed1e7011d249abf86d2876a7e9f9cc8be2ed12e29ffbd9ec7ed57b0023590561dfe89887fd6dce816d4eb69d4ef1a4c",
+                            "Explain": "接受婚前医学检查的人员对检查结果持有异议的，可以申请医学技术鉴定，取得医学鉴定证明。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "要求婚姻登记部门裁定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "要求婚姻登记部门重新检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "申请医学技术鉴定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "申请行政复议"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "起诉婚姻登记部门侵权"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000664,
+                            "ATestID": 43000664,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8837d032b4885bfea2de70212122099cf8192fc2f7b56846447d17ac8217d705ccc205c9a313fdfad82ec504b97362761bdbb6ed9d85b8a802c6a47097c6a2cbfee21bf5588ddf07ceb065de67beede9435360e22a3658df4dae6c926ec4d0f6bcd374947033ce034cb9b32cec906c7c3fe5cf5efb039bdd23622673797f367fbee330201493d9706bf3c3cb32d3bd301f50f54c15ff1a0a0a56bc6aac497b98e6eae144c0318262875c1cbcadb0fdbac16244ea92c7126ce6e5501d2ac05c22c51db567be0de0fbab10ff87f750a38942e497f0942e5bcd4dfe18cded86df46d7b2be7615a344b14db423a973b5c9f89250b0f7c4d5bac998418731a138dd7263164591ce2373d1517f1dbe7bea29e42acf2792a1adcc27444a81bf77e8241427e0d195076220b295f4ac38a57979818fdd2d4f47edb13dca87564c776cfd08d283e70702e8c36a3bd3119aef1cb6e4b9a4c1b0cca28feba2fbd66587e69d23af864222e87ecd2063ea896e64f992779a8ee682d558b15925c9e39d9222915e05c8fbf078682a62d10d7c93d1329fe033e1cd8f8a3dc4c1b6cf984ba61c5fdc8260c45102fb2c6cb0dff81624e95fc7e17600d17416505101aa6b8ec5af3db200d5e07186e9eaa1dec68fb05554d345b5d24b4c26fff184bb517e8db73bfead3297a8df78b5885192b88177c8a7b35aa02445a85155ea9a10fae7f51fa273e3803ce3ddaa85f0fa1b048579df2fbc1e",
+                            "Explain": "一级医疗事故：造成患者死亡、重度残疾的；二级医疗事故：造成患者中度残疾、器官组织损伤导致严重功能障碍的；三级医疗事故：造成患者轻度残疾、器官组织损伤导致一般功能障碍的；四级医疗事故：造成患者明显人身损害的其他后果的。患者是因体质特殊而发生的医疗意外，不属于医疗事故。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "二级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "三级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "四级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "因不可抗力而造成的不良后果"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "因患者体质特殊而发生的医疗意外"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000667,
+                            "ATestID": 43000667,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d0903700949e130e28cbc2dac30cfd6eb9e2c5ac038072c6c96d6b176e94087d18291474aab43bc9f1465a1ae7f978d65cafa9877b8d0c080e6803deebf695c7bb4df3e9b7d3914df95428e2bb8c704ed707820592ad9b92dd7ecfa691e510ab6265e9cb015582c8e57e3aaf270c9a7e8751dc086648db9bbc027d0799cae498d6c3b8f12966243f50df7f60422353e946871b09c36d75a8c5f7ef392611683d1e395e316707bc71da2f99e559f5fefe8213080539437445acbf733d9b76069530458641ae8f126f25750da301711240bb1cef72a2e547cf48e46f09f0a7d0bcad78233ff464d926a77b01e0ca0ed61843f3d78fce61aaeb7afd24bcdbdb6dbf977ea68b13c242cd9ad4703ead185cba71d0f05067114120a797e39e1f4109393e17a75dc5290cde2e323f090f9629831decfbcc288cb58388c3577c56dd9cf6324ad7ffa46c98322aceee4de236b8f29d50a2a3497ec2ab0de0fa43b68f219b7c4e3ad47aeb9f56c4e816c7375b3d06c385308c1b2da9339d6408b9b7e24e3bb35d16343984fade41cd7632e7f675e9f6d14",
+                            "Explain": "医疗事故，是指医疗机构及其医务人员在医疗活动中，违反医疗卫生管理法律、行政法规、部门规章和诊疗护理规范、常规，过失造成患者人身损害的事故。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "医疗技术事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "并发症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "严重医疗差错"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "医疗意外"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "医疗责任事故"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000668,
+                            "ATestID": 43000668,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878e98f1bea9a39a97a987c24e63e40e548a6773becae8c9e972da26edce88a21d03ef586798b13778728c8bfe691e35dca86fc73c502ad6e66feb431f0a79e35af61f07ac5e9dc02ae73e90bfcd725a466c6fc93ee552f06dbedaf95c74c5611fe8b47dd8da8e54d3b575e4dce31a44f299ac9a002dc784122a8ac5b63d8a5d091096afa9e90e0f7de83f37de5d78c687a1e829e2d4d36997cb214637450ff1c0eef8e3752bb10cf29f0d18eabfa0cf8eec11c79b977b7299c796bc0d01daea806e2440983e5a2deb755e9b9ea0a2da875966d9fd50322726dbcb5eb78c3012b39317ffe71d51e9cac57370eb73306e6c267149e1bd9e60110027f88a11f77c44059f6aff7917bb84e8",
+                            "Explain": "一级医疗事故：造成患者死亡、重度残疾的；二级医疗事故：造成患者中度残疾、器官组织损伤导致严重功能障碍的；三级医疗事故：造成患者轻度残疾、器官组织损伤导致一般功能障碍的；四级医疗事故：造成患者明显人身损害的其他后果的。患者是因体质特殊而发生的医疗意外，不属于医疗事故。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "二级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "三级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "四级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "一级医疗事故"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "因患者体质特殊而发生的医疗意外"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000669,
+                            "ATestID": 43000669,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8837d032b4885bfe54f6434a36af9a0deb1f3403e3f3deef5e2a814a5cb18775219fa768810ac829a970c9d252b37a19106d675a1ab374f5085b796b280e3f1ac2986324b03e478d5f7298cebcea9bbef647e84094971d75c87989782f402ba0bc34727ac3f28e69c955ceb92ae990494451247988f4828087aad22a99c40cb679d3b27f92f1e181ad1b45483f3a2dd1d97012cd7ef2805edb015907ebe1ae7e43da5e211f5242a8c4e1d48aaa6ddfb1b8b27fb9ea1e7b0be16a9eafee91fbfd8836ab799ead7def2a67fd7688c179bbbd942030b7b5344f7cc14c1e23c41b3a1e2a4c2569ed88e7aac99b2b1528b492729f12305a7ff888f36d417654d1f5399caf0d9dbe667384714d1e1bb0e4023f530cd99e1e69d081fcbb07a917b3765c6ebfeee3be517e3224bc7f97b93b72ecec8132b7c1ca20fec67b3b333861cfd21bbb1599f3002b83",
+                            "Explain": "《《医疗事故处理条例》的概述》第三章，第三十三条规定： 有下列情形之一的，不属于医疗事故： （一）在紧急情况下为抢救垂危患者生命而采取紧急医学措施造成不良后果的； （二）在医疗活动中由于患者病情异常或者患者体质特殊而发生医疗意外的； （三）在现有医学科学技术条件下，发生无法预料或者不能防范的不良后果的； （四）无过错输血感染造成不良后果的； （五）因患方原因延误诊疗导致不良后果的； （六）因不可抗力造成不良后果的。 答案应该是E。",
+                            "TestPoint": "《医疗事故处理条例》的概述",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "一级医疗事故"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "二级医疗事故"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "三级医疗事故"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "刑事责任事故"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "因患者体质特殊而发生的医疗意外"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015860,
+                            "ATestID": 43015860,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "016ebe5aa092b4526c8442edbb2eae7a9881d68e095585c04b4d619b605ee1a9478dddd1eb8f4e0a9bc30d84371fa773af5f1798e88a00cdb6f166292f677242ff3aa60bc0b71cc45f91ecb5b5023cd1b54f755d0e32533a56afbf43bff2dd473e1e3f77177ca527729d700943ff577da5a461557724cc62f8b9c186b5a71d625aace888b8508f080485f3b3c4b2d87dd1aa23f8f1ec5a5ed40a59d7843cce440f288707646d4311d0313f1647951d51297994f8eebf0c329fd58de4918276880f6fd61cbdbf1852200936f92e721f600fcd4fbdbcef52538a258509e93135b067549aa2b919092679c299eddad7c0ec3ee666b67d41d98a49063081ad6352f6",
+                            "Explain": "医疗事故，是指医疗机构及其医务人员在医疗活动中，违反医疗卫生管理法律、行政法规、部门规章和诊疗护理规范、常规，过失造成患者人身损害的事故。该例题是在病人生命危急时刻，抢救病人生命，不属于医疗事故，故选E。",
+                            "TestPoint": "《医疗事故处理条例》的概述",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "属于违规操作，构成医疗事故"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "属于非法行医，不构成医疗事故"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "属于超范围执业，构成医疗事故"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "属于见义勇为，不构成医疗事故"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "虽造成不良后果，但不属医疗事故"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015861,
+                            "ATestID": 43015861,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 11,
+                    "TestItems": [
+                        {
+                            "Title": "2653ed5e0403c24d9da8f657d56bd3388376e7131b4daad7e3deaf775abd374fddf36b5407a3bbfe4489ce8987131bcb40690b8f9e0c9f5ea85bfc4cc79f69111c91ad1ae590d4a80564f4c61f4e44b6753ecafb24c71d58006c9796ee0ceee6000abeb1367d0650ca55fa98348823775b13fa642bbe52d7df72c2d28c34d495",
+                            "Explain": "患者死亡，医患双方当事人不能确定死因或者对死因有异议的，应当在患者死亡后48小时内进行尸检。当事人对首次医疗事故技术鉴定结论不服的，可自收到首次鉴定结论之日起15日内向医疗机构所在地卫生行政部门提出再次鉴定的申请，故1题选B，2题选C。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "30日内"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "48小时内"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "15日内"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "24小时内"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "45日内"
+                                }
+                            ],
+                            "AllTestID": 41000753,
+                            "BTestID": 41000219,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000219,
+                                    "Title": "2653ed5e0403c24d9da8f657d56bd3388376e7131b4daad7e3deaf775abd374fddf36b5407a3bbfe4489ce8987131bcb40690b8f9e0c9f5ea85bfc4cc79f69111c91ad1ae590d4a80564f4c61f4e44b6753ecafb24c71d58006c9796ee0ceee6000abeb1367d0650ca55fa98348823775b13fa642bbe52d7df72c2d28c34d495",
+                                    "Explain": "患者死亡，医患双方当事人不能确定死因或者对死因有异议的，应当在患者死亡后48小时内进行尸检。当事人对首次医疗事故技术鉴定结论不服的，可自收到首次鉴定结论之日起15日内向医疗机构所在地卫生行政部门提出再次鉴定的申请，故1题选B，2题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000220,
+                                    "Title": "7e8ae0c6a3bceec3b99760b206b2e8569025eb283d56deca4c528a171d98a99df5ac625547eb82e15ce4fb2241e00b38ae75526c66c9a7a47a5d2958d4c19b5979a6ef8ae93d71a70f3f9b3cd1b489d88433fe050d9270f3dfb7819038b15fc9d07a5755457ea6064fe9093ed2781e9c1a42ef63837ff9b4f150ffd139b90dd4bcefb2a3692d488c2a98480c66125518c7b11b3af7762454cb5d26bf268435704823730a350b6a5b",
+                                    "Explain": "患者死亡，医患双方当事人不能确定死因或者对死因有异议的，应当在患者死亡后48小时内进行尸检。当事人对首次医疗事故技术鉴定结论不服的，可自收到首次鉴定结论之日起15日内向医疗机构所在地卫生行政部门提出再次鉴定的申请，故1题选B，2题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "d6f0158e557ace584a10993feef6d9e96270389ceb9ba6e3ecebc87aa98e7301f3ddd376db9e86459bde91f831ec2d16",
+                            "Explain": "参见《执业医师法》第三十六条：以不正当手段取得医师执业证书的，由发给证书的卫生行政部门予以吊销；第三十九条：未经批准擅自开办医疗机构行医或者非医师行医的，构成犯罪的，依法追究刑事责任。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "罚款"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "责令暂停6个月以上1年以下执业活动"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吊销其执业证书"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "承担民事赔偿责任"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "承担刑事责任"
+                                }
+                            ],
+                            "AllTestID": 43000670,
+                            "BTestID": 43000195,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000195,
+                                    "Title": "d6f0158e557ace584a10993feef6d9e96270389ceb9ba6e3ecebc87aa98e7301f3ddd376db9e86459bde91f831ec2d16",
+                                    "Explain": "参见《执业医师法》第三十六条：以不正当手段取得医师执业证书的，由发给证书的卫生行政部门予以吊销；第三十九条：未经批准擅自开办医疗机构行医或者非医师行医的，构成犯罪的，依法追究刑事责任。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000196,
+                                    "Title": "5273572a5176805c739d5b5811c9f6e13f669868db90d1afb7484770f07bbc929a128108f48a82908501a93553a71c27",
+                                    "Explain": "参见《执业医师法》第三十六条：以不正当手段取得医师执业证书的，由发给证书的卫生行政部门予以吊销；第三十九条：未经批准擅自开办医疗机构行医或者非医师行医的，构成犯罪的，依法追究刑事责任。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "dddc5a0c1d40bed1fb5abb092659f27f0d426c7d01659612c08cdcc8cfbee213a48e8c307a09061afce5a4ce30025d60ac614613b4bc1b54ae394fc4db6f7a56d3b2287fbbdae1dec08eb1aa5827f37982864d6de415f5bd698ff5767cc5ce7eb3de924b09650554a51cff2b469aa4023069fd8fb52ccd02",
+                            "Explain": "1.见《医疗事故处罚条例》第五十条关于赔偿标准的规定。第五款关于残疾生活补助：(1)标准--当地居民年平均生活费。(2)时限--自定残之日起最长为30年。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "5年"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "10年"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "15年"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "20年"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "30年"
+                                }
+                            ],
+                            "AllTestID": 43000671,
+                            "BTestID": 43000197,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000197,
+                                    "Title": "dddc5a0c1d40bed1fb5abb092659f27f0d426c7d01659612c08cdcc8cfbee213a48e8c307a09061afce5a4ce30025d60ac614613b4bc1b54ae394fc4db6f7a56d3b2287fbbdae1dec08eb1aa5827f37982864d6de415f5bd698ff5767cc5ce7eb3de924b09650554a51cff2b469aa4023069fd8fb52ccd02",
+                                    "Explain": "1.见《医疗事故处罚条例》第五十条关于赔偿标准的规定。第五款关于残疾生活补助：(1)标准--当地居民年平均生活费。(2)时限--自定残之日起最长为30年。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000198,
+                                    "Title": "dddc5a0c1d40bed1fb5abb092659f27f0d426c7d01659612c08cdcc8cfbee2133f37c3daed14f72d52215641cc3f7b144709b6c9f34f0c0c14f8995c143e8ed5bb37200def3f544bceec6ed7a10a29d79e5b748d97d36523fb2122c5435686ab0b57963b4743327cdad0f34a5e5c963d4ed4582190808622d34a69f10a6a58cebd70ec8230d7bafa61dd2043d98f2ef0",
+                                    "Explain": "2.见《医疗事故处罚条例》第五十条关于赔偿标准的规定。第五款关于残疾生活补助：(1)标准--当地居民年平均生活费。(2)时限--自定残之日起最长为30年；若已到60周岁以上的，不超过15年。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "4fcf08ebafa7ed941b79364bd87b9a90",
+                            "Explain": "1.医疗事故是指符合构成要件被认定为事故的医疗过失事件。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "医生、患者各自的权利与义务"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "依法给予行政处分或纪律处分"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "损害赔偿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "医务人员疏忽大意违反卫生法律相关规定，给患者造成明显人身伤害"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "依法追究刑事责任"
+                                }
+                            ],
+                            "AllTestID": 43000672,
+                            "BTestID": 43000199,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000199,
+                                    "Title": "4fcf08ebafa7ed941b79364bd87b9a90",
+                                    "Explain": "1.医疗事故是指符合构成要件被认定为事故的医疗过失事件。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000200,
+                                    "Title": "185b4da2e1701caf67fb840f25d18e938cbd267019e8e7ae7ee3982dbf117e19b525f7ad942e683305a37f84034eefe149a3b4c073547525b39321ac653cc830bd166e5b9924d36465decdca1f6e90bf16db3a8f2245f7471fb234b64062fc6632c85c297ec8124924b266cfe7adc5e1d1441b64b6a93ad4359293777af93b69cd696fc16fb85cbc236dd4aa39fab954",
+                                    "Explain": "2.由非法的医疗活动引起的人身损害不属于医疗事故，所以，不适用《医疗事故处理条例》。触犯刑律的，依法追究刑事责任。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000201,
+                                    "Title": "957557ce194748f0868ae23ce9f25eddc46917edafd439ab9b7fa44939fcb7853934cc4e9cf1fbc2188bc678e5f71accf8bee60fe8dce6298f5bebe58956989f7918afe19c8abbd7d1dc6ad7ac94a088be25148e33262c7c6dc5e541452fc4c4836a4d28f312e000f850fac3faa957446fb208bac9a2b0c7536cdc9480cc7293f7382b28de3ef077",
+                                    "Explain": "3.涂改、伪造、隐匿、销毁病历资料的直接责任人员依法给予行政处分或纪律处分；情节严重的，由原发证部门吊销其执业证书或者资格证书。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "dd346b26ef529fac5cd25a63582c122a858038f0d401ad3f7aed4766b862d893d021ba9ba7e83228acfcc4db7d2ec7d3ef8539e43b1e1c104a236a341e9bc0c5b9ce5d1ebc63ed4f24f9a2b0524683cea78d172dbabc8d333fd3a7ce2d5ec6a2eec587f0cbd862f5293356f40e23dbf06addeb028fcbab4d300f4f28187988e2",
+                            "Explain": "医疗机构发生医疗事故的，对负有责任的\"医务人员\"依照刑法关于医疗事故罪的规定，依法追究刑事责任；尚不够刑事处罚的，依法给予行政处分或者纪律处分。对发生医疗事故的有关\"医务人员\"，除依照上述处罚外，\"卫生行政部门\"还可以责令暂停6个月以上1年以下执业活动；情节严重的，吊销其执业许可证。此题的重点在于\"医务人员\"发生医疗事故，\"卫生行政部门\"可以给予的处罚，故而选D。而\"B.给予纪律处分\"为医疗机构（医院）给予医务人员的处分，不是卫生行政部门（卫生局）给予的处分。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "警告"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "给予纪律处分"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "责令限期整顿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "吊销执业证书"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "责令改正"
+                                }
+                            ],
+                            "AllTestID": 43015864,
+                            "BTestID": 43002925,
+                            "SrcID": 9,
+                            "SbjID": 43,
+                            "CptID": 81,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002925,
+                                    "Title": "dd346b26ef529fac5cd25a63582c122a858038f0d401ad3f7aed4766b862d893d021ba9ba7e83228acfcc4db7d2ec7d3ef8539e43b1e1c104a236a341e9bc0c5b9ce5d1ebc63ed4f24f9a2b0524683cea78d172dbabc8d333fd3a7ce2d5ec6a2eec587f0cbd862f5293356f40e23dbf06addeb028fcbab4d300f4f28187988e2",
+                                    "Explain": "医疗机构发生医疗事故的，对负有责任的\"医务人员\"依照刑法关于医疗事故罪的规定，依法追究刑事责任；尚不够刑事处罚的，依法给予行政处分或者纪律处分。对发生医疗事故的有关\"医务人员\"，除依照上述处罚外，\"卫生行政部门\"还可以责令暂停6个月以上1年以下执业活动；情节严重的，吊销其执业许可证。此题的重点在于\"医务人员\"发生医疗事故，\"卫生行政部门\"可以给予的处罚，故而选D。而\"B.给予纪律处分\"为医疗机构（医院）给予医务人员的处分，不是卫生行政部门（卫生局）给予的处分。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002926,
+                                    "Title": "11acc88e1f1c10bb50a6f9c93a0cee051ed1abdc58e2eb282389fb320f18ad837dab9a0fac2642a788a811c13322c17cbe207570af116dcc0d05635e800bb55132032923aa2bdbdd327b807856e45f633e66efde5436ecc0682483ceba80321d010fc5c2db2bc9dfe31849101c2a1b9504f75518a60df514d51c4b1eb70d920955ec7f354d8f640eb37b43377e79c494",
+                                    "Explain": "医疗机构违反《医疗事故处理条例》的规定，有下列情形之一的，由卫生行政部门责令改正；情节严重的，对负有责任的主管人员和其他直接责任人员依法给予行政处分或者纪律处分：①未如实告知患者病情、医疗措施和医疗风险的；②没有正当理由，拒绝为患者提供复印或者复制病历资料服务的；③未按照国务院卫生行政部门规定的要求书写和妥善保管病历资料服务的；④未在规定时间内补记抢救工作病历内容的；⑤未按照规定封存、保管和启封病历资料和实物的；⑥未设置医疗服务质量监控部门或者配备专（兼）职人员的；⑦未制定有关医疗事故防范和处理预案的；⑧未在规定时间内向卫生行政部门报告重大医疗过失行为的；⑨未按照本条例的规定向卫生行政部门报告医疗事故的；⑩未按照规定进行尸检和保存、处理尸体的。此题注意题干中是指对于\"医疗机构\"所采取的措施，故而应该为责令改正。如果是对于\"医疗机构的主管人员\"的处理则为依法给予行政处分或者纪律处分。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000853,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000853,
+                        "ChildTableID": -1,
+                        "UserCount": 1740,
+                        "RightCount": 1083,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000853,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 35000856,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000856,
+                        "ChildTableID": -1,
+                        "UserCount": 1530,
+                        "RightCount": 1322,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000856,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 35000858,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000858,
+                        "ChildTableID": -1,
+                        "UserCount": 1635,
+                        "RightCount": 1133,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000858,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 35000861,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000861,
+                        "ChildTableID": -1,
+                        "UserCount": 1559,
+                        "RightCount": 1177,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000861,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43000663,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000663,
+                        "ChildTableID": -1,
+                        "UserCount": 1434,
+                        "RightCount": 1222,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000663,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43015848,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015848,
+                        "ChildTableID": -1,
+                        "UserCount": 1403,
+                        "RightCount": 1075,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015848,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015849,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015849,
+                        "ChildTableID": -1,
+                        "UserCount": 1417,
+                        "RightCount": 1031,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015849,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015850,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015850,
+                        "ChildTableID": -1,
+                        "UserCount": 1295,
+                        "RightCount": 1215,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015850,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015851,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015851,
+                        "ChildTableID": -1,
+                        "UserCount": 1539,
+                        "RightCount": 682,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015851,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015854,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015854,
+                        "ChildTableID": -1,
+                        "UserCount": 1402,
+                        "RightCount": 1017,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015854,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43015855,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015855,
+                        "ChildTableID": -1,
+                        "UserCount": 1507,
+                        "RightCount": 795,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015855,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43015858,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015858,
+                        "ChildTableID": -1,
+                        "UserCount": 1409,
+                        "RightCount": 931,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015858,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43015859,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015859,
+                        "ChildTableID": -1,
+                        "UserCount": 1516,
+                        "RightCount": 725,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015859,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000743,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000743,
+                        "ChildTableID": -1,
+                        "UserCount": 1325,
+                        "RightCount": 1244,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000743,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000745,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000745,
+                        "ChildTableID": -1,
+                        "UserCount": 1539,
+                        "RightCount": 954,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000745,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000746,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000746,
+                        "ChildTableID": -1,
+                        "UserCount": 1553,
+                        "RightCount": 837,
+                        "FavCount": 50,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000746,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 41000750,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000750,
+                        "ChildTableID": -1,
+                        "UserCount": 1489,
+                        "RightCount": 1021,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000750,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43000664,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000664,
+                        "ChildTableID": -1,
+                        "UserCount": 1406,
+                        "RightCount": 957,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000664,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43000667,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000667,
+                        "ChildTableID": -1,
+                        "UserCount": 1377,
+                        "RightCount": 1107,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000667,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000668,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000668,
+                        "ChildTableID": -1,
+                        "UserCount": 1473,
+                        "RightCount": 913,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000668,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000669,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000669,
+                        "ChildTableID": -1,
+                        "UserCount": 1346,
+                        "RightCount": 1208,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000669,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015860,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015860,
+                        "ChildTableID": -1,
+                        "UserCount": 1292,
+                        "RightCount": 1136,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015860,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015861,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015861,
+                        "ChildTableID": -1,
+                        "UserCount": 1355,
+                        "RightCount": 1078,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015861,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000753,
+                "ChildTableID": 41000219,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000753,
+                        "ChildTableID": 41000219,
+                        "UserCount": 1312,
+                        "RightCount": 1153,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000753,
+                    "ChildTableID": 41000219
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41000753,
+                "ChildTableID": 41000220,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000753,
+                        "ChildTableID": 41000220,
+                        "UserCount": 1355,
+                        "RightCount": 1075,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000753,
+                    "ChildTableID": 41000220
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000670,
+                "ChildTableID": 43000195,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000670,
+                        "ChildTableID": 43000195,
+                        "UserCount": 1387,
+                        "RightCount": 1102,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000670,
+                    "ChildTableID": 43000195
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000670,
+                "ChildTableID": 43000196,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000670,
+                        "ChildTableID": 43000196,
+                        "UserCount": 1408,
+                        "RightCount": 1043,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000670,
+                    "ChildTableID": 43000196
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000671,
+                "ChildTableID": 43000197,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000671,
+                        "ChildTableID": 43000197,
+                        "UserCount": 1426,
+                        "RightCount": 888,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000671,
+                    "ChildTableID": 43000197
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000671,
+                "ChildTableID": 43000198,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000671,
+                        "ChildTableID": 43000198,
+                        "UserCount": 1436,
+                        "RightCount": 871,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000671,
+                    "ChildTableID": 43000198
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43000672,
+                "ChildTableID": 43000199,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000672,
+                        "ChildTableID": 43000199,
+                        "UserCount": 1281,
+                        "RightCount": 1195,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000672,
+                    "ChildTableID": 43000199
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000672,
+                "ChildTableID": 43000200,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000672,
+                        "ChildTableID": 43000200,
+                        "UserCount": 1340,
+                        "RightCount": 1136,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000672,
+                    "ChildTableID": 43000200
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43000672,
+                "ChildTableID": 43000201,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000672,
+                        "ChildTableID": 43000201,
+                        "UserCount": 1461,
+                        "RightCount": 952,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000672,
+                    "ChildTableID": 43000201
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015864,
+                "ChildTableID": 43002925,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015864,
+                        "ChildTableID": 43002925,
+                        "UserCount": 1310,
+                        "RightCount": 1026,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015864,
+                    "ChildTableID": 43002925
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015864,
+                "ChildTableID": 43002926,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015864,
+                        "ChildTableID": 43002926,
+                        "UserCount": 1394,
+                        "RightCount": 903,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015864,
+                    "ChildTableID": 43002926
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

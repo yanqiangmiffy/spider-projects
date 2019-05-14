@@ -1,0 +1,718 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 19:19:12 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "c4cda64101204ae651702d83477ff288886eb00161c83caf6ec638b507f1edb7c97b59e7302340d9",
+                            "Explain": "抗菌药物的作用机制包括：抑制细胞壁的合成，影响胞质（胞浆）膜的通透性，抑制蛋白质合成，还可以抑制核酸的代谢，故A、B、C、E均是抗菌药物的作用机制。D项抑制逆转录酶活性不是抗菌药物作用机制，属于抗病毒药物的作用机制，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抑制细胞壁的合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "影响胞质（胞浆）膜的通透性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抑制蛋白质合成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抑制逆转录酶活性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抑制核酸代谢"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000647,
+                            "ATestID": 35000647,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4464c4c9c1279cc14e545d11fc19505bb02de0bf0e049d718d7c56815a9dad72",
+                            "Explain": "根据抗病毒药物的作用机制，可将目前的抗病毒药物分为以下几类： \n1. 穿入和脱壳抑制剂：金刚烷胺、金刚乙胺、恩夫韦地、马拉韦罗\n2. DNA多聚酶抑制剂：阿昔洛韦、更昔洛韦、伐昔洛韦、泛昔洛韦、膦甲酸钠\n3. 逆转录酶抑制剂：\n核苷类：拉米夫定、齐多夫定、恩曲他滨、替诺福韦、阿德福韦酯\n非核苷类：依法韦仑、奈韦拉平\n4.蛋白质抑制剂：沙奎那韦\n5.神经氨酸酶抑制剂：奥司他韦、扎那米韦\n6.广谱抗病毒药：利巴韦林、干扰素\n故答案为A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "A",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "B",
+                                    "Content": "金刚烷胺"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "C",
+                                    "Content": "阿昔洛韦"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "D",
+                                    "Content": "替比呋定"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "E",
+                                    "Content": "更昔洛韦"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000648,
+                            "ATestID": 35000648,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月14日",
+                            "OldTestJson": "{\"Title\":\"广谱抗病毒药物是\",\"Explain\":\"常用的抗病毒药包括阿昔洛韦、更昔洛韦、利巴韦林、金刚烷胺以及替比呋定等，其中阿昔洛韦的抗病毒谱较窄，利巴韦林属于核苷类广谱抗病毒药，金刚烷胺适用于流感病毒，替比呋定是用于乙肝病毒等均为窄谱抗病毒药物，而更昔洛韦具有较广谱的抗病毒作用，故选E。\",\"TestPoint\":\"\",\"Answer\":\"E\",\"Difficulty\":\"\",\"SelectedItems\":[{\"HasImg\":1,\"ItemName\":\"A\",\"Content\":\"利巴韦林\"},{\"HasImg\":0,\"ItemName\":\"B\",\"Content\":\"金刚烷胺\"},{\"HasImg\":0,\"ItemName\":\"C\",\"Content\":\"阿昔洛韦\"},{\"HasImg\":0,\"ItemName\":\"D\",\"Content\":\"替比呋定\"},{\"HasImg\":0,\"ItemName\":\"E\",\"Content\":\"更昔洛韦\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "da6ea328be1ca015b7326cb2047857245ec75fb677ef9747718883cf3fbd2ad2b59159a9cd2ed504f0e44e4855eb1c51",
+                            "Explain": "氟康唑药理该品属吡咯类抗真菌药。抗真菌谱较广。口服及静注该品对人和各种动物真菌感染，如念珠菌感染（包括免疫正常或免疫受损的人和动物的全身性念珠菌病）、新型隐球菌感染（包括颅内感染）、糠秕马拉色菌、小孢子菌属、毛癣菌属、表皮癣菌属、皮炎芽生菌、粗球孢子菌（包括颅内感染）及荚膜组织胞浆菌、斐氏着色菌、卡氏枝孢霉等有效。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "灰黄霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "两性霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "酮康唑"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "氟康唑"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "制霉菌素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002778,
+                            "ATestID": 43002778,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "36ff9e3d937f9a449808f14de2482ab221ca9e02edcc30f50fe581850d68adcf400293036e8bce2c88d76a109181518b",
+                            "Explain": "毒性大，仅局部应用的抗病毒药是碘苷。",
+                            "TestPoint": "抗菌药",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "金刚烷胺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "阿昔洛韦"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "阿糖胞苷"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "碘苷"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002779,
+                            "ATestID": 43002779,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "5b90da8d90f2bd1af207d1a68207e6a6efcffbbcc6bc9db137b2ebae8e3479a3854c19a1ec1cfca8ff733ab5c69bfe451369fad1326b55d1",
+                            "Explain": "阿昔洛韦是抗病毒药，主要对疱疹病毒，特别是对单纯疱疹病毒(HSV)Ⅰ型及Ⅱ型作用最强，对带状疱疹病毒的作用则较差（弱8～10倍），对EB病毒亦有抑制作用，对巨细胞病毒(CMW)仅高浓度才能抑制。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "具有较强抗铜绿假单胞菌作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "主要用于金黄色葡萄球菌引起的骨及关节感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "为支原体肺炎首选药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "具有抗DNA病毒的作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "对念珠菌有强大抗菌作用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000589,
+                            "ATestID": 41000589,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4464c4c9c1279cc1a9524f98b18004987771aeb873ef52c5f44408322c5d6685",
+                            "Explain": "利福平对结核分枝杆菌和其他分枝杆菌（包括麻风分枝杆菌等）有杀菌作用，故A不正确。利巴韦林为广谱抗病毒药，故B不正确。伯氨喹属氨基喹啉类衍生物，对疟原虫红外期与配子体有较强的杀灭作用，为阻止疟疾复发、中断传播的有效药物，故C不正确。环磷酰胺为抗肿瘤药，故E也不正确。氟康唑为氟代三唑类抗真菌药，抗菌谱与酮康唑相似，抗菌活性比酮康唑强，为广谱抗真菌药物，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "利福平"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "伯氨喹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "氟康唑"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "环磷酰胺"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000590,
+                            "ATestID": 41000590,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "e807b047f5563d04ab20a44b8c60f2228fa52890a0e594362fd298e3135e2c01e57f4721ab049b45b7ede541bd73f2907febde4ae9206b36f95699f97ef2f6a0d61f0d014b856624734c47d9481b5e1c05b888d04e74059835b94ec10b75de4c185a90ccfa6805b7b406d19505c1c651083c1a80d991d648625ffd05534fae8e0f7f15b6ab396d7890ebc4327ba7fc9f19ef747c2dac7c84e8e96a8422d094505b2ae7321d7d0c4c0c306665ea7b0c24356ee521e7e1829b8de743388fd78c8e345a50aee27e25d46eb55727a54b2a7d0aeb8339354e9333",
+                            "Explain": "患者可能由于抗生素的应用和免疫力的低下而引起了真菌感染，应该选用抗真菌的药物，故选D。其他选项均为抗生素。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "红霉素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "氯霉素"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "青霉素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "两性霉素B"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "环丙沙星"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015544,
+                            "ATestID": 43015544,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "1d005f8426b81ebaf93d638339a2d885aaedba2af9947ab210803e316a9b3b79",
+                            "Explain": "能抑制DNA病毒的药物是利巴韦林。",
+                            "TestPoint": "抗病毒药",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "四环素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "利巴韦林"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "妥布霉素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "林可霉素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "甲硝唑"
+                                }
+                            ],
+                            "AllTestID": 43015543,
+                            "BTestID": 43002866,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 401,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002866,
+                                    "Title": "1d005f8426b81ebaf93d638339a2d885aaedba2af9947ab210803e316a9b3b79",
+                                    "Explain": "能抑制DNA病毒的药物是利巴韦林。",
+                                    "TestPoint": "抗病毒药",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002867,
+                                    "Title": "7c1c1e44bd64096de5823902be81547f0228f7e00a49846c0fc3e389bc54ae57ac2a2eb76d09366bbb9e37a4d9f390c4771dce13967dc632",
+                                    "Explain": "能有效控制铜绿假单胞菌感染的药物是妥布霉素。",
+                                    "TestPoint": "抗菌药",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002868,
+                                    "Title": "b46b6dc5992169110638d24219abb815acc3f99c189eacde7112fff5b9e6ca9a6cfd796929b1242b3adfc2008c30b807",
+                                    "Explain": "对立克次体感染最有效的药物是四环素。",
+                                    "TestPoint": "四环素类抗生素",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000647,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000647,
+                        "ChildTableID": -1,
+                        "UserCount": 1649,
+                        "RightCount": 910,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000647,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 35000648,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000648,
+                        "ChildTableID": -1,
+                        "UserCount": 1684,
+                        "RightCount": 704,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000648,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002778,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002778,
+                        "ChildTableID": -1,
+                        "UserCount": 1645,
+                        "RightCount": 910,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002778,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002779,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002779,
+                        "ChildTableID": -1,
+                        "UserCount": 1592,
+                        "RightCount": 794,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002779,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 41000589,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000589,
+                        "ChildTableID": -1,
+                        "UserCount": 1430,
+                        "RightCount": 1275,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000589,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000590,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000590,
+                        "ChildTableID": -1,
+                        "UserCount": 1391,
+                        "RightCount": 1157,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000590,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015544,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015544,
+                        "ChildTableID": -1,
+                        "UserCount": 1332,
+                        "RightCount": 1099,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015544,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015543,
+                "ChildTableID": 43002866,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015543,
+                        "ChildTableID": 43002866,
+                        "UserCount": 1278,
+                        "RightCount": 1141,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015543,
+                    "ChildTableID": 43002866
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015543,
+                "ChildTableID": 43002867,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015543,
+                        "ChildTableID": 43002867,
+                        "UserCount": 1332,
+                        "RightCount": 1044,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015543,
+                    "ChildTableID": 43002867
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015543,
+                "ChildTableID": 43002868,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015543,
+                        "ChildTableID": 43002868,
+                        "UserCount": 1315,
+                        "RightCount": 1056,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015543,
+                    "ChildTableID": 43002868
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

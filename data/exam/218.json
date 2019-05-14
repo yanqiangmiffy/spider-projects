@@ -1,0 +1,2690 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 19:28:05 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "4a721b15d4cbfbd733c592a75895225ca9e5779bf2273c37ebc2b03d3e54aab675bd1ddb6df4b26e",
+                            "Explain": "肩周炎的治疗包括理疗、针灸、按摩、封闭、非甾体抗炎药物等，选项A、B、C、D正确。但无论病程长短、症状轻重，均应每日进行肩关节的主动活动，活动时以不引起剧痛为限，选项E错误。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "理疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "封闭"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "按摩"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "服用非甾体抗炎药物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "限制肩关节活动"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35003413,
+                            "ATestID": 35003413,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "352931a9d5d8e099ee7e75798a3823e707d621c6b0e5a721aac9eb9c4643f1b781d6e9ff2c952d6c",
+                            "Explain": "腰痛伴坐骨神经痛是腰椎间盘突出症的典型症状。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "腰背痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "下肢无力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "腰部活动受限"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "坐骨神经痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "腰痛伴坐骨神经痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001696,
+                            "ATestID": 43001696,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c78265399e1146cfd31825153ddf31ccfacbcb09c00791f02ce131af0157380b24560bf3113331e22b87ac94f553777e",
+                            "Explain": "脊髓型颈椎病肢体感觉及运动障碍可同时存在，伴病理反射阳性。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "头痛头晕"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "双上肢麻木"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "眼痛、面部出汗失常"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "四肢麻、无力，病理反射(+)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肢体发凉，无或少汗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001697,
+                            "ATestID": 43001697,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d0307ab9dce5062ccd0b705898f3119dc78f26a28e40c2c0ee8c01949f6202b66d5a0302ba87a5366e15d331ef5ca7bc",
+                            "Explain": "肱骨外上髁炎首选的治疗方法是局部封闭。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "加强功能锻炼"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "手术治疗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肘关节制动"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抗生素消炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "局部封闭"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001698,
+                            "ATestID": 43001698,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "eb9d2dc613b330a674d0e55a0a663c039b5c4eb3621f1dae3b35f4001120fe30",
+                            "Explain": "95%的腰椎间盘突出症发生于腰4～5和腰5骶1椎间隙。疼痛为放射痛，可因咳嗽、打喷嚏、用力排便等使疼痛加重。坐骨神经支配区域的痛觉减退，患肢麻木，肌瘫痪，或出现会阴部麻木，排便、排尿无力等马尾综合征。直腿抬高试验和加强试验阳性。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "Schmorl结节"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "马尾神经损伤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "慢性腰肌劳损"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "腰3～4椎间盘膨出"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "腰4～5或腰5骶1椎间盘突出症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001700,
+                            "ATestID": 43001700,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 23,
+                    "TestItems": [
+                        {
+                            "Title": "352931a9d5d8e099ee7e75798a3823e712dc390f232560ce0f0e6906ea395ca83b0625bb9fd10014",
+                            "Explain": "腰椎间盘突出症的体征包括：腰椎侧弯，腰部活动受限，病变间隙的棘突间有压痛及骶棘肌痉挛，直腿抬高试验及加强试验多为阳性，神经系统表现异常（感觉异常，肌力下降，反射异常）。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "腰椎侧弯具有辅助诊断价值"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "几乎全部患者有不同程度的腰部活动受限"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "大多数患者在病变间隙的棘突间有压痛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "大多数患者有肌力下降"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "直腿抬高试验及加强试验多为阴性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002348,
+                            "ATestID": 41002348,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9923a356ecac45f9cf9bb8dc0a4e79ced22d4829403de6dd6c05301417ae2c58a8da99f382c2dce9dbfad626e53dd8906cb8b4255269bae63a5c221ff7c806ec95f6ccc24a6fc5d0ee2f069c65a943f364ca3874606fc48485e3bd1d355903e2cd839a9785a84bcf3b2873392940c08c",
+                            "Explain": "在腰椎间盘突出症诊断方面，CT和MRI均发挥了较大作用，MRI因其不受骨伪影干扰，可全面地观察各腰椎间盘是否病变，也可在矢状面上了解髓核突出的程度和位置，并鉴别是否存在椎管内其他占位性病变，且无电离辐射损害，优于CT检查，因此，对腰椎间盘突出症的诊断应首选MRI检查。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "超声"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "MRI"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肌电图"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "X线片"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血流图"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002349,
+                            "ATestID": 41002349,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d0307ab9dce5062ccd0b705898f3119d781566124b49dc56f77ac7269794022890ccc6c1314367bb",
+                            "Explain": "肱骨外上髁炎是在前臂过度旋前或旋后位，被动牵拉伸肌（握拳、屈腕）和主动收缩伸肌（伸腕）将对肱骨外上髁的伸肌总腱起点产生较大张力，如长期反复这种动作即可引起该处的慢性损伤性炎症。体检可以出现伸肌腱牵拉试验（Mills征）阳性，即伸肘，握拳，屈腕，然后前臂旋前，此时肘外侧出现疼痛。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "Mills征阳性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "Dugas征阳性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "Thomas征阳性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "Lasegue试验阳性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "Finkelstein试验阳性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002352,
+                            "ATestID": 41002352,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878e9f46e037d67ae01ee34db06c6fb1f56f6691fdcbb0959d9d2da60f164a2978f69267fda0e36fabe5fd8c027dfc9ed8aaa9b9c85ee3a2cc51f2b5c325f8316a19e4e683a299bdc4b624ba432c353d1fc8bd217515322438138640e616ce738b6de3a5e65e614ebbee2c62fae2d902b7f46c885694bd1c22bf90dd26bd4f0ee724d16fdea0bbb88f330fc47f4be03f58f7",
+                            "Explain": "颈椎病是脊髓、神经、血管受到刺激或压迫而表现出的一系列症状、体征，分为四种基本类型：神经根型、脊髓型、交感神经型、椎动脉型。椎动脉型颈椎病的临床表现有眩晕、头痛、视觉障碍、猝倒以及其他。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "神经根型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脊髓型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "交感神经型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "椎动脉型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "混合型"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002359,
+                            "ATestID": 41002359,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7fcbefbf5734f78424838c43b750816d1a09c513d2e7ed3567636755a41db37008133686573a9de321d09e5a3cab416ef108c015437aa728f08688091b5558e0085711e240784a5ff443c6af1a88431c1d5c2ab7149cb5c6a20cdc5c54d67a2c68b66eb6dec12bd905148686fe0812105b47cfbab3e533a7e36f956589f2323f65ca5d2ce95f40d628d6eb3d199e347ddc97141d10580b1f1f139ec2d4f44b8b70a1d8b6738b94ee78da6a80ae566ea61a05afaad863f55c91c4fbec5c9f73cea9486ca8ec73fbac",
+                            "Explain": "肩关节周围炎简称肩周炎，是肩周肌、肌腱、滑囊及关节囊出现的慢性损伤性炎症，出现肩部疼痛，随着病程延长，疼痛范围扩大，并牵涉到上臂中段，同时伴肩关节活动受限，肩关节以外展、外旋、后伸受限最明显。本病女性多于男性，左侧多于右侧，多为中老年患病。体检发现三角肌有轻度萎缩，斜方肌痉挛。X线表现可与肩关节肿瘤相鉴别。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肩周炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肩关节结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肩关节肿瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肱骨外上髁炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "风湿性关节炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002360,
+                            "ATestID": 41002360,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7a99c3b8e0e8710eeab329aedc80fa715730a239b026cab7a2abd691739318c4a92ee157596207f0bce4431c8ea2a1e8bb284d08be6db86908e2a7d19462996512cb6cfae17208ed1b649dee8431ee9639e48859cc6fbd57f021dc03b1c245c2",
+                            "Explain": "狭窄性腱鞘炎是因反复摩擦致使鞘管肥厚、狭窄引起的疾病，以手工业工人多见。初时，晨起患者指发僵、疼痛，缓慢活动后消失，随病程延长逐渐出现弹响并伴明显疼痛，严重者患指屈曲，不敢活动。此患者符合狭窄性腱鞘炎或弹响指的诊断，故选C。",
+                            "TestPoint": "狭窄性腱鞘炎",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "风湿性关节炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "类风湿关节炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "狭窄性腱鞘炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨性关节炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨软骨结核"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019829,
+                            "ATestID": 43019829,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "de503e80b6d59158a90bf209065e2929901fed09412f608b1942af9faf0e6d2d8acfaf4e1dd2deb767551ec35f55f2001b2f46e11f590804b15bec3a21a0c54c2bb12529e3f025d7e9af389dd4d3025b194ab7d5bb97a7025779b244fbd4922c71caf064e56ec08d4763b1b4ef609dacbb0fe0d024f1b8a4bce5da72735e8c8beb90f40570b8812001f5fe46fd0c9783a529ca0aac11d5e17e88e52367682fbedf76c54fe17fc592b2b357db3308b4b0",
+                            "Explain": "弹响指提示狭窄性腱鞘炎。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "类风湿关节炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "关节内游离体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨结核性关节炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "风湿性关节炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "狭窄性腱鞘炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019830,
+                            "ATestID": 43019830,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11d59c7972be80b6baeaa89458a3a6aef19d749c61c10bd108ed699ae0a015923d1ebe9613adf2eac19f3a4ff1b0034ad6d379f5cf3c41e60351701f1b18342a53949fac17af7d04dbf71602e3885f5eb40acfce250a0d6df8f315014826943920054b483cfdbaef9a7cf5e894981e1faede5a07c6ee0b4f16562958a889d879",
+                            "Explain": "狭窄性腱鞘炎是因长期手指快速活动反复摩擦致使鞘管肥厚狭窄引起的疾病。起初表现晨起患指发僵、疼痛，缓慢活动后即消失。随着病程延长，出现弹响伴明显疼痛，严重者患指屈曲，不敢活动。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "类风湿关节炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "狭窄性腱鞘炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腱鞘囊肿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "滑囊炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "风湿性关节炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019831,
+                            "ATestID": 43019831,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e0256005f5481e415e8505e774326f49c0d8423cacf73f23c0cf08b3042b36fc42ef5ac25e67e26baa79fff89b04a6f024497c600fe636d80acaae5fde82ed2fae4d7d3f5650caedd0849e9e9c121546eedae6377d95b5c32cb5dc0868e0602a03ce5ec8219939f96e6a1c39ade29900f7567a184b01562b",
+                            "Explain": "服用激素者易出现股骨头坏死。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "双髋类风湿关节炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "双髋创伤性滑膜炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "双髋退变性关节骨关节炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "双侧股骨头缺血性坏死"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨结核"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019832,
+                            "ATestID": 43019832,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "883cfdb95426cfcfd6a12ff00b05eab5eccbac1de13a0c01a1728d7aaf3f4d214650c8854d051840",
+                            "Explain": "此题超纲，考到的可能性很小。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "缺血期、血供重建期、愈合期、畸形残存期"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "缺血期、坏死早期、坏死中期、坏死晚期"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "缺血期、变形期、愈合期"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "缺血期、坏死期、愈合期"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "缺血期、变质期、渗出期"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019833,
+                            "ATestID": 43019833,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ac6a4fedc3e3938065fcce2f797324f24ed180fd7b163f4e93929ce7dd318aa0cae91dcb1a5bce4d",
+                            "Explain": "本病好发于12～14岁的好动男孩，多为单侧。发病前常有参加剧烈运动或外伤史。表现为胫骨结节处疼痛，轻度肿胀并伴有压痛，活动后加重，故选C。",
+                            "TestPoint": "胫骨结节骨软骨病",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "9～10岁"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "10～11岁"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "12～14岁"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "15～17岁"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "20～25岁"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019834,
+                            "ATestID": 43019834,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0edf7ec8471596d3f43350f2aaeb5c1c6246bde938f42669b2ba2c4148e9acceb4941e8f635c58c5b50d344aac19b34a0104a463531e538425fca1714ec75ca780a1090c0b1d568712f2eb7c7ed778c5ad550d77934601a261db37b400188ed1b7dda87fba8f6f38c94b15d7b615ddf7c3ea139f5d14736eb0d4bd5f0e6ae1380e70acd01cb39e82b12b9b7c71cc8e71a5b17994760fb24e6fab63bacc95442804fc35b7e2c76f2c70a911fea7dd19e912f80d6bc9e2a446baf204f0fa26432dc9fa3d04425721acc9a1a5f65e2527fcaaed497bdbddc5950753dd25c207840a383e314e65262d0dad0ccbdb5de972bbeb03ab645550f50a10e23b9002597fd0caa7274a7739200b",
+                            "Explain": "胫骨结节骨软骨病好发于12～14岁好动的男孩，多为单侧，常有近期参加剧烈运动史，临床上以胫骨结节处逐渐出现疼痛、肿块为特点，疼痛与活动有明显关系。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "撕脱骨折"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨肿瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨结核"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨软骨瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨软骨病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019835,
+                            "ATestID": 43019835,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8e8279c6282b52dd061b8889f8a9585eb29822e1b03fbd255d12159d6cdf4754713345c2e5b21aab3e305b257bc8ce57cd46712735eda6786738719384bac835fcc824b15b48dd0a",
+                            "Explain": "一般无需服用止痛药，亦不宜行局部封闭。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "一般无需服用止痛药"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "症状明显时可行膝关节短期制动"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "局部封闭"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "成年后仍有症状可行钻孔或植骨术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "减少膝关节剧烈活动以缓解症状"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019836,
+                            "ATestID": 43019836,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "abf670e4a5e1bf31ff2ffeae5e209586a4092eefa56500c6d400abcd2f5e71d8e89320c6cdfe02e9ee660323bf74637d348373f499b18b703907c9bf1f173e23f3b15b26ebb9ac2c3fc72dc95f62f4a625ead0bbf715e457c9c945795b8d8b1aee26e399ecdddce9995ec586ca7b0835f3b8d20e699f0872fbb064c42d1da9788452998f71e6b88c404202a631c26ee9e014de53a5aedf0228fc7de4c7d435952994b6abab6e0cac4e15e83c7a3260abd22b1a39afb31c742281798a7670551477ef8f557d909510aa097b544f22a0b9d23cc621fbb2ceda58d976423b57294b713296721de3f58744932c11e3a0d957",
+                            "Explain": "神经根型颈椎病表现为上肢有放射痛和感觉障碍，手指可有麻木、过敏、活动不灵、精细动作困难。体征有颈活动受限；颈肩部压痛；神经根牵张试验、压顶试验阳性；神经根所支配区域皮肤感觉改变，早期为疼痛过敏，晚期为减退或消失；肌力减弱，肌肉萎缩。与提干相符，故选B。",
+                            "TestPoint": "颈椎病",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "脊髓型"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "神经根型"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "混合型"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "椎动脉型"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "交感神经型"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019838,
+                            "ATestID": 43019838,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3386b1c8381c86b09587ce6e62b069a495947886a371f8937a8cbb8808440e86ad4a309b88d12dfca601f214fafe34a812f5261a48c0dae087c92f67f1bc125ee8c17a0747ce291edc4eac44372d380b887a0aae82b4804f12225ecec60dafc4f86aad35ee047f872a0f10b67de49b687c2eaf04cc0ee6993e64b6386bbd3be0",
+                            "Explain": "颈椎病是由于颈椎间盘逐渐发生退行性变、颈椎骨质增生或颈椎正常生理曲线改变后脊髓、神经、血管受到刺激或压迫而引起的一组症状、体征。常在受凉、感冒、手术后发生，表现为一侧（少数为双侧）颈、肩胛或上肢肌的麻木、疼痛、无力、肌萎缩，体检发现臂丛神经干上等处明显压痛，牵引臂丛上肢外展或上举即诱发疼痛，肩、上臂外侧处和前臂桡侧感觉减退，肱二头肌、肱三头肌腱反射减弱或消失。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "颈椎病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肩周炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肩袖综合征"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "臂丛神经炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "椎间盘突出症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019839,
+                            "ATestID": 43019839,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2fc8308ee1e12629ea9fbc202e5ba41a8e38650a50bfa51a284b75b00a951597ca05d9e827a448c5102c9b841f18b8683b2fce41bb8622c5",
+                            "Explain": "椎动脉性颈椎病是颈椎横突孔狭窄，上关节突明显肥大可刺激或压迫椎动脉。眩晕是主要症状。视觉障碍时大脑后动脉及脑干内3，4，6神经缺血所致，故选D。",
+                            "TestPoint": "颈椎病",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "四肢肌肉萎缩"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "四肢手足多汗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "四肢放射性疼痛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "眩晕、视觉障碍"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "瘫痪"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019840,
+                            "ATestID": 43019840,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "352931a9d5d8e099ee7e75798a3823e7879a5eaa93c97ce4ec1a45357b4067b3d156dd6b3232d71f56150657518e3da418c28c1cb0b22bf8c3fb93ffcc591ff9c07eb6d3b135c980",
+                            "Explain": "从解剖方面看，后纵韧带由上至下宽度逐渐减少，到达腰4～5及腰5～骶1时，宽度减少至只有上部宽度的一半。从生物力学的角度看，腰4～5及腰5～骶1承受的压力最大（承担身体重量的60%左右），活动度最大。因此，下腰部的腰4～5、腰5～骶1是最易遭受损伤、劳损的部位，故选E。",
+                            "TestPoint": "腰椎间盘突出症",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "T[XB1dao2.gif]"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "L[XB1dao2.gif]"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "L[XB4.gif]～S[XB3.gif]"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "L[XB3dao4.gif]"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "L[XB5.gif]～S[XB1.gif]"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019842,
+                            "ATestID": 43019842,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "40746b0d506bbc0c22f2251c7030aa91b0845701dba6ad4697e3d4b96235609064e75e42ef51e505",
+                            "Explain": "骶1神经根受累者，趾及足跖屈力减弱。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "腰4～腰5腰椎间盘突出"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腰3～腰4腰椎间盘突出"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰1～腰2腰椎间盘突出"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腰2～腰3腰椎间盘突出"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腰5～骶1腰椎间盘突出"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019843,
+                            "ATestID": 43019843,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7a99c3b8e0e8710ec769ca607f4cd78b87c9c403c2d081bd42b86140c27c90b8f9cf5fcb56d7fa5a2501880e77d8e86b6e0dc6a4e97ba528fc1c087f48d162ca0db938cb0f9fd4e13e1ca6e224f9e0b83cb8ff74ce46d2c29957d83dea79ab4ee563b9cce6c0e332c284ca495ec7d7f8cb36f04778d17f4d79f38543ae00a276496fb721a5672952c4307750a6ae7478fc42c56580d4f21ecf83e68aa96f2121efc7d47066300bc8451f7e11c56f332b211b3e678b43154a",
+                            "Explain": "CT可显示骨性椎骨形态，黄韧带是否增厚及椎间盘突出的大小、方向等，对腰椎间盘突出症有较大诊断价值，目前已普遍采用。放射性核素骨扫描对恶性肿瘤有无骨转移诊断有重要价值。故选E。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "X线片"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "透视"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CT"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "核素骨扫描"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "脑脊液检查"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019844,
+                            "ATestID": 43019844,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ccf08be0713f87a95dff7af476e13b2f9322d361159b4179b3c61658862bda4c4114a099e87789bad05a57e557ee3d007eca12fa4ec2e97e416afcbea63c8911ea26743a61233977e402535d8a9844776332b75fc8cf86d6b77d76bb26623b43f27d57e24011b2625ce38442c185dab05063300e26721ee2531007a9d0b11d4530ed1db9e078287cb0bdc1979192c918667bc03710b9356d5cfff62d9f93432411d857b04032f2ecd29e2da6cb7c160c842ee2e52d85157b399a8b3a53a640e4ff3a5b45983dc90162a02e36b776f2f8f95399c76b18f282546b0e81511b6778c8b29700a2542b661082465d81013457f818ba082181aaf5c7348cb9306d17051e8a9f8568e325eed4bc9fb3682f3d074af96fa792cf3779",
+                            "Explain": "胫骨结节骨软骨病又称胫骨结节骨骺炎，好发于11～15岁的青少年男孩。病因是胫骨结节撕脱性骨折或股四头肌腱炎，常伴有新生骨形成。主要表现为：胫骨结节处疼痛，轻度肿胀并伴有压痛，劳累后加重。大多数病人只要减少活动2～3周即可。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "化脓性关节炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胫骨平台骨折"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "关节结核"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "类风湿关节炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胫骨结节骨软骨病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019847,
+                            "ATestID": 43019847,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0edf7ec8471596d3d126352c1422e321fd9b6636809c1ee0384ce76628822587dbff8901788369b166daa803236861c8ad506b8a0a0e25ce5eba3ba549812f99e1cbc0b2bd6dbe93fdd30eaaecce01e9e27044b908d1716a310c0a28ee065f25435b1aa7542472d351472e3a0e6b163cddb64e9673dd728eccc66c9f6a7c4f7852a0d1d951b880517b757b332ca624dab28aee9fc0d1027cf6d8b372dd283a0385f1900ba73eb58a0f70522e7fa38d319305a557f0c6ea35f3bd18e98ecf9076",
+                            "Explain": "以骶髂关节和脊柱附着点炎症为主要症状的疾病与HLA-B27呈强关联。病变发展至胸椎和颈椎椎间小关节，间盘间隙发生钙化，纤维环和前纵行韧带钙化、骨化、韧带骨赘形成，使相邻椎体连合，形成椎体间骨桥，呈最有特征的\"竹节样\"脊柱。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "强直性脊柱炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腰椎间盘突出症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰椎结核"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腰椎肿瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "化脓性脊柱炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019848,
+                            "ATestID": 43019848,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02f9e1a55ea2605f56f647c9f969a17639154a88548da5b924aa6f852b99346dec1d66a873956003cf9deca35c6b3cf6dc3b1373ff621beb",
+                            "Explain": "肱骨外上髁炎的临床表现为：①逐渐出现肘关节外侧痛，用力握拳、屈腕时加重，以致不能持物；②肱骨外上髁、桡骨头及二者间有局限性、极敏锐的压痛；③伸肌腱牵拉试验：伸肘握拳、屈腕、前臂旋前，肘部外侧出现疼痛为阳性，有时疼痛可牵涉前臂伸肌中上部。肱骨外上髁炎由于有肌筋膜炎，做该试验时疼痛明显。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Mills征"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "Thomas征"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "Spurling征"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "Dugas征"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "\"4\"字试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019849,
+                            "ATestID": 43019849,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a46cb6e336f8d0866c40882410a97b61cedc6de6c30fc2061c63332af4fb28ebfe5a605ecb5471430f729cabb36eb223313b4588f87cd7d2cea0830e0ad70fcc2f5c5c015a630d69180a6fed989c9a2ef186c82e62901e91182fe8df9d59995cd55cb90dc8e5d740e72bd3fc92d0e30538ddba4a9ec67d6a0f44720c5646b0973e9994f731c4f1aa8ee66c2acc695b14e287b6e371d4f83d4c260b973afa60dd89e82111c38991d9de991abfc7fcf354dbdaef30ad711e966ee6060ea6744b2fffdedb4fba6a3ca8812bde05e0901e3a5178c4d99de23ae22878f9ac81ea94035b0c078e556bd2e97c6b4de43d5cbc991417a41ab7c2a1af376e36577076cac9cd3acf1468129b679ffe8870dac23f49a9306addd211b174",
+                            "Explain": "患者X线片未见异常，可排除腰椎肿瘤；强直性脊柱炎及急性腰扭伤直腿抬高试验一般为阴性；腰椎管狭窄症以间歇性跛行为主要特征。患者主要症状为腰痛，向左下肢放射，伴左小腿皮肤感觉减退，为神经受损表现，且排便时加重，疼痛与腹压有关，腰椎间盘突出症可能性大。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "腰椎间盘突出症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腰椎肿瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰椎管狭窄症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "强直性脊柱炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腰扭伤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019850,
+                            "ATestID": 43019850,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "7b152f764e1cb121f51140dee7bb3d81c01eb97d9fbbea31fb07efc8bda250a94295eaa403675605cc9b4e2908cc76421520c151f8f5e29d35731a97cec78f5970b22cb6b2eabb15c1e3e01d7aa7b95e5c0e16c2b6f4b022b9fe10e3f7e5d8b6fff144932106f735100a6f2d97cc92b97895b929be657c6ba5a9822fd819fc4a9a485b907ae24be7c9c04fc3de022d1fc93e7b79b33f1cbab8c358a686d50d34079a39b697a54f5b1bf1d6a6c1468569833603f0b4d8ec5e5bb72f7f19819014",
+                            "Explain": "肩周炎是肩周围肌肉、肌腱，滑囊及关节囊的慢性损伤性炎症。女多于男，常为单侧。主要表现为上述结构的增生、粗糙及关节内、外粘连。临床特点为活动时疼痛、功能受限。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肩关节结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "骨关节炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "类风湿关节炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肩部肿瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肩周炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001702,
+                            "ATestID": 43001702,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d0482abf41a761c4121f40be468272ba5986efd8f38ad9995cc347bf1df9e699240b06c3d7ca9327448abfa35f925734f9f8fc9fdd8f3e5c978f3d69eb0c50d4aca3349c15ad731ed6e8060e85526d59a6fa341449f0d3bf902798a95ea9751dda856d09ce8d10e39ded3f1e1072a8ea7b6949098b479531d13722fbf1e3646d92901e6a93a856bd85b64529b6140be671a687031cd481ea8a57d18f2253c27fb6ad747854adf1ec24eb5237a669562158ff2b7423eec1de350f94f2da6880e0790778b055522fd3708a2b5759dac84269f9fe764714065dd3e42e7ce1f0244d5e97654245230da2798de4ac2cab883eb32",
+                            "Explain": "据上肢放射痛伴手指麻木，动作不灵活体检，神经牵拉试验及压头试验阳性，右上肢桡侧皮肤感觉减退，握力减弱，肌张力减低的临床表现诊断为神经根型颈椎病。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "交感神经型颈椎病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脊髓型颈椎病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "椎动脉型颈椎病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "神经根型颈椎病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "混合型颈椎病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001705,
+                            "ATestID": 43001705,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "其最可能的诊断为",
+                            "Explain": "1.腰椎间盘突出症主要症状：①腰痛是大多数患者最先出现的症状；②坐骨神经痛是从下腰部向臀部、大腿后方、小腿外侧直到足部的放射痛；③马尾神经受压可出现大、小便障碍，鞍区感觉异常。主要体征：①腰椎侧弯；②腰部活动受限；③压痛和骶棘肌痉挛；④直腿抬高试验及加强试验阳性；⑤神经系统表现。特殊检查X线片可见脊柱侧弯、椎体边缘增生及椎间隙变窄等退行性改变。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "急性腰扭伤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "第3腰椎横突综合征"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰椎管狭窄症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腰椎间盘突出症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "梨状肌综合征"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7670f462bf2a878ebf5f2d653fb85df63cde1047b5318ecf957d0c7430cd6973b7b5c30b3852d6df0606fd3a71956618d24f5a0276eab570ef225f4687e1ea34027a46d92e7bb8f4c5d50e3dfc569842e94504ce0798c7a7b0d46bcef809d27e84384e012e35c563ada12f121c8baf38dab82d14c215d8978a41ee1b6c06fd805af4f73e31250d1d4eb56520bd915cd570b1c108a13d55ca94a8363cf16b11d1ca4941096cb229db224afedae4a2e33f99d57bdd701d0bee03bee5e8b72518ba7be6934a0d23f40b52c2a5ca7f9e673e0c68431d54d35084ac9b2a26324adb712487acf659e866a8bd48ae93db5be9f2b12c2447e91c7896",
+                            "AllTestID": 41002362,
+                            "A3TestID": 41000367,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000367,
+                                    "Title": "9cb13210a74db4879a396bf6479bcb94f538b1182efc43952bf1fade8e7bdcbe",
+                                    "Explain": "1.腰椎间盘突出症主要症状：①腰痛是大多数患者最先出现的症状；②坐骨神经痛是从下腰部向臀部、大腿后方、小腿外侧直到足部的放射痛；③马尾神经受压可出现大、小便障碍，鞍区感觉异常。主要体征：①腰椎侧弯；②腰部活动受限；③压痛和骶棘肌痉挛；④直腿抬高试验及加强试验阳性；⑤神经系统表现。特殊检查X线片可见脊柱侧弯、椎体边缘增生及椎间隙变窄等退行性改变。故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "急性腰扭伤"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "第3腰椎横突综合征"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "腰椎管狭窄症"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "腰椎间盘突出症"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "梨状肌综合征"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000368,
+                                    "Title": "683e8e0b0346a93468fd575f6f818d8669b032720e0cb9bb3889a7320deef7c2",
+                                    "Explain": "2.腰椎结核、腰椎肿瘤、脊椎滑脱症、腰椎管狭窄症等都可以出现腰椎压迫现象，腰肌劳损并不能出现压迫症状，故选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "腰椎结核"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "腰肌劳损"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "腰椎肿瘤"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "脊椎滑脱症"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "腰椎管狭窄症"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000369,
+                                    "Title": "beef1e7a7aadbc3e9ef1679a7dfd69285a7e19f3246bedf96fb9a21b132a3393d8b9eb830fba27f1",
+                                    "Explain": "3.80%患者有感觉异常。L[XB4dao5.gif]间盘突出L[XB5.gif]神经根受累者，小腿前外侧或足内侧的痛、触觉减退；L[XB5.gif]～S[XB1.gif]间盘突出S[XB1.gif]神经根受压时，外踝附近及外侧痛、触觉减退。故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "小腿外侧或足背"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "大腿前侧"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "小腿前内侧"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "小腿后侧及足底"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "臀部及大腿后侧"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000370,
+                                    "Title": "f3d1433e97640dc337e4110fa364a450ee46c8d7717393471322bc2470aa1f5ae0fc658f6cbf9b8ea3530cd465ba0b9ea11134cb0566b885",
+                                    "Explain": "4.单纯X线平片不能直接反映是否存在椎间盘突出。CT可显示骨性椎管形状，黄韧带是否增厚及椎间盘的大小、方向等，对腰椎间盘突出症有较大的诊断价值。故选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "X线片"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "CT"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "ECT"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肌电图"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "化验检查"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "26487c698ab3ade18611ea15db28a83fb38491b18f62cab591e7882c53cfcb8c254014ecf738fa9c",
+                            "Explain": "椎体边缘破坏及椎间隙变窄见于腰椎结核，腰椎间盘突出症单独靠X线片所见无法确诊，因X线对于椎间盘及脊髓是否受压分辨率低。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "颈椎病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "腰椎骨折"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "腰椎骨关节炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "腰椎间盘突出症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "腰椎结核"
+                                }
+                            ],
+                            "AllTestID": 43001707,
+                            "BTestID": 43000393,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000393,
+                                    "Title": "26487c698ab3ade18611ea15db28a83fb38491b18f62cab591e7882c53cfcb8c254014ecf738fa9c",
+                                    "Explain": "椎体边缘破坏及椎间隙变窄见于腰椎结核，腰椎间盘突出症单独靠X线片所见无法确诊，因X线对于椎间盘及脊髓是否受压分辨率低。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000394,
+                                    "Title": "c33f39f6da73552bbe294be3716e2e19374129d87264981c95ee576fedf92f60d675fbe42f6731f2623ae7f9cc2f187c",
+                                    "Explain": "椎体边缘破坏及椎间隙变窄见于腰椎结核，腰椎间盘突出症单独靠X线片所见无法确诊，因X线对于椎间盘及脊髓是否受压分辨率低。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000395,
+                                    "Title": "c33f39f6da73552b878e89fa85df168d127645500beec7821eb8c387342fb110e0503c64972534b3303179598a584d35",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "6d1133d396968cc420ae9540f27bc7cb33d690c0abb2ef23a01f78a511654e96",
+                            "Explain": "压头试验压头试验（Spurling征）：颈肩部疼痛患者，患者端坐，头后仰并偏向患侧，术者用手掌在其头顶加压。出现颈痛并向患手放射者，称之为压头试验阳性。常见于颈椎病患者神经根型，故选E。",
+                            "TestPoint": "颈椎病",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "杜加（Dugas）征阳性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "伸肌腱牵拉试验（Mills征）阳性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "\"4\"字试验阳性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "直腿抬高试验（Lasegue）阳性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "压头试验阳性"
+                                }
+                            ],
+                            "AllTestID": 43019856,
+                            "BTestID": 43003320,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 218,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003320,
+                                    "Title": "6d1133d396968cc420ae9540f27bc7cb33d690c0abb2ef23a01f78a511654e96",
+                                    "Explain": "压头试验压头试验（Spurling征）：颈肩部疼痛患者，患者端坐，头后仰并偏向患侧，术者用手掌在其头顶加压。出现颈痛并向患手放射者，称之为压头试验阳性。常见于颈椎病患者神经根型，故选E。",
+                                    "TestPoint": "颈椎病",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003321,
+                                    "Title": "d0307ab9dce5062ccd0b705898f3119d695ff36e3d3d94dd4455930270612d7c7232b89ea5479aba",
+                                    "Explain": "伸肌腱牵拉试验： 嘱患者肘伸直，握拳、屈腕，前臂旋前，发生肘外侧疼痛为阳性，或患者前臂旋前位，作对抗外力的旋后运动，发生肘外侧疼痛为阳性，可见于肱骨外上髁炎，故选B。",
+                                    "TestPoint": "肱骨外上髁炎",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35003413,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35003413,
+                        "ChildTableID": -1,
+                        "UserCount": 2704,
+                        "RightCount": 2305,
+                        "FavCount": 31,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35003413,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43001696,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001696,
+                        "ChildTableID": -1,
+                        "UserCount": 2737,
+                        "RightCount": 2232,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001696,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43001697,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001697,
+                        "ChildTableID": -1,
+                        "UserCount": 2669,
+                        "RightCount": 2202,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001697,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43001698,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001698,
+                        "ChildTableID": -1,
+                        "UserCount": 2877,
+                        "RightCount": 1586,
+                        "FavCount": 101,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001698,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43001700,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001700,
+                        "ChildTableID": -1,
+                        "UserCount": 2581,
+                        "RightCount": 2319,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001700,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41002348,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002348,
+                        "ChildTableID": -1,
+                        "UserCount": 2544,
+                        "RightCount": 2279,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002348,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41002349,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002349,
+                        "ChildTableID": -1,
+                        "UserCount": 2477,
+                        "RightCount": 2326,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002349,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002352,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002352,
+                        "ChildTableID": -1,
+                        "UserCount": 2685,
+                        "RightCount": 1591,
+                        "FavCount": 82,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002352,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 41002359,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002359,
+                        "ChildTableID": -1,
+                        "UserCount": 2647,
+                        "RightCount": 1833,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002359,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41002360,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002360,
+                        "ChildTableID": -1,
+                        "UserCount": 2483,
+                        "RightCount": 2212,
+                        "FavCount": 22,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002360,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019829,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019829,
+                        "ChildTableID": -1,
+                        "UserCount": 2392,
+                        "RightCount": 2186,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019829,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019830,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019830,
+                        "ChildTableID": -1,
+                        "UserCount": 2403,
+                        "RightCount": 2141,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019830,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43019831,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019831,
+                        "ChildTableID": -1,
+                        "UserCount": 2366,
+                        "RightCount": 2247,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019831,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019832,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019832,
+                        "ChildTableID": -1,
+                        "UserCount": 2452,
+                        "RightCount": 1875,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019832,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43019833,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019833,
+                        "ChildTableID": -1,
+                        "UserCount": 2539,
+                        "RightCount": 1617,
+                        "FavCount": 83,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019833,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43019834,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019834,
+                        "ChildTableID": -1,
+                        "UserCount": 2556,
+                        "RightCount": 1315,
+                        "FavCount": 121,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019834,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43019835,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019835,
+                        "ChildTableID": -1,
+                        "UserCount": 2528,
+                        "RightCount": 1653,
+                        "FavCount": 69,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019835,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43019836,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019836,
+                        "ChildTableID": -1,
+                        "UserCount": 2573,
+                        "RightCount": 1392,
+                        "FavCount": 81,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019836,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43019838,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019838,
+                        "ChildTableID": -1,
+                        "UserCount": 2387,
+                        "RightCount": 2034,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019838,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019839,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019839,
+                        "ChildTableID": -1,
+                        "UserCount": 2441,
+                        "RightCount": 2000,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019839,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019840,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019840,
+                        "ChildTableID": -1,
+                        "UserCount": 2316,
+                        "RightCount": 2197,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019840,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019842,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019842,
+                        "ChildTableID": -1,
+                        "UserCount": 2396,
+                        "RightCount": 1984,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019842,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019843,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019843,
+                        "ChildTableID": -1,
+                        "UserCount": 2405,
+                        "RightCount": 1789,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019843,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019844,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019844,
+                        "ChildTableID": -1,
+                        "UserCount": 2363,
+                        "RightCount": 1912,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019844,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019847,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019847,
+                        "ChildTableID": -1,
+                        "UserCount": 2355,
+                        "RightCount": 2081,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019847,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019848,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019848,
+                        "ChildTableID": -1,
+                        "UserCount": 2390,
+                        "RightCount": 1969,
+                        "FavCount": 38,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019848,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019849,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019849,
+                        "ChildTableID": -1,
+                        "UserCount": 2287,
+                        "RightCount": 2163,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019849,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019850,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019850,
+                        "ChildTableID": -1,
+                        "UserCount": 2287,
+                        "RightCount": 2131,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019850,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43001702,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001702,
+                        "ChildTableID": -1,
+                        "UserCount": 2412,
+                        "RightCount": 2235,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001702,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43001705,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001705,
+                        "ChildTableID": -1,
+                        "UserCount": 2478,
+                        "RightCount": 2153,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001705,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002362,
+                "ChildTableID": 41000367,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002362,
+                        "ChildTableID": 41000367,
+                        "UserCount": 2471,
+                        "RightCount": 2198,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002362,
+                    "ChildTableID": 41000367
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002362,
+                "ChildTableID": 41000368,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002362,
+                        "ChildTableID": 41000368,
+                        "UserCount": 2828,
+                        "RightCount": 1395,
+                        "FavCount": 83,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002362,
+                    "ChildTableID": 41000368
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41002362,
+                "ChildTableID": 41000369,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002362,
+                        "ChildTableID": 41000369,
+                        "UserCount": 2597,
+                        "RightCount": 2150,
+                        "FavCount": 63,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002362,
+                    "ChildTableID": 41000369
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41002362,
+                "ChildTableID": 41000370,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002362,
+                        "ChildTableID": 41000370,
+                        "UserCount": 2491,
+                        "RightCount": 2323,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002362,
+                    "ChildTableID": 41000370
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43001707,
+                "ChildTableID": 43000393,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001707,
+                        "ChildTableID": 43000393,
+                        "UserCount": 2644,
+                        "RightCount": 1803,
+                        "FavCount": 70,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001707,
+                    "ChildTableID": 43000393
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001707,
+                "ChildTableID": 43000394,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001707,
+                        "ChildTableID": 43000394,
+                        "UserCount": 2705,
+                        "RightCount": 1432,
+                        "FavCount": 97,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001707,
+                    "ChildTableID": 43000394
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001707,
+                "ChildTableID": 43000395,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001707,
+                        "ChildTableID": 43000395,
+                        "UserCount": 2620,
+                        "RightCount": 1767,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001707,
+                    "ChildTableID": 43000395
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43019856,
+                "ChildTableID": 43003320,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019856,
+                        "ChildTableID": 43003320,
+                        "UserCount": 2478,
+                        "RightCount": 2189,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019856,
+                    "ChildTableID": 43003320
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43019856,
+                "ChildTableID": 43003321,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019856,
+                        "ChildTableID": 43003321,
+                        "UserCount": 2333,
+                        "RightCount": 2242,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019856,
+                    "ChildTableID": 43003321
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

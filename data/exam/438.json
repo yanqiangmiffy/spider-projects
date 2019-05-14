@@ -1,0 +1,176 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:17:38 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "9888ea79aa3b06d2b0f1bb20850f683a75c424465c4c07ba",
+                            "Explain": "Kussmaul呼吸是指代谢性酸中毒时出现规则的、快而深长的呼吸，可有鼾音，又称酸中毒深大呼吸。常见于见于糖尿病酮症酸中毒、尿毒症酸中毒等。故答案为C。",
+                            "TestPoint": ".Kussmaul呼吸",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "急性传染病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "巴比妥类药物中毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "尿毒症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脑出血"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "重度贫血"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000022,
+                            "ATestID": 42000022,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 438,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "513953e8798708d41320944e1d7fc714cdbb5d12f32191409fdf8491b2678dcd82dac953ddfb40bd341528a09cb45015a36f8f17ca384fe4b7df0ce10c29d936",
+                            "Explain": "基本的呼吸节律产生于低位脑干，在不同平面横断脑干，可使呼吸运动发生不同的变化。当中枢性神经系统发生病变时，会引起呼吸节律的变化。故答案为D。",
+                            "TestPoint": "呼吸节律",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺源性疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "心源性疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "贫血性疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "中枢性神经系统疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "精神性疾病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 42000023,
+                            "ATestID": 42000023,
+                            "SrcID": 9,
+                            "SbjID": 63,
+                            "CptID": 438,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 42000022,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000022,
+                        "ChildTableID": -1,
+                        "UserCount": 3056,
+                        "RightCount": 1094,
+                        "FavCount": 89,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 50
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000022,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 50
+            },
+            {
+                "AllTestID": 42000023,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 42000023,
+                        "ChildTableID": -1,
+                        "UserCount": 2769,
+                        "RightCount": 1594,
+                        "FavCount": 45,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 42000023,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

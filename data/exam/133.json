@@ -1,0 +1,2185 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:21:33 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 21,
+                    "TestItems": [
+                        {
+                            "Title": "af0b023b3799731e404ed566f738ac5a1cc8807f2c31ba4f3f296d317df44c79",
+                            "Explain": "韦克斯勒智力测验包括成人、儿童、幼儿三种量表，适用于不同年龄人群。每种量表包括11个分测验，6个语言测验，5个操作测验。一般按先语言后操作的方式进行。测试后再综合评定。用离差智商表示。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "问卷与投射测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "问卷与操作量表测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "语言与操作量表测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "问卷与言语量表测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "神经心理学测验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000709,
+                            "ATestID": 35000709,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c731246fa930df5251f4dd380ad3f51947832e553b4f6207c8178565c484a6f6",
+                            "Explain": "用智龄和实际年龄的比率来代表智商，叫比率智商，公式为IQ=MA/CA×100。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "人格智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "离差智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "比率智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "中位数智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "百分位智商"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000711,
+                            "ATestID": 35000711,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "520b46adc3ba79939750ace4a48b5a95a2a545be83d095fe4bc68f7b943580bbf72ece1a3cb9e371",
+                            "Explain": "韦克斯勒将离差智商的平均数定为100，标准差定义为15。公式为IQ=100+15Z=100+15（X-M）/S（X代表个体的测验分数，M代表团体的平均分数，S代表团体分数的标准差，Z代表标准分数）。它表示的是个体智力在年龄组中所处的位置，因而是表示智力高低的一种理想的指标。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "混合智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "晶体智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "比率智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "离差智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "液体智商"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000713,
+                            "ATestID": 35000713,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cb3156a4f09d918961520e2e001994d301f358aa0adba941981bbeb9d3dd16604d8e3f6bceb5aa9d89eaebfc783c2d2a",
+                            "Explain": "按测验的组织方式分类1．个别测验：每个主试每次只可以测试一个被试，如韦氏智力量表。2．团体测验：每个主试可以同时测试多个被试，某些智力测验可以以团体为单位进行。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "个别测验、团体测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "文字测验、非文字测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "问卷法、操作法、投射法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "调查法、观察法、会谈法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "智力测验、人格测验、特殊能力测验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002822,
+                            "ATestID": 43002822,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "13046a1adca85368d2b62a932f5da24f83b89a2c1d9a83d3c75b2929a4767111",
+                            "Explain": "表示智商高低的一种理想的指标，IQ=［13(×-M)/S］+100。从不同测验获得的离差智商只有当标准差相同接近时才可以比较",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "比率智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "离差智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "百分位智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "中位数智商"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "人格智商"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002823,
+                            "ATestID": 43002823,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "67f8d953c1bbf8e28e1914e5854da337644fde0daa9d20c8ff85ae74e185bdd4eb1fdff649a9e9f8",
+                            "Explain": "目前我国最常用的智力量表是韦克斯勒智力量表",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "斯坦福-比纳智力量表"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "洛奇-桑代克智力量表"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "韦克斯勒智力量表"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "瑟斯顿智力量表"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "勒特国际操作量表"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002824,
+                            "ATestID": 43002824,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ff424182a90da0d03bb4eea506c2a1e808ed9795db888ec75805c6011dfcaee4c4515530671f1ffb",
+                            "Explain": "以弗洛伊德（Freud）的心理分析人格理论为依据。这种理论主张，人一些潜意识的内驱力受到压抑，虽然不易觉察，但是却影响着人们的行为。这种潜意识可以在无规则的表达中表露出来，心理学家则根据被试表达出来的潜意识，进行人格分析",
+                            "TestPoint": "医患关系",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "精神分析理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "行为主义理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "人本主义理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "认知理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "心理生理学理论"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002825,
+                            "ATestID": 43002825,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "efd054ec56260109bb587bbed33e144b6c4ea69e2c2d36c95dad78a36c70ba199934157b3f3a84db4a62a6e86ff2dabc",
+                            "Explain": "医学心理中心理评估的常用方法如下：①调查法，调查法包括历史调查和现状调查。历史调查主要包括档案、文献资料和向了解被评估者过去经历的人调查等内容。现状调查主要围绕与当前问题有关的内容进行。②观察法，是通过对被评估者行为表现直接或间接的观察或观测而进行心理评估的一种方法。③会谈法，其基本形式是一种面对面的语言交流，也是心理评估中最常用的一种基本方法。④作品分析法，通过分析被评估者的作品，评估其心理水平和心理状态。⑤心理测验法，在心理评估中，心理测验占有十分重要的地位。故本题选C。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "会谈法"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "调查法"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "实验法"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "作品分析法"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心理测验法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015609,
+                            "ATestID": 43015609,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "52317de4bff708fbf1d65fd0a460e740c868841e4c25c75db2afd5dc42ffa23b52686fcf2b9dc22b",
+                            "Explain": "心理测量是指依据一定的心理学理论，使用一定的操作程序，给人的能力、人格及心理健康等心理特性和行为确定出一种数量化的价值。心理测量包括心理测验为工具的测量，也包括用观察法、访谈法、问卷法、实验法、心理物理法等方法进行的测量，故选C。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "心理评估"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "心理鉴定"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "心理测验"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心理观察"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心理考试"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015610,
+                            "ATestID": 43015610,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "036526d17890bd2a733df5bcc6f60045bac9d190fd06e3a651b91f6e50240b9f2cdf32af5ee27f7a",
+                            "Explain": "比内-西蒙量表是世界上第一个智力测验量表。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "智力测验"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "人格测验"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "神经心理测验"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "评定量表"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "情商测验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015611,
+                            "ATestID": 43015611,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cb3156a4f09d918987066d3f8364b483f5c73241d34f020ad31f23bd65363bc1",
+                            "Explain": "心理测验应遵守的原则：标准化原则、保密原则、客观原则，故选A。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "标准化"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "稳定性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "社会化"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "道德性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "自理性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015613,
+                            "ATestID": 43015613,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cb3156a4f09d91891d6a930a3fd2d96cbaa6b1e54f4f50ec368bed37e1b54d68a022cf96530f7264",
+                            "Explain": "心理测验应遵守的原则：标准化原则、保密原则、客观原则。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "真诚、中立、回避"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "自强、自立、自省"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "信度、效度、常模"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "客观、保密、标准化"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "自主、学习、实效"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015614,
+                            "ATestID": 43015614,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ac4980b50033cbfe8343672253e284b59f9c2b85deb65a755987169fb2370a34309c786185496cd8828e88bfe57eaef2250d56079f3e4e2b",
+                            "Explain": "要同时具备以下3个条件:①采用公认的标准化测量工具，即：测验工具要有较好的信度、效度和常模。②保证固定、良好的施测环境和条件。③严格按照测验手册规定的方法施测,包括测验指导语、测时限制、测验情境的规定等，故选E。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "常模"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "信度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "效度"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "指导语"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "被试"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015615,
+                            "ATestID": 43015615,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1fa2a1166e7815d22db4056d6d1a483a9247022f8f5377c97b3e5eb5ad8e553257cb4dbb235d991a6f11f23219d2fd57d24245ba296793b7",
+                            "Explain": "效度是指测验的正确性，即一个测验正确测量了其所要测量的东西的程度，而信度是指测验的可靠性，故选A。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "效度"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "信度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "样本"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "程度"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "概念"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015617,
+                            "ATestID": 43015617,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "70c11e5ba1940bb0ebc69ae3354c68d9eee15462d2c1d2e968bbd1e2312b4f0cc43e85d3be2030431976843bebf987b928a5eb2d0d6ab0f5551c8fecea16730c86de42518a2ecc26",
+                            "Explain": "智商表示智力的相对水平，成为比较儿童聪明程度的指标。比率智商的计算公式：智商=（智力年龄／实际年龄）×100。故本题选A。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "比率智商"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "百分位智商"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "人格智商"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "中位数智商"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "情商"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015618,
+                            "ATestID": 43015618,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f172bc3be05e4af70c932744d817dd64abce444bb3f082761e552265ee5e8617d9d0b1421f9efba6724191a624b9e7fbe1ebc67fb356641e",
+                            "Explain": "智商在130以上为极优秀（超常）；110～119认为高于正常；普通人在100左右，为中等（平常）；70以下（不合70）为智力缺损（智力低下）；70～79为临界。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "70～79"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "80～89"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "90～109"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "110～119"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "140～160"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015620,
+                            "ATestID": 43015620,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f07923e46e5917d7610b5d1675c473bbf2ffb04f8c844741c46d634b49d75dda54e5d75043d608e73bdc9ad140850bc5fa54af238638ac03",
+                            "Explain": "明尼苏达多项人格测验是由明尼苏达大学教授哈瑟韦和麦金力于40年代制定的，是迄今应用极广、颇富权威的一种纸一笔式人格测验。该问卷的制定方法是分别对正常人和精神病人进行预测，以确定在哪些条目上不同人有显著不同的反应模式，因此该测验最常用于鉴别精神疾病，故选D。",
+                            "TestPoint": "心理评估",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "智力测验"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "人格测验"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "评定量表"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "投射测验"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "情商测验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015621,
+                            "ATestID": 43015621,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "50ae17164388fe7353ef8cb50fc56cd9f17b6250a0f2d34a73ed6d068c1e130b",
+                            "Explain": "投射法，受试者根据自己的理解和感受对一些意义不明的图像、墨迹等作出回答，借以诱导出受试者的经验、情绪或内心冲突，如洛夏测验、主题统觉测验(TAT)等，故选D。",
+                            "TestPoint": "心理评估",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "明尼苏达多项人格调查表"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "比奈智力测验"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "卡特尔16PF测量"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "主题统觉测验"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "90项症状自评"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015624,
+                            "ATestID": 43015624,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a12bd4658b9c52758995cfab91eabc08",
+                            "Explain": "TA又称为又称为主题统觉测验投射型测验的一种，故选E。",
+                            "TestPoint": "心理评估",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "明尼苏达多项调查表"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "卡特尔人格抑素问卷"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "艾森克人格问卷"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "洛夏墨迹测试"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "主题统觉测验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015625,
+                            "ATestID": 43015625,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c92f696a4424d3a5e72c5086cbaef94c523845ef63f1abd4f52c82780e743c2c6af90d07008da44257e15c73a1b31f9fceaf9ad486c9c7fc",
+                            "Explain": "应用多种方法所获得的信息，对个体某一心理现象作全面、系统和深入的客观描述，这一过程称为心理评估。心理评估在心理学、医学、教育、人力资源、军事司法等部门有多种用途，其中为临床目的所用时，主要有以下几种：单独或辅助作出心理诊断；指导制定心理干预措施，并常作为效果的指标；科学研究的方法。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "前提"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "依据"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "效果判定"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "效果评价"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "以上都是"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015626,
+                            "ATestID": 43015626,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f81c217e3148b84c1bbcb6b2ec24ac2cf450bf70ca228d3f712a99d15e337e7a41f37fdae2ceed85",
+                            "Explain": "实验法是在控制的条件下观察、测量和记录个体行为的一种研究方法，也是科学研究中最广、成效最大的一种方法。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "观察法"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "调查法"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "实验法"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "会谈法"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "测验法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015627,
+                            "ATestID": 43015627,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "62a494c671f7e9b96f29bb7c5c5a4cf85290c9e28e23f305e6b484cd117830ce1f41c3789aec82aa",
+                            "Explain": "洛夏墨迹测验属投射测验中的一种，是人格测验。投射测验有许多种形式，如自由联想测验、构想测验、填补测验等，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "适应行为测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "神经心理测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "精神评定测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "智力测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "投射测验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000633,
+                            "ATestID": 41000633,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0000235ca44dc8cd451c1082c7021f479368b1adc613b0e14684be1f724cb2d0ed2169a6c580da72e379d993641c2256aeb67760a6fb71af0478b853b672b30e0769f9f8af8c21209fba67269937a5bd6d4af78aae243d2f14d707a29c6174fc",
+                            "Explain": "人格测验主要分为两大类：①客观性人格测验，如艾森克人格问卷(EPQ)、明尼苏达多项人格调查表(MMPI)、卡特尔16种人格因素测验(16PF)等；②投射性人格测验，如洛夏的墨迹测验、主题统觉测验(TAT)等。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "弗洛伊德人格理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "卡特尔人格理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "罗杰斯的人格理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "斯金纳的人格理论"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "艾森克人格理论"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000634,
+                            "ATestID": 41000634,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7a3ba44bcd4c89ac7a387a6cc24a2aae4a77552d87939f08",
+                            "Explain": "明尼苏达多项人格调查表(MMPI)属于人格调查表，但它偏重病理人格方面，所以说MMPI属于一种人格测验，故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "智力测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "人格测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "评定量表"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "投射测验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "神经心理测验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000635,
+                            "ATestID": 41000635,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "04c2a2b5c18f35786e0de71620bfb04c216ccc54a85644dd25777be40badf9f4cca66e7fcdb031a694475ab184a6642c254e21d5978a83bab7592dc9b3b7ac03f266c1cb02d4f04dbbc2d280f2f11b27",
+                            "Explain": "心理测验的基本要求：①样本，按照一定的抽样规则从总体中取出的一部分个体；②常模，是一种可供比较的普通形式；③信度，是指同一受试者在不同时间用同一测验（或用另一套相等的测验）重复测验，所得结果的一致性程度，反映一个测验工具的正确性；④效度，是指一个测验有效的测量出所需要的心理品质，即测量工具能测出其所要测量特质的程度。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "常模"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "信度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "效度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "样本"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "标准"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000636,
+                            "ATestID": 41000636,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "23b2dabbf39ab7a15fae8b5d6050d33c2fe7886f2543349f980f1347ab5972ef94d73351fd685d4cf5f4644e50a840ddeb3a3effc299b20586f22b5d038b11430b434dd860043ac847f71eec6dc296470b800278a17f47c7f8df45789d8b92d3777dba2b335c6b1b2ee6703fb302e1087bd5f8de3ac61c26febc73d8dd17cae7d0d9db2b067cb49e2fc94db42f84f5f8b933e8a7c546031b9f4da8864bdac587957c5ce6ca524f70096d0b5b784dee3d5aaca8931e70237d8dcf3f2c118bf14685b97dd284a03d831a5f544c4b937ff0392cab6a2e061070",
+                            "Explain": "《症状自评量表-SCL90》具有容量大、反映症状丰富、更能准确刻画被试的自觉症状等特点。它包含有较广泛的精神病症状学内容，从感觉、情绪、思维、行为直至生活习惯、人际关系、饮食睡眠等均有所涉及。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "EPQ"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "MMPI"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "SAS"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "SCL-90"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "TAT"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015629,
+                            "ATestID": 43015629,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f2b79c3d1c57864c8683f51ca79c10d43928e3e0f131202e60ce31852ef4a46a33ed4e8533619eb85f0987a1e23d3755c81e222b6e55bd109b7f576cf6e07a4af21aa073bfca80b0786d96de3248adbc145f7c0d6763150e86469c6fa5ebe06b07bdc347d68044ce3562e20bfbf56044ab129375d97e4c11ca3392e39201dab0cc0afa3efe2bf084ddea93ee9a76b2b8b26059921743431207b3452599ddd4110110a2661a006856cead8241945b2dae83bdb937e9dc6c5fecb1cb3eb9bd2df265aba09527cb4f5df902d1980f39caecf946e3f005cd8dfc9032d207206457219ad101d5bc05626c",
+                            "Explain": "心理测验的结果只是测出来的东西，所以对结果作出评价时要遵循客观性原则，也就是要\"实事求是\"，对结果的解释要符合受试者的实际情况。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "标准化原则"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "保密性原则"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "客观性原则"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "统一性原则"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "以上都不是"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015630,
+                            "ATestID": 43015630,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f004531d310a8273341edeca48bbfcf83b9fa9be0ea9f7856d224c0f18b3a250076bb89fa3ee7468c2d3100966dbe54e5683bdebe31af60973099d4d04a5d5c15a04f75c10da6a995c4f9e034981d3a314088d20bbf3f1964430983f7f2aefb5778b42ce61069a1cc57edef8de3dbb5dec455be605a5156e3125385cd2acd97dc9809ef057ad2581487f518e32b5d60e53ba9d4c4acf60100ee8775bd7f976a66a9ac6a5cd78a76d634d75c2d679247b",
+                            "Explain": "韦克斯勒儿童智力量表包括言语和操作两个分量表，可以得出言语智商操作和智商，两个分量表合并还可以得出总智商。量表的分类较细.较好地反映了一个人智力全貌和各个侧面。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "WISC"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "SDS"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "16PF"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "EPQ"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "SAS"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015631,
+                            "ATestID": 43015631,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "eeebabbd12852f5f1f5f5e53c437ca51798d5806eb943dcda50f99014152cebf",
+                            "Explain": "语言知觉测验属于神经心理学测验的其中一种，故选E。",
+                            "TestPoint": "医学心理学基础",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "人格测验问卷"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "智力测验"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "人格投射测验"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "评定量表"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "神经心理学测验"
+                                }
+                            ],
+                            "AllTestID": 43002826,
+                            "BTestID": 43000736,
+                            "SrcID": 9,
+                            "SbjID": 44,
+                            "CptID": 133,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000736,
+                                    "Title": "eeebabbd12852f5f1f5f5e53c437ca51798d5806eb943dcda50f99014152cebf",
+                                    "Explain": "语言知觉测验属于神经心理学测验的其中一种，故选E。",
+                                    "TestPoint": "医学心理学基础",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000737,
+                                    "Title": "8d27f32dcb907a4a96b4e8c646d115518a6c1164207a42df19c3bd422bfe6338",
+                                    "Explain": "在众多的心理测验理论中，心理投射理论是应用较多的一种，由其衍生而来的心理投射技术在人格测量中常被使用。其中“罗夏墨迹测验”和“主题统觉测验”是在国内比较常见的投射法人格测验，故选C。",
+                                    "TestPoint": "医学心理学基础",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000738,
+                                    "Title": "72f1c4709f721995b3f9ee8b13dc92067da8f8e269ac4725377af7608ddcc1d4aa6079d982312ea4",
+                                    "Explain": "人格测验也称个性测验。测量个体行为独特性和倾向性等特征。常用人格问卷有艾森克人格问卷(EPQ)、明尼苏达多项人格测验(MMPI)和卡特尔16因素人格测验(16PF)，故选A。",
+                                    "TestPoint": "医学心理学基础",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000739,
+                                    "Title": "a7d9edea54795f0e8ee10b71193f5c28",
+                                    "Explain": "scl－90是世界上最著名的心理健康测试量表之一，是当前使用最为广泛的精神障碍和心理疾病门诊检查量表，将协助您从十个方面来了解自己的心理健康程度。 本测验适用对象为16岁以上的用户，故选D。",
+                                    "TestPoint": "医学心理学基础",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000709,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000709,
+                        "ChildTableID": -1,
+                        "UserCount": 1994,
+                        "RightCount": 1046,
+                        "FavCount": 47,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000709,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 35000711,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000711,
+                        "ChildTableID": -1,
+                        "UserCount": 1722,
+                        "RightCount": 1064,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000711,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 35000713,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000713,
+                        "ChildTableID": -1,
+                        "UserCount": 1645,
+                        "RightCount": 1214,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000713,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002822,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002822,
+                        "ChildTableID": -1,
+                        "UserCount": 1810,
+                        "RightCount": 826,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002822,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002823,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002823,
+                        "ChildTableID": -1,
+                        "UserCount": 1673,
+                        "RightCount": 1170,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002823,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002824,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002824,
+                        "ChildTableID": -1,
+                        "UserCount": 1438,
+                        "RightCount": 1276,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002824,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002825,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002825,
+                        "ChildTableID": -1,
+                        "UserCount": 1619,
+                        "RightCount": 721,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002825,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015609,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015609,
+                        "ChildTableID": -1,
+                        "UserCount": 1464,
+                        "RightCount": 1005,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015609,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015610,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015610,
+                        "ChildTableID": -1,
+                        "UserCount": 1633,
+                        "RightCount": 1031,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015610,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015611,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015611,
+                        "ChildTableID": -1,
+                        "UserCount": 1483,
+                        "RightCount": 919,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015611,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015613,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015613,
+                        "ChildTableID": -1,
+                        "UserCount": 1406,
+                        "RightCount": 1080,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015613,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015614,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015614,
+                        "ChildTableID": -1,
+                        "UserCount": 1371,
+                        "RightCount": 1160,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015614,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015615,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015615,
+                        "ChildTableID": -1,
+                        "UserCount": 1674,
+                        "RightCount": 1044,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015615,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015617,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015617,
+                        "ChildTableID": -1,
+                        "UserCount": 1621,
+                        "RightCount": 1070,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015617,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015618,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015618,
+                        "ChildTableID": -1,
+                        "UserCount": 1572,
+                        "RightCount": 956,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015618,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015620,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015620,
+                        "ChildTableID": -1,
+                        "UserCount": 1409,
+                        "RightCount": 963,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015620,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43015621,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015621,
+                        "ChildTableID": -1,
+                        "UserCount": 1556,
+                        "RightCount": 967,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015621,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015624,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015624,
+                        "ChildTableID": -1,
+                        "UserCount": 1466,
+                        "RightCount": 971,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015624,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015625,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015625,
+                        "ChildTableID": -1,
+                        "UserCount": 1479,
+                        "RightCount": 844,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015625,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43015626,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015626,
+                        "ChildTableID": -1,
+                        "UserCount": 1403,
+                        "RightCount": 917,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015626,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015627,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015627,
+                        "ChildTableID": -1,
+                        "UserCount": 1337,
+                        "RightCount": 1148,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015627,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41000633,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000633,
+                        "ChildTableID": -1,
+                        "UserCount": 1543,
+                        "RightCount": 1137,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000633,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000634,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000634,
+                        "ChildTableID": -1,
+                        "UserCount": 1562,
+                        "RightCount": 902,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000634,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 41000635,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000635,
+                        "ChildTableID": -1,
+                        "UserCount": 1556,
+                        "RightCount": 1032,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000635,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 41000636,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000636,
+                        "ChildTableID": -1,
+                        "UserCount": 1548,
+                        "RightCount": 1035,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000636,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015629,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015629,
+                        "ChildTableID": -1,
+                        "UserCount": 1480,
+                        "RightCount": 693,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015629,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015630,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015630,
+                        "ChildTableID": -1,
+                        "UserCount": 1409,
+                        "RightCount": 937,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015630,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015631,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015631,
+                        "ChildTableID": -1,
+                        "UserCount": 1445,
+                        "RightCount": 805,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015631,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002826,
+                "ChildTableID": 43000736,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002826,
+                        "ChildTableID": 43000736,
+                        "UserCount": 1584,
+                        "RightCount": 651,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002826,
+                    "ChildTableID": 43000736
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002826,
+                "ChildTableID": 43000737,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002826,
+                        "ChildTableID": 43000737,
+                        "UserCount": 1449,
+                        "RightCount": 1126,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002826,
+                    "ChildTableID": 43000737
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002826,
+                "ChildTableID": 43000738,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002826,
+                        "ChildTableID": 43000738,
+                        "UserCount": 1512,
+                        "RightCount": 1059,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002826,
+                    "ChildTableID": 43000738
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002826,
+                "ChildTableID": 43000739,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002826,
+                        "ChildTableID": 43000739,
+                        "UserCount": 1581,
+                        "RightCount": 824,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002826,
+                    "ChildTableID": 43000739
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,636 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 00:50:58 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "940dc447c4d6df4e96dc74b4e835fb83b87b084eec157b9386e6d1940d1faa5391342a12d4618909f2d4aaa82717e706",
+                            "Explain": "脊柱关节炎与HLA-B27基因有很强的相关性。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "HLA-B25"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HLA-B22"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "HLA-B21"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HLA-B20"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "HLA-B27"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002112,
+                            "ATestID": 43002112,
+                            "SrcID": 9,
+                            "SbjID": 62,
+                            "CptID": 464,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a9221e467b6e9e7ddbbb8cdae7bc83f44bb2ce127a68a7ebd4345c25921fcfd232c349524f3e94e8b4d2a616605a84b4337652319caed439b540aa35c67c1ad7f8ed",
+                            "Explain": "TNF-α在AS的发病中起到了至关重要的作用，抗TNF-α制剂通过直接抑制TNF-α或与TNF-α受体相结合，拮抗TNF-α的致病作用，能够有效地改善患者的僵硬、疼痛、关节肿胀以及关节的骨质破坏，大幅度改善患者的症状和生活质量、延缓病情进展、降低致残率和改善预后。",
+                            "TestPoint": "强直性脊柱炎的诊断",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "TNF-α",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "IL-10",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "IL-6",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "CTLA-4",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "HLA-B27",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003553,
+                            "ATestID": 43003553,
+                            "SrcID": 9,
+                            "SbjID": 62,
+                            "CptID": 464,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cd74ddd9813eeec904dd4214a00904ef2f10b910343fa31aef37fb300e7ae95104fa733f5ce72abfec520b7ad8f145cc836a0bf3d336544e8797686f421db670c18cecdb16572e35",
+                            "Explain": "骶髂关节改变。根据骶髂关节改变可分为0～Ⅳ：0级为正常；Ⅰ为可疑；Ⅱ为轻度异常，表现为轻度的侵蚀、硬化，关节间隙无变化；Ⅲ为中度骶髂关节炎，出现关节侵蚀、间隙变窄或部分融合；Ⅳ为重度异常，关节间隙消失。",
+                            "TestPoint": "强直性脊柱炎的程度",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "0级",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "Ⅰ级",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "Ⅱ级",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "Ⅲ级",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "Ⅳ级",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43003554,
+                            "ATestID": 43003554,
+                            "SrcID": 9,
+                            "SbjID": 62,
+                            "CptID": 464,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "诊断首先考虑",
+                            "Explain": "排尿疼痛，左膝肿痛，右腕肿痛，查膝关节积液内WBC50000个/ml，HLA-B27阳性，诊断为反应性关节炎。",
+                            "TestPoint": "反应性关节炎",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "强直性脊柱炎",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "肠病性关节炎",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "反应性关节炎",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "感染性关节炎",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "类风湿关节炎",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f78460300556ae70b5e16bafdca1679815b27ea402dbe45134c73d733b88a6f4616d4c940cb9ebfcc9cb5155de7d40eb861b95a80a11b0eb245686b751351b5b17ba84fac785ae6a31ed559e93b1db3cabfa40a43e7b9e1085409c713da400dfcae5ffa2980664fba6e308f6daf4dc77773bace737dcb12b3b475819d06c3d3c68f596493789befd73a9df853fb7a1c5f3e99a8357854fa6dafd68fd3cfa793ba8cdf16df788607aee6c",
+                            "AllTestID": 43003555,
+                            "A3TestID": 43000343,
+                            "SrcID": 9,
+                            "SbjID": 62,
+                            "CptID": 464,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43000343,
+                                    "Title": "01954af9c3acbd6a80c72ebf9abac33bd38aa9d33573c7b5",
+                                    "Explain": "排尿疼痛，左膝肿痛，右腕肿痛，查膝关节积液内WBC50000个/ml，HLA-B27阳性，诊断为反应性关节炎。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "强直性脊柱炎",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "肠病性关节炎",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "反应性关节炎",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "感染性关节炎",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "类风湿关节炎",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "反应性关节炎",
+                                    "Answer": "C",
+                                    "DealInfo": "经核实，试题无误不处理",
+                                    "OperateTime": "2018年12月12日",
+                                    "OldTestJson": "{\"Title\":\"诊断首先考虑\",\"Explain\":\"排尿疼痛，左膝肿痛，右腕肿痛，查膝关节积液内WBC50000个/ml，HLA-B27阳性，诊断为反应性关节炎。\",\"TestPoint\":\"反应性关节炎\",\"Answer\":\"C\",\"Difficulty\":\"难\",\"SelectedItems\":[{\"Content\":\"强直性脊柱炎\",\"ItemName\":\"A\"},{\"Content\":\"肠病性关节炎\",\"ItemName\":\"B\"},{\"Content\":\"反应性关节炎\",\"ItemName\":\"C\"},{\"Content\":\"感染性关节炎\",\"ItemName\":\"D\"},{\"Content\":\"类风湿关节炎\",\"ItemName\":\"E\"}],\"StyleType\":\"A3TEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"患者女性，30岁，20天前排尿时疼痛，7天前出现左膝肿痛，3天前右腕肿痛，压痛明显，查膝关节积液内WBC50000个/ml，HLA-B27阳性。\"}"
+                                },
+                                {
+                                    "A3TestItemID": 43000344,
+                                    "Title": "fe62ed40c2382878e69f2d23a3e627908328b73a382c5af871a25d51d745d451478b1dcf9e95e6e80f0ae4fa6f20f680",
+                                    "Explain": "滑液培养结果为阴性对于检查最有意义",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "骶髂关节CT",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "滑液培养结果为阴性",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "抗环瓜氨酸抗体",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "类风湿因子阴性",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "膝关节MRI可见关节积液",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "反应性关节炎",
+                                    "Answer": "B",
+                                    "DealInfo": "经核实，试题无误不做修改。",
+                                    "OperateTime": "2018年12月12日",
+                                    "OldTestJson": "{\"Title\":\"可增加检查项目中最有意义的是\",\"Explain\":\"滑液培养结果为阴性对于检查最有意义\",\"TestPoint\":\"反应性关节炎\",\"Answer\":\"B\",\"Difficulty\":\"难\",\"SelectedItems\":[{\"Content\":\"骶髂关节CT\",\"ItemName\":\"A\"},{\"Content\":\"滑液培养结果为阴性\",\"ItemName\":\"B\"},{\"Content\":\"抗环瓜氨酸抗体\",\"ItemName\":\"C\"},{\"Content\":\"类风湿因子阴性\",\"ItemName\":\"D\"},{\"Content\":\"膝关节MRI可见关节积液\",\"ItemName\":\"E\"}],\"StyleType\":\"A3TEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"患者女性，30岁，20天前排尿时疼痛，7天前出现左膝肿痛，3天前右腕肿痛，压痛明显，查膝关节积液内WBC50000个/ml，HLA-B27阳性。\"}"
+                                },
+                                {
+                                    "A3TestItemID": 43000345,
+                                    "Title": "bbff957919dcbb5d3568abded5f3fe97373387f946ca59f98850e73b5a6711d7",
+                                    "Explain": "首选的治疗应包括NSAIDs。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "甲氨蝶呤",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "抗生素",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "糖皮质激素",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "NSAIDs",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "生物制剂",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "反应性关节炎",
+                                    "Answer": "D",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月12日",
+                                    "OldTestJson": "{\"Title\":\"首选的治疗应包括\",\"Explain\":\"首选的治疗应包括NSAIDs。\",\"TestPoint\":\"反应性关节炎\",\"Answer\":\"D\",\"Difficulty\":\"难\",\"SelectedItems\":[{\"Content\":\"甲氨蝶呤\",\"ItemName\":\"A\"},{\"Content\":\"抗生素\",\"ItemName\":\"B\"},{\"Content\":\"糖皮质激素\",\"ItemName\":\"C\"},{\"Content\":\"NSAIDs\",\"ItemName\":\"D\"},{\"Content\":\"生物制剂\",\"ItemName\":\"E\"}],\"StyleType\":\"A3TEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"患者女性，30岁，20天前排尿时疼痛，7天前出现左膝肿痛，3天前右腕肿痛，压痛明显，查膝关节积液内WBC50000个/ml，HLA-B27阳性。\"}"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "06af4978a0f0c4094ae9893cc80ee9372632753d11f2ab6c932a3d66419ad2fbb78aa27a7ef1307e",
+                            "Explain": "强直性脊柱炎肯定会累及骶髂关节。",
+                            "TestPoint": "强直性脊柱炎",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "强直性脊柱炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "银屑病关节炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肠病性关节炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "幼年型强直性脊柱炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "反应性关节炎"
+                                }
+                            ],
+                            "AllTestID": 43003556,
+                            "BTestID": 43000864,
+                            "SrcID": 9,
+                            "SbjID": 62,
+                            "CptID": 464,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000864,
+                                    "Title": "06af4978a0f0c4094ae9893cc80ee9372632753d11f2ab6c932a3d66419ad2fbb78aa27a7ef1307e",
+                                    "Explain": "强直性脊柱炎肯定会累及骶髂关节。",
+                                    "TestPoint": "强直性脊柱炎",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000865,
+                                    "Title": "f10dad0d707a58229f6030253d874466bec0ca6876bbd0d814cc3a8c5cf1a679aedee3929a915696",
+                                    "Explain": "易发生结膜炎或巩膜炎的是反应性关节炎。",
+                                    "TestPoint": "关节炎",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000866,
+                                    "Title": "076f00a9885ea53ee09d4dce40d31f29855a4dfb54994bb3e1cbfd220401affd4ea93745280fc154",
+                                    "Explain": "继发于近期明显感染的是反应性关节炎。",
+                                    "TestPoint": "关节炎",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43002112,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002112,
+                        "ChildTableID": -1,
+                        "UserCount": 2600,
+                        "RightCount": 2227,
+                        "FavCount": 49,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002112,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43003553,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003553,
+                        "ChildTableID": -1,
+                        "UserCount": 3023,
+                        "RightCount": 906,
+                        "FavCount": 154,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003553,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43003554,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003554,
+                        "ChildTableID": -1,
+                        "UserCount": 2822,
+                        "RightCount": 1555,
+                        "FavCount": 119,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003554,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43003555,
+                "ChildTableID": 43000343,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003555,
+                        "ChildTableID": 43000343,
+                        "UserCount": 2874,
+                        "RightCount": 898,
+                        "FavCount": 130,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003555,
+                    "ChildTableID": 43000343
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43003555,
+                "ChildTableID": 43000344,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003555,
+                        "ChildTableID": 43000344,
+                        "UserCount": 2823,
+                        "RightCount": 1003,
+                        "FavCount": 100,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003555,
+                    "ChildTableID": 43000344
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43003555,
+                "ChildTableID": 43000345,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003555,
+                        "ChildTableID": 43000345,
+                        "UserCount": 2702,
+                        "RightCount": 1317,
+                        "FavCount": 83,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003555,
+                    "ChildTableID": 43000345
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43003556,
+                "ChildTableID": 43000864,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003556,
+                        "ChildTableID": 43000864,
+                        "UserCount": 2625,
+                        "RightCount": 2254,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003556,
+                    "ChildTableID": 43000864
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43003556,
+                "ChildTableID": 43000865,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003556,
+                        "ChildTableID": 43000865,
+                        "UserCount": 3049,
+                        "RightCount": 1387,
+                        "FavCount": 132,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 37
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003556,
+                    "ChildTableID": 43000865
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 37
+            },
+            {
+                "AllTestID": 43003556,
+                "ChildTableID": 43000866,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43003556,
+                        "ChildTableID": 43000866,
+                        "UserCount": 2830,
+                        "RightCount": 1826,
+                        "FavCount": 91,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43003556,
+                    "ChildTableID": 43000866
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

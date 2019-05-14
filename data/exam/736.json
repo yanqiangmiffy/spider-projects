@@ -1,0 +1,322 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 15:49:55 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "e807b047f5563d04d38dbf1be9c407fd017efcbd5605c621ba8fc6234bbbc036790d5d5df6abad64675ddfc686eb6ea2d3123eff1ad592952e208e88bd983e7c21b01e2b78365c138ca33467a1a4053ad0a770268f3ea1e48dc577eccb727b2a0768ab044e3ed74b1d74da835f3145440ab7e485a60c6a5735c277829bfd088944dbcdb015b4eb4d0f78259367b18d6bb56c0f4177a00c56ffec78404519bc72bcca08c08ab196e7e3e503643df2a8ec2355356591c903f7c841ad7dee70634efc317273aba9a7dd",
+                            "Explain": "回肠末端多发的纵形溃疡，溃疡间黏膜正常，病变呈阶段性分布，均提示克罗恩病。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "结肠癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "溃疡性结肠炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "细菌性痢疾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "克罗恩病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肠结核"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001092,
+                            "ATestID": 43001092,
+                            "SrcID": 9,
+                            "SbjID": 49,
+                            "CptID": 736,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d04824669e5d2da59e25b37aa291b480ae1d7882454a49dc6936105e25facea320380c187bb53c3d9e65e2e3ef3079cee51538244299b867386a78f406caa7ff43014d33844f07de43aacd027bf5d0a905663b1d8c77edb3f95fdcfcb1b9e14e40a03b7907c359c2e72b644b4d289f539808bbbb4f67da9512130c80ae05e627cb08ac05ac53de73de2bbe0f42030b8a87170673fa6e60bc7b8c55126ebf0ad567a18fb0fd78e9aaf69750b4caa5ac47ebd",
+                            "Explain": "考虑溃疡性结肠炎的可能性大，故先行纤维结肠镜检查。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "X线钡餐检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "X线钡剂灌肠检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "乙状结肠镜检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "纤维结肠镜检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "腹部CT"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001095,
+                            "ATestID": 43001095,
+                            "SrcID": 9,
+                            "SbjID": 49,
+                            "CptID": 736,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e807b047f5563d046f81493cd34177b6c72d7e24b395531e28132be5fab8621d6fd340740495b6dd5b3fffd522671b75bd8872a702a2cc3f3f1c182dc88f96f316eff522ccab77793cde7b4e9cbfcdae4869455d4678dde37b292a26c4f8b1a4687d193a89196e92dc84413e88e75a8dd6ef68f13426ed96358c2c9b7e8c6f14c220f0464a910cc0df4d8281a7db86a0ce359530b67c5ba8bafecb9d2a67670431e64c646d99e16da67540797459c42a",
+                            "Explain": "Crohn病因透壁性炎性病变常伴发瘘管，瘘管形成是Crohn病的重要临床特征之一。其他选项所列疾病少见瘘管形成。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肠结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "溃疡性结肠炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "克罗恩病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肠息肉"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "结肠癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001096,
+                            "ATestID": 43001096,
+                            "SrcID": 9,
+                            "SbjID": 49,
+                            "CptID": 736,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b5691daab67779f5fe3b259f894fabc89b3153edfe51630d604e439fb20be169397144a155c0cd498d58d20cc54578ab8a5326e39b1d1f52964246e47e4d5a7a7f3a44016e383b6d053eb563a0caa77f33e2c925827bf16b2a453d32adf4c6bae8532b65efb71dd5be18883b75db4f755067958b9f689ee261769d2be8854c0757c1f885cde57ef3949f86f928b4e0a6c8aa03ad4fad1f8ec3f45f1fd14fef5a5420c41dbc8d445d3fe2ff6a733849622604bafbbce46cb0f8aebb21688047f455c85e2e4f1960a4efcf1155953276ea",
+                            "Explain": "乙状结肠、直肠黏膜充血，少数散在浅溃疡考虑溃疡性结肠炎，首选柳氮磺胺吡啶。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "A",
+                                    "Content": "柳氮磺胺吡啶"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "B",
+                                    "Content": "氟哌酸"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "C",
+                                    "Content": "肾上腺皮质激素"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "D",
+                                    "Content": "甲硝唑保留灌肠"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "E",
+                                    "Content": "乳酸杆菌制剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001097,
+                            "ATestID": 43001097,
+                            "SrcID": 9,
+                            "SbjID": 49,
+                            "CptID": 736,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2019年1月23日",
+                            "OldTestJson": "{\"Title\":\"女，35岁，慢性腹泻4年，大便每天4～5次，常带少量脓血，大便培养阴性。纤维结肠镜检查见乙状结肠、直肠黏膜充血，少数散在浅溃疡。首选治疗药物是\",\"Explain\":\"乙状结肠、直肠黏膜充血，少数散在浅溃疡考虑溃疡性结肠炎，首选偶氮磺胺吡啶。\",\"TestPoint\":\"\",\"Answer\":\"A\",\"Difficulty\":\"\",\"SelectedItems\":[{\"HasImg\":1,\"ItemName\":\"A\",\"Content\":\"偶氮磺胺吡啶\"},{\"HasImg\":0,\"ItemName\":\"B\",\"Content\":\"氟哌酸\"},{\"HasImg\":0,\"ItemName\":\"C\",\"Content\":\"肾上腺皮质激素\"},{\"HasImg\":0,\"ItemName\":\"D\",\"Content\":\"甲硝唑保留灌肠\"},{\"HasImg\":0,\"ItemName\":\"E\",\"Content\":\"乳酸杆菌制剂\"}],\"StyleType\":\"ATEST\"}"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43001092,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001092,
+                        "ChildTableID": -1,
+                        "UserCount": 4324,
+                        "RightCount": 3213,
+                        "FavCount": 83,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001092,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001095,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001095,
+                        "ChildTableID": -1,
+                        "UserCount": 4237,
+                        "RightCount": 3455,
+                        "FavCount": 67,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001095,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43001096,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001096,
+                        "ChildTableID": -1,
+                        "UserCount": 4387,
+                        "RightCount": 2552,
+                        "FavCount": 161,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001096,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43001097,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001097,
+                        "ChildTableID": -1,
+                        "UserCount": 4035,
+                        "RightCount": 3634,
+                        "FavCount": 51,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 1,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001097,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 1,
+                "ConcernCount": 7
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

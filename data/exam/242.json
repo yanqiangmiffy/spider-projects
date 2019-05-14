@@ -1,0 +1,583 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:28:12 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "cbf38f524a6c8dbfa3369614739b6088935d01edb36d9d2653556ed89a285113ad3b12f5c014db0d25c6417f8be849d2",
+                            "Explain": "抗焦虑作用选择性很强，是氯氮?的5倍，这可能与其选择性地作用于大脑边缘系统，与中枢BDZ受体结合而促进γ-氨基丁酸（GABA)的释放或促进突触传递功能有关。BDZ类还作用在GABA依赖性受体，通过刺激上行性网状激活系统内的GABA受体，提高GABA在中枢神经系统的抑制，增强脑干网状结构受刺激后的皮层和边缘性觉醒反应的抑制和阻断。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "边缘系统"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "大脑皮质"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "黑质纹状体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "下丘脑"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脑干网状结构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002618,
+                            "ATestID": 43002618,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ab5d69a5f3a9fdacce785f6578aed3d94a9b7832972c9f8ef7b3fc7ae28590473472df1b4fe48eee",
+                            "Explain": "药物过量出现持续的精神错乱、严重嗜睡、抖动、语言不清、蹒跚、心跳异常减慢、呼吸短促或困难、严重乏力。超量或中毒宜及早对症处理，最重要的是对呼吸循环方面的支持疗法，此外苯二氮卓受体拮抗剂氟马西尼(flumazenil)可用于该类药物过量中毒的解救和诊断。中毒出现兴奋异常时，不能用巴比妥类药。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "肌内注射吸收慢而不规则",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "口服治疗量对呼吸和循环影响小",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "较大剂量易引起全身麻醉",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "可用于治疗癫痫持续状态",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "其代谢产物也有生物活性",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002619,
+                            "ATestID": 43002619,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "03d19fe8ec83cfe16631b58c11e605c5752a78da48397e9567d072e0e1b70b07267afec4f8d93d4a2d59820cd68edf4e",
+                            "Explain": "作用机制中枢抑制神经元γ—氨基丁酸（GABA）能神经末梢的突触后膜上有高亲合力的特异结合位点苯二氮类受体增加Cl[~-.gif]通道开放频率。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "直接和CABA受体结合，增加GABA神经元的功能"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "与苯二氮[zhuo.gif]受体结合，生成新的抑制性蛋白起作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "不通过受体，直接抑制中枢神经系统的功能"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "与其受体结合后促进GABA与相应受体结合，增加Cl[~-.gif]通道开放频率"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "与其受体结合后促进GABA与相应受体结合，增加Cl[~-.gif]通道开放的时间"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002620,
+                            "ATestID": 43002620,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fc065328d17e424c9e62b5f8cab310f73dd965a6743daabc9f91b3107f025ded7304efdbc8f2a24af66bc51776c37a9563695cc40ed8641eed2faf2dc0505f7e",
+                            "Explain": "地西泮，①焦虑症及各种功能性神经症。②失眠，尤对焦虑性失眠疗效极佳。③癫痫:可与其他抗癫痫药合用，治疗癫痫大发作或小发作，控制癫痫持续状态时应静脉注射。④各种原因引起的惊厥，如子痫、破伤风、小儿高烧惊厥等。⑤脑血管意外或脊髓损伤性中枢性肌强直或腰肌劳损、内镜检查等所致肌肉痉挛。⑥其他:偏头痛、肌紧张性头痛、呃逆、炎症引起的反射性肌肉痉挛、惊恐症、酒精戒断综合征，还可治疗家族性、老年性和特发性震颤，可用于麻醉前给药。",
+                            "TestPoint": "抗癫痫药和抗惊厥药",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "苯妥英钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "地西泮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "水合氯醛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "扑米酮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "司可巴比妥"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002621,
+                            "ATestID": 43002621,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185445717ba4b3994e4588c99146bd49ba5ea942993aee0637dd0f5c9021626e8a85b88970d97ac271cd9f46d60405317b8fdb4ac24b39f123c",
+                            "Explain": "苯二氮[caozhuo.gif]类药物无外周性肌松作用，只有中枢性肌肉松弛作用。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "具有抗焦虑作用"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "具有外周性肌松作用"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "具有催眠作用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "具有镇静作用"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "用于癫痫持续状态"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015402,
+                            "ATestID": 43015402,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8630d14b9d39ddc0a6cae28ecc472bf3e115601964ecb05d8b53bd109eb4bc9e692b65ff765a0977e44c392df4f50c1a9d6fd75b180ca2054f46bdf117a12165",
+                            "Explain": "地西泮属于苯二氮[caozhuo.gif]类药物，对快动眼睡眠影响小。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "哌替啶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "地西泮"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "氯丙嗪"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "甲丙氨酯"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "苯巴比妥"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015404,
+                            "ATestID": 43015404,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "03d19fe8ec83cfe17fa40ec31a366617dd9e612596489c0b7000942beaf798dbd1499bab92b54d65ef8853c3d784d94f",
+                            "Explain": "苯二氮[caozhuo.gif]类药物对快动眼睡眠影响小、成瘾性较轻，具有抗惊厥、抗焦虑作用。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "对快动眼睡眠时相影响大"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "没有抗焦虑作用"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "没有抗惊厥作用"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "停药后代偿性反跳较重"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "可缩短睡眠诱导时间"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015405,
+                            "ATestID": 43015405,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "03d19fe8ec83cfe17fa40ec31a366617dd9e612596489c0b4f13c6a10bab85545d450e9ea05172e89dd1dbf1be9dab8f45ba8abe7e465286",
+                            "Explain": "苯二氮[caozhuo.gif]类能增强GABA能神经传递功能和突触抑制效应；还能增强GABA与GABAA受体相结合的作用，使Cl[SBjian.gif]通道开放的频率增加，更多的Cl[SBjian.gif]内流。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "与GABA受体亚单位结合"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "增强GABA能神经传递和突触抑制"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "与β亚单位苯二氮[caozhuo.gif]受体结合"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "促进GABA的释放"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "减慢GABA的降解"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015406,
+                            "ATestID": 43015406,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 242,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43002618,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002618,
+                        "ChildTableID": -1,
+                        "UserCount": 3428,
+                        "RightCount": 1946,
+                        "FavCount": 78,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002618,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43002619,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002619,
+                        "ChildTableID": -1,
+                        "UserCount": 3366,
+                        "RightCount": 2046,
+                        "FavCount": 84,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002619,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 43002620,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002620,
+                        "ChildTableID": -1,
+                        "UserCount": 3239,
+                        "RightCount": 2023,
+                        "FavCount": 86,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 31
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002620,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 31
+            },
+            {
+                "AllTestID": 43002621,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002621,
+                        "ChildTableID": -1,
+                        "UserCount": 2990,
+                        "RightCount": 2585,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002621,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015402,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015402,
+                        "ChildTableID": -1,
+                        "UserCount": 2855,
+                        "RightCount": 2249,
+                        "FavCount": 56,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 1,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015402,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 1,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015404,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015404,
+                        "ChildTableID": -1,
+                        "UserCount": 2763,
+                        "RightCount": 2228,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015404,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015405,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015405,
+                        "ChildTableID": -1,
+                        "UserCount": 2807,
+                        "RightCount": 2048,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015405,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43015406,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015406,
+                        "ChildTableID": -1,
+                        "UserCount": 2816,
+                        "RightCount": 1918,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015406,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

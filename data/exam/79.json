@@ -1,0 +1,1539 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 16:35:17 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "6019d782a669b2b04ab3ad86906abe3aa3110402cf1192e7dfe56faf58fab6460806f26600812b0534e7e6ab10200b4f7f7b5363aa591b2f23c30402f79622632fe74886d8af97f31689c84ed4ff5e10395eafc52302d865",
+                            "Explain": "我国1岁内小儿需完成的基础计划免疫包括卡介苗、乙肝疫苗、脊髓灰质炎疫苗、百日咳一白喉一破伤风混合疫苗、麻疹疫苗。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "卡介苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脊髓灰质炎疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "麻疹疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "百日咳-白喉-破伤风混合疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙型脑炎疫苗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001759,
+                            "ATestID": 43001759,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ec51accd0940684528e648a9dc817029ef3e15cbe2adfce7bdb508d229ef46d3eb9c328c873995aaf434197bb82587072e094b6b14c8cc94",
+                            "Explain": "按照我国卫生部的规定，婴儿必须在1岁内完成卡介苗，脊髓灰质炎三型混合疫苗，百日咳、白喉、破伤风类毒素（称百白破三联针），麻疹减毒疫苗和乙型肝炎病毒疫苗等五种疫苗的接种（预防七病），此外，根据流行地区和季节进行乙型脑炎疫苗（1岁以上接种2次间隔7～10天，以后每年加强一次）、流脑疫苗、风疹疫苗、流感疫苗、甲型肝炎病毒疫苗等的接种。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "卡介苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙脑疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "流脑疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "流感疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "甲肝疫苗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001760,
+                            "ATestID": 43001760,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 15,
+                    "TestItems": [
+                        {
+                            "Title": "0e451e618dbe97108a89af3656cd8096bd5045f1d8319eb63f075c3d54ff0ed30b7bf19a81a067decc3b40c27203adb97ee791e556cceb3a6606d6aaa259392e00cc954c969bc0c75eae6c27aca6378e7a2de6b4b363b825fe817d9a97121da1bbb33085270086b6",
+                            "Explain": "新生儿疾病筛查包括：①听力筛查；②遗传代谢、内分泌疾病筛查：我国母婴法规定新生儿出生时需筛查某些遗传代谢、内分泌疾病，预防疾病发生带来的严重后果。我国主要筛查的是苯丙酮尿症(PKU)和先天性甲状腺功能减退症(CH)，故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "唐氏综合征，苯丙酮尿症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "先天性甲状腺功能减退症，苯丙酮尿症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "先天性甲状腺功能减退症，唐氏综合征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "先天性甲状腺功能减退症，半乳糖血症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "唐氏综合征，半乳糖血症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002458,
+                            "ATestID": 41002458,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e359e22c1d39890c79116aeed7e7103388c7a540334dd55ec90470e1d3ed2699",
+                            "Explain": "婴儿期计划免疫包括卡介苗，脊髓灰质炎三型混合疫苗，百日咳、白喉、破伤风类毒素混合制剂，麻疹减毒疫苗和乙型肝炎病毒疫苗。脊髓灰质炎疫苗初种年龄为2个月、3个月、4个月。麻疹疫苗初种年龄为8个月。百日咳疫苗初种年龄为3个月、4个月、5个月。乙型肝炎疫苗初种年龄为出生时、1个月、6个月。肺炎链球菌疫苗不是计划免疫。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脊髓灰质炎疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺炎链球菌疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "麻疹疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "百日咳疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙型肝炎疫苗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002459,
+                            "ATestID": 41002459,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aa0e2d71a1507fdadf0fa0a3125dc7073e5a2b4fe86656ffc3b0f4d87dfed4734a22c9944d72a338b08b4b864a3427cde8fc18167cabccb2f764778bf4b6b5a71b2fe0eb47abf692c6e1e30c8a00cd502be68425b6cec5b16deea24e6e9f89653f776da2e6a4329a5e728f3606951b061d947c6c0186ec1e5ca8b87adff0ce8e",
+                            "Explain": "按照我国原卫生部规定的计划免疫，一岁内必须完成卡介苗、脊髓灰质炎三型混合疫苗、百日咳白喉破伤风类毒素混合制剂、麻疹减毒活疫苗和乙型肝炎疫苗5种疫苗的接种。由于婴儿从母体获得被动免疫抗体8个月龄后减低，所以我国目前规定8个月以后才可以接种麻疹减毒活疫苗。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "卡介苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙型肝炎疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "百白破三联针"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脊髓灰质炎减毒糖丸活疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "麻疹减毒活疫苗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002460,
+                            "ATestID": 41002460,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "892796e672a0e79d75dcfe0f56741552ea76af74b80e35afa7d633f1fe1888ffb4c26fc75bf2478220b5477fffa9985b4d9cdd87b6c0271a",
+                            "Explain": "A选项：儿童在出生3个月内接种卡介苗，可以不做结核菌素试验；有明显结核接触史及3个月以上的婴儿用皮内注射法接种卡介苗或1岁以上的儿童复种卡介苗时，均需先做结核菌素试验，阴性者方可接种。B选项：卡介苗为减毒活疫苗。C选项：卡介苗应为皮内注射。E选项：卡介苗接种后部分小儿不能产生免疫力。D选项正确。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "接种前无需做OT试验"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "菌苗为无毒牛型结核菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "皮下注射效果可靠"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "儿童在7、12岁各复种一次"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "接种后均可产生免疫力"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020020,
+                            "ATestID": 43020020,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f017c2ed3de4f290ad3400429cd854e950497b18bd582e5b2af36f9b9647ccd30607d40f21479783141583a7b6d484dbca6110d438e58fa4",
+                            "Explain": "婴儿必须在1岁内完成卡介苗，脊髓灰质炎三价混合疫苗，百日咳、白喉、破伤风类毒素混合制剂（简称百白破三联针），乙型肝炎疫苗和麻疹减毒疫苗五种疫苗接种的基础免疫（简称五苗防七病）。除麻疹疫苗为8个月接种外，其余4种均在6个月前完成免疫。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "卡介苗、乙肝疫苗、脊髓灰质炎三价混合疫苗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脊髓灰质炎三价混合疫苗、百白破混合制剂、麻疹疫苗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "卡介苗、乙肝疫苗、脊髓灰质炎三价混合疫苗、百白破混合制剂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "乙肝疫苗、脊髓灰质炎三价混合疫苗、百白破混合制剂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "卡介苗、脊髓灰质炎三价混合疫苗、百白破混合制剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020021,
+                            "ATestID": 43020021,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e84542833c03d7ca2e929e5072a279fd99f56abe3a603b0128fb14e65a7b2d2077e712d26259d79d",
+                            "Explain": "小儿乙肝疫苗的接种时间为刚出生、1月龄、6月龄。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1、2、3个月"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "0、2、3个月"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "0、2、6个月"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "0、1、2个月"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "0、1、6个月"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020022,
+                            "ATestID": 43020022,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c570ab40d915759af530d50963671ac0c43df99b1f570a0b6968ef35a619d3be6e08dea21c6425db2e7b4df2b724de58fe3bbd4beb7a9c1711743ecc5897aaa712d94ffba86a6846",
+                            "Explain": "小儿乙肝疫苗的接种时间为刚出生、1月龄、6月龄。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "6个月"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "7个月"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "8个月"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "9个月"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "10个月"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020023,
+                            "ATestID": 43020023,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aa0e2d71a1507fdadf0fa0a3125dc7073e5a2b4fe86656ffc3b0f4d87dfed473b58850153a2e7245a9dd867a97224123abd844769e07fb4687505967f2b76078f2d565df63b938c4a4de44b4231341cec95141d851d0cd9f21785a3662cf20fcb3fbbaf148a1289e",
+                            "Explain": "按照我国原卫生部规定的计划免疫，一岁内必须完成卡介苗、脊髓灰质炎三型混合疫苗、百日咳白喉破伤风类毒素混合制剂、麻疹减毒活疫苗和乙型肝炎疫苗5种疫苗的接种 。由于婴儿从母体获得被动免疫抗体8个月龄后减低，所以我国目前规定8个月以后才可以接种麻疹减毒活疫苗，选E。",
+                            "TestPoint": "疫苗",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "卡介苗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乙肝疫苗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "百白破三联针"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脊髓灰质炎减毒糖丸活疫苗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "麻疹减毒活疫苗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020024,
+                            "ATestID": 43020024,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185d05314598b8bcee55ea7acb3f0ebdb626d5248948796411dc1c786fd662c105dd11ec33e412c2f6b",
+                            "Explain": "小儿1岁内应完成5种疫苗接种的基础免疫（简称五苗防七病），分别是：卡介苗、脊髓灰质炎疫苗、百白破三联针、麻疹疫苗和乙肝疫苗。肺炎链球菌疫苗不在此列。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "脊髓灰质炎疫苗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺炎链球菌疫苗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "百日咳疫苗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "乙肝疫苗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "麻疹疫苗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020027,
+                            "ATestID": 43020027,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3eefbf6409b5300eeefd303ccf4f3d1ef229b5ecf05cebc14eccf961d08d31eff5c23d1ad68dfca218757be7ee49c15218d7654f160b113f813db767fda46455",
+                            "Explain": "脊髓灰质炎疫苗接种的时间：生后2、3、4月龄；卡介苗于新生儿期接种；麻疹疫苗8月龄接种；牛痘不在计划免疫内；乙型脑炎疫苗不属于国家计划免疫，且应在2岁后接种。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "脊髓灰质炎疫苗2个月以上"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "卡介苗2～3个月"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "麻疹疫苗4～5个月"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "牛痘6～8个月"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "乙型脑炎疫苗9～10个月"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020028,
+                            "ATestID": 43020028,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b8e3fac40ef340b0ce7428c5e029e4b6249c10f822f76e1caf716989cf4b88da170c2eeda986f435",
+                            "Explain": "卡介苗的初种年龄出生时 。脊髓灰质炎疫苗初种的年龄是2个月。",
+                            "TestPoint": "疫苗",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "2个月"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "3个月"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "4个月"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "5个月"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "6个月"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020029,
+                            "ATestID": 43020029,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5988e4d29cbb8e0b7ad3947b8664afd961ebb473b56a83144070263a47f142c8146e6c4c563f6804",
+                            "Explain": "按照我国卫生部的规定，婴儿必须在1岁内完成卡介苗，脊髓灰质炎三价混合疫苗，百日咳、白喉、破伤风类毒素混合制剂（简称百白破三联针），麻疹减毒疫苗和乙型肝炎疫苗五种疫苗接种的基础免疫（简称五苗防七病）。所以卡介苗的接种一般选在新生儿出生的第一天进行。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "出生后1天"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "出生后2天"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "出生后3天"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "出生后4天"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "出生后7天"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020030,
+                            "ATestID": 43020030,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "571d8ed3535fb606b80ffbd21d20932a449b2e1b5bbf4343ba0828589a83b99f",
+                            "Explain": "卡介苗的初种年龄出生时 。脊髓灰质炎疫苗初种的年龄是2个月。",
+                            "TestPoint": "疫苗",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "2个月"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "3个月"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "出生时"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "8个月"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "1岁"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020031,
+                            "ATestID": 43020031,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5988e4d29cbb8e0b8961b931872f2bb8d01f7b81b7a0be92b5a6588e60ce04bfa2b1f8f20b4f756d675b23a33772a686975d60c2a0e0ac25b9dd6e346c84ece24e2a26adb48b0465ead218c96078577f8077b0b95ab3c30f",
+                            "Explain": "供给充足的热量有助于恒温和维持正常体温，热量供给从每日210kj/kg开始，逐渐增加至每日419～502kj/kg，喂养困难者可给予部分或完全静脉营养，液体按0.24ml/kJ计算，有明显心、肾功能损害者应严格控制输液速度及液体入量。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "补充热卡"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "抗感染治疗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "改善微循环"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "正压通气给氧"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "纠正代谢紊乱"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020032,
+                            "ATestID": 43020032,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "374746796cb9a5544927311f4be9bcb68503bb03bd65a188abb45d56c185369a634342414ca1c6db897c6f25df17ae49",
+                            "Explain": "乙肝疫苗成人接种按0、1、6个月3次注射，新生儿接种时间为出生后1个月、6个月、8个月 。",
+                            "TestPoint": "疫苗",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "乙肝疫苗——出生24小时",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "卡介苗——出生24小时",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "乙型脑炎疫苗——出生1天",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "百白破混合制剂——出生3、4、5个月",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "麻疹疫苗——出生8个月",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43020033,
+                            "ATestID": 43020033,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题有误，已做修改。",
+                            "OperateTime": "2018年8月10日"
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "9a34199ad3fe47a120c47e7811e8c1da77b42524ba141dd4381580e49956d12ea504f741267ad081a6419ceb00194a8cf8115f7263a667df",
+                            "Explain": "疫苗初种时间是：出生时：卡介苗、乙肝疫苗；2个月：脊髓灰质炎疫苗；3个月：百白破混合疫苗；8个月：麻疹疫苗。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "卡介苗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乙型脑炎疫苗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "麻疹疫苗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脊髓灰质炎疫苗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "百日咳-白喉-破伤风混合疫苗"
+                                }
+                            ],
+                            "AllTestID": 43001762,
+                            "BTestID": 43000402,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000402,
+                                    "Title": "9a34199ad3fe47a120c47e7811e8c1da77b42524ba141dd4381580e49956d12ea504f741267ad081a6419ceb00194a8cf8115f7263a667df",
+                                    "Explain": "疫苗初种时间是：出生时：卡介苗、乙肝疫苗；2个月：脊髓灰质炎疫苗；3个月：百白破混合疫苗；8个月：麻疹疫苗。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": "经核实，试题错误部分已修改。",
+                                    "OperateTime": "2018年12月12日",
+                                    "OldTestJson": "{\"Title\":\"出生时\",\"Explain\":\"疫苗初种时间是：出生时：卡介苗、乙肝疫苗；2个月：脊髓灰质炎疫苗；3个月：百白破混合疫苗；8个月：麻疹疫苗。\",\"TestPoint\":\"\",\"Answer\":\"A\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"卡介苗\"},{\"ItemName\":\"B\",\"Content\":\"乙型脑炎疫苗\"},{\"ItemName\":\"C\",\"Content\":\"麻疹疫苗\"},{\"ItemName\":\"D\",\"Content\":\"脊髓灰质炎疫苗\"},{\"ItemName\":\"E\",\"Content\":\"百日咳-白喉-破伤风混合疫苗在下列各年龄时，应进行的预防接种的初种制剂分别是\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43000403,
+                                    "Title": "8fcbaf3c67947e45db55ec0892433808575736be5b1038a54476afde8ed7cea513984926ab247c3f5d21f3babe07a73f13829f745a8508bf6dee551b472d3f82",
+                                    "Explain": "疫苗初种时间是：出生时：卡介苗、乙肝疫苗；2个月：脊髓灰质炎疫苗；3个月：百白破混合疫苗；8个月：麻疹疫苗。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月12日",
+                                    "OldTestJson": "{\"Title\":\"生后2～4个月时\",\"Explain\":\"疫苗初种时间是：出生时：卡介苗、乙肝疫苗；2个月：脊髓灰质炎疫苗；3个月：百白破混合疫苗；8个月：麻疹疫苗。\",\"TestPoint\":\"\",\"Answer\":\"D\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"卡介苗\"},{\"ItemName\":\"B\",\"Content\":\"乙型脑炎疫苗\"},{\"ItemName\":\"C\",\"Content\":\"麻疹疫苗\"},{\"ItemName\":\"D\",\"Content\":\"脊髓灰质炎疫苗\"},{\"ItemName\":\"E\",\"Content\":\"百日咳-白喉-破伤风混合疫苗在下列各年龄时，应进行的预防接种的初种制剂分别是\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43000404,
+                                    "Title": "14938054df16ad4f1df177262a8fd2c941c95c826222ba1d10c2e826f08277270911baf000841e85e9878118ffdcf708c48db46231fc6fb113fe91a6ea2f3be1",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月12日",
+                                    "OldTestJson": "{\"Title\":\"生后3～5个月时\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"E\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"卡介苗\"},{\"ItemName\":\"B\",\"Content\":\"乙型脑炎疫苗\"},{\"ItemName\":\"C\",\"Content\":\"麻疹疫苗\"},{\"ItemName\":\"D\",\"Content\":\"脊髓灰质炎疫苗\"},{\"ItemName\":\"E\",\"Content\":\"百日咳-白喉-破伤风混合疫苗在下列各年龄时，应进行的预防接种的初种制剂分别是\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 43000405,
+                                    "Title": "9d3eecf9c310a821c95b65199999647cc750db95d303bc4b42ffc8342a672079734e7557d3f1880efb6d769ecb299cfbf070d26831afaf4b4bda4892f52158d4",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月12日",
+                                    "OldTestJson": "{\"Title\":\"生后8个月时\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"卡介苗\"},{\"ItemName\":\"B\",\"Content\":\"乙型脑炎疫苗\"},{\"ItemName\":\"C\",\"Content\":\"麻疹疫苗\"},{\"ItemName\":\"D\",\"Content\":\"脊髓灰质炎疫苗\"},{\"ItemName\":\"E\",\"Content\":\"百日咳-白喉-破伤风混合疫苗在下列各年龄时，应进行的预防接种的初种制剂分别是\"}]}"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "11fbf5c4f239ec879b153fd4f0f8bafabc041076461102a3ee73324bf73c0a24d895a556fcaa00e1331d04ea4339f036",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "乙肝疫苗"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "麻疹疫苗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "流感疫苗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脊髓灰质炎疫苗"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "白、百、破疫苗"
+                                }
+                            ],
+                            "AllTestID": 43020034,
+                            "BTestID": 43003337,
+                            "SrcID": 9,
+                            "SbjID": 55,
+                            "CptID": 79,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003337,
+                                    "Title": "11fbf5c4f239ec879b153fd4f0f8bafabc041076461102a3ee73324bf73c0a24d895a556fcaa00e1331d04ea4339f036",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003338,
+                                    "Title": "b879df63d794b63082b205b5daf09338983751f2d98c410c15697026adf77d79c841bf24426869c2",
+                                    "Explain": "新生儿期接种的疫苗为乙肝疫苗和卡介苗；小儿生后2个月应接种的疫苗是脊髓灰质炎疫苗。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43001759,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001759,
+                        "ChildTableID": -1,
+                        "UserCount": 6412,
+                        "RightCount": 5233,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001759,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43001760,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001760,
+                        "ChildTableID": -1,
+                        "UserCount": 5989,
+                        "RightCount": 5616,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001760,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 41002458,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002458,
+                        "ChildTableID": -1,
+                        "UserCount": 6705,
+                        "RightCount": 3905,
+                        "FavCount": 204,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002458,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 41002459,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002459,
+                        "ChildTableID": -1,
+                        "UserCount": 6188,
+                        "RightCount": 5331,
+                        "FavCount": 49,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002459,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 41002460,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002460,
+                        "ChildTableID": -1,
+                        "UserCount": 5972,
+                        "RightCount": 5131,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002460,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43020020,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020020,
+                        "ChildTableID": -1,
+                        "UserCount": 6382,
+                        "RightCount": 2619,
+                        "FavCount": 248,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 38
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020020,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 38
+            },
+            {
+                "AllTestID": 43020021,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020021,
+                        "ChildTableID": -1,
+                        "UserCount": 6020,
+                        "RightCount": 3849,
+                        "FavCount": 95,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020021,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020022,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020022,
+                        "ChildTableID": -1,
+                        "UserCount": 5622,
+                        "RightCount": 4538,
+                        "FavCount": 81,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020022,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43020023,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020023,
+                        "ChildTableID": -1,
+                        "UserCount": 5333,
+                        "RightCount": 5136,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020023,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43020024,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020024,
+                        "ChildTableID": -1,
+                        "UserCount": 5314,
+                        "RightCount": 5077,
+                        "FavCount": 11,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020024,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020027,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020027,
+                        "ChildTableID": -1,
+                        "UserCount": 5373,
+                        "RightCount": 5081,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020027,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43020028,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020028,
+                        "ChildTableID": -1,
+                        "UserCount": 5539,
+                        "RightCount": 4434,
+                        "FavCount": 60,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020028,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43020029,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020029,
+                        "ChildTableID": -1,
+                        "UserCount": 5300,
+                        "RightCount": 4924,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020029,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43020030,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020030,
+                        "ChildTableID": -1,
+                        "UserCount": 5362,
+                        "RightCount": 4760,
+                        "FavCount": 53,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020030,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43020031,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020031,
+                        "ChildTableID": -1,
+                        "UserCount": 5273,
+                        "RightCount": 5033,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020031,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020032,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020032,
+                        "ChildTableID": -1,
+                        "UserCount": 5802,
+                        "RightCount": 3496,
+                        "FavCount": 157,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020032,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43020033,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43020033,
+                            "ChildTableID": -1,
+                            "Answer": "C",
+                            "AnswerCount": 5
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020033,
+                        "ChildTableID": -1,
+                        "UserCount": 6153,
+                        "RightCount": 2620,
+                        "FavCount": 103,
+                        "DiscussionCount": 21,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020033,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 21,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43001762,
+                "ChildTableID": 43000402,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001762,
+                        "ChildTableID": 43000402,
+                        "UserCount": 5365,
+                        "RightCount": 5157,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001762,
+                    "ChildTableID": 43000402
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43001762,
+                "ChildTableID": 43000403,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001762,
+                        "ChildTableID": 43000403,
+                        "UserCount": 5521,
+                        "RightCount": 4869,
+                        "FavCount": 23,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001762,
+                    "ChildTableID": 43000403
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43001762,
+                "ChildTableID": 43000404,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001762,
+                        "ChildTableID": 43000404,
+                        "UserCount": 5484,
+                        "RightCount": 4969,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001762,
+                    "ChildTableID": 43000404
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43001762,
+                "ChildTableID": 43000405,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001762,
+                        "ChildTableID": 43000405,
+                        "UserCount": 5374,
+                        "RightCount": 5110,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001762,
+                    "ChildTableID": 43000405
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43020034,
+                "ChildTableID": 43003337,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020034,
+                        "ChildTableID": 43003337,
+                        "UserCount": 5189,
+                        "RightCount": 4847,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020034,
+                    "ChildTableID": 43003337
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43020034,
+                "ChildTableID": 43003338,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020034,
+                        "ChildTableID": 43003338,
+                        "UserCount": 5214,
+                        "RightCount": 4938,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020034,
+                    "ChildTableID": 43003338
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

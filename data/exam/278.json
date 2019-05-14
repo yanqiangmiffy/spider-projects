@@ -1,0 +1,2172 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:35:34 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "47b83f0e6ac0002cbf46185b2b80639d0f7b1cdd28c17ae0b3267577a37f203fbbb39374232f4186ec7aaecc27dd3efe",
+                            "Explain": "病理组织学检查是恶性肿瘤的诊断中最主要的依据。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "病理组织学检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "明显的体征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "X线或同位素检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "有关的化验检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CT"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001723,
+                            "ATestID": 43001723,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ef6d94cfbb3bb029e98177a6637e847958b038f8e8cb687c138fc3ae354b36225db11e0f255da7f0",
+                            "Explain": "边缘不清楚，骨质破坏，骨膜反应明显符合恶性骨肿瘤的X线表现。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "边缘不清楚，骨质破坏，骨膜反应明显"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "边缘清楚，骨质破坏，骨膜反应明显"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "边缘不清楚，骨质增生，无骨膜反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "边缘不清楚，骨质破坏，无骨膜反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均不对"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001724,
+                            "ATestID": 43001724,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 10,
+                    "TestItems": [
+                        {
+                            "Title": "90c907746fca3d26bef1d185ec72addc05f8ed470ea0a1d75e4a9e36d1fd9f4e96357bcf9a6769ac",
+                            "Explain": "骨巨细胞瘤是一种潜在恶性或介于良、恶性之间的溶骨性肿瘤。好发年龄20～40岁，女性多于男性，好发部位为股骨下端和胫骨上端。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1～5岁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "6～10岁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "11～15岁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "16～20岁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "21～40岁"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002386,
+                            "ATestID": 41002386,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9ca1cc67b2c6f0a1d603a525e2bd10388324337d1b09f064",
+                            "Explain": "骨软骨瘤是一种常见的良性肿瘤，多发生于青少年。多见于长骨干骺端，如股骨远端、胫骨近端和肱骨近端。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "长骨骨端"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "长骨骨骺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "长骨骨干"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "长骨干骺端"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "扁骨骨端"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002387,
+                            "ATestID": 41002387,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878e5fd8735307355816a94bd32d8314552ec054bc8c00c7dbf73537da8704e92156f9df5053a24cdcde8167eb0a32215c606a62de9f77fd991d89e0be061d7cb47e0b08ba60c7087acd80d2bb5929855f5a29e5c236515446f321129874e4c1356b50f3fb8a1e4b3278fab89ff242bc1847f228b246432db07369b162115d49c316adc3b4630de4e879c70bee42fa3fae6cc7388ed25049ac3cd73a7c22692e44b31dd65c1cec133222ede3674e672f77e10b7fbced9faf78464bee0f9a200a7d379be005a14a3ea6c7b7699a90824c06bc",
+                            "Explain": "骨软骨瘤是一种常见的良性肿瘤，多发生于青少年。多见于长骨干骺端，如股骨远端、胫骨近端和肱骨近端。可长期无症状，多因无意中发现骨性包块而就诊。X线可见在干骺端从皮质突向软组织的骨性突起，其皮质和松质骨以窄小或宽广的蒂与正常骨相连，彼此髓腔相通，突起表面为软骨帽。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "骨结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "骨髓炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "骨肉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "骨软骨瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "骨巨细胞瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002389,
+                            "ATestID": 41002389,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7670f462bf2a878e963c95a76459deef551ba8c104728b6da58e64e0a34e8db81d221e411ead89fdac2ceb2ed8d113477ba68aa74c943276742cb9df6e468366fead3cf664dd4837a3cebe7dae1b7607e9b3956d73c7066911d1e9d3306ef094b6458ba7de4c7e4ba78ba208e926a724b8467afcb2652adf72a57908b6688d701eb47c7624344eb55c23776ed06299c57aadc66d3baf9e361e1cd1b8d4fafc0380cab70cfa5150680a13c438b338ea9dc6b6ae6c6bc0588370463939e41c9f411ed9dee67145eadf48642f2991dc47d356ad1e01728d0fa5974a9ccf9dad0308165276354ce439c467579ea5b0768c9f",
+                            "Explain": "骨囊肿是一种发生在骨髓内、单腔的、囊肿样子的局限性骨的瘤样病损，常见于儿童和青少年，好发于长管状骨干骺端，一次是肱骨上端、股骨上端、胫骨上端和桡骨下端。临床上常无明显症状，有时有局部隐痛或肢体局部肿胀。X线表现为干骺端有圆形或椭圆形界限清楚透亮区，骨皮质有不同程度的膨胀变薄，以囊肿中心处皮质最薄，邻近骨骺生长板，但不越过生长板，亦无骨膜反应。本例根据典型的临床症状及X线表现不难诊断为骨囊肿。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "骨囊肿",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "骨结核",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "骨肉瘤",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "骨软骨瘤",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "骨巨细胞瘤",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41002392,
+                            "ATestID": 41002392,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题有误，已修改。",
+                            "OperateTime": "2018年8月16日"
+                        },
+                        {
+                            "Title": "266fa0f36bb1dead1ca4b3195f2bf030755ec57d0161def0a5b6375b3657681e9684ed1c2ffcf7c1be97c0256117a6b1381bf0bb8906089c1dd12e198979e1bb596de81bb493e81c8f927a9deffdbcee8c5f2b13ab1742cf6df357ce2383c41874a9daa5940c7a6fa1b17c1c22b84744e75ce378c4f1459e7549f218afc31230f9c117da34ee2bd1e8f5c2beee4e1df23e76381581d98d67984b52b0df1002caba671ac59793691a047e5b78fc210de5b44e387459c1aae11653dab5280f96a9e8c2f5d1d7771eac",
+                            "Explain": "动脉瘤样骨囊肿呈膨胀性囊状透亮区，边界清，内有骨性间隔将囊腔分成蜂窝状。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨囊肿"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨纤维异样增殖症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "动脉瘤样骨囊肿"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "内生性软骨瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨折"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019911,
+                            "ATestID": 43019911,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5f9b757beab2b2266f2608af9dc1176e5693a149902ce371c060ed5af4e61d225498ba66d2d41a8efb4882269aad81c23949035e6c0488739cfe6210ec02db2c9b961edf3d89cf6a35c9414d3dd636d052156e4d1c60beeee5b22b90fe1373478c7805eadeb10f1ef3a58a7ff6c99ef287326aa9b5404e70429e121b8c4e185d",
+                            "Explain": "本周蛋白尿阳性为骨髓瘤表现，故用骨髓穿刺。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "核素骨扫描"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨髓穿刺"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肾活检"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "全身X线骨摄片"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "MRI"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019913,
+                            "ATestID": 43019913,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "addc57dc39f2430a3f3d60ddf9aab1c480f9b36655664e09967fa077b8444f2ceddb9bf8c5709474",
+                            "Explain": "骨肉瘤不同于软骨肉瘤，前者治疗是手术十化学治疗，后者主要是手术治疗。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "手术切除"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "化学治疗"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "放射治疗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "化学治疗+根治性手术"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "放射治疗+化学治疗+手术"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019914,
+                            "ATestID": 43019914,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "13e9ae6dc8bbdc1282f55e21fdd130864ef71d93f8226f6231fff8598b615c5dc0773129dfff794f371a9f1f34b9a7bba0bd56728466189d",
+                            "Explain": "最为常见，有单发性及多发性两种，单发性多见，多发性较少见，常合并骨骼发育异常。最多发生于膝关节及踝关节附近，常为两侧对称性并有遗传性，又称遗传性多发性外生骨疣。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "一般无症状，生长缓慢的骨性突起"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肿物与周围界限不清"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "X线检查可见骨膜反应"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肿胀明显，皮肤有静脉怒张"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "生长较快，伴明显疼痛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019915,
+                            "ATestID": 43019915,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e9f8d93cc1cacddad7b9d37670283057d34529b624e0a34f65e241aa309a8ae124008954704e15776dd1511fa23483c5e2cdd007b320393b5bc9f56bfa3a5709e52a6ff69b4de8db05c726c8dcd63905397febd0fb4df3f5635ba9560c6bb32688eeadc90600776256bbc14ad0be8d8fc48ac7c67e77ee6b",
+                            "Explain": "以手术为主的综合治疗，手术须行大块根治性切除，特别要强调器官切除的概念，以避免因管道或腔隙传播而导致局部复发。但是只要及早诊断，术前仔细分型，细心手术加上术前和术后的化疗，预后大为改观。五年治愈率有明显提高。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "化学治疗",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "化学治疗加放射治疗",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "左肩关节离断术",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "肿瘤刮除术",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "术前化学治疗加根治性手术加术后放射治疗",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019916,
+                            "ATestID": 43019916,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题有误，已做修改。",
+                            "OperateTime": "2018年8月15日"
+                        },
+                        {
+                            "Title": "15889cc8dd0a00e023ed84cc6788c29a671ca9504294fc83",
+                            "Explain": "骨囊肿为骨的瘤样病变，常见于骨干骺端，囊壁为一层纤维包膜，囊内为黄色或褐色液体。主要以手术治疗为主，预后良好。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "长管状骨干骺端"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "扁骨骨端"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "长管状骨骨端"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "短状骨骨端"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "短骨干骺端"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43019917,
+                            "ATestID": 43019917,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d09035010e03556293827e73262b20b3d9e4ba1005af9c01cc6e97ec3ebf7abbd2ff1a6d77dc3e295d71cc11e33f1e23169928e636e7ae02b9301b595c905c8eaad455799a13149a54a66a01a8629d54fbdacf5b1a0f6ce3648678184be8e313a20da71136d5e67b1115af8b10adc2bcfbb56def85bb2254d574cc50b5fb19bd23243316262c7b9b0d9f4cfe9cce7329a23367599e7e5323b06261dbd0a59f66a3772031e40a2a8f6887a7e9e91c6ba5b27f8e29b82097ccdb1a54ebeab8441809fc4",
+                            "Explain": "两端可见骨膜三角骨及股骨下端有境界不清的骨质破坏区提示骨肉瘤。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "骨结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "骨髓炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "骨肉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "骨巨细胞瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "骨软骨瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001725,
+                            "ATestID": 43001725,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7b152f764e1cb121cca2cec78375c99eb910c03fc4d787a891a12e4f6f24571e5c36382dd06c9113d72b69c2cfd857cd82564606fb0e4da388f610bc09ca1739e493dc1dd2a88babadff33e3ae4a0272c0ecfe092299d5a5de1abbaf2f58c83199398769cedd66520bef8055fdb3ac20a41002a4731431294825e54a12fb178b29d41389dddd576ca00c2dfe5a942da439ef83916d793fdb4d0b39f947084cda6d96dcb76c7c62e396fef6a3417acf597edac22ed598a5f7bb6c8c025295b8a6e116e3442f7e6e3c",
+                            "Explain": "软骨骨瘤本身无症状，但可因压迫周围组织，如肌腱、神经、血管等而产生临床症状。患者往往在无意中发现骨性肿块。X线表现为骨性病变自干骺端向一侧突出，并有一个狭窄或宽阔的基底与骨皮质相连，一般比临床所见的更少，因为其表面的软骨帽和滑囊不显影。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "骨肉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "慢性骨髓炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "骨巨细胞瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胫骨先天畸形"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "骨软骨瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43001726,
+                            "ATestID": 43001726,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 6,
+                    "Style": "A3型题",
+                    "Explain": "A3型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "首先考虑的诊断是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨结核"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨肉瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨软骨瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨巨细胞瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "疲劳性骨折"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "266fa0f36bb1dead80e16d0101a36085fbe94915d8be3f24185614efb2e695f72844bf56a6669900139e9087a571d2d2c88e6a678a5ac1c100e90563ae5d1ea918eb3a344f9fc53998ac5bc92c7521ab18553489a8d70c5b3a8e00bd4b703fb1b82af750336a6d53dcc7c6b46ca9731b94b15df2f490443e8991e02a26b66d7af644dd62a127f05aa0f7cff1c358e55d765def27edce8219216ea77d739d8f52a20a3e7121d56b7640230ccab728d814fd8f4202ad66d7d3",
+                            "AllTestID": 43019918,
+                            "A3TestID": 43003416,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003416,
+                                    "Title": "39bc6cc7b9703b3b6ed4bd06d68847d55737d121527e3d0466e94da63a849f0c",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "骨结核"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "骨肉瘤"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "骨软骨瘤"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "骨巨细胞瘤"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "疲劳性骨折"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003417,
+                                    "Title": "6bb550de17e4bf4b1b4d2e3caf3e9380c23228fa1cb8c3408f61cb0a24c283d4",
+                                    "Explain": "骨肉瘤术前大剂量化学治疗，然后根据肿瘤浸润范围做根治性切除瘤段、灭活再植或置入假体的保肢手术或截肢术，术后继续大剂量化学治疗。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "刮除骨质"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "抗结核治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "术前化学治疗加保肢术"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "抗感染治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "单纯手术"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003418,
+                                    "Title": "c33f39f6da73552b647605f10240f21346243a58fb8579dbb6879acff2c851a2122359ae9d30f718c333a0d354b5d5b675f6c76a86cccd66a7e545cd2141fb6a",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "骨软骨瘤"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "骨肉瘤"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "骨化性肌炎"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "骨结核"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "骨折"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "确诊该病的检查方法是",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CT"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "MRI"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "组织活检"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "B超"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "核素扫描"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "30c6193fba9750e62ed8e29a1d20cfe0adb1329da1d2c4cde4b63d112dc1dc1d40b9739861eda1eddc1222f29f153c23917c83319c67c88fbd004cea8f4e94b531e2d8c0e682207b5024698ce27e5dd9b66da1fbe2de6072245347b63c4696538d5fb3591db7c816de14b25df3f3f7169c68e8942758d463286fbb29ef31b2fedd278a21f5dfe0d5ea50ff24f794b1130b6fba899ba0852ce991c8411303a1474a9220c715da4aabb6706b8890711ac5ba3dfa28db75cc29113b14ea69c698025fcf6d9715305cb67025b691a8b2d0d7",
+                            "AllTestID": 43019919,
+                            "A3TestID": 43003419,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003419,
+                                    "Title": "fb53a3c7478bec183ad8a16229b5375e4cd3cb4aecf6cb7c94109753be92b75c",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "CT"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "MRI"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "组织活检"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "B超"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "核素扫描"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003420,
+                                    "Title": "91c2beef1821172aa02421cc2b7a143016574b280934b3fd",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "骨囊肿"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "骨巨细胞瘤"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "骨髓炎"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "骨肉瘤"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "骨结核"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43003421,
+                                    "Title": "318ddc05d821c621a8b2b540b11e70d76a493f90a6e88854743dd79bc815df53",
+                                    "Explain": "肿痛、骨质溶骨性病变、骨膜日光放射表现，提示恶性臂肿瘤可能性大，对于恶性骨肿瘤病理组织学检查是最后确定诊断的唯一可靠检查。骨肉瘤多发于青少年，好发于胫骨近端，主要表现有局部疼痛，多为持续性，逐渐加剧，夜间尤重。附近关节活动受限，肿瘤表面皮温增高，静脉怒张等。X线片可见密质骨和髓腔溶骨性破坏，Codman三角或骨膜日光放射表现。综合患者临床表现及X线表现，骨肉瘤可能性大。术前大剂量化学治疗，然后根据肿瘤浸润范围做根治性切除瘤段、灭活再植或置入假体的保肢手术或截腋术，术后继续大剂量化学治疗。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "刮除植骨"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "对症治疗"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "单纯截肢术"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "放射治疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "放射治疗+保肢治疗"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "应首先考虑的疾病为",
+                            "Explain": "1.骨囊肿是一种骨的囊肿样局限性瘤样病损，并非真正的囊肿，常见于儿童和青少年；好发于长骨干骺端，依次为肱骨近段、股骨近段、桡骨近段。X线表现干骺端有圆形或椭圆形界限清楚的透亮区，骨皮质有不同程度的膨胀变薄，以囊肿中心处皮质最薄。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨囊肿"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨髓炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨肉瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨软骨瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨巨细胞瘤"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7670f462bf2a878eaa3d1e987f94a55bc73a8b2f28747cca30639793ba9b30581a1664e53f1053ed2f98a315971c094a78e34509b6a6eef74e925919d8f3f4d5d004d360a4121af2f3ad3e3b696d527027dcc8637261b1d74bb79e8c86a18b2f1169527b5aa140021f8caac24d486b60f6835ba5ab3c2ae9aa64f9cfe6bf5ade1723bf58c231ad77211e10c4378c2b27774ceb03101eabf6e5b1ca5c5b9941eff0ba2525b18b009242600fb673c4e21d6095ef4373743d75e33224b5d12a21ab2c9b6ba29ebf7e89",
+                            "AllTestID": 41002394,
+                            "A3TestID": 41000378,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000378,
+                                    "Title": "29885b57fc0032dff91f3e8382a1db015ffe73a5de8c380fcdbc4fbaa2b40970",
+                                    "Explain": "1.骨囊肿是一种骨的囊肿样局限性瘤样病损，并非真正的囊肿，常见于儿童和青少年；好发于长骨干骺端，依次为肱骨近段、股骨近段、桡骨近段。X线表现干骺端有圆形或椭圆形界限清楚的透亮区，骨皮质有不同程度的膨胀变薄，以囊肿中心处皮质最薄。故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "骨囊肿"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "骨髓炎"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "骨肉瘤"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "骨软骨瘤"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "骨巨细胞瘤"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000379,
+                                    "Title": "7111bdd96ec2e14504b2e601d18d6e6648e7b428b61382877f987e91cc2e229a",
+                                    "Explain": "2.骨囊肿的治疗分为非手术治疗和手术治疗。非手术治疗：骨囊肿可以自愈.特别在骨折后，囊肿可被新骨填塞。手术治疗：保守治疗无效者，可行刮除植骨术，刮除应彻底，以防止复发。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "单纯化疗"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "截肢手术"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "抗感染治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "单纯放疗"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "刮除植骨"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "其诊断首先应考虑",
+                            "Explain": "1.骨肉瘤是一种最常见的恶性骨肿瘤，好发于青少年，好发部位为股骨远端、胫骨近端和肱骨近端的干骺端。主要症状为局部疼痛，多为持续性，逐渐加剧，夜间尤甚，并伴有全身恶病质。附近关节活动受限。肿瘤表面皮温增高，静脉怒张。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨髓炎"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨结核"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "风湿性关节炎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨性关节炎"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨肉瘤"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7670f462bf2a878ec8703bb034b12df707c25d49e84d3ad95e790e5ba5f771d9a30d7cc6a911a38a83ad446da0d01eeed615974844a5ac6373431414d0fc06e42ac718b65d24e14c55dd15982a3821b6142a1233387e84d729aa0e8ad29c93ff5e1d4a33c60cb7db859e367dc915900aadc167527fd05325e77db88b57c17ca48bf6fe07b1b4d4a07265c261ae54f53343427d65087f09fe01b54b1f1b49f4373fa691f7a59d6e764df8b85bc595ad23cbf8cb0ab0816848",
+                            "AllTestID": 41002395,
+                            "A3TestID": 41000380,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000380,
+                                    "Title": "ee340f8bfe46ed154fb2ff7fd9d5a1487bedab455e00d1d97fa49bc99d5b89d5",
+                                    "Explain": "1.骨肉瘤是一种最常见的恶性骨肿瘤，好发于青少年，好发部位为股骨远端、胫骨近端和肱骨近端的干骺端。主要症状为局部疼痛，多为持续性，逐渐加剧，夜间尤甚，并伴有全身恶病质。附近关节活动受限。肿瘤表面皮温增高，静脉怒张。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "骨髓炎"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "骨结核"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "风湿性关节炎"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "骨性关节炎"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "骨肉瘤"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000381,
+                                    "Title": "cf03e65f53a595e82c9c23a485d6bc79f7032844bf2c68adab425abadabfa50a",
+                                    "Explain": "2.骨肉瘤X线可有不同形态，密质骨和髓腔有成骨性、溶骨性及混合性骨质破坏，骨膜反应明显，呈侵袭性发展，可见Codman三角或\"日光照射\"形态。该患者考虑骨肉瘤，故选D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "磨砂玻璃样改变"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "葱皮样改变"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "肥皂泡样改变"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "Codman三角或日光放射样改变"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "骨性突起呈蒂状改变"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000382,
+                                    "Title": "7c8cdf6cceb0e2b2c76b154c160283e6514a950c7a95358689c90536d28ba34a72a1ea15b0cb3143",
+                                    "Explain": "3.病理组织学检查是最后确定诊断骨肿瘤可靠的检查。该患者为明确是否为骨肉瘤，应行病理学检查。血常规、血沉、血碱性磷酸酶及血尿酸检查对诊断骨肿瘤有一定意义，但对于肿瘤性质的判定方面不如病理组织学检查意义重大。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "血常规检查"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "血沉检查"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "血碱性磷酸酶检查"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "血尿酸检查"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "病理组织学检查"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000383,
+                                    "Title": "0cd991e94017046eab6dfe914a4bb17e6be2d81e80d8d04c2b67b49c4f4cb4559adf94f29fc62c4a5dee728bf12126cf",
+                                    "Explain": "4.属G[XB2.gif]T[XB1dao2.gif]M[XB0.gif]者，采取综合治疗。术前大剂量化疗，然后根据肿瘤浸润范围作根治性切除瘤段、灭活再植或置入假肢的保肢术或截肢术，术后继续大剂量化疗。骨肉瘤肺转移的发生率极高，属G[XB2.gif]T[XB1dao2.gif]M[XB1.gif]者，除上述治疗外，还可行手术切除转移灶。故选E。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "手术引流"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "病灶清除术"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "抗风湿药物治疗"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "关节融合术"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "截肢术"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "e121a146269191249d4566dd04f50df32b069e93defe859bb5e710b0144b03dfe949e97e291c228b429f102909001ee5d684ade8490707f68931689eea77922ca2bab0b00f310e92ac57a7ef875abd885a518fa7b4e97e257937a4c5aa807d58f388f4e83e89cd236f4216639edcf36a22db27ed1f98cf683f03c983276493a0be8d4f7435917e3c883cd9b625460a71f18b79943118774e222327e03fb985ad7410a2aa59b8ce465ba61b40d96cefbc1f20b6d47bc36326",
+                            "Explain": "骨巨细胞瘤是一种潜在恶性或介于良、恶性之间的溶骨性肿瘤。好发年龄20～40岁，女性多于男性，好发部位为股骨下端和胫骨上端。主要症状为疼痛和肿胀，局部包块压之有乒乓球样感觉和压痛。X线主要表现为骨端偏心位溶骨性破坏而无骨膜反应，病灶骨皮质膨胀变薄，呈肥皂泡样改变，故选B。",
+                            "TestPoint": "骨巨细胞瘤",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨软骨瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨巨细胞瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨肉瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨转移性癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨折"
+                                }
+                            ],
+                            "AllTestID": 43019921,
+                            "BTestID": 43003324,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003324,
+                                    "Title": "e121a146269191249d4566dd04f50df32b069e93defe859bb5e710b0144b03dfe949e97e291c228b429f102909001ee5d684ade8490707f68931689eea77922ca2bab0b00f310e92ac57a7ef875abd885a518fa7b4e97e257937a4c5aa807d58f388f4e83e89cd236f4216639edcf36a22db27ed1f98cf683f03c983276493a0be8d4f7435917e3c883cd9b625460a71f18b79943118774e222327e03fb985ad7410a2aa59b8ce465ba61b40d96cefbc1f20b6d47bc36326",
+                                    "Explain": "骨巨细胞瘤是一种潜在恶性或介于良、恶性之间的溶骨性肿瘤。好发年龄20～40岁，女性多于男性，好发部位为股骨下端和胫骨上端。主要症状为疼痛和肿胀，局部包块压之有乒乓球样感觉和压痛。X线主要表现为骨端偏心位溶骨性破坏而无骨膜反应，病灶骨皮质膨胀变薄，呈肥皂泡样改变，故选B。",
+                                    "TestPoint": "骨巨细胞瘤",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003325,
+                                    "Title": "266fa0f36bb1dead1ca4b3195f2bf030b8f123fec1012d1d901d9eba682ae9961a96f25b5ba92392de5f8c1a665bda4f0f214cfa3ffba3abb8d01b07571ff37f0a4bcf4391f876fb8f9df0140eb3dfd10d2e2fbdebc65f12c33bfbcd2d51db79322a698cced9ca2a4565941f7da804f5b684defc581fc7de6d9e6151a66335c7ada260288c1e238ffdf3822f9208c9cfad90d5062fa92c2489c7a01b8e22f58bd767a56e17ea43b79d30b7a9735e5ad51224c547edee70fa",
+                                    "Explain": "骨软骨瘤是一种常见的良性肿瘤，多发生于青少年。多见于长骨干骺端，如股骨远端、胫骨近端和肱骨近端。可长期无症状，多因无意中发现骨性包块而就诊。X线可见在干骺端从皮质突向软组织的骨性突起，其皮质和松质骨以窄小或宽广的蒂与正常骨相连，彼此髓腔相通，突起表面为软骨帽，故选A。",
+                                    "TestPoint": "骨软骨瘤",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "c33f39f6da73552b33a44476f6b8659b46db9b40a8a7be776e68edafe871eaca999b735f96e6729c2a999b1076d73ef0263fcef367b7648a",
+                            "Explain": "骨纤维异常增殖症X线特征表现为磨玻璃样改变；骨巨细胞瘤为皂泡样改变。骨肉瘤X线显示日光放射状阴影，故选D。",
+                            "TestPoint": "骨肉瘤",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨囊肿"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨巨细胞瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "骨软骨瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨肉瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "骨纤维异常增殖症"
+                                }
+                            ],
+                            "AllTestID": 43019922,
+                            "BTestID": 43003326,
+                            "SrcID": 9,
+                            "SbjID": 54,
+                            "CptID": 278,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003326,
+                                    "Title": "c33f39f6da73552b33a44476f6b8659b46db9b40a8a7be776e68edafe871eaca999b735f96e6729c2a999b1076d73ef0263fcef367b7648a",
+                                    "Explain": "骨纤维异常增殖症X线特征表现为磨玻璃样改变；骨巨细胞瘤为皂泡样改变。骨肉瘤X线显示日光放射状阴影，故选D。",
+                                    "TestPoint": "骨肉瘤",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003327,
+                                    "Title": "c33f39f6da73552b8cb136441dfa88cb6264ddf04086f4cb3bb87291cfc869f5220eb4f511943157e84c6c9fef3e6c068a6623fb06e87d0ce1248609d0324f67728edc9d0cd4c91f7c3e4be6c0b7883d09aca61280012fcb32a8e093cc6e9bac8be1c1059495893f",
+                                    "Explain": "骨囊肿是一种髓内、通常是单腔的、囊肿样局限性瘤样病损，囊肿腔内含有浆液或血 清样液体。 X线表现为干骺端圆形或椭圆形界限清楚的溶骨性病灶，骨皮质膨胀变薄， 无硬化性边缘，故选A。",
+                                    "TestPoint": "骨囊肿",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43001723,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001723,
+                        "ChildTableID": -1,
+                        "UserCount": 2548,
+                        "RightCount": 2382,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001723,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43001724,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001724,
+                        "ChildTableID": -1,
+                        "UserCount": 2743,
+                        "RightCount": 2138,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001724,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41002386,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002386,
+                        "ChildTableID": -1,
+                        "UserCount": 2839,
+                        "RightCount": 1172,
+                        "FavCount": 131,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002386,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 41002387,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002387,
+                        "ChildTableID": -1,
+                        "UserCount": 2536,
+                        "RightCount": 2067,
+                        "FavCount": 61,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002387,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41002389,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002389,
+                        "ChildTableID": -1,
+                        "UserCount": 2488,
+                        "RightCount": 2113,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002389,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41002392,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 41002392,
+                            "ChildTableID": -1,
+                            "Answer": "A",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002392,
+                        "ChildTableID": -1,
+                        "UserCount": 2848,
+                        "RightCount": 1035,
+                        "FavCount": 121,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002392,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019911,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019911,
+                        "ChildTableID": -1,
+                        "UserCount": 2627,
+                        "RightCount": 1050,
+                        "FavCount": 133,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019911,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43019913,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019913,
+                        "ChildTableID": -1,
+                        "UserCount": 2554,
+                        "RightCount": 1216,
+                        "FavCount": 122,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019913,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43019914,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019914,
+                        "ChildTableID": -1,
+                        "UserCount": 2615,
+                        "RightCount": 1220,
+                        "FavCount": 100,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019914,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019915,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019915,
+                        "ChildTableID": -1,
+                        "UserCount": 2338,
+                        "RightCount": 1793,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019915,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43019916,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019916,
+                        "ChildTableID": -1,
+                        "UserCount": 2235,
+                        "RightCount": 2036,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019916,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019917,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019917,
+                        "ChildTableID": -1,
+                        "UserCount": 2333,
+                        "RightCount": 1853,
+                        "FavCount": 47,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019917,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43001725,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001725,
+                        "ChildTableID": -1,
+                        "UserCount": 2393,
+                        "RightCount": 1980,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001725,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43001726,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43001726,
+                        "ChildTableID": -1,
+                        "UserCount": 2392,
+                        "RightCount": 1966,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43001726,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019918,
+                "ChildTableID": 43003416,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019918,
+                        "ChildTableID": 43003416,
+                        "UserCount": 2527,
+                        "RightCount": 2054,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019918,
+                    "ChildTableID": 43003416
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43019918,
+                "ChildTableID": 43003417,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019918,
+                        "ChildTableID": 43003417,
+                        "UserCount": 2421,
+                        "RightCount": 2141,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019918,
+                    "ChildTableID": 43003417
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43019918,
+                "ChildTableID": 43003418,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019918,
+                        "ChildTableID": 43003418,
+                        "UserCount": 2363,
+                        "RightCount": 2231,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019918,
+                    "ChildTableID": 43003418
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019919,
+                "ChildTableID": 43003419,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019919,
+                        "ChildTableID": 43003419,
+                        "UserCount": 2411,
+                        "RightCount": 2140,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019919,
+                    "ChildTableID": 43003419
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019919,
+                "ChildTableID": 43003420,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019919,
+                        "ChildTableID": 43003420,
+                        "UserCount": 2364,
+                        "RightCount": 2148,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019919,
+                    "ChildTableID": 43003420
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43019919,
+                "ChildTableID": 43003421,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019919,
+                        "ChildTableID": 43003421,
+                        "UserCount": 2338,
+                        "RightCount": 2211,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019919,
+                    "ChildTableID": 43003421
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002394,
+                "ChildTableID": 41000378,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002394,
+                        "ChildTableID": 41000378,
+                        "UserCount": 2599,
+                        "RightCount": 1616,
+                        "FavCount": 66,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002394,
+                    "ChildTableID": 41000378
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41002394,
+                "ChildTableID": 41000379,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002394,
+                        "ChildTableID": 41000379,
+                        "UserCount": 2559,
+                        "RightCount": 1792,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002394,
+                    "ChildTableID": 41000379
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 41002395,
+                "ChildTableID": 41000380,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002395,
+                        "ChildTableID": 41000380,
+                        "UserCount": 2534,
+                        "RightCount": 1707,
+                        "FavCount": 76,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002395,
+                    "ChildTableID": 41000380
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41002395,
+                "ChildTableID": 41000381,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002395,
+                        "ChildTableID": 41000381,
+                        "UserCount": 2297,
+                        "RightCount": 2167,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002395,
+                    "ChildTableID": 41000381
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 41002395,
+                "ChildTableID": 41000382,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002395,
+                        "ChildTableID": 41000382,
+                        "UserCount": 2295,
+                        "RightCount": 2166,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002395,
+                    "ChildTableID": 41000382
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41002395,
+                "ChildTableID": 41000383,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002395,
+                        "ChildTableID": 41000383,
+                        "UserCount": 2557,
+                        "RightCount": 1682,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002395,
+                    "ChildTableID": 41000383
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43019921,
+                "ChildTableID": 43003324,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019921,
+                        "ChildTableID": 43003324,
+                        "UserCount": 2303,
+                        "RightCount": 2070,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019921,
+                    "ChildTableID": 43003324
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019921,
+                "ChildTableID": 43003325,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019921,
+                        "ChildTableID": 43003325,
+                        "UserCount": 2305,
+                        "RightCount": 2033,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019921,
+                    "ChildTableID": 43003325
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019922,
+                "ChildTableID": 43003326,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019922,
+                        "ChildTableID": 43003326,
+                        "UserCount": 2252,
+                        "RightCount": 2117,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019922,
+                    "ChildTableID": 43003326
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43019922,
+                "ChildTableID": 43003327,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43019922,
+                        "ChildTableID": 43003327,
+                        "UserCount": 2338,
+                        "RightCount": 2011,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43019922,
+                    "ChildTableID": 43003327
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,621 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:10:31 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 11,
+                    "TestItems": [
+                        {
+                            "Title": "50969a7bf02ccfbe7c6ee3ae3adea7cb4958703fac1e1b38",
+                            "Explain": "目前治疗伤寒首选推荐第三代喹诺酮类药物，选项中环丙沙星是第三代喹诺酮类药物。青霉素为治疗钩端螺旋体病的首选。故1题答案为D，2题答案为B。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "链霉素"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "青霉素"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "氯霉素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "环丙沙星"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "四环素"
+                                }
+                            ],
+                            "AllTestID": 41002828,
+                            "BTestID": 41000460,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 765,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000460,
+                                    "Title": "50969a7bf02ccfbe7c6ee3ae3adea7cb4958703fac1e1b38",
+                                    "Explain": "目前治疗伤寒首选推荐第三代喹诺酮类药物，选项中环丙沙星是第三代喹诺酮类药物。青霉素为治疗钩端螺旋体病的首选。故1题答案为D，2题答案为B。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000461,
+                                    "Title": "3cf9f958acda77b87095e6ea713ab70f4857dc430146fb7fcc1c18f0a03d9926",
+                                    "Explain": "目前治疗伤寒首选推荐第三代喹诺酮类药物，选项中环丙沙星是第三代喹诺酮类药物。青霉素为治疗钩端螺旋体病的首选。故1题答案为D，2题答案为B。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "1572bf5d03e535a9a3f51088094a01c3fd210d09f916e144fecacc8ed73b2801",
+                            "Explain": "阿米巴肝脓肿为阿米巴溶解组织导致肝脏的液化性坏死，故1题选A;流行性乙型脑炎是由乙型脑炎病毒引起的急性传染病，主要病理特点为脑实质以变质为主的炎症，故2题选A。浆液性炎症多见于急性炎症早期，常发生于疏松结缔组织、浆膜、黏膜和皮肤，故3选B。细菌性痢疾是黏膜的纤维索性炎，病理变化为黏膜表层坏死，渗出物由大量纤维素、坏死组织、中性粒细胞、红细胞和细菌组成，故4题选C。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "变质性炎症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "浆液性炎症"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "纤维素性炎症"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "蜂窝织炎症"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "化脓性炎症"
+                                }
+                            ],
+                            "AllTestID": 41002831,
+                            "BTestID": 41000466,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 765,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000466,
+                                    "Title": "1572bf5d03e535a9a3f51088094a01c3fd210d09f916e144fecacc8ed73b2801",
+                                    "Explain": "阿米巴肝脓肿为阿米巴溶解组织导致肝脏的液化性坏死，故1题选A;流行性乙型脑炎是由乙型脑炎病毒引起的急性传染病，主要病理特点为脑实质以变质为主的炎症，故2题选A。浆液性炎症多见于急性炎症早期，常发生于疏松结缔组织、浆膜、黏膜和皮肤，故3选B。细菌性痢疾是黏膜的纤维索性炎，病理变化为黏膜表层坏死，渗出物由大量纤维素、坏死组织、中性粒细胞、红细胞和细菌组成，故4题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000467,
+                                    "Title": "b1e1ccfd39b99ebdbf431a6b485cbe27f918fd227ad76a7d",
+                                    "Explain": "阿米巴肝脓肿为阿米巴溶解组织导致肝脏的液化性坏死，故1题选A;流行性乙型脑炎是由乙型脑炎病毒引起的急性传染病，主要病理特点为脑实质以变质为主的炎症，故2题选A。浆液性炎症多见于急性炎症早期，常发生于疏松结缔组织、浆膜、黏膜和皮肤，故3选B。细菌性痢疾是黏膜的纤维索性炎，病理变化为黏膜表层坏死，渗出物由大量纤维素、坏死组织、中性粒细胞、红细胞和细菌组成，故4题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000468,
+                                    "Title": "a85cacaabcb880b4164ac948c36daa87c9c3a052405092f02d35fa3274849a70691beb3434eb8f72",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000469,
+                                    "Title": "d566a841bcaac5b2d2c57d37a7f269542247e8637a4735c6",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "3674a8807afd30684e6116d9e4fff3e68ae96c786dd48972178eed7aecd922961866cd1aac4b0f86",
+                            "Explain": "氯喹对恶性疟有根治作用，是控制疟疾症状的首选药物。",
+                            "TestPoint": "抗疟药",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "吡喹酮"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "氯喹"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "乙胺嘧啶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "伯氨喹"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "奎宁"
+                                }
+                            ],
+                            "AllTestID": 43020717,
+                            "BTestID": 43003402,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 765,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003402,
+                                    "Title": "3674a8807afd30684e6116d9e4fff3e68ae96c786dd48972178eed7aecd922961866cd1aac4b0f86",
+                                    "Explain": "氯喹对恶性疟有根治作用，是控制疟疾症状的首选药物。",
+                                    "TestPoint": "抗疟药",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43003403,
+                                    "Title": "54dca5dfe4de02c6ccd2dbbd018f2afb246c8467adad9a14a2e9da95c2ac1591",
+                                    "Explain": "防止疟疾复发的药物是伯氨喹。",
+                                    "TestPoint": "抗疟药",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "6a84d01e3346a1447924e6f8034e95b026ebd201df6fbd6ac55e0f5c7bce7726a34e6d9ae164faa3cb36d5c9d3df2923e18dbb26115fc880",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "氯喹",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "乙胺嘧啶",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "磷酸伯氨喹",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "甲硝唑",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "吐根碱",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43020718,
+                            "BTestID": 43003404,
+                            "SrcID": 9,
+                            "SbjID": 56,
+                            "CptID": 765,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43003404,
+                                    "Title": "6a84d01e3346a1447924e6f8034e95b026ebd201df6fbd6ac55e0f5c7bce7726a34e6d9ae164faa3cb36d5c9d3df2923e18dbb26115fc880",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": "经核实无错不修改",
+                                    "OperateTime": "2018年8月09日"
+                                },
+                                {
+                                    "BTestItemID": 43003405,
+                                    "Title": "35f7981c50370a3322c51ab07470d60455da02003a09ec60101701b62ff878d663d5dc8971354e6df957c47a39a917c1471056883c4982f689c720bae9c7c2a3d98a7e3996bb54ba",
+                                    "Explain": "氯喹：能杀灭疟原虫红细胞内期裂殖体，作用快而强 。是控制疟疾症状的首选药；对红细胞外期疟原虫无效；恶性疟因无红细胞外期，可根治，但其配子体消灭须加用伯氨喹 。伯氨喹(伯氨喹啉，伯喹)：能杀灭良性疟红细胞外期疟原虫，是防止复发的首选药，故选C。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": "经核实无错不修改",
+                                    "OperateTime": "2018年8月09日"
+                                },
+                                {
+                                    "BTestItemID": 43003406,
+                                    "Title": "3d56112c205a801c1b4432394683eb9e6a3c90e720f1a8c87772fdf1c1ad33267e1025c33894ca13f8947394c32aeef5b3a504aa28e6bf328681bf813f65cfddb9fe60955e4d28823cdac2f20af13165f109be3ff78455e8aae7567d802a1eb3",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41002828,
+                "ChildTableID": 41000460,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002828,
+                        "ChildTableID": 41000460,
+                        "UserCount": 2829,
+                        "RightCount": 1569,
+                        "FavCount": 69,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002828,
+                    "ChildTableID": 41000460
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 41002828,
+                "ChildTableID": 41000461,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002828,
+                        "ChildTableID": 41000461,
+                        "UserCount": 2503,
+                        "RightCount": 2357,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002828,
+                    "ChildTableID": 41000461
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41002831,
+                "ChildTableID": 41000466,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002831,
+                        "ChildTableID": 41000466,
+                        "UserCount": 2924,
+                        "RightCount": 1082,
+                        "FavCount": 111,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002831,
+                    "ChildTableID": 41000466
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 41002831,
+                "ChildTableID": 41000467,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002831,
+                        "ChildTableID": 41000467,
+                        "UserCount": 2835,
+                        "RightCount": 1496,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002831,
+                    "ChildTableID": 41000467
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41002831,
+                "ChildTableID": 41000468,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002831,
+                        "ChildTableID": 41000468,
+                        "UserCount": 2869,
+                        "RightCount": 1640,
+                        "FavCount": 82,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002831,
+                    "ChildTableID": 41000468
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41002831,
+                "ChildTableID": 41000469,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41002831,
+                        "ChildTableID": 41000469,
+                        "UserCount": 2817,
+                        "RightCount": 1797,
+                        "FavCount": 67,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41002831,
+                    "ChildTableID": 41000469
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43020717,
+                "ChildTableID": 43003402,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020717,
+                        "ChildTableID": 43003402,
+                        "UserCount": 2681,
+                        "RightCount": 1852,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020717,
+                    "ChildTableID": 43003402
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43020717,
+                "ChildTableID": 43003403,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020717,
+                        "ChildTableID": 43003403,
+                        "UserCount": 2626,
+                        "RightCount": 1974,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020717,
+                    "ChildTableID": 43003403
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43020718,
+                "ChildTableID": 43003404,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43020718,
+                            "ChildTableID": 43003404,
+                            "Answer": "C",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020718,
+                        "ChildTableID": 43003404,
+                        "UserCount": 2711,
+                        "RightCount": 1595,
+                        "FavCount": 54,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020718,
+                    "ChildTableID": 43003404
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43020718,
+                "ChildTableID": 43003405,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43020718,
+                            "ChildTableID": 43003405,
+                            "Answer": "A",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020718,
+                        "ChildTableID": 43003405,
+                        "UserCount": 2739,
+                        "RightCount": 1441,
+                        "FavCount": 75,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020718,
+                    "ChildTableID": 43003405
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43020718,
+                "ChildTableID": 43003406,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43020718,
+                        "ChildTableID": 43003406,
+                        "UserCount": 2661,
+                        "RightCount": 1690,
+                        "FavCount": 61,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43020718,
+                    "ChildTableID": 43003406
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

@@ -1,0 +1,574 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:49:35 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "A3TestItemID": 43001223,
+                            "Title": "该研究方法为",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "现况调查",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "临床试验",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "横断面调查",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "病例对照研究",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "队列研究",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "BookTestNo": "11",
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "A3TEST",
+                            "FrontTitle": "9a72c0c2a190ea05664cb4ba5d66e6eba7e392545df4d4be916a900f31c10b4ac68a8a89d1b0bde2c5ca18364d8605215bfd2f2fd01cdded8f3687d3d0f3de04c33ae87ee344ef4d546eee1b08ab8062dc8755e92601ee17102f03f9835abde008798f2f5ac66f2c23c1fb8ed2f75c3a43d7360b1e0569449a6851e250459f7e2eb2598ebca7535fe225b378e3f6b964d12bc78449ce7eb44151c9b0342af1c188b2f18fe77507f59db6545f69e5ab55",
+                            "AllTestID": 43007384,
+                            "A3TestID": 43001223,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 891,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43001223,
+                                    "Title": "8f33842af43c63cf56decbae5329746c5881349454d24775",
+                                    "Explain": "",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "现况调查",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "临床试验",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "横断面调查",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "病例对照研究",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "队列研究",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43001224,
+                                    "Title": "8f33842af43c63cf147da70610b86ac1c1f1fbdf51bcf8914b784fbf21ee6d8378c19a7cc509a05c",
+                                    "Explain": "例对照研究资料的统计分析通常计算比值比(OR)和对OR进行假设检验，用来估计暴露因素与疾病的关联强度。",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "比值比",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "相对危险度",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "发病率",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "患病率",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "罹患率",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 43001225,
+                                    "Title": "379391095a5ab6fc4aa489f55ae861e0ef65f5351d5827cb4e0bc972a21bcf92dc2df045687d59022a072cbdbc240d5051bb38cadb81de154cb80cc2b3c6ca19",
+                                    "Explain": "比值比(OR)计算方法：\n　　 (1)病例组暴露比值=有/无  是/非\n　　 (2)对照组暴露比值=有/无  是/非\n　　 (3)病例组暴露比值/对照组暴露比值=OR\n　　 [YS432_626_1.gif]\n　　病例组60/40=1.5\n　　对照组30/50=0.6\n　　 OR 1.5/0.6=2.5",
+                                    "SelectedItems": [
+                                        {
+                                            "Content": "1.6",
+                                            "ItemName": "A"
+                                        },
+                                        {
+                                            "Content": "2.5",
+                                            "ItemName": "B"
+                                        },
+                                        {
+                                            "Content": "2.0",
+                                            "ItemName": "C"
+                                        },
+                                        {
+                                            "Content": "3.9",
+                                            "ItemName": "D"
+                                        },
+                                        {
+                                            "Content": "0.625",
+                                            "ItemName": "E"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "引起该食物中毒的可能病原物质是",
+                            "Explain": "此题是分析性试题，考核对各种细菌性食物中毒临床表现的诊断和鉴别诊断。金黄色葡萄球菌食物中毒的临床表现为潜伏期短，一般为2～5小时，极少超过6小时；主要为剧烈而频繁的呕吐，可导致虚脱，呕吐物可呈胆汁性或含血及黏液；体温大多正常或略高，因此正确答案是C。沙门茵食物中毒潜伏期一般4～48小时，常伴发热；变形杆菌食物中毒潜伏期一般12～16小时，表现为脐周阵发性剧烈绞痛，体温升高；副溶血性弧菌食物中毒潜伏期为2～40小时，多为14～20小时，发病5～6小时后腹痛加剧，以脐部阵发性绞痛为特点，体温多升高；肉毒梭茵食物中毒潜伏期为数小时至数天，一般为12～48小时，主要表现为运动神经麻痹的症状，而胃肠道症状少见。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "沙门菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "副溶血性弧菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "金黄色葡萄球菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "变形杆菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肉毒梭菌"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "6a18cd68605bcc07ee184ab6dfbc826b235125d8f531bd48edb5b9bdafdc396484b60347fc2f30ef36a7878e9e9f0907cd96cded4904a037d6e986418fbc4aa0d6ffdbee5c0155073234d9723f7c6ebb3440a3b820bd0d006fcb7318fb50a884af085ce6fb4af8921456da4859e90f9686f0ae672ad9b7acb8a286342b7c054f074f86d273abfcb564e15828dc9d9bc456fef83dd3990d7f3e87ebb234569ed51ba2ee0d67080158198500622b7b9a9cae4ced5effda1de8f7fbb50d647394df3135c1a1096d9657682e2634f87b859df431567b13dbf3857817b8c90caae75494249fbdc82927bf3e510d6d381b7678934c794c8615e1006b8473383346cc5a342281407b20aa174f739000f7833785d86a2a6427eb5ed9723cf3b40a747eff4d881b30e5973db785d99293a182fd082c2d6d6fb61f3cab54eba33bf9b4f8d7977fca887cc29c67f8d0cf77fc72381170c2231fba8c3fd6",
+                            "AllTestID": 43023504,
+                            "A3TestID": 43003907,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 891,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003907,
+                                    "Title": "849eaa59972f78013afd06158a7f50b7193f11cb09b61affd07a4ac4111732f05d29ac5e6de6654d91852d781f3cd7c5",
+                                    "Explain": "此题是分析性试题，考核对各种细菌性食物中毒临床表现的诊断和鉴别诊断。金黄色葡萄球菌食物中毒的临床表现为潜伏期短，一般为2～5小时，极少超过6小时；主要为剧烈而频繁的呕吐，可导致虚脱，呕吐物可呈胆汁性或含血及黏液；体温大多正常或略高，因此正确答案是C。沙门茵食物中毒潜伏期一般4～48小时，常伴发热；变形杆菌食物中毒潜伏期一般12～16小时，表现为脐周阵发性剧烈绞痛，体温升高；副溶血性弧菌食物中毒潜伏期为2～40小时，多为14～20小时，发病5～6小时后腹痛加剧，以脐部阵发性绞痛为特点，体温多升高；肉毒梭茵食物中毒潜伏期为数小时至数天，一般为12～48小时，主要表现为运动神经麻痹的症状，而胃肠道症状少见。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "沙门菌"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "副溶血性弧菌"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "金黄色葡萄球菌"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "变形杆菌"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "肉毒梭菌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年2月11日",
+                                    "OldTestJson": "{\"Title\":\"引起该食物中毒的可能病原物质是\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"沙门菌\"},{\"ItemName\":\"B\",\"Content\":\"副溶血性弧菌\"},{\"ItemName\":\"C\",\"Content\":\"金黄色葡萄球菌\"},{\"ItemName\":\"D\",\"Content\":\"变形杆菌\"},{\"ItemName\":\"E\",\"Content\":\"肉毒梭菌\"}],\"StyleType\":\"A3TEST\",\"SubStyleType\":\"AXTEST\",\"FrontTitle\":\"某40人旅游团到某餐馆吃早餐，食物主要有馒头、花卷、粥、鸡蛋、牛奶、咸菜、炝花生米，2小时后陆续有人出现恶心、呕吐、中上腹痛和腹泻，部分出现频繁、剧烈的呕吐，呕吐物呈胆汁性或含黏液。体温都正常，少数人出现虚脱。5小时后无人出现不适。\"}"
+                                },
+                                {
+                                    "A3TestItemID": 43003908,
+                                    "Title": "b23e1fd7a0102dc83dce23308492b4319a2a612dc284865d02dae90fd6515dc5b6baa6f131b00d15",
+                                    "Explain": "第1小题：此题是分析性试题，考核对各种细菌性食物中毒临床表现的诊断和鉴别诊断。金黄色葡萄球菌食物中毒的临床表现为潜伏期短，一般为2～5小时，极少超过6小时；主要为剧烈而频繁的呕吐，可导致虚脱，呕吐物可呈胆汁性或含血及黏液；体温大多正常或略高，因此正确答案是C。沙门菌食物中毒潜伏期一般4～48小时，常伴发热；变形杆菌食物中毒潜伏期一般12～16小时，表现为脐周阵发性剧烈绞痛，体温升高；副溶血性孤菌食物中毒潜伏期为2～40小时，多为14～20小时，发病5～6小时后腹痛加剧，以脐部阵发性绞痛为特点，体温多升高；肉毒梭菌食物中毒潜伏期为数小时至数天，一般为12～48小时，主要表现为运动神经麻痹的症状，而胃肠道症状少见。第2小题：引起金黄色葡萄球菌中毒的食物种类很多，主要是乳及乳制品、肉类、剩饭等食品，因此可以排除其他选项，正确答案为D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "馒头"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "粥"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "鸡蛋"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "牛奶"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "咸菜"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "引起该食物中毒的可能病原是",
+                            "Explain": "由于家庭聚会吃相同的食物，出现同样的消化系统症状，可以判断这是一起食物中毒。根据潜伏期和症状，尤其是出现脐部阵发性绞痛，可以判定是由副溶血性弧菌所致，同时可疑食物中有自钓的海杂鱼，易引起副溶血性弧菌食物中毒。因此可以确定答案为B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "沙门菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "副溶血性弧菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "葡萄球菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "变形杆菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "李斯特菌"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "AXTEST",
+                            "FrontTitle": "c654aedf21888d9f6fb2b6236d9e39acfb0df9d76f18b8f99dfeba00e3a49e9694f82dc96ef97d7c071e336c47839b13866389056df2151521d8d8bb3792c63c7b9e4a23b3f3b4ac8ec5507386c02ff7d2f838dd8cb952b611e2335efb8f4c357fdd4a4cbbd90dd3b9190dd3330ddcbe193b14e960fbb05281d33ef122eba0b39728143dd22446a0f5a211f54e02e35b56476f526612637cfee981a1a4e90de2405a7b526d86d568e458ca9e1aa9327fc778cd22c1f9d77ddc712bfd253e2b5d7062e416215a9da4b1e4ee67d648b3b1772c5bcae13cca58535743d9dc43390f2e1cf271cc5a2857acd5747890174a3690a46ff56af2abd0d93d924647da67892122d60003e82d729b92b5307b717f40f335a5cd396cb32d8f40d8553aad670cc1310c5bb0be16ec426c307c6fa13856b074d9a61cd58b3ecbbcb3efb6e9d9623cfdc00c5d1b33587ee2e21acf93e3affe2c421a672cfdca4ac5b6a41b18678a",
+                            "AllTestID": 43023505,
+                            "A3TestID": 43003909,
+                            "SrcID": 12,
+                            "SbjID": 68,
+                            "CptID": 891,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 43003909,
+                                    "Title": "849eaa59972f78013afd06158a7f50b7193f11cb09b61affd07a4ac4111732f061f814f4cc2b3ad6",
+                                    "Explain": "由于家庭聚会吃相同的食物，出现同样的消化系统症状，可以判断这是一起食物中毒。根据潜伏期和症状，尤其是出现脐部阵发性绞痛，可以判定是由副溶血性弧菌所致，同时可疑食物中有自钓的海杂鱼，易引起副溶血性弧菌食物中毒。因此可以确定答案为B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "沙门菌"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "副溶血性弧菌"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "葡萄球菌"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "变形杆菌"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "李斯特菌"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": "",
+                                    "OperateTime": "2019年2月11日",
+                                    "OldTestJson": "{\"Title\":\"引起该食物中毒的可能病原是\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"B\",\"Difficulty\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"沙门菌\"},{\"ItemName\":\"B\",\"Content\":\"副溶血性弧菌\"},{\"ItemName\":\"C\",\"Content\":\"葡萄球菌\"},{\"ItemName\":\"D\",\"Content\":\"变形杆菌\"},{\"ItemName\":\"E\",\"Content\":\"李斯特菌\"}],\"StyleType\":\"A3TEST\",\"SubStyleType\":\"AXTEST\",\"FrontTitle\":\"\\n某家庭晚餐十余人聚会，主人准备了炝菜、炒蔬菜、红烧排骨、炖牛肉和自家钓的海杂鱼。第二天早上陆续有人出现恶心、呕吐、上腹部疼痛、腹泻，体温38～39℃。5小时后出现脐部阵发性绞痛，粪便呈血水样，可见脓血便，里急后重不明显。3～4天后均恢复正常。\"}"
+                                },
+                                {
+                                    "A3TestItemID": 43003910,
+                                    "Title": "d927eaadc2a4e952842ee802006f110d0529e74b6d3840bb4855b3c710bce23b7319cea3c8ef39590b5f6c3fb5067294",
+                                    "Explain": "第1小题：由于家庭聚会吃相同的食物，出现同样的消化系统症状，可以判断这是一起食物中毒。根据潜伏期和症状，尤其是出现脐部阵发性绞痛，可以判定是由副溶血性弧菌所致，同时可疑食物中有自钓的海杂鱼，易引起副溶血性孤菌食物中毒。因此可以确定答案为B。第2小题：本题考查副溶血性弧菌食物中毒的预防措施。副溶血性弧菌在30～37℃、pH7.4～8.2、含盐3%～4%的培养基上和食物中生长良好，该菌不耐热，因此正确答案为D。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "37℃加热30分钟"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "弱碱水浸泡30分钟"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "3%盐水浸泡30分钟"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "100℃加热30分钟"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "清水浸泡30分钟"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43007384,
+                "ChildTableID": 43001223,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43007384,
+                        "ChildTableID": 43001223,
+                        "UserCount": 879,
+                        "RightCount": 655,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43007384,
+                    "ChildTableID": 43001223
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43007384,
+                "ChildTableID": 43001224,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43007384,
+                        "ChildTableID": 43001224,
+                        "UserCount": 876,
+                        "RightCount": 503,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43007384,
+                    "ChildTableID": 43001224
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43007384,
+                "ChildTableID": 43001225,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43007384,
+                        "ChildTableID": 43001225,
+                        "UserCount": 866,
+                        "RightCount": 425,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43007384,
+                    "ChildTableID": 43001225
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43023504,
+                "ChildTableID": 43003907,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023504,
+                        "ChildTableID": 43003907,
+                        "UserCount": 797,
+                        "RightCount": 469,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023504,
+                    "ChildTableID": 43003907
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023504,
+                "ChildTableID": 43003908,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023504,
+                        "ChildTableID": 43003908,
+                        "UserCount": 777,
+                        "RightCount": 535,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023504,
+                    "ChildTableID": 43003908
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43023505,
+                "ChildTableID": 43003909,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023505,
+                        "ChildTableID": 43003909,
+                        "UserCount": 733,
+                        "RightCount": 612,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 0
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023505,
+                    "ChildTableID": 43003909
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 0
+            },
+            {
+                "AllTestID": 43023505,
+                "ChildTableID": 43003910,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43023505,
+                        "ChildTableID": 43003910,
+                        "UserCount": 737,
+                        "RightCount": 602,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43023505,
+                    "ChildTableID": 43003910
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

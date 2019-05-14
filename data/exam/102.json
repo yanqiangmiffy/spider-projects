@@ -1,0 +1,757 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:13:30 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "Title": "02b50e5b583d0903d9bf4b5f8591d5c4dc5ece1b484bba5a055c4fbe90d6fc90533cde1300a399c2a4ab653698270eda200e63341d1eb1038ca5786bc2fc4ad6ec5bf421706ed3fa29f9fadf3fb1a7e92f429d1bc4100ed5f304f5f1acf0039adc1e68b8a2674e36106b239c693a9e29aa187ac9032de52c3426aa3031797b83cfab1e0d98305d6c9492d1f78f15a2736e48bf6d5fa8476a",
+                            "Explain": "有机磷中毒的症状和体征包括：①M样作用，由于虹膜括约肌及睫状肌收缩，表现为瞳孔明显缩小，呈针尖大小；②N样作用，可导致肌肉震颤、抽搐，严重者肌无力甚至呼吸肌麻痹；③中枢神经系统，表现为先兴奋、不安、头痛、头晕，继而出现惊厥，后可转为抑制，出现意识模糊、谵妄、反射消失、昏迷、中枢性呼吸麻痹。故题目中所述最符合有机磷中毒的诊断，故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "有机磷中毒",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "安眠药中毒",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "酮症酸中毒",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "肝性脑病",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "一氧化碳中毒",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000527,
+                            "ATestID": 35000527,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。\n",
+                            "OperateTime": "2017年8月23日"
+                        },
+                        {
+                            "Title": "002235026aa4a9226b1b6cad4223943e123885eabd6ca9b8f28a090c32dc538f7950810bc754ef8edde0a8ded3d4a95d",
+                            "Explain": "碘解磷定（pyraloximemethoiodide）简称派姆（PAM），为最早应用的胆碱酯酶复活药。水溶性较低，水溶液不稳定，久置可释放出碘。",
+                            "TestPoint": "胆碱酯酶复活药",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "新斯的明"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "碘解磷定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "毒扁豆碱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "安贝氯铵"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "阿托品"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002588,
+                            "ATestID": 43002588,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c126cdea968c31079481361223c0fa3ad1345a537119fdeafd77fcc68ab0c1399605518588e6eee3c427beded96396a58a1cc9231581ee9b",
+                            "Explain": "不宜用碱性液体洗胃和冲洗皮肤，可用高锰酸钾溶液或清水洗胃。",
+                            "TestPoint": "抗胆碱酯酶药",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "A",
+                                    "Content": "高锰酸钾溶液"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "B",
+                                    "Content": "生理盐水"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "C",
+                                    "Content": "饮用水"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "D",
+                                    "Content": "碳酸氢钠溶液"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "E",
+                                    "Content": "醋酸溶液"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002589,
+                            "ATestID": 43002589,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2a1dac2be92b225b57298e516bb322aaf102c846aeb76f75d8d302995127835c4dfc836486ce61068feb144603a1a258ab422f346c55e6fb02424f9a0c188e40",
+                            "Explain": "N样作用：心动过速，血压先升后降，自眼睑、颜面和舌肌逐渐发展，至全身的肌束颤动，严重者肌无力，甚至可因呼吸麻痹而死亡。",
+                            "TestPoint": "抗胆碱酯酶药",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "瞳孔缩小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "流涎流泪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "腹痛腹泻"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "小便失禁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肌肉震颤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002590,
+                            "ATestID": 43002590,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8bdbefd2ab2b0eb9e4b4ca02a93ce844b0357e48aac3e80070684e87e06076964258dd1f6e05cb5ed65d6c8bad04ffa5",
+                            "Explain": "1、阿托品：为治疗急性有机磷酸酯类中毒的特异性、高效能解毒药物.能迅速对抗体内ACh的毒蕈碱样作用.由于阿托品对中枢的烟碱受体无明显作用，故对有机磷酸酯类中毒引起的中枢症状，如惊厥、燥动不安等对抗作用较差.应尽量早期给药，并根据中毒情况采用较大剂量，直至M胆碱受体兴奋症状消失或出现阿托品轻度中毒症状（阿托品化）。对中度或重度中毒病人，必须采用阿托品与AChE复活药合并应用的治疗措施。2、AChE复活药：AChE复活药是一类能使被有机磷酸酯类抑制的AChE恢复活性的药物.常用药物有碘解磷定、氯解磷定和双复磷。",
+                            "TestPoint": "抗胆碱酯酶药",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "阿托品和毛果芸香碱合用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "氯解磷定和毛果芸香碱合用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "阿托品和毒扁豆碱合用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "氯解磷定和毒扁豆碱合用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "氯解磷定和阿托品合用"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002591,
+                            "ATestID": 43002591,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "964f01efcbd1575c13112a1579f15bd86c0d27b8f1677ad1e91213763a90ac9558b4cdc9974de0c19265da0516e18011052a3dce6fb4cf60aa75185d22a86754",
+                            "Explain": "胆碱酯酶将乙酰胆碱水解为胆碱和乙酸，是水解ACh所必需的酶。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "磷酸果糖酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "ATP酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胆碱酯酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "单胺氧化酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Na[SBjia.gif]，K[SBjia.gif]依赖式ATP酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015377,
+                            "ATestID": 43015377,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "86e706db7a3cdc7f6ba724e7ec38787a3a16073427ff676b5e432d4c73a1dfed",
+                            "Explain": "新斯的明属于易逆性抗胆碱酯酶药，可抑制神经肌肉接头AChE，产生兴奋骨骼肌的作用。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "兴奋骨骼肌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "兴奋胃肠膀胱平滑肌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "抑制心脏减慢心率"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "缩小瞳孔"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "缩瞳"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015378,
+                            "ATestID": 43015378,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "2a1dac2be92b225b2fd82021775285e7ff8b73f33aafea4b89bdb9a7178dd2cef86ea6a859c7c4de",
+                            "Explain": "有机磷农药主要通过抑制体内胆碱酯酶，使其失去分解乙酰胆碱能力，使胆碱能神经持续过度兴奋。而抗胆碱能药物与M胆碱受体结合，对抗乙酰胆碱和其他拟胆碱药的毒蕈碱样作用，主要解除平滑肌的痉挛，抑制腺体分泌，解除迷走神经对心脏的抑制，解除有机磷农药中毒。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "直接激动胆碱受体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "持久地抑制腺苷环化酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "持久地抑制磷酸二酯酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "持久地抑制胆碱酯酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "持久地抑制单胺氧化酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000493,
+                            "ATestID": 41000493,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "86e706db7a3cdc7f4fdb075a71905ecb03d3909ac929e431",
+                            "Explain": "新斯的明可抑制胆碱酯酶活性而发挥完全拟胆碱作用。此题为记忆题，选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "M受体激动药"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "N[XB2.gif]受体激动药"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "N[XB1.gif]受体激动药"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胆碱酯酶抑制剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胆碱酯酶复活剂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000494,
+                            "ATestID": 41000494,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "939c1453c70bf185e214ba410c3074071d6ca872e61d22263318cd99bf99c136bf7d01d5ade5bff8f01ab12dce29dc46b62f60e051478022",
+                            "Explain": "碘解磷定明显减弱N样症状，对骨骼肌痉挛的抑制作用最为明显，能迅速抑制肌束颤动。但对M样症状影响较小。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "大小便失禁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "视物模糊"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "骨骼肌震颤及麻痹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "腺体分泌增加"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "中枢神经兴奋"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000495,
+                            "ATestID": 41000495,
+                            "SrcID": 9,
+                            "SbjID": 39,
+                            "CptID": 102,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000527,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 35000527,
+                            "ChildTableID": -1,
+                            "Answer": "C",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000527,
+                        "ChildTableID": -1,
+                        "UserCount": 4300,
+                        "RightCount": 3983,
+                        "FavCount": 39,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000527,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002588,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002588,
+                        "ChildTableID": -1,
+                        "UserCount": 4559,
+                        "RightCount": 3295,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002588,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43002589,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002589,
+                        "ChildTableID": -1,
+                        "UserCount": 4570,
+                        "RightCount": 2849,
+                        "FavCount": 134,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002589,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 43002590,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002590,
+                        "ChildTableID": -1,
+                        "UserCount": 4510,
+                        "RightCount": 3063,
+                        "FavCount": 84,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002590,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43002591,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002591,
+                        "ChildTableID": -1,
+                        "UserCount": 4200,
+                        "RightCount": 3569,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002591,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43015377,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015377,
+                        "ChildTableID": -1,
+                        "UserCount": 3898,
+                        "RightCount": 3255,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015377,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43015378,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015378,
+                        "ChildTableID": -1,
+                        "UserCount": 4020,
+                        "RightCount": 2803,
+                        "FavCount": 90,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015378,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 41000493,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000493,
+                        "ChildTableID": -1,
+                        "UserCount": 3977,
+                        "RightCount": 3393,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000493,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41000494,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000494,
+                        "ChildTableID": -1,
+                        "UserCount": 4409,
+                        "RightCount": 2383,
+                        "FavCount": 112,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000494,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 41000495,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000495,
+                        "ChildTableID": -1,
+                        "UserCount": 4101,
+                        "RightCount": 3058,
+                        "FavCount": 99,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000495,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}
