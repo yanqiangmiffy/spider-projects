@@ -1,0 +1,604 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:25:16 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "5a677c7a2ea925b8eb8fe987e7b19925c93c05438842783d746419b42210180acb12533152cf8af401b56a9c162711127bedc778443a6012",
+                            "Explain": "高压蒸汽灭菌法中灭菌的温度取决于蒸汽的压力，使用密闭的高压蒸汽灭菌器，压力调至103.4kPa(1.05kg/cm[SB2.gif])，器内温度可达121.3℃。可杀死包括细菌芽胞在内的所有微生物，是灭菌效果最好、应用最广的灭菌方法。A、B、C、E都是高压蒸汽灭菌法的正确描述。D不正确，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "灭菌效果最可靠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "适用于对耐高温和耐湿物品的灭菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "可杀灭包括细菌芽胞在内的所有微生物"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "通常灭菌压力为2.05kg/cm[SB2.gif]"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "通常灭菌温度为121.3℃"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000246,
+                            "ATestID": 41000246,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3369fdba31d5a0389e314bf53f0616de7f2a499574eabf992e7b2d7eb1265fc6e5e01672f37c7d4c8da46fc9ee370b601f8a73563586b474e0d9d1de8159201c6477e9226fe085f2",
+                            "Explain": "高压蒸气灭菌法是最有效的灭菌方法。参数是压力：1.05kg/cm[SB2.gif]时，温度：121.3℃，时间：15～20分钟。常用于一般培养基、生理盐水、手术敷料等耐高温、耐湿物品的灭菌。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1～5分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "6～10分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "11～14分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "15～20分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "21～25分钟"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000262,
+                            "ATestID": 43000262,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "83aea4d50d65f9c2ef1fbac4fa9ca591ac3a1e4cb20fb0d1",
+                            "Explain": "灭菌是指杀灭一切活的微生物。而消毒则是指杀灭病原微生物和其他有害微生物，但并不要求清除或杀灭所有微生物（如芽孢等）。灭菌和消毒都必须能杀灭所有病原微生物和其他有害微生物，达到无菌术的要求。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "杀灭病原微生物和其他有害微生物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "杀灭所有微生物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "杀灭条件致病菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "杀灭病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "杀灭真菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000264,
+                            "ATestID": 43000264,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c59792b78b3cf9839c0c6539f40bb6650d395e63d93c7fd32c1dbcb9e81567960304ad1d4cea63fa04c8529fca2c0ed285ff78405712ae9db46fd759e60af66957e7a82de03cbc8b47d1fece11b6e570e1109511b03bbc53",
+                            "Explain": "高压蒸汽灭菌法通常在103.4kPa(1.05kg/cm[~2.gif])的压力下维持时间为15～20分钟。",
+                            "TestPoint": "细菌",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1～5分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "6～10分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "15～20分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "30～40分钟"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "55～60分钟"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002146,
+                            "ATestID": 43002146,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "68c93b3820feaa71e8bc95aaf3d9d6cbe3af0693975626abde5e4a0c3d5d47de",
+                            "Explain": "新洁尔灭属消毒防腐类药，稀释液可用于外科手术前洗手(0.05~0.1%,浸泡5分钟), 皮肤消毒和霉菌感染(0.1%), 黏膜消毒(0.01~0.05%), 器械消毒(置于0.1%的溶液中煮沸15分钟后再浸泡30分钟)。75%乙醇常用于皮肤消毒。杜灭芬用于口腔、咽喉感染的辅助治疗及皮肤、创伤感染和外科器械消毒。0.2～0.5μg/L氯用于饮用水及游泳池消毒。.0．1%～0.5%过氧乙酸用于塑料、玻璃、人造纤维消毒、皮肤消毒（洗手）。综合分析，本题选D。",
+                            "TestPoint": "化学因素对细菌的影响—化学消毒剂",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "0.05%～1%苯扎溴铵(新洁尔灭)",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "75%乙醇",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "0.05%～1%杜灭芬",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "0.2～0.5μg/L氯",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "0．1%～0.5%过氧乙酸",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002147,
+                            "ATestID": 43002147,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改",
+                            "OperateTime": "2017年8月29日"
+                        },
+                        {
+                            "Title": "2e45f26419799a1a21c37ab149067293efe4f547526da9a087fe3a53f0eb6ea930e157906d0c563b",
+                            "Explain": "根据题意分析，紫外线是一种低能量的电磁辐射，波长范围为240～280nm,最适的波长为260nm，这与DNA吸收光谱范围相一致。其杀菌原理是紫外线易被核蛋白吸收，使DNA的同一条螺旋体上相邻的碱基形成胸腺嘧啶二聚体，从而干拢DNA的复制，导致细菌死亡或变异。故本题选D。",
+                            "TestPoint": "物理因素对细菌的影响—紫外线",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "50～90nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "100～140nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "150～190nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "200～300nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "400～490nm"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002148,
+                            "ATestID": 43002148,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bcee967752cb3331c3469ca44ded039654f6061887c73b6ed8d5496cf8b1125c9f631d32bcc6bf2d",
+                            "Explain": "滤过除菌常用的滤板孔径范围是.0.22～0.45μm。",
+                            "TestPoint": "滤过除菌法",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "0.22～0.45μm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "0.50～0.75μm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "0.80～0.95μm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "1～5μm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "5～10μm"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002149,
+                            "ATestID": 43002149,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5988e4d29cbb8e0b227b4727d305b4bed73858606c0e26cf18a5e8f9482f3f767d7ff0f80b3694fda40b09dcef80b056250a0b696614d58834f6700379f07165d39f71f0158ef5d5",
+                            "Explain": "2%～4%龙胆紫用于浅表创伤消毒；0.1%高锰酸钾用于皮肤、尿道消毒，蔬菜、水果消毒；2%红汞用于皮肤粘膜、小创伤消毒；1%硝酸银用于新生儿滴眼，预防淋球菌感染眼及尿道粘膜消毒；2%碘伏用于皮肤消毒。综合分析，本题选D。",
+                            "TestPoint": "化学因素对细菌的影响—化学消毒剂",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "2%～4%龙胆紫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "0.1%高锰酸钾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "2%红汞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "1%硝酸银"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "2%碘伏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002150,
+                            "ATestID": 43002150,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 103,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000246,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000246,
+                        "ChildTableID": -1,
+                        "UserCount": 2904,
+                        "RightCount": 1597,
+                        "FavCount": 47,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000246,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43000262,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000262,
+                        "ChildTableID": -1,
+                        "UserCount": 2684,
+                        "RightCount": 2075,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000262,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43000264,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000264,
+                        "ChildTableID": -1,
+                        "UserCount": 2885,
+                        "RightCount": 1899,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000264,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002146,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002146,
+                        "ChildTableID": -1,
+                        "UserCount": 2506,
+                        "RightCount": 2370,
+                        "FavCount": 10,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002146,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002147,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002147,
+                        "ChildTableID": -1,
+                        "UserCount": 2647,
+                        "RightCount": 2086,
+                        "FavCount": 42,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002147,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002148,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002148,
+                        "ChildTableID": -1,
+                        "UserCount": 2527,
+                        "RightCount": 1794,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002148,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002149,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002149,
+                        "ChildTableID": -1,
+                        "UserCount": 2664,
+                        "RightCount": 1330,
+                        "FavCount": 79,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 31
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002149,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 31
+            },
+            {
+                "AllTestID": 43002150,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002150,
+                        "ChildTableID": -1,
+                        "UserCount": 2709,
+                        "RightCount": 1248,
+                        "FavCount": 84,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002150,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

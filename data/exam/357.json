@@ -1,0 +1,529 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:00:15 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "e808af22e820e8764feb34ccd9c6e5bb30bff5bd18664f7275af416c62f32a3b339ec5572ca6b9cf",
+                            "Explain": "人虱是普氏立克次体的传播媒介，引起流行性斑疹伤寒，不是地方性斑疹伤寒的传播媒介，A不正确。鼠蚤是地方性斑疹伤寒的传播媒介，故选B。恙螨是恙虫病的传播媒介，C不正确。蜱是Q热的病原体，D不正确。蚊是流行性乙型脑炎及登革热的传播媒介，E不正确。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "人虱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "鼠蚤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "恙螨"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "蜱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "蚊"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000282,
+                            "ATestID": 41000282,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 357,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e42e0403f0898b0557eefb39df381c8907e36da579567f47a62e673892a879be9698d404d8ae9bc0680e0071925f11d1",
+                            "Explain": "立克次体的特点：(1)专性在细胞内寄生，以二分裂方式繁殖。(2)有DNA和RNA两种核酸。(3)有多种形态，主要为球形菌，革兰染色阴性。（4）以节肢动物为传播媒介。（5）可引起人畜共患疾病。（6）对多种抗生素敏感。故正确答案为E。",
+                            "TestPoint": "立克次体的特点",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "有多种形态，二分裂繁殖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "专性细胞内寄生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "以节肢动物为传播媒介"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "可引起人畜共患疾病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "对抗生素不敏感"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002198,
+                            "ATestID": 43002198,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 357,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6827ac29b6d8ffa8c375a02c297d4ad8fccd05cbcc72057b05813db957fde4bcabbe21616c24c5f6beae9a10594a16db311e4c4fe9440665c394b20ab9988414",
+                            "Explain": "外斐氏反应：用与立克次体有共同菌体抗原的变形杆菌OXl9、OX2、OXK进行非特异性凝集反应，检测病人血清中有无立克次体抗体。外-斐氏反应亦称变形杆菌凝集试验,用以诊断流行性斑疹伤寒,恙虫病等急性传染病。故正确答案为C。",
+                            "TestPoint": "外斐反应",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "大肠埃希菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "痢疾杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "变形杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "铜绿假单胞菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "百日咳鲍特菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002199,
+                            "ATestID": 43002199,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 357,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "226182cd4e2fec203d93a10bfe5112404b3a8bbf73d2537bac12ea21c51d4efcd1b1091bb6ad25a8df370bcfb6ef3858b5e7bb9efebca3729d5e7e00c9dc1b375847ba22bf59a9a76d3700d2bb1e5a88daa54a5dd83886c6651b1847262f6db7d086610942f727f4e9761b34b2d96ce52e1083d268be3f5cca942d224c9ece143ed7c85d8daf20c4480b45dc7bf46dc23f09b0530d6c6eb415ea5fae043a7ecef1cb9f8628cfa95546948d6aba58deab",
+                            "Explain": "外斐氏反应，变形杆菌OX19、OX2、OXK凝集价<1：80。人体被立克次体感染后，血清中逐渐产生相应抗体，用与立克次体有共同菌体抗原的变形杆菌OXl9、OX2、OXK进行非特异性凝集反应，检测病人血清中有无立克次体抗体。该抗体在发病后5～12天出现，至数月后基本消失，一般凝集价在1：160以上或病程中效价明显上升有诊断意义。我国常见的立克次体病上要为斑疹伤寒和恙虫病，流行性斑疹伤寒主要为OX19凝集价升高，恙虫病主要表现为OXK升高明显。故正确答案为D。",
+                            "TestPoint": "外斐氏反应",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "Q热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "伤寒病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "流行性斑疹伤寒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "恙虫病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "地方性斑疹伤寒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002200,
+                            "ATestID": 43002200,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 357,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "226182cd4e2fec20beef39e2352b7b0b0573ab43e6767b0034d1a906a50abcd6070fa582d7eeddbc40636142fdf6ff416c5bfe3367e8bc987dca05c26e82a6ae53153a6a6eb692a7e4f5ead1f44752cbbefdd5a40395d1503682bf68039e965f904d99d6a3740bcd2091257926074faa287cb5f222d58369b01cbee0caec4c24063d45ea57c239022149c973b87f564591c2e50b31c9d500b75232e34ca5c08afb2d0863a1d6edcc04d18d7f00bfad54e681297c21649ee08e67b37647f361d9c3d0186426161422fa608d9e07016f9aa4991a4cbb2d2fcbed47190e44f64b265227d43a1a1344aa10344f116bcff9fd154ff0264dc0ed20",
+                            "Explain": "地方性斑疹伤寒又称蚤传或鼠型斑疹伤寒，是由莫氏立克次体引起，通过鼠蚤传播的急性传染玻病人是唯一的传染源。故正确答案为A。",
+                            "TestPoint": "地方性斑疹伤寒的传播",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "鼠蚤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "虱"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "恙螨"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "蚊"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "蜱"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002201,
+                            "ATestID": 43002201,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 357,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "e808af22e820e8764feb34ccd9c6e5bb30bff5bd18664f7275af416c62f32a3b339ec5572ca6b9cf",
+                            "Explain": "1.斑疹伤寒立克次体是地方性斑疹伤寒（或称鼠型斑疹伤寒）的病原体。鼠是主要储存宿主，传播媒介主要是鼠蚤和鼠虱。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "蚊"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "鼠蚤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "恙螨"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "蜱"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "人虱"
+                                }
+                            ],
+                            "AllTestID": 43000293,
+                            "BTestID": 43000078,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 357,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000078,
+                                    "Title": "e808af22e820e8764feb34ccd9c6e5bb30bff5bd18664f7275af416c62f32a3b339ec5572ca6b9cf",
+                                    "Explain": "1.斑疹伤寒立克次体是地方性斑疹伤寒（或称鼠型斑疹伤寒）的病原体。鼠是主要储存宿主，传播媒介主要是鼠蚤和鼠虱。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000079,
+                                    "Title": "43ac24506e974bdb5c9c1734529343ac6d76890eafad3561df45d0bc12d9f3630658fee6f88c7fa8",
+                                    "Explain": "2.普氏立克次体是流行性斑疹伤寒（或称虱传斑疹伤寒）的病原体。患者是惟一传染源，体虱是主要传播媒介。传播方式为虱-人-虱。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000282,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000282,
+                        "ChildTableID": -1,
+                        "UserCount": 1461,
+                        "RightCount": 810,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000282,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002198,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002198,
+                        "ChildTableID": -1,
+                        "UserCount": 1464,
+                        "RightCount": 780,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002198,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43002199,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002199,
+                        "ChildTableID": -1,
+                        "UserCount": 1306,
+                        "RightCount": 828,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002199,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43002200,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002200,
+                        "ChildTableID": -1,
+                        "UserCount": 1483,
+                        "RightCount": 626,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002200,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002201,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002201,
+                        "ChildTableID": -1,
+                        "UserCount": 1305,
+                        "RightCount": 974,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002201,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43000293,
+                "ChildTableID": 43000078,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000293,
+                        "ChildTableID": 43000078,
+                        "UserCount": 1148,
+                        "RightCount": 1050,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000293,
+                    "ChildTableID": 43000078
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43000293,
+                "ChildTableID": 43000079,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000293,
+                        "ChildTableID": 43000079,
+                        "UserCount": 1307,
+                        "RightCount": 783,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000293,
+                    "ChildTableID": 43000079
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

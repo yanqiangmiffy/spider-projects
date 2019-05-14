@@ -1,0 +1,387 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:25:18 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "336762354510f95a701a18fbf33967cb5c8c9484537646a50d1fda04b9080219448e45ae0bb90e0f",
+                            "Explain": "溶菌酶主要通过破坏细胞壁中的N-乙酰胞壁酸和N-乙酰葡糖胺之间的β-1，4糖苷键，导致细胞壁破裂，使细菌溶解。故选A。抑制细胞壁肽聚糖上四肽侧链与五肽桥的交联，引起细胞壁的裂解和内容物逸出，而使细菌溶解的是青霉素，B不正确。C、D、E均不是溶菌酶的溶菌作用机制，故不正确。故本题选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "裂解细胞壁肽聚糖骨架上的β-1，4糖苷键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抑制细胞壁肽聚糖上四肽侧链与五肽桥的交联"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抑制细菌mRNA表达"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抑制细菌DNA转录"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "破坏细胞壁上的磷壁酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000247,
+                            "ATestID": 41000247,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 145,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8da4742df5a0f92c81e46fafc6ed51bc7a64b300ca14ce2c781c96f0dbf4da30",
+                            "Explain": "依题意直接分析，根据与宿主菌的相互关系，能在宿主菌细胞内复制增殖，产生许多子代噬菌体，并最终裂解细菌，称为毒性噬菌体。因此，毒性噬菌体的增殖方式是复制，其增殖过程经历吸附、穿入、脱壳、生物合成和成熟释放五个阶段，构成噬菌体一个复制周期或溶菌周期。故本题选E。",
+                            "TestPoint": "毒性噬菌体的概念",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "在宿主菌体内复制增殖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "产生许多子代噬菌体，并最终裂解细菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "毒性噬菌体的增殖方式是复制"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "增殖过程经吸附、穿入与脱壳、生物合成和成熟释放四个阶段"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均正确"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000265,
+                            "ATestID": 43000265,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 145,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3edb60f013d12a3acaa9ad411f385a8e59a8abb254fdf80b4a2e51ddefcf76cb",
+                            "Explain": "噬菌体是能感染细菌、放线菌、真菌、螺旋体的病毒。",
+                            "TestPoint": "噬菌体",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "细菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "原虫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "支原体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "真菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002151,
+                            "ATestID": 43002151,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 145,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6a76aeb838d84061a865f695febecf7dd859fb3bc368afde10b77b28d05210f6b7370457c1536f5f135b0a63b4ab6b0b",
+                            "Explain": "噬菌体是能感染细菌、放线菌、真菌、螺旋体的病毒，具有抗原性；噬菌体的化学成份仅含蛋白质及一种核酸，大部分噬菌体的核酸是DNA；噬菌体分布广泛，凡是有细菌存在的场所，就可能有相应噬菌体的存在，能能通过细菌滤器；噬菌体有严格的宿主特异性，只寄居于易感宿主菌体内，且必须在活菌内寄生。综合分析，本题选B。",
+                            "TestPoint": "噬菌体",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "能通过细菌滤器"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "不具有抗原性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "主要成分是核酸和蛋白质"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "必须在活菌内寄生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "具有严格的宿主特异性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002152,
+                            "ATestID": 43002152,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 145,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d982ae15d77b8378ed271ce0f439d3b18504355ca9b661de79bda6dcece6912184c8029ddb411172f0977fcbb39899f7",
+                            "Explain": "白喉杆菌携带了β-棒状杆菌噬菌体后，产生白喉毒素 。",
+                            "TestPoint": "细菌",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "产气荚膜梭菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "破伤风梭菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "白喉棒状杆菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "霍乱弧菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "大肠埃希菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014889,
+                            "ATestID": 43014889,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 145,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000247,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000247,
+                        "ChildTableID": -1,
+                        "UserCount": 2702,
+                        "RightCount": 1583,
+                        "FavCount": 60,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000247,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43000265,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000265,
+                        "ChildTableID": -1,
+                        "UserCount": 2739,
+                        "RightCount": 1493,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000265,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43002151,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002151,
+                        "ChildTableID": -1,
+                        "UserCount": 2636,
+                        "RightCount": 1763,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002151,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 43002152,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002152,
+                        "ChildTableID": -1,
+                        "UserCount": 2636,
+                        "RightCount": 1624,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002152,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43014889,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014889,
+                        "ChildTableID": -1,
+                        "UserCount": 2452,
+                        "RightCount": 1358,
+                        "FavCount": 68,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014889,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

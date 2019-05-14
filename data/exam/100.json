@@ -1,0 +1,3457 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 17:16:10 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 33,
+                    "TestItems": [
+                        {
+                            "Title": "94fd26e44c6a4ee717c10365ca520f459d09d51e5b78762d1540f378447e4a56cd52896005e57d8fac999c52810d2bb8",
+                            "Explain": "糖酵解是指葡萄糖或糖原经过一系列反应生成的终产物是乳酸。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "终产物是肌酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "催化反应的酶系存在于胞液和线粒体中"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "通过氧化磷酸化生成ATP"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "不消耗ATP，同时通过底物磷酸化产生ATP"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "终产物是乳酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000038,
+                            "ATestID": 43000038,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9c574f7026939e875e3e6e7e04b0f6dcde78fe0016947f25dd71a1fd691ecb1c8ba8f1583cb4834eaf22704d2fc5b7fc55e91ae8e374d5c2d5f4e0ff652ecfedb26454b6357f8e9b92097e6f72d41a8e",
+                            "Explain": "一般情况下反应产物对本身的反应都是负反馈调节，但也有例外。1，6-双磷酸果糖是6-磷酸果糖激酶-1的反应产物，但可正反馈调节6-磷酸果糖激酶-1。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "葡萄糖激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "6-磷酸果糖激酶-1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "磷酸甘油酸激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "丙酮酸激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "1，6-双磷酸果糖激酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000039,
+                            "ATestID": 43000039,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9c574f7026939e875e3e6e7e04b0f6dc0b2d1302c1cd9ea2414f627cfa5fa651208df1b750f16796288a2b106c620f39eae50f96f71a2e5aead386c7b8762a82fccf0d9b29361d6936ae8829b623e94d",
+                            "Explain": "糖酵解过程中，有两次底物水平磷酸化。第一次底物水平磷酸化：1，3-二磷酸甘油酸+ADP在磷酸甘油酸激酶催化下生成3-磷酸甘油酸+ATP。第二次底物水平磷酸化：磷酸烯醇式丙酮酸+ADP在丙酮酸激酶催化下生成丙酮酸+ATP。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "丙酮酸激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "6-磷酸果糖激酶-1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "磷酸甘油酸激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "1，6-双磷酸果糖激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "葡萄糖激酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000040,
+                            "ATestID": 43000040,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a9222e5bd809f2ce8e76469f8f3946478889a1796a571d05eb6797c39db5dd7b224ce7b3c698def3949d7365b44085ab55239e347d9aea68b096",
+                            "Explain": "糖酵解过程中，有两次底物水平磷酸化。第一次底物水平磷酸化：1，3-二磷酸甘油酸+ADP在磷酸甘油酸激酶催化下生成3-磷酸甘油酸+ATP。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "3-磷酸甘油酸激酶",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "3-磷酸甘油醛脱氢酶",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "己糖激酶",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "琥珀酸脱氢酶",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "丙酮酸脱氢酶",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000041,
+                            "ATestID": 43000041,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题有误，已修改。",
+                            "OperateTime": "2018年8月07日"
+                        },
+                        {
+                            "Title": "9c574f7026939e87d3cc1628412d9496f611cd1199356331f306a3859dfe40ff",
+                            "Explain": "注意区分：糖酵解的终产物是乳酸，糖酵解途径的终产物是丙酮酸。糖酵解分两个阶段：第一阶段为葡萄糖分解为丙酮酸，称糖酵解途径；第二阶段为丙酮酸还原为乳酸。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乳酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "丙酮酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "丙酮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "乙酰CoA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肌酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000042,
+                            "ATestID": 43000042,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "50999418e6ea4aff4fcc49009f9644fe4c5c91c9f05df3aa3dbfb2c60af1f2fa",
+                            "Explain": "丙酮酸激酶是催化糖酵解的关键酶。催化糖异生的关键酶是葡萄糖-6-磷酸酶、果糖二磷酸1、丙酮酸羧化酶、磷酸烯醇式丙酮酸羧激酶。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "3-磷酸甘油醛脱氢酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "醛缩酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "果糖二磷酸酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "丙酮酸激酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均无关"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000043,
+                            "ATestID": 43000043,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cfa22bbdca5f0e4716f6164e8ff4fd37316a78214d16f80d357f42fb5f972f4d63384a0d5a305a19",
+                            "Explain": "三羧酸循环也称柠檬酸循环，由一系列反应组成环形循环。起始的乙酰辅酶A与四碳的草酰乙酸形成柠檬酸。柠檬酸转变成异柠檬酸，然后脱氢、脱羧转变成α-酮戊二酸，后者再经脱氢、脱羧变成琥珀酰辅酶A。琥珀酰辅酶A转变成琥珀酸时产生1分子底物水平磷酸化的GTP。琥珀酸经过三步反应可再生成循环开始的草酰乙酸。草酰乙酸与另一分子的乙酰辅酶A结合，开始了新一轮的循环。每一次三羧酸循环，一分子的乙酰辅酶A彻底氧化分解，生成两个CO[XB2.gif]和4对氢，氢通过电子传递链传给氧形成水的过程中，释放能量合成ATP。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "合成胆汁酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "转化成乙酰CoA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "提供NADPH"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "合成酮体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "提供能量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000044,
+                            "ATestID": 43000044,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cfa22bbdca5f0e470d755870347d774103d5aa22ca6c57b8465ffc5afd318af0",
+                            "Explain": "三羧酸循环的最终代谢产物是CO[XB2.gif]和水。每次循环有4次脱氢反应（生成4分子还原当量），其中3次脱氢由NAD[SBjia.gif]接受生成3分子NADH，1次脱氢由FAD接受生成1分子FADH[XB2.gif]。每次三羧酸循环有1次底物水平磷酸化。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "A",
+                                    "Content": "其代谢产物是CO和H[XB2.gif]O"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "B",
+                                    "Content": "有2次底物水平磷酸化反应"
+                                },
+                                {
+                                    "HasImg": "0",
+                                    "ItemName": "C",
+                                    "Content": "生成4分子还原当量"
+                                },
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "D",
+                                    "Content": "可生成3分子NADPH+H[SBjia.gif]"
+                                },
+                                {
+                                    "HasImg": "1",
+                                    "ItemName": "E",
+                                    "Content": "可生成5分子NADPH+H[SBjia.gif]"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000045,
+                            "ATestID": 43000045,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月18日",
+                            "OldTestJson": "{\"Title\":\"三羧酸循环每循环1次\",\"Explain\":\"三羧酸循环的最终代谢产物是CO[XB2.gif]和水。每次循环有4次脱氢反应（生成4分子还原当量），其中3次脱氢由NAD[SBjia.gif]接受生成3分子NADH，1次脱氢由FAD接受生成1分子FADH[XB2.gif]。每次三羧酸循环有1次底物水平磷酸化。\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"SelectedItems\":[{\"HasImg\":1,\"ItemName\":\"A\",\"Content\":\"其代谢产物是CO[XB2.gif]和H[XB2.gif]O\"},{\"HasImg\":0,\"ItemName\":\"B\",\"Content\":\"有2次底物水平磷酸化反应\"},{\"HasImg\":0,\"ItemName\":\"C\",\"Content\":\"生成4分子还原当量\"},{\"HasImg\":1,\"ItemName\":\"D\",\"Content\":\"可生成3分子NADPH+H[SBjia.gif]\"},{\"HasImg\":1,\"ItemName\":\"E\",\"Content\":\"可生成5分子NADPH+H[SBjia.gif]\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "002235026aa4a92247e04e4055f8e8ac0873a43e96ad0f3ad80bbb830755b954ddef9dfc4a55f73c1f215963efb17ed1df24041c683dc7aa",
+                            "Explain": "葡萄糖通过磷酸戊糖途径生成的5-磷酸核糖是体内合成核苷酸的主要原料。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "糖酵解"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "有氧氧化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "糖异生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "无氧酵解"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "磷酸戊糖途径"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000046,
+                            "ATestID": 43000046,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "29fc144ae905ceff5d97182fb76082db5f9d6c762be7419272724c8056dea3a4e8535c688f815d6f",
+                            "Explain": "催化葡萄糖生成G-6-P的是己糖激酶，是糖酵解过程关键酶之一。其作用为活化葡萄糖并使其能够参加反应，C正确。Ⅳ型己糖激酶只存在于肝脏，对葡萄糖有高度专一性，又称葡萄糖激酶，A不正确。催化葡萄糖生成G-6-P的是己糖激酶，是一个不可逆的反应，B、D不正确。糖酵解中，己糖激酶、磷酸果糖激酶-1和丙酮酸激酶为关键酶，其中磷酸果糖激酶为最关键限速酶。E不正确。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "己糖激酶又称为葡萄糖激酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "它催化的反应基本上是可逆的"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "使葡萄糖活化以便参加反应"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "催化反应生成6-磷酸果酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "是酵解途径唯一的关键酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014485,
+                            "ATestID": 43014485,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "307ff64adfc39ddba9153829aa77164dfc5a8fdc57eefd8ceaa4aad8e8f1b46b6f9d504da569198d0eeb8e47bb79e85a",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "1，6-二磷酸果糖",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "柠檬酸",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "2，6-二磷酸果糖",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "草酸",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "葡萄糖",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014486,
+                            "ATestID": 43014486,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9c574f7026939e873c3537c4581a33bb04a9dc98ef38fe235ba6fd819ee268d0",
+                            "Explain": "糖酵解的关键酶是已糖激酶（肝内为葡萄糖激酶）、6-磷酸果糖激酶-1和丙酮酸激酶。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "丙酮酸脱氢酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "3-磷酸甘油醛脱氢酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "磷酸果糖激酶-1"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "磷酸甘油酸激酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "心肌酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014487,
+                            "ATestID": 43014487,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9c574f7026939e87bac741fb80ca71c8352e5d0a66dbea77b18b7f42cde3483b7fa06782f90c6ca3c448dcb86aac7121b4dd657ee57ea8154d552d500a6a01f30a6a3b76a8a60671f1033af70961f239bdeefa066b6a030e",
+                            "Explain": "糖酵解、糖异生、磷酸戊糖途径、糖原合成途径均有6-磷酸葡萄糖参与，其位于糖酵解、糖异生、磷酸戊糖途径，糖原合成及分解各代谢途径交汇点。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "1，6-二磷酸果糖",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "F-6-P",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "G-1-P",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "3-磷酸甘油醛",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "G-6-P",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014488,
+                            "ATestID": 43014488,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实该题无误。",
+                            "OperateTime": "2018年8月22日"
+                        },
+                        {
+                            "Title": "c434dd6b3285ae6d22407f5ea68fb06158940b1e1c1b51fade5ff3cbd8d4ccfee2a3cc47588c8a38996e38d993480e83a420e75133432318e09eec7f1e130404d31d7dfc90de9d71",
+                            "Explain": "3-磷酸甘油醛氧化为1，3-二磷酸甘油酸，生成1分子NADH+H[SBjia.gif]和含有一个高能磷酸键的1，3-二磷酸甘油酸，由3-磷酸甘油醛脱氢酶催化。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "乳酸脱氢酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "3-磷酸甘油醛脱氢酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "醛缩酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "丙酮酸激酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "烯醇化酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014489,
+                            "ATestID": 43014489,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b2f46146b22dbd8e399e01a074b513802834d91b38418b1cd96e3b134242c9b9951900ed36cb33757ff1cedba1f979d7",
+                            "Explain": "第二阶段由磷酸丙糖通过多步反应生成丙酮酸。在此阶段每分子磷酸丙糖可生成1分子NADH+H+和2分子ATP，ATP由底物水平磷酸化产生。1，3-二磷酸甘油酸转变成3-磷酸甘油酸时产生1分子ATP。磷酸烯醇型丙酮酸转变成丙酮酸时又产生1分子ATP，此反应由丙酮酸激酶催化。丙酮酸接收酵解过程产生的1对氢而被还原成乳酸。乳酸是糖酵解的最终产物。",
+                            "TestPoint": "糖的分解代谢",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "脂肪酸β-氧化过程中产生的NADH"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "三羧酸循环过程中产生的NADH"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "糖酵解过程中3-磷酸甘油醛脱氢产生的NADH"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "谷氨酸脱氢产生的NADH"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "磷酸戊糖途径产生的NADPH经转氢生成的NADH"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014490,
+                            "ATestID": 43014490,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d97a61884b0d17a4dde22ef9f2c78aef5a5c5cede679bc4fd890a1628773e132d2f810a1192ffd398e7c5f3e8b8c71403f991f33d134c161",
+                            "Explain": "糖酵解途径关键酶的是丙酮酸激酶、葡萄糖激酶与6-磷酸果糖激酶-1，故选B项，余不正确。",
+                            "TestPoint": "糖的分解代谢",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "6-磷酸葡萄糖酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "丙酮酸激酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "柠檬酸合酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "心肌酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "6-磷酸葡萄糖脱氢酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014491,
+                            "ATestID": 43014491,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699abf3ec5690df282da99b7f58b683bc3839e2ea852f168442e28d361966387df3e3a5231a27c6d687f53c045766996e51349cc8b676ddb85bd",
+                            "Explain": "参与三羧酸循环的酶主要位于线粒体内．只有琥珀酸脱氢酶是与线粒体内膜结合的酶。Ca2+可激活异柠檬酸脱氢酶、α-酮戊二酸脱氢酶等三羧酸循环中的酶。当NADH/NAD+比值增高时可反馈抑制上述三羧酸循环中的酶。血糖浓度低时，糖氧化不足，体内ATP浓度低，而ADP、AMP浓度高，则三羧酸循环的酶及糖有氧氧化的酶均被激活。氧化磷酸化的速率对三羧酸循环的运转起着非常重要的作用，主要通过NADH/NAD+、ATP/ADP、AMP等来抑制/激活三羧酸循环中的酶。故只有D是正确的。",
+                            "TestPoint": "氧化磷酸化",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Ca[SB2jia.gif]可抑制其活性（促进）"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "主要位于线粒体外膜（内膜）"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "当NADH/NAD[SBjia.gif]比值增高时活性较高（活性低）"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "氧化磷酸化的速率可调节其活性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "在血糖较低时，活性较低（较高）"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014492,
+                            "ATestID": 43014492,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9240d246374faeeeceb847902d442f24d3a24b43565b0ad2085b8176f99c5eb88ea8ab6a5021b135402caa81bda328c4",
+                            "Explain": "琥珀酰CoA转变为琥珀酸，琥珀酰CoA的高能硫酯键水解，生成GTP，反应可逆。这是底物水平磷酸化的又一个例子。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "6-磷酸果糖→1，6-二磷酸果糖"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "葡萄糖→6-磷酸葡萄糖"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "3-磷酸甘油醛→1，3-二磷酸甘油酸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "琥珀酰CoA→琥珀酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "谷氨酰→谷氨酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014493,
+                            "ATestID": 43014493,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0ed60a08ab8220a5dd53cdc0e14966b070891ae5757a8b75f4296bf4c557dbc9",
+                            "Explain": "三羧酸循环是乙酰CoA与草酰乙酸缩合成柠檬酸→顺乌头酸→异柠檬酸→α-酮戊二酸→琥珀酰CoA→琥珀酸→延胡索酸→苹果酸→草酰乙酸。可见没有丙二酸参与。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "柠檬酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "草酰乙酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "丙二酸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "α-酮戊二酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "琥珀酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014494,
+                            "ATestID": 43014494,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b7de5f953b945f8ee1bc906eefb43de8effad5edffd1c7528c4f3e3c4e7d6580583af3637a000e9a6440a17858c883831caf7f158bde7d2801cb2ade9f31c69b3665a52b52ac0a6f9ff20b46072f25d887cfb19efae97c263ebef07e6d1fae1a",
+                            "Explain": "丙酮酸氧化需首先在丙酮酸脱氢酶复合体催化下生成乙酰CoA，反应产物还有NADH，NADH经呼吸链传氢给氧生成水的同时产生3个ATP。而乙酰CoA继续经三羧酸循环彻底氧化生成二氧化碳和水时，可产生12个ATP。故以一克分子丙酮酸彻底氧化生成二氧化碳和水的同时可生成15g分子ATP。",
+                            "TestPoint": "糖的分解代谢",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "12"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "13"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "14"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "15"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "20"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014495,
+                            "ATestID": 43014495,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ad15b3d4060c681bcd23cf7f143eda31f447fdd3aad6d82e61b96d6c5190cd60665d01c8808307d34ac0f2b940af42ba4d266b2de3d1bcd51edd71e8a43a1fddbc9942fc94bd7ab8",
+                            "Explain": "丙酮酸氧化需首先在丙酮酸脱氢酶复合体催化下生成乙酰CoA，反应产物还有NADH，NADH经呼吸链传氢给氧生成水的同时产生3个ATP。而乙酰CoA继续经三羧酸循环彻底氧化生成二氧化碳和水时，可产生12个ATP。故以一克分子丙酮酸彻底氧化生成二氧化碳和水的同时可生成15g分子ATP。",
+                            "TestPoint": "糖的分解代谢",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "11"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "15"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "20"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "21"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "24"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014496,
+                            "ATestID": 43014496,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e29b64e3cc04c536ff5756ced8a792fff206511c5baee8784f9227b710459c7ae82bc4b09860b4f2ebd4c170144159835ed0e9c7485b493b",
+                            "Explain": "1分子乙酰CoA进入TCA一周，产生3分子NADH，1分子FADH2，1分子GTP，同时两次脱羧作用释出2个CO2，故选项A不正确，选项E正确。3分子NADH和1分子FADH2经电子传递链可产生9个ATP，即一次TCA生成10个ATP，故选项B不正确。乙酰CoA经TCA后任何中间产物的量都没有增减，只是起到了传递作用，故选项C不正确。TCA不需要消耗氧分子，故选项D不正确。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "循环一周生成5对NADH",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "循环一周可生成2个ATP",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "循环过程中消耗氧分子",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "乙酰CoA经三羧酸循环转变成草酰乙酸",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "循环一周生成2分子CO[XB2.gif]",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014498,
+                            "ATestID": 43014498,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月18日",
+                            "OldTestJson": "{\"Title\":\"关于三羧酸循环过程的叙述，正确的是\",\"Explain\":\"1分子乙酰CoA进入TCA一周，产生3分子NADH，1分子FADH2，1分子GTP，同时两次脱羧作用释出2个CO2，故选项A不正确，选项E正确。3分子NADH和1分子FADH2经电子传递链可产生9个ATP，即一次TCA生成10个ATP，故选项B不正确。乙酰CoA经TCA后任何中间产物的量都没有增减，只是起到了传递作用，故选项C不正确。TCA不需要消耗氧分子，故选项D不正确。故选E。\",\"TestPoint\":\"\",\"Answer\":\"E\",\"Difficulty\":\"\",\"SelectedItems\":[{\"Content\":\"循环一周生成5对NADH\",\"ItemName\":\"A\"},{\"Content\":\"循环一周可生成10个ATP\",\"ItemName\":\"B\"},{\"Content\":\"循环过程中消耗氧分子\",\"ItemName\":\"C\"},{\"Content\":\"乙酰CoA经三羧酸循环转变成草酰乙酸\",\"ItemName\":\"D\"},{\"Content\":\"循环一周生成2分子CO[XB2.gif]\",\"ItemName\":\"E\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "e98669c84da6aedfdbe9f88f780f49bff77cddf63e8420d1339d5f4afdaf60b9cedb38850d1e797594fd2e9dc821eac53225fcfbb4e92b7d7189ff28c7179c36927703484b8b321f45f8d9c64144b3be6f9dec7468d78b21f8c0bb4be6556cc5a88f6aecf159c5f53826b44810189b5712c0a61e2f7efbaf44b60bc87fc5b43b68577fc188045edb64b079f5cd2aa75f108c0bc2733aa8dd0052e53581b88161e1152804c993214184837d8c15bb1f678a18b318f5acd917",
+                            "Explain": "糖原是动物体内糖的储存形式。肝和肌肉是贮存糖原的主要组织器官，但肝糖原和肌糖原的生理功能有很大不同。肌糖原主要为肌肉收缩提供能量，肝糖原则是血糖的重要来源，这对于一些依赖葡萄糖作为能源的组织，如脑、红细胞等尤为重要。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "葡萄糖"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脂肪酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "蛋白质"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "氨基酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "乙酰乙酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014499,
+                            "ATestID": 43014499,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ffec86f0bc2da95600798ba71065e2dbfed78a509f6cd9a98043a527a902aa8e3b610727c9539de6",
+                            "Explain": "剧烈运动时，肌糖原酵解产生大量乳酸，部分乳酸由尿排出，大部分乳酸经血液运至肝，通过糖异生作用生成肝糖原和葡萄糖。肝脏将葡萄糖释放入血，葡萄糖又可被肌肉摄取利用。这样就构成了乳酸循环。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "使肌肉中的乳酸进入肝脏异生成葡萄糖"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "最终从尿中排出"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "可防止酸中毒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "使能源物质避免损伤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "可防止乳酸的体内堆积"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014500,
+                            "ATestID": 43014500,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7e7c33e4505ec3007120d21b7c3a57ec3ee400ec6e9b4dabdfc7af1f7f163b384ce399573c9521db24828f3ba6ffc8e5",
+                            "Explain": "磷酸戊糖途径生成大量的NADPH+H+，作为供氢体参与多种代谢反应。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "为氨基酸合成提供原料"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "将NADP+还原成NADPH"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "生成磷酸丙糖"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "是糖代谢联系的枢纽"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "提供能量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014502,
+                            "ATestID": 43014502,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "582dde7d0308f8ad7ca4e1571644e349f3b7a2ca1f9490d0a5c2a28ff48aa8e1abb47e7f33c0cabf28fc7ea7dff48120",
+                            "Explain": "肌肉收缩通过糖酵解生成乳酸，肌肉内糖异生活性低，所以乳酸通过细胞膜弥散进入血液，再入肝，在肝脏内异生为葡萄糖。葡萄糖释放入血后又被肌肉摄取，这就构成了一个循环，此循环称为乳酸循环，也称为Cori循环。乳酸循环的生理意义在于：避免损失乳酸以及防止因乳酸堆积引起酸中毒。乳酸循环是耗能的过程，2分子乳酸异生成葡萄糖需消耗6分子ATP。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "可防止乳酸在体内堆积"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "最终从尿中排出乳酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "使肌肉中的乳酸进入肝脏异生成葡萄糖"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "可防止酸中毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "使能源物质避免损失"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014503,
+                            "ATestID": 43014503,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "57f0cb7dfa25a74fdde125c57a64222ba206296e718f3c4c02c29af536bab3adbe5b375d8319d84f",
+                            "Explain": "高能磷酸化合物的储存和利用。在1，3-二磷酸甘油酸分子中的酰基与磷酸之间为高能磷酸键。而1，6-二磷酸果糖分子中含有的两个磷酸酯键均为普通磷酸酯键，其水解时自由能变化小。故本题应选E。",
+                            "TestPoint": "ATP与其他高能化合物",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1，3-二磷酸甘油酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "磷酸肌酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肌苷三磷酸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "磷酸烯醇式丙酮酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "1，6-双磷酸果糖"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014504,
+                            "ATestID": 43014504,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9c574f7026939e87bac741fb80ca71c8352e5d0a66dbea77b18b7f42cde3483b7fa06782f90c6ca3c448dcb86aac7121b4dd657ee57ea8154d552d500a6a01f30a6a3b76a8a60671f1033af70961f239bdeefa066b6a030e",
+                            "Explain": "糖酵解、糖异生、磷酸戊糖途径、糖原合成途径的共同代谢物是6-磷酸葡萄糖。",
+                            "TestPoint": "糖原的合成与分解、糖异生",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "6-磷酸葡萄糖"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "1-磷酸葡萄糖"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "1-6二磷酸果糖"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "6-磷酸果糖"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "3-磷酸甘油醛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014505,
+                            "ATestID": 43014505,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "864cc54881e8eeef512303e78692ca12c5cdc75e4d4b974a45eee5cccf6564c6fd50aaaf587a3d71",
+                            "Explain": "糖有氧氧化的基本途径：在有氧状态下，酵解产生的2NADH进入线粒体，经电子传递链的氧化作用生成H[XB2.gif]O，并生成ATP，同时，丙酮酸也进入线粒体，经氧化脱羧生成乙酰CoA，后者进入三羧酸循环彻底氧化成CO[XB2.gif]、水并释放能量。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "丙酰CoA"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乙酰CoA"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "羟甲戊二酸CoA"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "乙酰乙酸CoA"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "琥珀酰CA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014506,
+                            "ATestID": 43014506,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6063c3faaa38d96087bba9aa83e2d6a194cf3344b8f326b67041cfe8c6276d009924a67f5863b9e90ddbb82423555d48608b8c47ea1e3071b3008a968b741205133603c1c17a76dfe8f756937050ccec",
+                            "Explain": "缺氧状态使得丙酮酸生成乳酸。",
+                            "TestPoint": "糖的分解代谢",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "缺氧状态"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "酮体产生过多"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "缺少辅酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "糖原分解过快"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "酶活性降低"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014507,
+                            "ATestID": 43014507,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "34753c9e8a03595151467e00f9d47a0ea2417ccca9b437062abd9bc2ac7e0bfbad644fe472ae5f60",
+                            "Explain": "当血糖浓度超过8.88mmol/L时，尿中糖量增高，临床上称此时的血糖水平为肾糖阈值，可看作是部分肾单位重吸收功能达到饱和时的血糖浓度。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "血糖浓度增加"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "髓质中渗透压增高"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "滤过率下降"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "部分近球小管对糖吸收达到极限"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "滤过膜面积增加"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014508,
+                            "ATestID": 43014508,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b2acfdde22b7c6de999bbb401fca2e86ea6c52607bf7263c890e0b51363c7c9cec4b07e60da57563",
+                            "Explain": "α-酮戊二酸——琥珀酰是可逆的，其余反应均不可逆。",
+                            "TestPoint": "磷酸戊糖途径",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "异柠檬酸——α-酮戊二酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "草酰乙酸——柠檬酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "α-酮戊二酸——琥珀酰"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "磷酸烯醇式丙酮酸——丙酮酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "6-磷酸葡萄糖——葡萄糖"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014509,
+                            "ATestID": 43014509,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月18日",
+                            "OldTestJson": "{\"Title\":\"人体内属于可逆反应的是\",\"Explain\":\"α-酮戊二酸——琥珀酸是可逆的，其余反应均不可逆。\",\"TestPoint\":\"磷酸戊糖途径\",\"Answer\":\"C\",\"Difficulty\":\"难\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"异柠檬酸——α-酮戊二酸\"},{\"ItemName\":\"B\",\"Content\":\"草酰乙酸——柠檬酸\"},{\"ItemName\":\"C\",\"Content\":\"α-酮戊二酸——琥珀酸\"},{\"ItemName\":\"D\",\"Content\":\"磷酸烯醇式丙酮酸——丙酮酸\"},{\"ItemName\":\"E\",\"Content\":\"6-磷酸葡萄糖——葡萄糖\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "0936fbb4966e7ac1f65fd905e4a8b2da9605672aa060645e",
+                            "Explain": "在肝脏中，脂肪酸氧化分解的中间产物乙酰乙酸、β-羟基丁酸及丙酮，三者统称为酮体。",
+                            "TestPoint": "脂类合成分解与脂类代谢",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "α-酮戊二酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乙酰乙酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肌醇"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胆汁酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "琥珀酰CoA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014510,
+                            "ATestID": 43014510,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 23,
+                    "TestItems": [
+                        {
+                            "Title": "22180afa21e9d9e8a370b8291b4f2ec85c2f9c59814a37586d714b9fbf75f99f7846416e50e056e5",
+                            "Explain": "红细胞缺乏线粒体，能量主要来自糖酵解。2，3-二磷酸甘油酸旁路能产生调节运氧功能，影响氧离曲线。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "2，3-二磷酸甘油酸旁路"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "糖有氧氧化"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "糖异生"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "糖酵解"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "磷酸成糖途径"
+                                }
+                            ],
+                            "AllTestID": 35000032,
+                            "BTestID": 35000005,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000005,
+                                    "Title": "22180afa21e9d9e8a370b8291b4f2ec85c2f9c59814a37586d714b9fbf75f99f7846416e50e056e5",
+                                    "Explain": "红细胞缺乏线粒体，能量主要来自糖酵解。2，3-二磷酸甘油酸旁路能产生调节运氧功能，影响氧离曲线。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000006,
+                                    "Title": "29b42b6cc6c471d8650c28a0e3baaf13a92fbd51c410b6a64b193ba111ace930ccbaad4139ae8740c300bfaccc67b9806e984039b4b272472649c1c1795dfc00892fa99e2d1cea69323953a703be69c5",
+                                    "Explain": "红细胞缺乏线粒体，能量主要来自糖酵解。2，3-二磷酸甘油酸旁路能产生调节运氧功能，影响氧离曲线。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "29b42b6cc6c471d888e0f28c11cff77d8697c8ee42db0c499028508fe1aab03515ca66c626f1453a",
+                            "Explain": "糖的无氧酵解是指葡萄糖在无氧条件下分解生成乳酸并释放出能量的过程。体内一些特殊的组织细胞如成熟的红细胞，由于没有线粒体，完全依赖糖酵解供给能量，故1题选A。磷酸戊糖途径指由6-磷酸葡萄糖开始，经过氧化分解后产生CO[XB2.gif]、无机磷酸和NADPH，中间产物有多种磷酸戊糖，因此称为磷酸戊糖途径，故2题选C。成熟红细胞不能进行有氧氧化，故3题选B。红细胞中2，3-DPG是糖酵解过程的产物，可以与脱氧血红蛋白结合，降低血红蛋白与氧的亲和力，故4题选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "糖的无氧酵解",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "糖的有氧氧化",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "磷酸戊糖途径",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "乳酸生成反应",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "2，3-二磷酸甘油酸",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 41000035,
+                            "BTestID": 41000011,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000011,
+                                    "Title": "29b42b6cc6c471d888e0f28c11cff77d8697c8ee42db0c499028508fe1aab03515ca66c626f1453a",
+                                    "Explain": "糖的无氧酵解是指葡萄糖在无氧条件下分解生成乳酸并释放出能量的过程。体内一些特殊的组织细胞如成熟的红细胞，由于没有线粒体，完全依赖糖酵解供给能量，故1题选A。磷酸戊糖途径指由6-磷酸葡萄糖开始，经过氧化分解后产生CO[XB2.gif]、无机磷酸和NADPH，中间产物有多种磷酸戊糖，因此称为磷酸戊糖途径，故2题选C。成熟红细胞不能进行有氧氧化，故3题选B。红细胞中2，3-DPG是糖酵解过程的产物，可以与脱氧血红蛋白结合，降低血红蛋白与氧的亲和力，故4题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": "经核实，该试题无误，不修改。",
+                                    "OperateTime": "2018年12月17日",
+                                    "OldTestJson": "{\"Title\":\"成熟红细胞所需能量来自\",\"Explain\":\"糖的无氧酵解是指葡萄糖在无氧条件下分解生成乳酸并释放出能量的过程。体内一些特殊的组织细胞如成熟的红细胞，由于没有线粒体，完全依赖糖酵解供给能量，故1题选A。磷酸戊糖途径指由6-磷酸葡萄糖开始，经过氧化分解后产生CO[XB2.gif]、无机磷酸和NADPH，中间产物有多种磷酸戊糖，因此称为磷酸戊糖途径，故2题选C。成熟红细胞不能进行有氧氧化，故3题选B。红细胞中2，3-DPG是糖酵解过程的产物，可以与脱氧血红蛋白结合，降低血红蛋白与氧的亲和力，故4题选A。\",\"TestPoint\":\"\",\"Answer\":\"A\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"糖的无氧酵解\",\"ItemName\":\"A\"},{\"Content\":\"糖的有氧氧化\",\"ItemName\":\"B\"},{\"Content\":\"磷酸戊糖途径\",\"ItemName\":\"C\"},{\"Content\":\"乳酸生成反应\",\"ItemName\":\"D\"},{\"Content\":\"2，3-二磷酸甘池酸\",\"ItemName\":\"E\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 41000012,
+                                    "Title": "813cc785ac8e47fe48cecbadfcf023f63f31bf387915728f06f689c709d551fb",
+                                    "Explain": "糖的无氧酵解是指葡萄糖在无氧条件下分解生成乳酸并释放出能量的过程。体内一些特殊的组织细胞如成熟的红细胞，由于没有线粒体，完全依赖糖酵解供给能量，故1题选A。磷酸戊糖途径指由6-磷酸葡萄糖开始，经过氧化分解后产生CO[XB2.gif]、无机磷酸和NADPH，中间产物有多种磷酸戊糖，因此称为磷酸戊糖途径，故2题选C。成熟红细胞不能进行有氧氧化，故3题选B。红细胞中2，3-DPG是糖酵解过程的产物，可以与脱氧血红蛋白结合，降低血红蛋白与氧的亲和力，故4题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月17日",
+                                    "OldTestJson": "{\"Title\":\"红细胞中NADPH主要来自\",\"Explain\":\"糖的无氧酵解是指葡萄糖在无氧条件下分解生成乳酸并释放出能量的过程。体内一些特殊的组织细胞如成熟的红细胞，由于没有线粒体，完全依赖糖酵解供给能量，故1题选A。磷酸戊糖途径指由6-磷酸葡萄糖开始，经过氧化分解后产生CO[XB2.gif]、无机磷酸和NADPH，中间产物有多种磷酸戊糖，因此称为磷酸戊糖途径，故2题选C。成熟红细胞不能进行有氧氧化，故3题选B。红细胞中2，3-DPG是糖酵解过程的产物，可以与脱氧血红蛋白结合，降低血红蛋白与氧的亲和力，故4题选A。\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"糖的无氧酵解\",\"ItemName\":\"A\"},{\"Content\":\"糖的有氧氧化\",\"ItemName\":\"B\"},{\"Content\":\"磷酸戊糖途径\",\"ItemName\":\"C\"},{\"Content\":\"乳酸生成反应\",\"ItemName\":\"D\"},{\"Content\":\"2，3-二磷酸甘池酸\",\"ItemName\":\"E\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 41000013,
+                                    "Title": "29b42b6cc6c471d85f9cd738f05d66a36abbfb8badd000e685ef9322ff70b2cbfb36223a47449e986fe8e94a758acb2b",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": "",
+                                    "OperateTime": "2018年12月17日",
+                                    "OldTestJson": "{\"Title\":\"成熟红细胞内没有的代谢途径是\",\"Explain\":\"\",\"TestPoint\":\"\",\"Answer\":\"B\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"糖的无氧酵解\",\"ItemName\":\"A\"},{\"Content\":\"糖的有氧氧化\",\"ItemName\":\"B\"},{\"Content\":\"磷酸戊糖途径\",\"ItemName\":\"C\"},{\"Content\":\"乳酸生成反应\",\"ItemName\":\"D\"},{\"Content\":\"2，3-二磷酸甘池酸\",\"ItemName\":\"E\"}]}"
+                                },
+                                {
+                                    "BTestItemID": 41000014,
+                                    "Title": "ede93a35b4625dca8d5c5483ace035ece49257e2111d05a3f6ec5d4d4a8ef7020864f0dee25fb2821294d71a3134cd4e1cdbd7892477ba8efc8c1f75578e630d84e91237a14b7e4a9f394d8ad35d11a0",
+                                    "Explain": "因成熟红细胞没有线粒体，不能进行糖的有氧氧化，而只能靠糖酵解提供能量。红细胞内，磷酸戊糖旁路途径较其他细胞活跃，而磷酸戊糖旁路途径的生理意义主要是为核酸的生物合成提供核糖和大量NADPH作为供氢体。2，3-二磷酸甘油酸（2，3-DPG）的作用为调节血红蛋白的运氧能力，降低血红蛋白对氧的亲和力，是红细胞内能量的储存形式。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": "甘油酸已修改",
+                                    "OperateTime": "2018年12月17日",
+                                    "OldTestJson": "{\"Title\":\"上述糖代谢过程中，其产物能调节血红蛋白与氧结合的是\",\"Explain\":\"因成熟红细胞没有线粒体，不能进行糖的有氧氧化，而只能靠糖酵解提供能量。红细胞内，磷酸戊糖旁路途径较其他细胞活跃，而磷酸戊糖旁路途径的生理意义主要是为核酸的生物合成提供核糖和大量NADPH作为供氢体。2，3-二磷酸甘油酸（2，3-DPG）的作用为调节血红蛋白的运氧能力，降低血红蛋白对氧的亲和力，是红细胞内能量的储存形式。\",\"TestPoint\":\"\",\"Answer\":\"E\",\"Difficulty\":\"\",\"StyleType\":\"BTEST\",\"SubStyleType\":\"ATEST\",\"FrontTitle\":\"\",\"SelectedItems\":[{\"Content\":\"糖的无氧酵解\",\"ItemName\":\"A\"},{\"Content\":\"糖的有氧氧化\",\"ItemName\":\"B\"},{\"Content\":\"磷酸戊糖途径\",\"ItemName\":\"C\"},{\"Content\":\"乳酸生成反应\",\"ItemName\":\"D\"},{\"Content\":\"2，3-二磷酸甘池酸\",\"ItemName\":\"E\"}]}"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "cc0a50cfb3fca35c7301f5016b6a7093515f71dab32b87fd4f3e52e445d01289",
+                            "Explain": "在三羧酸循环过程的最后步骤中，苹果酸在苹果酸脱氢酶的催化下再脱氢生成草酰乙酸和1分子NADH+H[SBjia.gif]，故1题选E。呼吸链是由一系列的递氢体和递电子体按一定的顺序排列所组成的连续反应体系，它将代谢物脱下的成对氢原子交给氧，生成水，同时有ATP生成。多数黄素蛋白参与呼吸链组成，如NADH脱氢酶以FMN为辅基，是呼吸链的组分之一，故2题选D。葡萄糖-6-磷酸酶是糖异生的两个关键酶之一，故3题选B。磷酸戊糖途径在细胞质中进行，全过程分为不可逆的氧化阶段和可逆的非氧化阶段。在氧化阶段，3分子6-磷酸葡萄糖在6-磷酸葡萄糖脱氢酶等催化下经氧化脱羧生成6分子NADH+H[SBjia.gif]、3分子CO[XB2.gif]和3分子5-磷酸核糖，故4题选A。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "6-磷酸葡萄糖脱氢酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "葡萄糖-6-磷酸酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "丙酮酸脱氢酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "NADH脱氢酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "苹果酸脱氢酶"
+                                }
+                            ],
+                            "AllTestID": 41000037,
+                            "BTestID": 41000020,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000020,
+                                    "Title": "cc0a50cfb3fca35c7301f5016b6a7093515f71dab32b87fd4f3e52e445d01289",
+                                    "Explain": "在三羧酸循环过程的最后步骤中，苹果酸在苹果酸脱氢酶的催化下再脱氢生成草酰乙酸和1分子NADH+H[SBjia.gif]，故1题选E。呼吸链是由一系列的递氢体和递电子体按一定的顺序排列所组成的连续反应体系，它将代谢物脱下的成对氢原子交给氧，生成水，同时有ATP生成。多数黄素蛋白参与呼吸链组成，如NADH脱氢酶以FMN为辅基，是呼吸链的组分之一，故2题选D。葡萄糖-6-磷酸酶是糖异生的两个关键酶之一，故3题选B。磷酸戊糖途径在细胞质中进行，全过程分为不可逆的氧化阶段和可逆的非氧化阶段。在氧化阶段，3分子6-磷酸葡萄糖在6-磷酸葡萄糖脱氢酶等催化下经氧化脱羧生成6分子NADH+H[SBjia.gif]、3分子CO[XB2.gif]和3分子5-磷酸核糖，故4题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000021,
+                                    "Title": "9bdb88815c4958169ff66a85f108363b9fc90b4f0216dcfd52909e0661963ffc",
+                                    "Explain": "在三羧酸循环过程的最后步骤中，苹果酸在苹果酸脱氢酶的催化下再脱氢生成草酰乙酸和1分子NADH+H[SBjia.gif]，故1题选E。呼吸链是由一系列的递氢体和递电子体按一定的顺序排列所组成的连续反应体系，它将代谢物脱下的成对氢原子交给氧，生成水，同时有ATP生成。多数黄素蛋白参与呼吸链组成，如NADH脱氢酶以FMN为辅基，是呼吸链的组分之一，故2题选D。葡萄糖-6-磷酸酶是糖异生的两个关键酶之一，故3题选B。磷酸戊糖途径在细胞质中进行，全过程分为不可逆的氧化阶段和可逆的非氧化阶段。在氧化阶段，3分子6-磷酸葡萄糖在6-磷酸葡萄糖脱氢酶等催化下经氧化脱羧生成6分子NADH+H[SBjia.gif]、3分子CO[XB2.gif]和3分子5-磷酸核糖，故4题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000022,
+                                    "Title": "41f55aa6a2e6800a8554a9d6c8816ca39295b4c827fcdcba",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000023,
+                                    "Title": "51b5e87d08935c3d0fa90df98fbb9e75f98f60e0ecbb95349fbfb3215ad19909",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "9c574f7026939e873c3537c4581a33bb04a9dc98ef38fe235ba6fd819ee268d0",
+                            "Explain": "糖酵解的3个关键酶为6-磷酸果糖激酶-1，丙酮酸激酶和葡萄糖激酶。糖异生的关键酶为丙酮酸羧化酶、磷酸烯醇式丙酮酸羧激酶、果糖二磷酸1、6-磷酸葡萄糖酶。糖原合成的关键酶是糖原合酶。糖原分解的关键酶是糖原磷酸化酶。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "丙酮酸激酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "丙酮酸羧化酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "糖原磷酸化酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "糖原合酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "1，6-双磷酸果糖激酶"
+                                }
+                            ],
+                            "AllTestID": 43000047,
+                            "BTestID": 43000013,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000013,
+                                    "Title": "9c574f7026939e873c3537c4581a33bb04a9dc98ef38fe235ba6fd819ee268d0",
+                                    "Explain": "糖酵解的3个关键酶为6-磷酸果糖激酶-1，丙酮酸激酶和葡萄糖激酶。糖异生的关键酶为丙酮酸羧化酶、磷酸烯醇式丙酮酸羧激酶、果糖二磷酸1、6-磷酸葡萄糖酶。糖原合成的关键酶是糖原合酶。糖原分解的关键酶是糖原磷酸化酶。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000014,
+                                    "Title": "968d5f7c94708d1657a5b62f74e18e825786ab13af1193d0371a2e4f6fb2a91e",
+                                    "Explain": "糖酵解的3个关键酶为6-磷酸果糖激酶-1，丙酮酸激酶和葡萄糖激酶。糖异生的关键酶为丙酮酸羧化酶、磷酸烯醇式丙酮酸羧激酶、果糖二磷酸1、6-磷酸葡萄糖酶。糖原合成的关键酶是糖原合酶。糖原分解的关键酶是糖原磷酸化酶。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000015,
+                                    "Title": "aab922b2e001d9868d87086717ff5ec7087408b08d00e4457158aacc02964833",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000016,
+                                    "Title": "66622af6cecdfdc71ac846f7e9ed39f3efaa7f3715ebbe288f128ee2b393e1fc",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "66622af6cecdfdc7b98004871c02dae8c4a7c8ca3383feebbda8e698f2acdf4ca9da683d274cd244",
+                            "Explain": "糖原分解首先产生的物质是1-磷酸葡萄糖。",
+                            "TestPoint": "糖原的合成与分解、糖异生",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "6-磷酸果糖"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "1-磷酸果糖"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "果糖"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "1-磷酸葡萄糖"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "6-磷酸葡萄糖"
+                                }
+                            ],
+                            "AllTestID": 43014511,
+                            "BTestID": 43002659,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002659,
+                                    "Title": "66622af6cecdfdc7b98004871c02dae8c4a7c8ca3383feebbda8e698f2acdf4ca9da683d274cd244",
+                                    "Explain": "糖原分解首先产生的物质是1-磷酸葡萄糖。",
+                                    "TestPoint": "糖原的合成与分解、糖异生",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002660,
+                                    "Title": "9c574f7026939e87fe1c37c3996d68f45d95532ef6304003771a7e518f0643674605a4acd606dd2547453938674265b577e3bc3204fba2eb610e7874c33bd5551659f6659cfba9d8",
+                                    "Explain": "糖酵解过程中，直接生成且需要消耗能量的物质是6-磷酸葡萄糖。",
+                                    "TestPoint": "糖的分解代谢",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "7ae37bb77e6e49bfd0bef2bba12b8443a27ffecefcedd6d8831490b2331223d3102691e56d3b5f80",
+                            "Explain": "参与酮体和胆固醇合成的酶是HMGCoA合成酶。",
+                            "TestPoint": "脂类合成分解与脂类代谢",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "果糖二磷酸酶-1",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "6-磷酸果糖激酶-1",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "HMGCoA还原酶",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "磷酸化酶",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "HMGCoA合成酶",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43014512,
+                            "BTestID": 43002661,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002661,
+                                    "Title": "7ae37bb77e6e49bfd0bef2bba12b8443a27ffecefcedd6d8831490b2331223d3102691e56d3b5f80",
+                                    "Explain": "参与酮体和胆固醇合成的酶是HMGCoA合成酶。",
+                                    "TestPoint": "脂类合成分解与脂类代谢",
+                                    "Answer": "E",
+                                    "DealInfo": "经核实，该试题无误，不修改。\n",
+                                    "OperateTime": "2017年8月30日"
+                                },
+                                {
+                                    "BTestItemID": 43002662,
+                                    "Title": "4e2b34bf993b5d692afb3ce94719c3b6160bdf7d3e2c976ffad213e61b42743673499bb80ea6b11c",
+                                    "Explain": "胆固醇合成途径中的关键酶是HMGCoA还原酶。",
+                                    "TestPoint": "脂类合成分解与脂类代谢",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002663,
+                                    "Title": "968d5f7c94708d16194dbc699fe0081cff9a0ff14ce293e293fd09ffb984af2d8ac62c64a5137cb0",
+                                    "Explain": "糖异生途径中的关键酶是果糖二磷酸酶-1。",
+                                    "TestPoint": "糖原的合成与分解、糖异生",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002664,
+                                    "Title": "9c574f7026939e875e3e6e7e04b0f6dcfce971d14e422d8be7c931f84a109c23937340fdcad9500c",
+                                    "Explain": "糖酵解途径中的关键酶是6-磷酸果糖激酶-1。",
+                                    "TestPoint": "糖的分解代谢",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002665,
+                                    "Title": "66622af6cecdfdc78b6f450bfec4e2b499b3e0deec852b6a487b4bc1b36086520dc4cd897eef36a6",
+                                    "Explain": "糖原分解途径中的关键酶是磷酸化酶。",
+                                    "TestPoint": "糖原的合成与分解、糖异生",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "afa14912af7cf201e5ed825d9630e262608b798e8055b0ff9e2b2e23079b0a3c",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "天冬氨酸转氨酶"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乳酸脱氢酶"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "HMG-CoA还原酶"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "丙酮酸羧化酶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "琥珀酰CoA转硫酶"
+                                }
+                            ],
+                            "AllTestID": 43014516,
+                            "BTestID": 43002674,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 100,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002674,
+                                    "Title": "afa14912af7cf201e5ed825d9630e262608b798e8055b0ff9e2b2e23079b0a3c",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002675,
+                                    "Title": "235516ba0489541017f23471f9af7f850ceb1a5545eeb26342b5f841945ea33a",
+                                    "Explain": "乳酸脱氢酶存在于机体所有组织细胞的胞质内，其中以肾脏含量较高，能催化乳酸脱氢生成丙酮酸。转氨酶是催化氨基酸与酮酸之间氨基转移的一类酶。普遍存在于动物、植物组织和微生物中，心肌、脑、肝、肾等动物组织以及绿豆芽中含量较高。转氨酶种类很多，体内除赖氨酸、苏氨酸外，其余α-氨基酸都可参与转氨基作用并各有其特异的转氨酶。其中以丙氨酸氨基转移酶（GPT）和天冬氨酸氨基转移酶（GOT）最为重要。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000038,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000038,
+                        "ChildTableID": -1,
+                        "UserCount": 6960,
+                        "RightCount": 5234,
+                        "FavCount": 61,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 54
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000038,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 54
+            },
+            {
+                "AllTestID": 43000039,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000039,
+                        "ChildTableID": -1,
+                        "UserCount": 6860,
+                        "RightCount": 2993,
+                        "FavCount": 164,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 93
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000039,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 93
+            },
+            {
+                "AllTestID": 43000040,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000040,
+                        "ChildTableID": -1,
+                        "UserCount": 6699,
+                        "RightCount": 2513,
+                        "FavCount": 179,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 60
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000040,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 60
+            },
+            {
+                "AllTestID": 43000041,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000041,
+                        "ChildTableID": -1,
+                        "UserCount": 6612,
+                        "RightCount": 2187,
+                        "FavCount": 122,
+                        "DiscussionCount": 8,
+                        "ExplainCount": 0,
+                        "ConcernCount": 48
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000041,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 8,
+                "ExplainCount": 0,
+                "ConcernCount": 48
+            },
+            {
+                "AllTestID": 43000042,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000042,
+                        "ChildTableID": -1,
+                        "UserCount": 6304,
+                        "RightCount": 3706,
+                        "FavCount": 156,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000042,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43000043,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000043,
+                        "ChildTableID": -1,
+                        "UserCount": 5793,
+                        "RightCount": 3684,
+                        "FavCount": 111,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 43
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000043,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 43
+            },
+            {
+                "AllTestID": 43000044,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000044,
+                        "ChildTableID": -1,
+                        "UserCount": 5521,
+                        "RightCount": 2661,
+                        "FavCount": 82,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 37
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000044,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 37
+            },
+            {
+                "AllTestID": 43000045,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000045,
+                        "ChildTableID": -1,
+                        "UserCount": 5735,
+                        "RightCount": 1802,
+                        "FavCount": 153,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 53
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000045,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 53
+            },
+            {
+                "AllTestID": 43000046,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000046,
+                        "ChildTableID": -1,
+                        "UserCount": 5222,
+                        "RightCount": 4275,
+                        "FavCount": 59,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 31
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000046,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 31
+            },
+            {
+                "AllTestID": 43014485,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014485,
+                        "ChildTableID": -1,
+                        "UserCount": 5218,
+                        "RightCount": 1762,
+                        "FavCount": 107,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 54
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014485,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 54
+            },
+            {
+                "AllTestID": 43014486,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014486,
+                        "ChildTableID": -1,
+                        "UserCount": 5159,
+                        "RightCount": 2539,
+                        "FavCount": 105,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 34
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014486,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 34
+            },
+            {
+                "AllTestID": 43014487,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014487,
+                        "ChildTableID": -1,
+                        "UserCount": 5058,
+                        "RightCount": 2396,
+                        "FavCount": 68,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014487,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43014488,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014488,
+                        "ChildTableID": -1,
+                        "UserCount": 4843,
+                        "RightCount": 3375,
+                        "FavCount": 97,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 35
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014488,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 35
+            },
+            {
+                "AllTestID": 43014489,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014489,
+                        "ChildTableID": -1,
+                        "UserCount": 4910,
+                        "RightCount": 2103,
+                        "FavCount": 111,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014489,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 43014490,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014490,
+                        "ChildTableID": -1,
+                        "UserCount": 4649,
+                        "RightCount": 3176,
+                        "FavCount": 92,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 33
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014490,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 33
+            },
+            {
+                "AllTestID": 43014491,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014491,
+                        "ChildTableID": -1,
+                        "UserCount": 4453,
+                        "RightCount": 3389,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014491,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014492,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014492,
+                        "ChildTableID": -1,
+                        "UserCount": 4374,
+                        "RightCount": 3084,
+                        "FavCount": 92,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 36
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014492,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 36
+            },
+            {
+                "AllTestID": 43014493,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014493,
+                        "ChildTableID": -1,
+                        "UserCount": 4601,
+                        "RightCount": 1747,
+                        "FavCount": 101,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014493,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43014494,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014494,
+                        "ChildTableID": -1,
+                        "UserCount": 4270,
+                        "RightCount": 2941,
+                        "FavCount": 77,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014494,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43014495,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014495,
+                        "ChildTableID": -1,
+                        "UserCount": 4276,
+                        "RightCount": 1657,
+                        "FavCount": 110,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 53
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014495,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 53
+            },
+            {
+                "AllTestID": 43014496,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014496,
+                        "ChildTableID": -1,
+                        "UserCount": 3941,
+                        "RightCount": 3337,
+                        "FavCount": 35,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 32
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014496,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 32
+            },
+            {
+                "AllTestID": 43014498,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014498,
+                        "ChildTableID": -1,
+                        "UserCount": 4217,
+                        "RightCount": 1566,
+                        "FavCount": 106,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 31
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014498,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 31
+            },
+            {
+                "AllTestID": 43014499,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014499,
+                        "ChildTableID": -1,
+                        "UserCount": 3949,
+                        "RightCount": 3024,
+                        "FavCount": 47,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014499,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014500,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014500,
+                        "ChildTableID": -1,
+                        "UserCount": 3980,
+                        "RightCount": 2032,
+                        "FavCount": 61,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014500,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43014502,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014502,
+                        "ChildTableID": -1,
+                        "UserCount": 4203,
+                        "RightCount": 2017,
+                        "FavCount": 87,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014502,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43014503,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014503,
+                        "ChildTableID": -1,
+                        "UserCount": 3556,
+                        "RightCount": 3273,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014503,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014504,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014504,
+                        "ChildTableID": -1,
+                        "UserCount": 4002,
+                        "RightCount": 1722,
+                        "FavCount": 96,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 32
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014504,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 32
+            },
+            {
+                "AllTestID": 43014505,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014505,
+                        "ChildTableID": -1,
+                        "UserCount": 3906,
+                        "RightCount": 2721,
+                        "FavCount": 66,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014505,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43014506,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014506,
+                        "ChildTableID": -1,
+                        "UserCount": 3776,
+                        "RightCount": 2602,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014506,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43014507,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014507,
+                        "ChildTableID": -1,
+                        "UserCount": 3609,
+                        "RightCount": 2885,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014507,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014508,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014508,
+                        "ChildTableID": -1,
+                        "UserCount": 3661,
+                        "RightCount": 2865,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014508,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43014509,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014509,
+                        "ChildTableID": -1,
+                        "UserCount": 3948,
+                        "RightCount": 1484,
+                        "FavCount": 127,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 38
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014509,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 38
+            },
+            {
+                "AllTestID": 43014510,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014510,
+                        "ChildTableID": -1,
+                        "UserCount": 3639,
+                        "RightCount": 2247,
+                        "FavCount": 81,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014510,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 35000032,
+                "ChildTableID": 35000005,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000032,
+                        "ChildTableID": 35000005,
+                        "UserCount": 4074,
+                        "RightCount": 2238,
+                        "FavCount": 79,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000032,
+                    "ChildTableID": 35000005
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 35000032,
+                "ChildTableID": 35000006,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000032,
+                        "ChildTableID": 35000006,
+                        "UserCount": 4078,
+                        "RightCount": 1922,
+                        "FavCount": 105,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000032,
+                    "ChildTableID": 35000006
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 41000035,
+                "ChildTableID": 41000011,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000035,
+                        "ChildTableID": 41000011,
+                        "UserCount": 3735,
+                        "RightCount": 2992,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000035,
+                    "ChildTableID": 41000011
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 41000035,
+                "ChildTableID": 41000012,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000035,
+                        "ChildTableID": 41000012,
+                        "UserCount": 3933,
+                        "RightCount": 2442,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000035,
+                    "ChildTableID": 41000012
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 41000035,
+                "ChildTableID": 41000013,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000035,
+                        "ChildTableID": 41000013,
+                        "UserCount": 3697,
+                        "RightCount": 2837,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000035,
+                    "ChildTableID": 41000013
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 41000035,
+                "ChildTableID": 41000014,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000035,
+                        "ChildTableID": 41000014,
+                        "UserCount": 4242,
+                        "RightCount": 1734,
+                        "FavCount": 105,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000035,
+                    "ChildTableID": 41000014
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 41000037,
+                "ChildTableID": 41000020,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000037,
+                        "ChildTableID": 41000020,
+                        "UserCount": 3994,
+                        "RightCount": 1877,
+                        "FavCount": 82,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000037,
+                    "ChildTableID": 41000020
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 41000037,
+                "ChildTableID": 41000021,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000037,
+                        "ChildTableID": 41000021,
+                        "UserCount": 3709,
+                        "RightCount": 2358,
+                        "FavCount": 74,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 42
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000037,
+                    "ChildTableID": 41000021
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 42
+            },
+            {
+                "AllTestID": 41000037,
+                "ChildTableID": 41000022,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000037,
+                        "ChildTableID": 41000022,
+                        "UserCount": 3801,
+                        "RightCount": 2340,
+                        "FavCount": 75,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000037,
+                    "ChildTableID": 41000022
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 41000037,
+                "ChildTableID": 41000023,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000037,
+                        "ChildTableID": 41000023,
+                        "UserCount": 3820,
+                        "RightCount": 2355,
+                        "FavCount": 60,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000037,
+                    "ChildTableID": 41000023
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 43000047,
+                "ChildTableID": 43000013,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000047,
+                        "ChildTableID": 43000013,
+                        "UserCount": 3579,
+                        "RightCount": 2480,
+                        "FavCount": 76,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000047,
+                    "ChildTableID": 43000013
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43000047,
+                "ChildTableID": 43000014,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000047,
+                        "ChildTableID": 43000014,
+                        "UserCount": 3799,
+                        "RightCount": 2048,
+                        "FavCount": 85,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000047,
+                    "ChildTableID": 43000014
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43000047,
+                "ChildTableID": 43000015,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000047,
+                        "ChildTableID": 43000015,
+                        "UserCount": 3492,
+                        "RightCount": 2590,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000047,
+                    "ChildTableID": 43000015
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43000047,
+                "ChildTableID": 43000016,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000047,
+                        "ChildTableID": 43000016,
+                        "UserCount": 3479,
+                        "RightCount": 2499,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000047,
+                    "ChildTableID": 43000016
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43014511,
+                "ChildTableID": 43002659,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014511,
+                        "ChildTableID": 43002659,
+                        "UserCount": 3690,
+                        "RightCount": 1425,
+                        "FavCount": 106,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014511,
+                    "ChildTableID": 43002659
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43014511,
+                "ChildTableID": 43002660,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014511,
+                        "ChildTableID": 43002660,
+                        "UserCount": 3418,
+                        "RightCount": 2200,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014511,
+                    "ChildTableID": 43002660
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 43014512,
+                "ChildTableID": 43002661,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43014512,
+                            "ChildTableID": 43002661,
+                            "Answer": "C",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014512,
+                        "ChildTableID": 43002661,
+                        "UserCount": 3381,
+                        "RightCount": 1897,
+                        "FavCount": 92,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014512,
+                    "ChildTableID": 43002661
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43014512,
+                "ChildTableID": 43002662,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014512,
+                        "ChildTableID": 43002662,
+                        "UserCount": 3375,
+                        "RightCount": 1778,
+                        "FavCount": 84,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014512,
+                    "ChildTableID": 43002662
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43014512,
+                "ChildTableID": 43002663,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014512,
+                        "ChildTableID": 43002663,
+                        "UserCount": 3487,
+                        "RightCount": 1553,
+                        "FavCount": 90,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014512,
+                    "ChildTableID": 43002663
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43014512,
+                "ChildTableID": 43002664,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014512,
+                        "ChildTableID": 43002664,
+                        "UserCount": 3088,
+                        "RightCount": 2534,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014512,
+                    "ChildTableID": 43002664
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43014512,
+                "ChildTableID": 43002665,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014512,
+                        "ChildTableID": 43002665,
+                        "UserCount": 3320,
+                        "RightCount": 2119,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014512,
+                    "ChildTableID": 43002665
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43014516,
+                "ChildTableID": 43002674,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014516,
+                        "ChildTableID": 43002674,
+                        "UserCount": 3491,
+                        "RightCount": 1410,
+                        "FavCount": 98,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014516,
+                    "ChildTableID": 43002674
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43014516,
+                "ChildTableID": 43002675,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014516,
+                        "ChildTableID": 43002675,
+                        "UserCount": 3282,
+                        "RightCount": 1737,
+                        "FavCount": 75,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014516,
+                    "ChildTableID": 43002675
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

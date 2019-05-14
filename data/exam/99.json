@@ -1,0 +1,2617 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 11:25:29 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 34,
+                    "TestItems": [
+                        {
+                            "Title": "93b76e299534ccd0065e091006b9e19408989e915659fe3008b45bd8622e8c9012b28cb3ac0d8008",
+                            "Explain": "肺活量是指尽力吸气后，从肺中能呼出的最大气体量。肺活量反映了肺一次通气的最大能力，在一定程度上可以作为肺通气功能的指标。但是由于肺活量的测定不限制呼气的时间，所以肺活量不能充分反映肺组织的弹性状态和气道的通畅程度，因此引入了第一秒用力呼气量，是指最大吸气后再尽力尽快呼气时，在一秒内能呼出的最大气量，而这个指标也反映了肺通气功能的潜力。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "每分通气量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺泡通气量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "最大通气量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺活量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "用力肺活量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000150,
+                            "ATestID": 41000150,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "88da0d6c462ea1f92cde2e85aa214a4399e54b936fcdffcdf0a4645b622c65376c969d43359cdf6a",
+                            "Explain": "气体的溶解度取决于气体分子本身的特性，B不正确。在人体，体温相对恒定，故温度因素可忽略不计，E不正确。此题的前提是\"正常人\"，正常人由于呼吸膜面积远远超过肺换气的实际需要，A、D影响不大，关键还是气体的分压差，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "生物膜的通透性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "气体的溶解度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "交换部位两侧气体的分压差"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "通气/血流比"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "温度"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000154,
+                            "ATestID": 41000154,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "05b58798546cfbce03949c76181c4da2c3d5d8d26dd93ef6f9a3ccbb4aadc805",
+                            "Explain": "由于每次吸入的气体中一部分将留在鼻或口与终末细支气管之间的呼吸道内，这部分气体不参与肺泡与血液之间的气体交换，为无效腔。肺泡通气量为每次吸入肺泡的新鲜空气量（潮气量-无效腔气量）乘以呼吸频率，是真正有效的气体交换量，E正确。肺活量指尽力吸气后，从肺内所能呼出的最大气体量。用力肺活量是指一次最大吸气后再尽力尽快呼气时，在一定时间内所能呼出的气体量。肺总量是肺所能容纳的最大气体量。每分通气量是每分钟吸入或呼出的气体总量。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺活量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "用力肺活量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "每分通气量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺总容量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺泡通气量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000155,
+                            "ATestID": 41000155,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b101c05cfb1f76fb736f719a5450f186a2b2dda733857ccae34e58ca56e5c107ea4f24b5c3b2fa82bff291d12efec58b2a4712c4727af289c203f13ec17f47fa",
+                            "Explain": "吸入气中CO[XB2.gif]分压升高（小于7%）或其他原因导致血中CO[XB2.gif]增加时，可兴奋外周化学感受器（颈动脉体和主动脉体），再经传入神经兴奋呼吸中枢；同时CO[XB2.gif]能通过血脑屏障进入脑脊液，与H[XB2.gif]O生成H[XB2.gif]CO[XB3.gif]，后者解离出H[SBjia.gif]，使脑脊液中H[SBjia.gif]浓度上升，兴奋中枢化学感受器，因此血中PaCO[XB2.gif]升高会引起呼吸加深加快。由于二氧化碳分压只需升高2mmHg(1mmHg=0.133kPa)就可刺激中枢化学感受器，刺激外周化学感受器动脉二氧化碳分压需升高10mmHg。因此呼吸加深加快的原因主要是刺激了中枢的化学感受器。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "直接刺激中枢的呼吸神经元"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "刺激中枢化学感受器"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "刺激颈动脉体和主动脉体感受器"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "刺激颈动脉窦和主动脉弓感受器"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "刺激心肺感受器"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000158,
+                            "ATestID": 41000158,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f5e77e83cf5a73612b0e4b1d2f19bb80c87f36598b62d3aa451430897ec98f053c62ac48f65c1bacd18b5b3bb3d6bc3e",
+                            "Explain": "每分通气量是指平静呼吸时，每分钟进或出肺的气体总量。肺泡通气量是指平静呼吸时潮气量减去解剖无效腔和生理无效腔剩余的气体总量，故两者的差值是每分钟无效腔的通气量。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "潮气量×呼吸频率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺活量×呼吸频率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "残气量×呼吸频率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "无效腔气量×呼吸频率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "功能残气量×呼吸频率"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000160,
+                            "ATestID": 41000160,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "698ad192a88451471f2ceab001cb7e0543cb4e988078ccbae24be956fe5ef260d93e38d4345eb7da",
+                            "Explain": "肺表面活性物质可以减少肺泡液-气界面表面张力，从而使肺回缩力下降，肺弹性阻力降低、肺顺应性变大，并可维持肺泡稳定等功能。当肺泡表面活性物质减少时，肺回缩力增加，肺的弹性阻力增加，顺应性降低，肺不易扩张（选项D是本题的答案）。并可引起小肺泡塌陷和大肺泡过分膨胀，与选项E的结果（引起大肺泡的气体进入小肺泡，小肺泡膨胀，而大肺泡塌陷）恰相反。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺弹性阻力减小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺顺应性增大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺泡表面张力降低"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肺不易扩张"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肺易扩张"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000188,
+                            "ATestID": 43000188,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "32e612bbfea029f26a61051226fcdb81c08fa395e517792d8573add6c6370cdb28122ca6347cad4de71adbea1f2f2053f5e9a10f07fa954c",
+                            "Explain": "本题考点是影响氧解离曲线的因素。血红蛋白与氧的结合和解离可受多种因素的影响，使氧解离曲线的位置发生偏移。引起曲线右移的因素主要有：PCO[XB2.gif]升高、pH下降、2，3DPG（2，3-二磷酸甘油酸）升高和温度升高。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "CO[XB2.gif]分压降低"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "1.3-DPG降低"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "2，3-DPG降低"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "温度降低"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "pH值降低"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000189,
+                            "ATestID": 43000189,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f7b10684ec4980fa84e44956f836a659e311eada265e2c5d6d399ec4459dc29714ad40852d2cb74f197c511b7c2d331f2b10fdfd08d78d95576b4b5ceab3735d4ac927fbb0a3993b",
+                            "Explain": "CO[XB2.gif]与O[XB2.gif]通过肺泡膜扩散的原理不是易化扩散，而是单纯扩散。它们通过肺泡膜的扩散速率，受气体分压差、气体的分子量和溶解度、扩散面积和距离，以及温度的影响。比较CO[XB2.gif]与O[XB2.gif]的扩散速率，上述后面三个因素是相同的，所不同的是前三个因素，CO[XB2.gif]的分压差小于O[XB2.gif]的分压差，速率应比O[XB2.gif]慢；CO[XB2.gif]分子量(44)略大于O[XB2.gif]的分子量(33)，也应比O[XB2.gif]慢；但CO[XB2.gif]在血浆中的溶解度(51.5)比O[XB2.gif]的溶解度(2.14)大，约为O[XB2.gif]的24倍，是CO[XB2.gif]通过呼吸膜的速率比O[XB2.gif]快的主要原因。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "原理为易化扩散"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "分压差比O[XB2.gif]大"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "分子量比O[XB2.gif]大"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "分子量比O[XB2.gif]小"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "在血中溶解度比O[XB2.gif]大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000190,
+                            "ATestID": 43000190,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c56c84843598e8479e78725efd1249823a988e03ee3ce173fa5895501c0d9cee453b2a4173bbf9dca7b50d64b5f9fac6f2cb1b2770eb7f89022f72fd017156da",
+                            "Explain": "所谓顺应性是指弹性体在外力作用下变形的难易程度。在肺泡表面存在有降低表面张力的物质，其成分为二棕榈酰卵磷脂，即表面活性物质。由于其降低了肺泡的表面张力，故降低了肺的弹性阻力，降低了肺回缩力，进而增大了肺的静态顺应性。许多肺部疾病可导致肺顺应性下降，如肺充血、肺不张、肺纤维化、肺部炎症。肺气肿的病人，因肺泡过度膨胀和融合，肺泡弹性纤维被破坏，弹性阻力增大；此外，肺气肿病人肺的容量增大，处于高肺容量的顺应曲线阶段，其斜率变小，顺应性减小。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "气胸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺表面活性物质缺乏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "气道阻力增加"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "惯性阻力增加"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脓胸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000191,
+                            "ATestID": 43000191,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "06dc0934b3ddef62a0f7b5518bb189aadea279cb174e804ac1169980346fb8228dda3789b7a9d3359bcba252893a77f06b3a3704f5555e76be121b2ed2f3ac427469970aeb5864bd9dbe35a68c37a86608c04de5155887da",
+                            "Explain": "功能残气量是指平静呼吸末尚存留于肺内的气量，可见它是残气量和补呼气量两个数量之和，正常成人大约为2500ml。肺气肿患者的功能余气量增加，肺纤维变性时功能余气量减少。功能余气量的生理意义是缓冲呼吸过程中肺泡气中的氧分压和二氧化碳分压的过度变化。由于功能余气量的稀释作用，吸气时，肺内PO[XB2.gif]不至于降得太低；呼气时，肺内PCO[XB2.gif]不致升得太高。这样，肺泡气和动脉血液的PO[XB2.gif]和PCO[XB2.gif]就不会随呼吸而发生大幅度的波动，以利于气体交换。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "深吸气量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "补吸气量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺活量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "用力呼气量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "功能残气量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000192,
+                            "ATestID": 43000192,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fbebc0c48c9554daa41d06b7761b74ffc94daa908c55391a79efe09eba5a7eaab2a789d80d40c8106303e3a0212c5f805d7c9fb88b5e853c149fdc29ffedb56e87cd879ef20fb4569516a3b9055fa870",
+                            "Explain": "动脉血H[SBjia.gif]增加，呼吸加深加快，肺通气增加H[SBjia.gif]降低，呼吸受到抑制。H[SBjia.gif]对呼吸的调节也是通过外周化学感受器和中枢化学感受器实现的。中枢化学感受器对H[SBjia.gif]的敏感性较外周的高，约为外周的25倍。但是，H[SBjia.gif]通过血脑屏障的速度慢，限制了它对中枢化学感受器的作用，脑脊液中的H[SBjia.gif]才是中枢化学感受器的最有效刺激。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "中枢化学敏感区"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "包钦格复合体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "颈动脉窦"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "颈动脉体和主动脉体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "主动脉弓"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000193,
+                            "ATestID": 43000193,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e5773a8215fee890b83047047fd53a64c070dc2643b80ab0905d3730b0f8a717b7f243b40d74aef0bdd299c2d043124a84e9ab8674c5f95f",
+                            "Explain": "肺通气的阻力分为弹性阻力和非弹性阻力。平静呼吸时，弹性阻力约占肺通气阻力的70%，非弹性阻力约为30%。肺组织自身的弹性成分所产生的弹性阻力仅占肺总弹性阻力的1/3左右，而肺泡内液-气表面张力则占2/3左右，因此，表面张力是吸气阻力的主要来源。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺泡内液-气表面张力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺弹性回缩力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "胸廓弹性回缩力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "气道阻力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均正确"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000194,
+                            "ATestID": 43000194,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b8454a8d0d75931efbf26ad4ece9305199011d9fc2a2653464b1870e9451066932cf55a475ba1afa25fdcc406893ea225cd69baf51cbee60f4ba8d661cfce2138da23cabe23382acdb130a1d1726203784eaa139fc05fbbed27b60f942b9f19474caaf17712a4b2c3afaa217bf0617c44c7bd05aa0bbd7039c3d004e660cef98950837546035d83e2bff6774d814e006fbb1b20b2fa60936",
+                            "Explain": "其潮气量为500ml，减去无效腔150ml，实际每次肺泡换气量为350ml。功能余气量为平静呼气末尚存于肺内的气体量，接近肺泡的容积，即2500ml。每次实际肺泡换气量与功能残气量之比，即350÷2500，为0.14，接近1/7。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1/10"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "1/4"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "1/5"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "1/3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "1/7"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000195,
+                            "ATestID": 43000195,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dcf5c5f80f08931a3efa0d238207ed272ae921310dbdf4280075cf9ec72dd415027e02dd47358ce23bc06ae66d3b74da818fe3a885dd8a19",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "兴奋延髓呼吸中枢",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "兴奋脑桥呼吸调整中枢",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "兴奋中枢化学感受器",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "兴奋中脑呼吸中枢",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "兴奋外周化学感受器",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000196,
+                            "ATestID": 43000196,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "daf5df901412406b665404ebb041b7565d24f2a1be065dc2efaeea9ddd1a76b7e007dbf0c6a0a8f4",
+                            "Explain": "左肺分为上叶及下叶两叶，右叶分为上、中、下三叶。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺尖超出锁骨内侧1/3段上方2.5cm"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "右肺宽短，左肺狭长"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "内侧面中部的凹陷称肺门"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "左肺分三叶，右肺分两叶"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "左肺前缘下份有心切迹"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014722,
+                            "ATestID": 43014722,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b3a49e167b0fa20d417a5a6a016960184e12ec197c61676b02dfc286e8f3aae82008ecb96e27cfa3b68e7face1e4b54b",
+                            "Explain": "呼气时由于呼气肌参与，故呼气也是主动的，主要由肋间内肌参与。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "呼气时腹壁肌收缩"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "吸气时辅助吸气肌参与收缩"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吸气时膈肌收缩"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "呼气时肋间内肌收缩"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "呼气时肋间外肌收缩"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014727,
+                            "ATestID": 43014727,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bdbd74b0ab70ac294bad66b0cdd7e7f28235854bd0b22f18f3b508b78eb7628edf0b66f44e5bd003",
+                            "Explain": "胸膜有两层，即紧贴于肺表面的脏层和紧贴于胸廓内壁的壁层。两层胸膜形成一个密闭的潜在的腔隙，为胸膜腔，左、右胸膜腔互不交通，胸膜腔内含有少量浆液起润滑作用。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胸膜腔内正压"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺位于胸膜腔内"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "左、右胸膜腔互相交通"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胸膜腔由脏胸膜与壁胸膜围成"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胸膜腔内含有大量浆液"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014728,
+                            "ATestID": 43014728,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0fbbe3da90b3763ed9487fc0a186a03841fed97bbac6188439ba556036717e79dd137199dcece6f86ae981f728dde2ddf9a619efe82853f219155d2f3a364e22",
+                            "Explain": "支气管哮喘患者主要是小气道阻塞，吸气时阻力小，呼气时阻力大。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "吸气时肺弹性阻力减小，呼气时肺弹性阻力增大"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "吸气是被动的，呼气是主动的"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "吸气时胸廓弹性阻力减小，呼气时胸廓弹性阻力增大"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "吸气时气道阻力减小，呼气时气道阻力增大"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "吸气时胸内负压减小，呼气时胸内负压增大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014729,
+                            "ATestID": 43014729,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "05e894389d8c56be6cc63f32fbd20c4b8dd41f005c81f952c82afdba66e9b4aaa4d9daada4764f0c40d3117e34f940c19d2f7f848e50a0cf",
+                            "Explain": "肺表面活性物质使肺顺应性增大。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "维持肺泡的扩张状态"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "稳定肺泡容积"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "降低肺泡表面的张力"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "降低肺的顺应性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "防止毛细血管内的液体流入肺泡内"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014731,
+                            "ATestID": 43014731,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0996819cfb598a4ccd0efce339168ff3cf65b8191996481a8ff87b86cf7dae0986479412661506d0b25a979aadc7b50f",
+                            "Explain": "功能余气量：平静呼气末尚存留于肺内的气量为功能余气量，是余气量和补呼气量之和。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "余气量"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "呼气储备量"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "功能余气量"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "潮气量"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺总量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014732,
+                            "ATestID": 43014732,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d56ffa5c6f4c5418c4ba5e8d726c32119fd42f25180920b2b7a256594a55eb989afc3848286da579",
+                            "Explain": "①测定肺通气功能较好的指标为时间肺活量。②从气体交换的意义来说，评价肺通气功能最好的指标是肺泡通气量。③测定肺换气功能较好的指标为V/Q比值。④气体交换的关键因素是交换部位两侧的压力差。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "潮气量",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "肺活量",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "时间肺活量",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "通气/血流比值",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "肺总量",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014733,
+                            "ATestID": 43014733,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年10月24日"
+                        },
+                        {
+                            "Title": "f0539616502952b89db434e034e7434fcc5941d84e34c8cf9c83d3d96e328c3f328f97fa6ab1512c5a7d819c5dbd235196a55aa3810474ddf40f8785fb6e6c99",
+                            "Explain": "一秒用力呼气量是一种动态指标，不仅能反映肺活量容量的大小，而且可反映呼吸所遏阻力的变化，所以是评价肺通气功能的较好指标，其他指标都是静态反映。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "一秒用力呼气量"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺活量"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "潮气量"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "功能残气量"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺总量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014734,
+                            "ATestID": 43014734,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6c7bb74caa5e02a34136cd4ad9ba9a3b70a865929a3c3682c2cd8c929d8d851322a177537a25388da1891d2a5ae874a292354b8f70603a59",
+                            "Explain": "肺泡通气量＝（潮气量-无效腔气量）×呼吸频率，故而浅快呼吸将使肺泡通气量减少。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "每分通气量减少"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "每分通气量增加"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺泡通气量增加"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺泡通气量减少"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺总量增大"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014738,
+                            "ATestID": 43014738,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "254561eb2087246e57b5d399b44dba35accc27a57e71f0a6fd6e2283d38dd7810b4ca8f16f33bcc7",
+                            "Explain": "氧分压为溶解于血液中的氧所产生的张力，简单地可以理解为局部氧气的浓度。在人体中，氧气的扩散首先是从肺泡进入到动脉血，由红细胞将氧气运输到全身各个组织器官。由此可见，氧气的扩散方向就是氧分压的分布梯度，因此，肺泡气中的氧分压最高。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "动脉血"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "静脉血"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "组织液"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃肠液"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺泡气"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014739,
+                            "ATestID": 43014739,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4e5dfc414c8536f8803e076acc6dcc521aa7c10c310b2e8dfa7845eaaf42a98e6e86d397873315557e88949630265c30",
+                            "Explain": "气体扩散速率除受分压差、温度和扩散系数的影响以外，还受扩散距离、扩散面积及通气/血流比值的影响，其中最重要的是分压差。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "气体的溶解度"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "气体的分压差"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺泡膜的通透性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "气体重量的大小"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "气体与白蛋白的亲和力"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014741,
+                            "ATestID": 43014741,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "afb16e7407791762be3414b20237d12fe6be47f11242dbe38b01e1c7db203918",
+                            "Explain": "肺泡气通过呼吸膜（肺泡一毛细血管膜）与血液气体进行交换，称为肺换气；肺内的气体与外界进行交换称为肺通气。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "主支气管"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "毛细支气管"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肺泡壁"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "小静脉"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "呼吸膜"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014743,
+                            "ATestID": 43014743,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b101c05cfb1f76fb736f719a5450f186a2b2dda733857ccae34e58ca56e5c107ea4f24b5c3b2fa82bff291d12efec58bf71db80534bf1ed4d39b569a792aec8b",
+                            "Explain": "中枢化学感受器在CO[XB2.gif]引起的通气反应中起主要作用。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "直接刺激中枢的呼吸神经元"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "刺激中枢化学感受器"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "刺激心肺感受器"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "刺激颈动脉窦和主动脉弓感受器"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "刺激颈动脉体和主动脉体感受器"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014744,
+                            "ATestID": 43014744,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d8b05674e0096a3e7908d42e2cf3405c8e1e8b0c063c447b5e3fb4c717255a28e0240701ee835994",
+                            "Explain": "低氧对呼吸运动的刺激作用完全是通过外周化学感受器实现的，低氧对中枢的直接作用是抑制的。轻度低氧时，通过外周化学感受器对呼吸中枢的兴奋作用，可以对抗其对中枢的直接抑制作用，使呼吸中枢兴奋，呼吸加强。中枢化学感受器的生理性刺激是脑脊液和局部细胞外液中的H[SBjia.gif]。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "直接兴奋延髓吸气神经元"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "直接兴奋脑桥呼吸调整中枢"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "外周化学感受器所实现的反射性效应"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "刺激中枢化学感受器而兴奋呼吸中枢"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "直接刺激呼吸中枢的脊髓"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014746,
+                            "ATestID": 43014746,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d7b3989ce70107b7d7994907346348a6bd9d7aa47a0c2938f7dd9fd1912d4ec9a3d41e60839d9b064a6e1f4d45e83db9",
+                            "Explain": "由于红细胞内含有较高浓度的碳酸酐酶，从组织扩散入血的大部分CO[XB2.gif]在红细胞内生成H[XB2.gif]CO[XB3.gif]，H[XB2.gif]CO[XB3.gif]又解离成HCO[SBjianXB3.gif]和H[SBjia.gif]。HCO[SBjianXB3.gif]在红细胞内与K[SBjia.gif]结合成KHCO[XB3.gif]。随着红细胞内HCO[SBjianXB3.gif]生成的增加，可不断向血浆扩散，与血浆中Na[SBjia.gif]结合成NaHCO[XB2.gif]，同时血浆中Cl[SBjian.gif]向红细胞内扩散以交换HCO[SBjianXB3.gif]。在肺部，由于肺泡气PCO[XB2.gif]低于静脉血，上述反应向相反方向进行，以HCO[SBjianXB3.gif]形式运输的CO[XB2.gif]逸出，扩散到肺泡被呼出体外。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "和水结合形成碳酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "形成碳酸氢盐"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "形成一氧化碳血红蛋白"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "形成氨基甲酸血红蛋白"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "物理溶解"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014748,
+                            "ATestID": 43014748,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "90a7fb058074fc6d2eec6450529436dcf18614021357b5aca600f5c6aaef95b8",
+                            "Explain": "呼吸肌的舒缩是肺通气的原动力，它引起胸廓的张缩，由于胸膜腔和肺的结构功能特征，肺便随胸廓的张缩而张缩，肺容积的这种变化又造成肺内压和大气压之间的压力差，此压力差直接推动气体进出肺。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺内压与胸内压之差"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胸内压与跨壁压之差"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "大气压与肺内压之差"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "大气压与胸内压之差"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "大气压与跨壁压之差"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014749,
+                            "ATestID": 43014749,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "66539ced0259eb992cea5f1371937ee52eca623bf2b43eccb8ad38f0e8bbbf226b465d5efeee3fbd",
+                            "Explain": "残气量与肺活量之和等于肺总量。",
+                            "TestPoint": "肺容积和肺容量",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "深吸气量"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肺总量"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "用力呼气量"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "功能残气量"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "补吸气量"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014750,
+                            "ATestID": 43014750,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f70ad2d79aee12649edd0c79c9c648c68c7754ab8c3661d090f1b261f5d796b62b9131a04757e9e7c3d2f6cc9075659fd8cd16e15eab3d4fa89b4b07b5bef4ec",
+                            "Explain": "平静吸气时，参与呼吸动作的最主要的肌肉是膈肌和肋间外肌。",
+                            "TestPoint": "呼吸系统",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "膈肌和肋间内肌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "膈肌和斜角肌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "膈肌和肋间外肌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "斜角肌和胸锁乳突肌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "膈肌和胸锁乳突肌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014751,
+                            "ATestID": 43014751,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "daf5df901412406b6892a3940a1742d2cfa3bd79c087a87cbe7d67d9191ba83cbb9178f89778209f5bbaeace08d54d10c8820aee3d7269b46d4b0115ef3fe7e6",
+                            "Explain": "肺泡表面活性物质是由肺泡Ⅱ型细胞分泌的一种脂蛋白，主要成分是二棕榈酰卵磷脂（也叫二软脂酰卵磷脂），分布于肺泡液体分子层的表面，即在液一气界面之间。肺泡表面活性物质的生理意义：①降低肺泡表面张力；②增加肺的顺应性；③维持大、小肺泡容积的相对稳定；④防止肺不张；⑤防止肺水肿。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "增加肺泡表面张力"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "维持肺的回缩力"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "增大大肺泡的容积"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "减小小肺泡的压力"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "有助于维持肺泡的稳定性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014752,
+                            "ATestID": 43014752,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1c10258b009bffc1fc5888f23c8f3a0ffe164c81a533d822bd680c38b31d414308fdfac048d35b21a0751b4b66b27f08ba30454cee0e540d1821ca82497b85bffdadf8d92b51f58c210842406b1ceb40d6ab4ceb914187092638cff2406d516ec4e56c218147b288",
+                            "Explain": "特发性肺纤维化是一种病因不明、以弥漫性肺泡炎和肺泡结构紊乱最终导致肺间质纤维化为特征的疾病。主要指标为肺功能表现异常，包括限制性通气功能障碍【肺活量减少，而FEV[XB1.gif]/FVC正常或增加】和（或）气体交换障碍【静态/运动时P（A-a）O[XB2.gif]增加或DLCO降低】；胸部HRCT表现为双下肺和胸膜下分布为主的网状改变或伴蜂窝肺，可伴有极少量磨玻璃样阴影；经纤维支气管镜肺活检或支气管肺泡灌洗液检查不支持其他疾病的诊断。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "RV降低"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "VC减少"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "FEV[XB1.gif]减少"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "FVC减少"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "NRVV减少"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014753,
+                            "ATestID": 43014753,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "0fbbe3da90b3763ed9487fc0a186a038c45cc2032487060e96b829740dcc2ccd6abdddcb99fd4c7e212a032914868932e808b24290cfeebd9dc9e4c9910625e3",
+                            "Explain": "Ⅰ型呼衰因通气/血流比例失调；Ⅱ型呼吸衰竭因单纯肺泡通气不足，肺泡通气量下降。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺泡通气量下降"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "通气/血流比例失调"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "弥散性功能障碍"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺内分流"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "氧耗量增加"
+                                }
+                            ],
+                            "AllTestID": 35000191,
+                            "BTestID": 35000049,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000049,
+                                    "Title": "0fbbe3da90b3763ed9487fc0a186a038c45cc2032487060e96b829740dcc2ccd6abdddcb99fd4c7e212a032914868932e808b24290cfeebd9dc9e4c9910625e3",
+                                    "Explain": "Ⅰ型呼衰因通气/血流比例失调；Ⅱ型呼吸衰竭因单纯肺泡通气不足，肺泡通气量下降。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000050,
+                                    "Title": "0fbbe3da90b3763ed9487fc0a186a038c45cc2032487060ee7f8296aeac7298644b0f70dd1d4174c580c06913d93baf05ab8cfa1fd564169fee48fb1e6ba4233",
+                                    "Explain": "Ⅰ型呼衰因通气/血流比例失调；Ⅱ型呼吸衰竭因单纯肺泡通气不足，肺泡通气量下降。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "4d2916e9ee9d69b7ab028d0ff0a3882d27f0a51d60a748d8a7f1834435a42a3ae30a9ca334e11a49400fcdfcd77c182a",
+                            "Explain": "呼吸过程中停留在呼吸道中的气体并不参与气体交换，这部分气体称为解剖无效腔。同时进入肺泡的气体也可因血液在肺内的分布不均而未能进行气体交换，称为肺泡无效腔。二者统称为生理无效腔。因此在正常潮气量时减去生理无效腔的体积才是有效通气量，故1题选E。肺活量反映了一次呼吸时，肺所能达到的最大通气功能。肺活量在测定时不限制呼气时间，用力肺活量是指尽力吸气后，尽力尽快呼气时，在一定时间内所能呼出的最大气量，它不仅反映肺活量容量的大小，而且反映了呼吸所遇到的阻力变化，是评价肺通气功能的较好指标，故2题选B。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肺活量"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "用力肺活量"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "每分通气量"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肺总量"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺泡通气量"
+                                }
+                            ],
+                            "AllTestID": 41000161,
+                            "BTestID": 41000050,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 99,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000050,
+                                    "Title": "4d2916e9ee9d69b7ab028d0ff0a3882d27f0a51d60a748d8a7f1834435a42a3ae30a9ca334e11a49400fcdfcd77c182a",
+                                    "Explain": "呼吸过程中停留在呼吸道中的气体并不参与气体交换，这部分气体称为解剖无效腔。同时进入肺泡的气体也可因血液在肺内的分布不均而未能进行气体交换，称为肺泡无效腔。二者统称为生理无效腔。因此在正常潮气量时减去生理无效腔的体积才是有效通气量，故1题选E。肺活量反映了一次呼吸时，肺所能达到的最大通气功能。肺活量在测定时不限制呼气时间，用力肺活量是指尽力吸气后，尽力尽快呼气时，在一定时间内所能呼出的最大气量，它不仅反映肺活量容量的大小，而且反映了呼吸所遇到的阻力变化，是评价肺通气功能的较好指标，故2题选B。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000051,
+                                    "Title": "d56ffa5c6f4c5418c4ba5e8d726c32119fd42f25180920b2b7a256594a55eb989afc3848286da579",
+                                    "Explain": "呼吸过程中停留在呼吸道中的气体并不参与气体交换，这部分气体称为解剖无效腔。同时进入肺泡的气体也可因血液在肺内的分布不均而未能进行气体交换，称为肺泡无效腔。二者统称为生理无效腔。因此在正常潮气量时减去生理无效腔的体积才是有效通气量，故1题选E。肺活量反映了一次呼吸时，肺所能达到的最大通气功能。肺活量在测定时不限制呼气时间，用力肺活量是指尽力吸气后，尽力尽快呼气时，在一定时间内所能呼出的最大气量，它不仅反映肺活量容量的大小，而且反映了呼吸所遇到的阻力变化，是评价肺通气功能的较好指标，故2题选B。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000150,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000150,
+                        "ChildTableID": -1,
+                        "UserCount": 4624,
+                        "RightCount": 2126,
+                        "FavCount": 104,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000150,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 41000154,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000154,
+                        "ChildTableID": -1,
+                        "UserCount": 4080,
+                        "RightCount": 3063,
+                        "FavCount": 42,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000154,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 41000155,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000155,
+                        "ChildTableID": -1,
+                        "UserCount": 3905,
+                        "RightCount": 3133,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000155,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 41000158,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000158,
+                        "ChildTableID": -1,
+                        "UserCount": 4133,
+                        "RightCount": 2582,
+                        "FavCount": 121,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000158,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 41000160,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000160,
+                        "ChildTableID": -1,
+                        "UserCount": 3772,
+                        "RightCount": 2685,
+                        "FavCount": 51,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000160,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43000188,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000188,
+                        "ChildTableID": -1,
+                        "UserCount": 3846,
+                        "RightCount": 2292,
+                        "FavCount": 80,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000188,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 43000189,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000189,
+                        "ChildTableID": -1,
+                        "UserCount": 3687,
+                        "RightCount": 2324,
+                        "FavCount": 110,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 68
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000189,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 68
+            },
+            {
+                "AllTestID": 43000190,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000190,
+                        "ChildTableID": -1,
+                        "UserCount": 3556,
+                        "RightCount": 2396,
+                        "FavCount": 69,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000190,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 43000191,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000191,
+                        "ChildTableID": -1,
+                        "UserCount": 3333,
+                        "RightCount": 2911,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000191,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43000192,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000192,
+                        "ChildTableID": -1,
+                        "UserCount": 3487,
+                        "RightCount": 2230,
+                        "FavCount": 78,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000192,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43000193,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000193,
+                        "ChildTableID": -1,
+                        "UserCount": 3446,
+                        "RightCount": 1784,
+                        "FavCount": 97,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000193,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43000194,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000194,
+                        "ChildTableID": -1,
+                        "UserCount": 3640,
+                        "RightCount": 1453,
+                        "FavCount": 118,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000194,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000195,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000195,
+                        "ChildTableID": -1,
+                        "UserCount": 3281,
+                        "RightCount": 2046,
+                        "FavCount": 83,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 95
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000195,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 95
+            },
+            {
+                "AllTestID": 43000196,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000196,
+                        "ChildTableID": -1,
+                        "UserCount": 3357,
+                        "RightCount": 2219,
+                        "FavCount": 67,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000196,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43014722,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014722,
+                        "ChildTableID": -1,
+                        "UserCount": 3045,
+                        "RightCount": 2375,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014722,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43014727,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014727,
+                        "ChildTableID": -1,
+                        "UserCount": 3207,
+                        "RightCount": 1902,
+                        "FavCount": 71,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014727,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43014728,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014728,
+                        "ChildTableID": -1,
+                        "UserCount": 2902,
+                        "RightCount": 2478,
+                        "FavCount": 26,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014728,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014729,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014729,
+                        "ChildTableID": -1,
+                        "UserCount": 3206,
+                        "RightCount": 2229,
+                        "FavCount": 90,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014729,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43014731,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014731,
+                        "ChildTableID": -1,
+                        "UserCount": 3025,
+                        "RightCount": 2130,
+                        "FavCount": 47,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014731,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014732,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014732,
+                        "ChildTableID": -1,
+                        "UserCount": 2910,
+                        "RightCount": 2231,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014732,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43014733,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014733,
+                        "ChildTableID": -1,
+                        "UserCount": 3055,
+                        "RightCount": 1904,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014733,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014734,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014734,
+                        "ChildTableID": -1,
+                        "UserCount": 2795,
+                        "RightCount": 2231,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014734,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014738,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014738,
+                        "ChildTableID": -1,
+                        "UserCount": 2857,
+                        "RightCount": 2010,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014738,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014739,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014739,
+                        "ChildTableID": -1,
+                        "UserCount": 2833,
+                        "RightCount": 1963,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014739,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43014741,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014741,
+                        "ChildTableID": -1,
+                        "UserCount": 2711,
+                        "RightCount": 2189,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014741,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014743,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014743,
+                        "ChildTableID": -1,
+                        "UserCount": 2963,
+                        "RightCount": 1589,
+                        "FavCount": 92,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014743,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43014744,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014744,
+                        "ChildTableID": -1,
+                        "UserCount": 2771,
+                        "RightCount": 2085,
+                        "FavCount": 59,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014744,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014746,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014746,
+                        "ChildTableID": -1,
+                        "UserCount": 2604,
+                        "RightCount": 2266,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014746,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014748,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014748,
+                        "ChildTableID": -1,
+                        "UserCount": 3034,
+                        "RightCount": 1967,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014748,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43014749,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014749,
+                        "ChildTableID": -1,
+                        "UserCount": 2643,
+                        "RightCount": 2065,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014749,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43014750,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014750,
+                        "ChildTableID": -1,
+                        "UserCount": 2808,
+                        "RightCount": 2236,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014750,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014751,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014751,
+                        "ChildTableID": -1,
+                        "UserCount": 2737,
+                        "RightCount": 1766,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014751,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43014752,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014752,
+                        "ChildTableID": -1,
+                        "UserCount": 2874,
+                        "RightCount": 2105,
+                        "FavCount": 56,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014752,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43014753,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014753,
+                        "ChildTableID": -1,
+                        "UserCount": 2835,
+                        "RightCount": 1215,
+                        "FavCount": 139,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014753,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 35000191,
+                "ChildTableID": 35000049,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000191,
+                        "ChildTableID": 35000049,
+                        "UserCount": 3531,
+                        "RightCount": 1929,
+                        "FavCount": 140,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000191,
+                    "ChildTableID": 35000049
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 35000191,
+                "ChildTableID": 35000050,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000191,
+                        "ChildTableID": 35000050,
+                        "UserCount": 3210,
+                        "RightCount": 2423,
+                        "FavCount": 89,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000191,
+                    "ChildTableID": 35000050
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 41000161,
+                "ChildTableID": 41000050,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000161,
+                        "ChildTableID": 41000050,
+                        "UserCount": 2873,
+                        "RightCount": 2297,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000161,
+                    "ChildTableID": 41000050
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41000161,
+                "ChildTableID": 41000051,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000161,
+                        "ChildTableID": 41000051,
+                        "UserCount": 3172,
+                        "RightCount": 1838,
+                        "FavCount": 73,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000161,
+                    "ChildTableID": 41000051
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

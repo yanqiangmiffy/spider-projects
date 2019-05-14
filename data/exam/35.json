@@ -1,0 +1,1947 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:55:52 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 23,
+                    "TestItems": [
+                        {
+                            "Title": "58de41e49958b5ca87bd9c39d92db6356460172fb47675262f6c236c738ce4890d6f4d966e076ad011145ea3e3964e81",
+                            "Explain": "核酸根据组成的不同，分为核糖核酸(RNA)和脱氧核糖核酸(DNA)两大类，DNA和RNA对紫外线的吸收光谱范围为240～280nm，对波长260nm的光吸收达到最大值。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "240nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "260nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "280nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "300nm"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "320nm"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000011,
+                            "ATestID": 41000011,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a02e9f9e85c3a5cc89c0d9b8920babc02d1267c02f8ebc9da1e4231a344810f4",
+                            "Explain": "DNA碱基组成有一定的规律，即DNA分子中A的摩尔数与T相等，C与G相等，称Chargaff定律。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "(［A］+［T］)/(［C］+［G］)=1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "［A］+［T］=［C］+［G］"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "［A］=［T］、［C］=［G］"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "［A］=［C］、［T］=［G］"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "［A］=［G］、［T］=［C］"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000012,
+                            "ATestID": 41000012,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5515fbe73205665204378e70a2df26c0a8a9a9a451bec625785ed8c763d04eac4be8f345f55dd807d32739ff7f2edd09",
+                            "Explain": "每一个tRNA都有一个由7～9个核苷酸组成的反密码环，居中的3个核苷酸构成了一个反密码子，这个反密码子通过碱基互补的关系与mRNA上的密码子相互识别。反密码子5′-UAG-3′可以与密码子5′-CUA-3′碱基互补配对。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "GTC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "ATC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "AUC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "CUA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CTA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000013,
+                            "ATestID": 41000013,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "00ef39072268058b22712c8f05cec75615ba87b69d5dd111ae684155a731999cb097016e3cff375cbbdd494695a2122ba66efca6543535f1d76356e75ae40096e44ebd879189d90142b9da4a16c2cb3334bb7b28d13f7da190f83ac7467165be3ad9448542c8c77e9c3114cae08ea14c743cb0e4428f5e2953350b15a95035caede72fd36d05f434",
+                            "Explain": "DNA损伤时，修复酶基因就会在细菌内被诱导激活，使修复酶反应性增加，这种现象称为诱导，D正确。DNA损伤为各种因素对DNA分子造成的破坏，A不正确。DNA修复是细胞对DNA受损伤后的一种反应，这种反应可能使DNA结构恢复原样，能重新执行它原来的功能，B不正确。DNA表达指基因片段(DNA)转录成mRNA及mRNA翻译成蛋白质的过程，C不正确。与诱导相反，如果基因对环境信号应答时被抑制，这种基因是可阻遏的，E不正确。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "DNA损伤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "DNA修复"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "DNA表达"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "诱导"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "阻遏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000014,
+                            "ATestID": 41000014,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "07ae35a1a8db1f11af257b659546a20b1a669aedb3b3ddb288cdad3887f8c235c222466dc8b92e14",
+                            "Explain": "多聚核苷酸就是指DNA或RNA，DNA-般是双螺旋结构，由四种脱氧核糖核酸组成，每种脱氧核糖核酸由碱基、戊糖、磷酸组成。RNA-般为单链，由核糖核酸组成，每种核糖核酸也是由碱基、戊糖、磷酸组成，只是它的五碳糖在2号位多一个氧原子。两者的骨架均为戊糖和磷酸，D正确。其他选项不符合题意，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "碱基与戊糖",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "碱基与磷酸",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "碱基与碱基",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "戊糖与磷酸",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "戊糖与戊糖",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000015,
+                            "ATestID": 41000015,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。",
+                            "OperateTime": "2017年8月23日"
+                        },
+                        {
+                            "Title": "1d679925f0c610c124ff95a60fe15ac5e7878cfbbaed7a3914b09ee44bd032c72f18b1b9dbc396be",
+                            "Explain": "核酸包括DNA和RNA，DNA有4种不同碱基。根据它们英文名称的首字母分别称之为A(腺嘌呤)、T(胸腺嘧啶)、G(鸟嘌呤)、C(胞嘧啶)。加上U(尿嘧啶)，是RNA的主要嘧啶碱。共有5种，D正确，其他选项皆错，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "2种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "3种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "4种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "5种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "6种"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000016,
+                            "ATestID": 41000016,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699afb692e292f90116b1522dc2802577ced0e2541e18f846b035b31540215e00099fc8d6e7af90a0e273364a13c9b18693a",
+                            "Explain": "DNA的碱基组成具有物种特异性，即四种碱基(A、C、T、G)的比例在同物种不同个体间是一致的，但在不同物种间则有差异。E正确。B、C、D皆不正确。DNA的四种碱基配对规律，A-T，C-G。A不正确。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "DNA分子中A与T的含量不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "同一个体成年期与少儿期碱基组成不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "同一个体在不同营养状态下碱基组成不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "同一个体不同组织碱基组成不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "不同生物来源的DNA碱基组成不同"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000017,
+                            "ATestID": 41000017,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "374746796cb9a554d4d7ec9817cf8f6cf921ce4ccf51a8d6a027d711d62f36337ab2f5445df1a9bc7ed4a0a58dafb49870bf6bea31f45c48",
+                            "Explain": "DNA链中脱氧核苷酸（碱基）的排列顺序，称DNA的一级结构。核苷酸之间由前一核苷酸的3′-OH与下一位核苷酸的5′-P形成3′，5′-磷酸二酯键。DNA的二级结构是双螺旋结构，两条链呈反向平行，碱基互补配对，同一方向上，一条链的走向是5′→3′，另一条链的走向是3′→5′。D说法错误，答案选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "DNA双螺旋以右手螺旋的方式围绕同一轴有规律地盘旋"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "DNA双螺旋由两条以脱氧核糖-磷酸作骨架的双链组成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "DNA双螺旋是核酸二级结构的重要形式"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "两股单链从5′至3′端走向的空间排列相同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "两碱基之间的氢键是维持双螺旋横向稳定的主要化学键"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000018,
+                            "ATestID": 41000018,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d4f9fb4741efefd541c9017e64bee977851c51296c4c877d8c609d57525b45762c5126b88d1ad5b10377205586148a5f",
+                            "Explain": "根据题意应分析DNA双螺旋结构，影响DNA双螺旋结构稳定性的主要因素有：碱基堆积力、氢键、离子键、范德华力。DNA双螺旋结构在生理条件下是很稳定的，维持这种稳定性的主要因素包括两条DNA链之间碱基配对形成的氢键和碱基堆积力。结合选项分析，本题选B。",
+                            "TestPoint": "DNA双螺旋结构",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "分子中的3'，5'-磷酸二酯键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "碱基对之间的氢键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肽键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "盐键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "主链骨架上磷酸之间的吸引力"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000017,
+                            "ATestID": 43000017,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f08312c92942e3b69b2e426d6cd42173b9a616b387ea185065aaf27371ed405c98570a9e3a80f97fd0ad9cb6e9b02f1704e79b5fb19fb0b1f376d004d5dde2c9",
+                            "Explain": "戊糖是核苷酸的重要组分。脱氧核糖核苷酸中的戊糖是β-D-2脱氧核糖，核糖核苷酸中的戊糖是β-D-核糖。核糖存在于RNA中，脱氧核糖存在于DNA中。戊糖的结构差异使得DNA分子较RNA分子在化学上更稳定。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "两者所含戊糖不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "两者所含碱基不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "两者所含核苷酸不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "两者核苷和磷酸之间的结合键不同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "两者所含核酸不同"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000018,
+                            "ATestID": 43000018,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a11c36a63083c22f031df8022d6897760854343cb5d1859e83915c32b064eea6ed547f89ab58a2692bfbc2523e945ed7bb6ca663f597c412801697622f939dd1",
+                            "Explain": "生物体内多数核苷酸都是5'核苷酸，即磷酸基团位于核糖的第5位碳原子C-5'上。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "C-2'上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "C-3'上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "C-4'上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "C-5'上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "C-6'上"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000019,
+                            "ATestID": 43000019,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3144d603da49cbaf60ad88ee849ad2bb79a2573c96739ed8cbc32a6334ba22255924a1215a67d10b0990c1a357871d0cf778637d764917145e9b89d5b0caaf50f102b7046a0855e0347fa847f921c7b9",
+                            "Explain": "DNA和RNA对遗传信息的携带和传递，是依靠碱基排列顺序变化而实现的。碱基排列顺序的不同赋予它们巨大的信息编码潜力。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "核糖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "磷酸基团"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "磷酸戊糖骨架"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "碱基序列"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脱氧核糖序列"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000020,
+                            "ATestID": 43000020,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a922dabf57faf49ca9f2baf09349f346d5d4876373405b3b06a5ae191bee29b3f63b",
+                            "Explain": "tRNA含有多种稀有碱基。稀有碱基是指除A、G、C、U外的一些碱基，包括双氢尿嘧啶(DHU)、假尿嘧啶核苷和甲基化的嘌呤等。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "mRNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "tRNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "rRNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "hnRNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "μRNA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000021,
+                            "ATestID": 43000021,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "625947d1911eb7f8bd29f47481c67466635f682fd88cf7c6e537c5237d5ae0f9d5265d75bc4a0efb2dc69cfc7b37334a",
+                            "Explain": "①DNA是反平行的互补双链结构，碱基位于内侧，两条碱基间严格按A=T，G；C配对存在，因此A+G与C+T的比值为1。由脱氧核糖和磷酸基团组成的亲水性骨架位于双链的外侧。一条链的走向为5'→3'，另一条为3'→5'。②DNA为右手螺旋结构。螺旋直径2.37nm，螺距3.54nm。每一螺旋有10.5个碱基对，每个碱基对之间的相对旋转角度为36°。每两个相邻的碱基对平面之间的垂直距离为0.34nm。③横向稳定性靠双链碱基间的氢键维系；纵向稳定性靠碱基平面间的疏水性堆积力维系，尤以碱基堆积力最重要。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脱氧核糖核酸和磷酸骨架位于双链外侧"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "两股链平行，走向相同"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "每个碱基对之间的相对旋转角度为360°"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "螺旋的螺距为0.54nm，每周含3.6对碱基"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "两股螺旋链相同"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000022,
+                            "ATestID": 43000022,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b8dfa65e4df02104c747022b226c6f2314964f313a7aae984a8df696889a16a1",
+                            "Explain": "核酸包括DNA和RNA两类，核酸的基本组成单位是核苷酸。DNA和RNA都是由核苷酸组成，核苷酸在核酸长链上的排列顺序，就是核酸的一级结构。",
+                            "TestPoint": "DNA与RNA",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "多聚A结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "核小体结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "双螺旋结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "核苷酸排列顺序"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "多聚P结构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000023,
+                            "ATestID": 43000023,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8b27edb8d344bf10722b2b6f61a796b859eba0854051e83c74c1aa826b1651d0",
+                            "Explain": "DNA的一级结构是指碱基排列顺序，二级结构是指DNA的双螺旋结构，三级结构是指DNA的超螺旋结构。α-螺旋和β-折叠是蛋白质的二级结构。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "单螺旋结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "β-折叠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "超螺旋结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "α-螺旋"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "双螺旋结构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000024,
+                            "ATestID": 43000024,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "62eb041d10c6aebbd4215aa4f6176b043398e27ce2de6f9c3a8c78ccd6848aaa04d90a3d381b9785268d9cc0274c6431f60ab94793fe704a64fd78288ec299ae",
+                            "Explain": "核小体是DNA在核内形成致密结构的第一层次折叠，使得DNA的体积压缩了6～7倍。第二层次折叠是核小体染色质细丝进一步盘绕成中空状螺线管。第三层次折叠是染色质纤维空管进一步形成超螺线管。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "形成染色体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "形成中空状螺线管"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "形成超螺线管"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "是核小体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均正确"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000025,
+                            "ATestID": 43000025,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f08312c92942e3b601b644a48a11579a1c851081ef4d86af0bba5d7f910c2df8",
+                            "Explain": "DNA的二级结构特点是双链双螺旋、两条链反向平行、碱基向内互补(A-T，G-C)。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "U=T"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "T=G"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "A=C"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "C+G=A+T"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "A+C=G+T"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000026,
+                            "ATestID": 43000026,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ee5f6245de1b10ef254233fe30269c23c78b8b6b36581fb269bd497c6aaeb5c35fceafb5c1b94accc27afc2dee03a497",
+                            "Explain": "无论哪种单核苷酸（组成核酸的单位），它的磷含量是恒定的，而C、H、O和N却含量不一。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "氧"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "氮"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "镁"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "碳"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "磷"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014447,
+                            "ATestID": 43014447,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c56c84843598e8479e78725efd1249829e9a41027cc244e34801b0c2e5e4f78ecc650f1d4e119836ee47bae8216e9542ed9159cad54abe71",
+                            "Explain": "DNA和RNA中含有的嘌呤碱主要为腺嘌呤（A）和鸟嘌呤（G）；组成DNA的嘧啶碱主要有胸腺嘧啶（T）和胞嘧啶（C），RNA分子中主要为尿嘧啶（U）及胞嘧啶。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1种"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "3种"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "4种"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "5种"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "7种"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014448,
+                            "ATestID": 43014448,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "768edc4f051c77fd1e73852c1f707edb3a54bc4fa36159f0",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "dADP、dGDP、dCDP、dTDP"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "dAMP、dGMP、dCMP、dTMP"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "dATP、dGTP、dCTP、dTTP"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "AMP、GMP、CMP、dTMP"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "ADP、GDP、CDP、TDP"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014450,
+                            "ATestID": 43014450,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月12日",
+                            "OldTestJson": "{\"Title\":\"合成DNA的原料是\",\"Explain\":\"脱氧核苷酸在符号前面再加个\\\"d\\\"以示区别，如dTMP、dTDP和dTTP。4种三磷酸核苷（NTP，其中N代表A、G、C、U）和4种三磷酸脱氧核苷（dNTP，其中N代表A、G、C、T）是合成RNA和DNA的原料。\",\"TestPoint\":\"\",\"Answer\":\"C\",\"Difficulty\":\"\",\"SelectedItems\":[{\"ItemName\":\"A\",\"Content\":\"dADP、dGDP、dCDP、dTDP\"},{\"ItemName\":\"B\",\"Content\":\"dAMP、dGMP、dCMP、dTMP\"},{\"ItemName\":\"C\",\"Content\":\"dATP、dGTP、dCTP、dTTP\"},{\"ItemName\":\"D\",\"Content\":\"AMP、GMP、CMP、dTMP\"},{\"ItemName\":\"E\",\"Content\":\"ADP、GDP、CDP、TDP\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "e39460aca8f14211660f2866d8a79414aab9b2d1a84eddc53f3c2c363d22085e6a24cb83fbaeb0c4d9d35b3ff9ec0c918cb769b3387a1c4a21b41bd203b31195",
+                            "Explain": "胞质中有mRNA、tRNA和rRNA。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "tRNA分子量比mRNA和rRNA小"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "主要有mRNA、tRNA和rRNA三类"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胞质中只有mRNA"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "rRNA可与蛋白质结合"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "RNA并不全是单链结构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014451,
+                            "ATestID": 43014451,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8f6196db3d1a547560272e6c3c5650edfb2593866b69a5bd21dde9a0da49aed76adb140df471cdeb9e58264b627444c9",
+                            "Explain": "tRNA的3[SBDY.gif]端是CCA-OH这一序列，是tRNA结合和转运任何氨基酸而生成氨基酰-tRNA时所必不可少的，激活的氨基酸连接于此3[SBDY.gif]末端羟基上。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "提供-OH基与糖类结合"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "剪接修饰作用"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "与RNA结合的组分"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "提供-OH基与氨基酸结合"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "辨认mRNA上的密码子"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014457,
+                            "ATestID": 43014457,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "0835e0f3aca29507827dc3e8fd42ea7abc73ab840253b605e430e87f2da76730",
+                            "Explain": "mRNA的加工修饰包括5′端形成帽子结构、3′端加polyA、剪接除去内含子和甲基化。在5′端，成熟的真核生物mRNA有GpppmG结构，称为甲基鸟苷帽子。故1题选A。所有的tRNA均有类似的三叶草结构，此结构的共同特点为3′端含CCA-OH序列。故2题选E。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "GpppmG结构"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "多聚A结构"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "hnRNA"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "假尿嘧啶核苷"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CCA-OH结构"
+                                }
+                            ],
+                            "AllTestID": 41000019,
+                            "BTestID": 41000003,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000003,
+                                    "Title": "0835e0f3aca29507827dc3e8fd42ea7abc73ab840253b605e430e87f2da76730",
+                                    "Explain": "mRNA的加工修饰包括5′端形成帽子结构、3′端加polyA、剪接除去内含子和甲基化。在5′端，成熟的真核生物mRNA有GpppmG结构，称为甲基鸟苷帽子。故1题选A。所有的tRNA均有类似的三叶草结构，此结构的共同特点为3′端含CCA-OH序列。故2题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000004,
+                                    "Title": "a209d317ae6f655db65d94931754cc393648a136cb1e42a0",
+                                    "Explain": "mRNA的加工修饰包括5′端形成帽子结构、3′端加polyA、剪接除去内含子和甲基化。在5′端，成熟的真核生物mRNA有GpppmG结构，称为甲基鸟苷帽子。故1题选A。所有的tRNA均有类似的三叶草结构，此结构的共同特点为3′端含CCA-OH序列。故2题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "3144d603da49cbafd40ec70567a9aa47c9d959b51a1b72ed2b031534ea52335bcb80d9c8f72d5487c72eedf738aeb225eee479c01944b883",
+                            "Explain": "核酸分子中核苷酸之间的连接方式是3'，5'-磷酸二酯键。横向稳定性靠双链碱基间的氢键维系。纵向稳定性靠碱基平面间的疏水性堆积力维系，尤以碱基堆积力最重要。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "糖苷键"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "疏水堆积力"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "氢键"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "β-折叠"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "3'，5'-磷酸二酯键"
+                                }
+                            ],
+                            "AllTestID": 43000027,
+                            "BTestID": 43000004,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 35,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000004,
+                                    "Title": "3144d603da49cbafd40ec70567a9aa47c9d959b51a1b72ed2b031534ea52335bcb80d9c8f72d5487c72eedf738aeb225eee479c01944b883",
+                                    "Explain": "核酸分子中核苷酸之间的连接方式是3'，5'-磷酸二酯键。横向稳定性靠双链碱基间的氢键维系。纵向稳定性靠碱基平面间的疏水性堆积力维系，尤以碱基堆积力最重要。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000005,
+                                    "Title": "d4f9fb4741efefd5a390338165089e7c8407aca44018961a100110f5429fd7dad78a3916fce06b74988073607b8bb53b",
+                                    "Explain": "核酸分子中核苷酸之间的连接方式是3'，5'-磷酸二酯键。横向稳定性靠双链碱基间的氢键维系。纵向稳定性靠碱基平面间的疏水性堆积力维系，尤以碱基堆积力最重要。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000006,
+                                    "Title": "d4f9fb4741efefd5a390338165089e7c22a241cdd3d6fd854b6f307a05d1544da77b44d66fe9eaee7da3bc6600ed4415",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000011,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000011,
+                        "ChildTableID": -1,
+                        "UserCount": 8918,
+                        "RightCount": 6920,
+                        "FavCount": 77,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 132
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000011,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 132
+            },
+            {
+                "AllTestID": 41000012,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000012,
+                        "ChildTableID": -1,
+                        "UserCount": 8736,
+                        "RightCount": 6282,
+                        "FavCount": 91,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 146
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000012,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 146
+            },
+            {
+                "AllTestID": 41000013,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 41000013,
+                            "ChildTableID": -1,
+                            "Answer": "E",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000013,
+                        "ChildTableID": -1,
+                        "UserCount": 9434,
+                        "RightCount": 4259,
+                        "FavCount": 347,
+                        "DiscussionCount": 10,
+                        "ExplainCount": 2,
+                        "ConcernCount": 147
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000013,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 10,
+                "ExplainCount": 2,
+                "ConcernCount": 147
+            },
+            {
+                "AllTestID": 41000014,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000014,
+                        "ChildTableID": -1,
+                        "UserCount": 9105,
+                        "RightCount": 4120,
+                        "FavCount": 281,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 1,
+                        "ConcernCount": 52
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000014,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 1,
+                "ConcernCount": 52
+            },
+            {
+                "AllTestID": 41000015,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000015,
+                        "ChildTableID": -1,
+                        "UserCount": 8589,
+                        "RightCount": 4767,
+                        "FavCount": 201,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 1,
+                        "ConcernCount": 101
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000015,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 1,
+                "ConcernCount": 101
+            },
+            {
+                "AllTestID": 41000016,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000016,
+                        "ChildTableID": -1,
+                        "UserCount": 7225,
+                        "RightCount": 4838,
+                        "FavCount": 99,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 46
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000016,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 46
+            },
+            {
+                "AllTestID": 41000017,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000017,
+                        "ChildTableID": -1,
+                        "UserCount": 6847,
+                        "RightCount": 5272,
+                        "FavCount": 57,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 43
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000017,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 43
+            },
+            {
+                "AllTestID": 41000018,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000018,
+                        "ChildTableID": -1,
+                        "UserCount": 6962,
+                        "RightCount": 4590,
+                        "FavCount": 132,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 46
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000018,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 46
+            },
+            {
+                "AllTestID": 43000017,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000017,
+                        "ChildTableID": -1,
+                        "UserCount": 6912,
+                        "RightCount": 4877,
+                        "FavCount": 90,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000017,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43000018,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000018,
+                        "ChildTableID": -1,
+                        "UserCount": 7585,
+                        "RightCount": 2636,
+                        "FavCount": 304,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 54
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000018,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 54
+            },
+            {
+                "AllTestID": 43000019,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000019,
+                        "ChildTableID": -1,
+                        "UserCount": 6753,
+                        "RightCount": 4157,
+                        "FavCount": 197,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 102
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000019,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 102
+            },
+            {
+                "AllTestID": 43000020,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000020,
+                        "ChildTableID": -1,
+                        "UserCount": 6721,
+                        "RightCount": 4715,
+                        "FavCount": 82,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000020,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43000021,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000021,
+                        "ChildTableID": -1,
+                        "UserCount": 6959,
+                        "RightCount": 3763,
+                        "FavCount": 201,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 66
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000021,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 66
+            },
+            {
+                "AllTestID": 43000022,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000022,
+                        "ChildTableID": -1,
+                        "UserCount": 7001,
+                        "RightCount": 3336,
+                        "FavCount": 224,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000022,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 43000023,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000023,
+                        "ChildTableID": -1,
+                        "UserCount": 6162,
+                        "RightCount": 5350,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000023,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43000024,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000024,
+                        "ChildTableID": -1,
+                        "UserCount": 6421,
+                        "RightCount": 5042,
+                        "FavCount": 87,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000024,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43000025,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000025,
+                        "ChildTableID": -1,
+                        "UserCount": 6836,
+                        "RightCount": 3617,
+                        "FavCount": 259,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 53
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000025,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 53
+            },
+            {
+                "AllTestID": 43000026,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000026,
+                        "ChildTableID": -1,
+                        "UserCount": 6413,
+                        "RightCount": 4875,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000026,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43014447,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014447,
+                        "ChildTableID": -1,
+                        "UserCount": 6437,
+                        "RightCount": 3607,
+                        "FavCount": 173,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014447,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43014448,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014448,
+                        "ChildTableID": -1,
+                        "UserCount": 5781,
+                        "RightCount": 5242,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014448,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014450,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014450,
+                        "ChildTableID": -1,
+                        "UserCount": 6421,
+                        "RightCount": 3447,
+                        "FavCount": 193,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 60
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014450,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 60
+            },
+            {
+                "AllTestID": 43014451,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014451,
+                        "ChildTableID": -1,
+                        "UserCount": 5904,
+                        "RightCount": 4711,
+                        "FavCount": 62,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014451,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43014457,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014457,
+                        "ChildTableID": -1,
+                        "UserCount": 6142,
+                        "RightCount": 3731,
+                        "FavCount": 160,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 37
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014457,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 37
+            },
+            {
+                "AllTestID": 41000019,
+                "ChildTableID": 41000003,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000019,
+                        "ChildTableID": 41000003,
+                        "UserCount": 6475,
+                        "RightCount": 4047,
+                        "FavCount": 162,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 46
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000019,
+                    "ChildTableID": 41000003
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 46
+            },
+            {
+                "AllTestID": 41000019,
+                "ChildTableID": 41000004,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000019,
+                        "ChildTableID": 41000004,
+                        "UserCount": 6357,
+                        "RightCount": 4259,
+                        "FavCount": 140,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000019,
+                    "ChildTableID": 41000004
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 43000027,
+                "ChildTableID": 43000004,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000027,
+                        "ChildTableID": 43000004,
+                        "UserCount": 6378,
+                        "RightCount": 4417,
+                        "FavCount": 123,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000027,
+                    "ChildTableID": 43000004
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 43000027,
+                "ChildTableID": 43000005,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000027,
+                        "ChildTableID": 43000005,
+                        "UserCount": 6709,
+                        "RightCount": 3717,
+                        "FavCount": 202,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000027,
+                    "ChildTableID": 43000005
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43000027,
+                "ChildTableID": 43000006,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000027,
+                        "ChildTableID": 43000006,
+                        "UserCount": 6210,
+                        "RightCount": 5022,
+                        "FavCount": 81,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000027,
+                    "ChildTableID": 43000006
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

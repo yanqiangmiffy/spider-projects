@@ -1,0 +1,609 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 17:53:58 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "f7a5d1aac16ef7cb4bb5edd885fd815aef1a296431331da04e9a4c3a68ea6bf9af9272806fc207ec2945553d42829979",
+                            "Explain": "原核微生物无核仁核膜，只有拟核。真核微生物有核膜、核仁。衣原体、支原体、螺旋体属于原核细胞型微生物，真菌属于真核细胞型微生物，都有两种核酸，故其是以核酸或脱氧核酸为模板进行增殖的微生物，排除A、B、D、E。非细胞型微生物病毒只含有单一核酸，是以核酸RNA为模板进行增殖的微生物，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "细菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "衣原体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "立克次体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "真菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000235,
+                            "ATestID": 41000235,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 5,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea81857e44ae2762ea41c80db579ab5f6ae4a750e841833eb31ffc5f3e0ea5b47e4bfe",
+                            "Explain": "原核细胞型微生物为单细胞微生物，其细胞分化不完善，无完整细胞核及核膜、核仁，拟核或称核质由胞质内聚积的双链螺旋结构DNA和RNA构成，胞质内有核蛋白体，但缺少内质网，线粒体等细胞器。包括细菌，支原体、衣原体、立克次体、螺旋体和放线菌等6类。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "螺旋体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "放线菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "衣原体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "立克次体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "真菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000255,
+                            "ATestID": 43000255,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 5,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0dda002c4dd831b3f285efda6efa488c3cfc3e00a5f06b373cb5b07a50b2a5bcd8d3ee5908690e3d6d9361a72468bbe8",
+                            "Explain": "毒素会引起人体中毒反应，但不引起感染。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "病毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "真菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "朊毒体和立克次体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "毒素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "细菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014875,
+                            "ATestID": 43014875,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 5,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7c1c8498b0ed9c04c050fe748b94a0c667efc7a1e13762669d4d031b1374d940ed25cd9b3b14b7f29b5d4a391a1651ad",
+                            "Explain": "原核细胞型微生物包括细菌、支原体、衣原体、立克次体、螺旋体和放线菌6类。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "酵母菌、淋球菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "放线菌、破伤风梭菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "链球菌、念珠菌、葡萄球菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "隐球菌、结核分枝杆菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "以上都不是"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014876,
+                            "ATestID": 43014876,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 5,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea81857e44ae2762ea41c80db579ab5f6ae4a7579b65afcc899ac0c944f50e6b44de82",
+                            "Explain": "真菌属于真核细胞型微生物，具有完整的细胞核、核膜及核仁，且细胞器完整。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "螺旋体",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "衣原体",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "支原体",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "立克次体",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "真菌",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014877,
+                            "ATestID": 43014877,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 5,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "已修改选项",
+                            "OperateTime": "2018年12月21日",
+                            "OldTestJson": "{\"Title\":\"不属于原核细胞型微生物的是\",\"Explain\":\"真菌属于真核细胞型微生物，具有完整的细胞核、核膜及核仁，且细胞器完整。\",\"TestPoint\":\"\",\"Answer\":\"E\",\"Difficulty\":\"\",\"SelectedItems\":[{\"Content\":\"螺旋体\",\"ItemName\":\"A\"},{\"Content\":\"病毒\",\"ItemName\":\"B\"},{\"Content\":\"支原体\",\"ItemName\":\"C\"},{\"Content\":\"立克次体\",\"ItemName\":\"D\"},{\"Content\":\"真菌\",\"ItemName\":\"E\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "36f21e4c18b420c36d60a820a1f0f6d0950c796e51ec92862360f85df04bdaa14c25c4e69165849fc11748c4fe0c39a91b1d00eb4f206694",
+                            "Explain": "新生隐球菌是深部感染真菌中隐球菌属的主要菌种之一，种类较多，广泛分布于自然界。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "细菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "立克次体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "真菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "放线菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "支原体"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014878,
+                            "ATestID": 43014878,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 5,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "f65bab5c70bc0b56ddf12bace4403ab05278aee09e8831851ec240ee3397b4d0b2566a1ca48156eab37c71480139c17a",
+                            "Explain": "细菌可以在培养基中生长繁殖，故1题选A。梅毒螺旋体和衣原体不可以在培养基中生长繁殖，属于原核细胞型微生物。病毒是仅含有一种核酸的微生物，故2题选E。类毒素是外毒素在人工方法脱去毒性而保留抗原性的外毒素生物制品。故3题选B。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "细菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "类毒素"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "梅毒螺旋体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "衣原体"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "病毒"
+                                }
+                            ],
+                            "AllTestID": 41000238,
+                            "BTestID": 41000068,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 5,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000068,
+                                    "Title": "f65bab5c70bc0b56ddf12bace4403ab05278aee09e8831851ec240ee3397b4d0b2566a1ca48156eab37c71480139c17a",
+                                    "Explain": "细菌可以在培养基中生长繁殖，故1题选A。梅毒螺旋体和衣原体不可以在培养基中生长繁殖，属于原核细胞型微生物。病毒是仅含有一种核酸的微生物，故2题选E。类毒素是外毒素在人工方法脱去毒性而保留抗原性的外毒素生物制品。故3题选B。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000069,
+                                    "Title": "0af1b28791dd640297c2d24922abdb02af5afc3dfa04ac2d004b867b48d6ae0dd5c3e6920548514d",
+                                    "Explain": "细菌可以在培养基中生长繁殖，故1题选A。梅毒螺旋体和衣原体不可以在培养基中生长繁殖，属于原核细胞型微生物。病毒是仅含有一种核酸的微生物，故2题选E。类毒素是外毒素在人工方法脱去毒性而保留抗原性的外毒素生物制品。故3题选B。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000070,
+                                    "Title": "700f6b70d2ab7f411fc7c732514e3d94aec674bbfc9d9200e9b1206731b1f1cf",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000235,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000235,
+                        "ChildTableID": -1,
+                        "UserCount": 4395,
+                        "RightCount": 3026,
+                        "FavCount": 68,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 53
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000235,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 53
+            },
+            {
+                "AllTestID": 43000255,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000255,
+                        "ChildTableID": -1,
+                        "UserCount": 4037,
+                        "RightCount": 3236,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000255,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43014875,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014875,
+                        "ChildTableID": -1,
+                        "UserCount": 3891,
+                        "RightCount": 2661,
+                        "FavCount": 68,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014875,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43014876,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014876,
+                        "ChildTableID": -1,
+                        "UserCount": 3904,
+                        "RightCount": 2072,
+                        "FavCount": 96,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014876,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 43014877,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014877,
+                        "ChildTableID": -1,
+                        "UserCount": 3887,
+                        "RightCount": 2352,
+                        "FavCount": 30,
+                        "DiscussionCount": 7,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014877,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 7,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43014878,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014878,
+                        "ChildTableID": -1,
+                        "UserCount": 3525,
+                        "RightCount": 2309,
+                        "FavCount": 49,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014878,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 41000238,
+                "ChildTableID": 41000068,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000238,
+                        "ChildTableID": 41000068,
+                        "UserCount": 3469,
+                        "RightCount": 2949,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000238,
+                    "ChildTableID": 41000068
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41000238,
+                "ChildTableID": 41000069,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000238,
+                        "ChildTableID": 41000069,
+                        "UserCount": 3555,
+                        "RightCount": 2993,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000238,
+                    "ChildTableID": 41000069
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 41000238,
+                "ChildTableID": 41000070,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000238,
+                        "ChildTableID": 41000070,
+                        "UserCount": 3651,
+                        "RightCount": 2456,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000238,
+                    "ChildTableID": 41000070
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

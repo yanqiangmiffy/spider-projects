@@ -1,0 +1,604 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:00:28 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "3cf9f958acda77b8ec69f70405661575a85b322b16c043c8e7ca451615046959",
+                            "Explain": "黄疸、出血症状是钩端螺旋体所致，故A正确。咽峡炎为奋森疏螺旋体所致，关节炎及关节畸形为伯氏疏螺旋体所致，脊髓痨及动脉瘤为梅毒螺旋体所致，反复发热与缓解是由回归热疏螺旋体引起，故B、C、D、E均错误。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "黄疸、出血症状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "咽峡炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "关节炎及关节畸形"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脊髓痨及动脉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "反复发热与缓解"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000283,
+                            "ATestID": 41000283,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 370,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "af3929782e8c1b09020f6311e022633daab76a3791f5ff1ff542db25927f7c51",
+                            "Explain": "黄疸、出血症状是钩端螺旋体所致，咽峡炎为奋森疏螺旋体所致，关节炎及关节畸形为伯氏疏螺旋体所致，反复发热与缓解是由回归热疏螺旋体引起。故A、B、C、E均错误。脊髓痨及动脉瘤为梅毒螺旋体所致，选项D正确。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "咽峡炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "黄疸出血症状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "关节炎及关节畸形"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脊髓痨及动脉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "反复发热与缓解"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000284,
+                            "ATestID": 41000284,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 370,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "3cf9f958acda77b87095e6ea713ab70f7ac6a93b409c24fe756c7a05ad6b6f0acc555a8ead555b0f1e3105d0af89168be40f6e62a8eab079",
+                            "Explain": "败血症是指细菌进入血液循环，并在其中生长繁殖、产生毒素而引起的全身性严重感染。钩端螺旋体穿透皮肤黏膜或从破损处侵入人体，在局部迅速繁殖，经淋巴系统或直接进入血液循环引起钩端螺旋体血症，并不在血中繁殖，故E错误。其他选项均为钩端螺旋体的临床表现分型，均正确。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "流感伤寒型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "黄疸出血型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肺出血型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脑膜炎型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "败血症型"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000285,
+                            "ATestID": 41000285,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 370,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "af3929782e8c1b09020f6311e022633da2cf240a75b7dc980cb82a46d43b297f",
+                            "Explain": "1.发生在三期梅毒。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "黄疸出血症状"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "咽峡炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "关节炎及关节畸形"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "反复发热与缓解"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "脊髓痨及动脉瘤"
+                                }
+                            ],
+                            "AllTestID": 43000295,
+                            "BTestID": 43000080,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 370,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000080,
+                                    "Title": "af3929782e8c1b09020f6311e022633da2cf240a75b7dc980cb82a46d43b297f",
+                                    "Explain": "1.发生在三期梅毒。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000081,
+                                    "Title": "3cf9f958acda77b8ec69f70405661575a85b322b16c043c8e7ca451615046959",
+                                    "Explain": "2.钩端螺旋体临床表现包括黄疸出血型，病后4～8日出现黄疸。急性肾功能不全是本型常见的死因。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "474e832d631e41eb4ef436353bfd8742d4807f67deccd14334ad5e52305b6adb9c92492ef0c1e0183ed5ce1060a284d00453f45bbe90d61a",
+                            "Explain": "1.草绿色链球菌从口腔进入血流的机会多，黏附性强，故为亚急性感染性心内膜炎的首要原因。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "艰难梭状芽孢杆菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "苍白密螺旋体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "甲型溶血性链球菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "白假丝酵母菌（白色念珠菌）"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "变异链球菌"
+                                }
+                            ],
+                            "AllTestID": 43000296,
+                            "BTestID": 43000082,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 370,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000082,
+                                    "Title": "474e832d631e41eb4ef436353bfd8742d4807f67deccd14334ad5e52305b6adb9c92492ef0c1e0183ed5ce1060a284d00453f45bbe90d61a",
+                                    "Explain": "1.草绿色链球菌从口腔进入血流的机会多，黏附性强，故为亚急性感染性心内膜炎的首要原因。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000083,
+                                    "Title": "28d0fccfd0fe62654e4121a67cfec1356d26195a9df0a3b37998d4b6299402f6",
+                                    "Explain": "2.梅毒螺旋体为苍白密螺旋体苍白亚种。有8～14个致密而规则的螺旋，两端尖直。用镀银染色法可被染成棕褐色。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "af3929782e8c1b09020f6311e022633da2cf240a75b7dc980cb82a46d43b297f",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "黄疸出血症状"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "反复发热与缓解"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "关节炎及关节畸形"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脊髓瘤及动脉瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "鼻窦炎"
+                                }
+                            ],
+                            "AllTestID": 43014935,
+                            "BTestID": 43002731,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 370,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002731,
+                                    "Title": "af3929782e8c1b09020f6311e022633da2cf240a75b7dc980cb82a46d43b297f",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002732,
+                                    "Title": "3cf9f958acda77b8ec69f70405661575a85b322b16c043c8e7ca451615046959",
+                                    "Explain": "三期梅毒又称晚期梅毒，可引起梅毒性心瓣膜病、动脉瘤，侵犯中枢神经系统引起脊髓瘤等，而钩端螺旋体感染早期以急性发热、全身酸痛、结膜充血、腓肠肌压痛、浅表淋巴肿大等为特征，严重者引起肺出血，肝、肾损害，脑膜脑炎等，后期可有眼与神经系统继发症。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000283,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000283,
+                        "ChildTableID": -1,
+                        "UserCount": 1205,
+                        "RightCount": 793,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000283,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 41000284,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000284,
+                        "ChildTableID": -1,
+                        "UserCount": 1186,
+                        "RightCount": 793,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000284,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000285,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000285,
+                        "ChildTableID": -1,
+                        "UserCount": 1260,
+                        "RightCount": 607,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000285,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43000295,
+                "ChildTableID": 43000080,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000295,
+                        "ChildTableID": 43000080,
+                        "UserCount": 1106,
+                        "RightCount": 958,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000295,
+                    "ChildTableID": 43000080
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43000295,
+                "ChildTableID": 43000081,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000295,
+                        "ChildTableID": 43000081,
+                        "UserCount": 1102,
+                        "RightCount": 959,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000295,
+                    "ChildTableID": 43000081
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43000296,
+                "ChildTableID": 43000082,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000296,
+                        "ChildTableID": 43000082,
+                        "UserCount": 1400,
+                        "RightCount": 1045,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000296,
+                    "ChildTableID": 43000082
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000296,
+                "ChildTableID": 43000083,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000296,
+                        "ChildTableID": 43000083,
+                        "UserCount": 1292,
+                        "RightCount": 1124,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000296,
+                    "ChildTableID": 43000083
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43014935,
+                "ChildTableID": 43002731,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014935,
+                        "ChildTableID": 43002731,
+                        "UserCount": 962,
+                        "RightCount": 892,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014935,
+                    "ChildTableID": 43002731
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43014935,
+                "ChildTableID": 43002732,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014935,
+                        "ChildTableID": 43002732,
+                        "UserCount": 957,
+                        "RightCount": 892,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014935,
+                    "ChildTableID": 43002732
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

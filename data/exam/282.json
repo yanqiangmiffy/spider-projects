@@ -1,0 +1,388 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:24:54 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "1e86f60e90f4d19b50f6e7eb43c56e3758ed476ac5f89077a3ab382e0657a2cf40f3e416fcc197ee9132679c20cd4d72",
+                            "Explain": "动作电位到达运动神经末梢，引起Ca离子内流，复极化发生，选E。",
+                            "TestPoint": "动作电位及其产生机制",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "K[SBjia.gif]内流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "Cl[SBjian.gif]内流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "Na[SBjia.gif]内流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "K[SBjia.gif]外流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "Ca[SB2jia.gif]内流"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000006,
+                            "ATestID": 39000006,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 282,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5471037627081b660e9c9c7924043cc2bd10063633129b56ecb8d48b654307343a036ce6cbdcc37f",
+                            "Explain": "由血浆中的电解质、葡萄糖、尿素等小分子晶体物质所形成的渗透压叫晶体渗透压；晶体渗透压可以改变细胞内外液体平衡",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "红细胞膨胀和破裂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "红细胞萎缩"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "组织液增多"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "组织液减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "尿少"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000007,
+                            "ATestID": 39000007,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 282,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a357fb7aedc84c1a9652d7d2a35cf79e467c98716f53efba962b77c30685c5ec959e2ca633d280d6970a4d5ef5775e6b832abc30704960321fd424313b82971f9fb912855e60b8d29103e5694a87c67ce3eee14fa14be2d211a7db8ce2cda77ed55642837131ee5e32fd58312f54dfed0c8316bd6467dcf2bb0c7532a98a5e3575829462c5cf3ad68790152a2f788ab145a197c14567bff991d6271d3915f6b681dd222614f8b86c2c149674c1dd17723084a166c64f0967aae46ebfd3d8ee8c",
+                            "Explain": "根据红细胞的凝集反应：血型不相容的两个人的血滴放在玻片上混合，其中的红细胞即凝集成簇，称红细胞凝集，如：A抗原+抗A抗体；B抗原+抗B抗体。与A抗原发生凝集的抗体是抗A抗体，血清中含抗A抗体的是B型或O型。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "A型或B型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "A型或AB型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "A型或O型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "B型或O型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "B型或AB型"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000009,
+                            "ATestID": 39000009,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 282,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9c00053374a2ab534313893c9501637de76aa6c2623c020c053a64506ac8c25123a89a13a3a7990fdcf5570377cbb5a7",
+                            "Explain": "动作电位下降支：膜去极化达一定电位水平→钠离子内流停止、钾离子迅速外流。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "K[SBjia.gif]内流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "B",
+                                    "Content": "Cl[SBjian.gif]内流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "Na[SBjia.gif]内流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "D",
+                                    "Content": "K[SBjia.gif]外流"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "Ca[SB2jia.gif]内流"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000012,
+                            "ATestID": 39000012,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 282,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "42e8d978682bd85012be590b23220620a84d32e2f32944da7edc5241283767d48e0e84dbcd7ad5aea3fcb1914d39522af4fe9cff88f4b656fd9cdc03ff761369d132d93a9b84a11f",
+                            "Explain": "血浆蛋白主要功能：营养、运输、缓冲、防御、参与生理止血、形成胶体渗透压等。血浆晶体渗透压对保持细胞内外的水平衡极为重要，血浆胶体渗透压在调节血管内外水平衡中起重要作用。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "运输物质",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "缓冲pH",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "参与机体的免疫功能",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "参与生理止血过程",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "形成胶体渗透压，维持细胞内外水平衡",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000013,
+                            "ATestID": 39000013,
+                            "SrcID": 9,
+                            "SbjID": 36,
+                            "CptID": 282,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实该题无误。",
+                            "OperateTime": "2018年8月23日"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 39000006,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000006,
+                        "ChildTableID": -1,
+                        "UserCount": 2527,
+                        "RightCount": 1625,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000006,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 39000007,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000007,
+                        "ChildTableID": -1,
+                        "UserCount": 2520,
+                        "RightCount": 1339,
+                        "FavCount": 55,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000007,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 39000009,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000009,
+                        "ChildTableID": -1,
+                        "UserCount": 2557,
+                        "RightCount": 1531,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000009,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 39000012,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000012,
+                        "ChildTableID": -1,
+                        "UserCount": 2546,
+                        "RightCount": 1518,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000012,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 39000013,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000013,
+                        "ChildTableID": -1,
+                        "UserCount": 2517,
+                        "RightCount": 1364,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000013,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

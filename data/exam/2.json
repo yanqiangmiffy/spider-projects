@@ -1,0 +1,2607 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 01:15:58 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 31,
+                    "TestItems": [
+                        {
+                            "Title": "a3b393c4d06458fd40c21a90b002f6108e7ba6dfbbf3150d52759e2194876b8337aa9756f18678be4a32f807572dabe6135fdef6dbbf7404def58d3842d17c02",
+                            "Explain": "蛋白质分子中，从N端至C端的氨基酸排列顺序为一级结构，其中的主要化学键是肽键。蛋白质的二级结构主要包括α-螺旋、β-折叠、β-转角和无规卷曲，维持其结构的是氢键。蛋白质三级结构的形成和稳定主要靠次级键--疏水键、离子键、氢键等。其四级结构中，各亚基间的结合力主要是氢键和离子键。故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "肽键",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "离子键",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "二硫键",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "氢键",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "疏水键",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000003,
+                            "ATestID": 41000003,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。",
+                            "OperateTime": "2017年8月23日"
+                        },
+                        {
+                            "Title": "66124b441c400da50213f1f396a36fe7f2eeea392157611ae05fda80a01109920d6aa78755efde6d",
+                            "Explain": "蛋白质的变性主要发生在二硫键和非共价键的破坏，E不正确，不涉及一级结构中氨基酸序列的改变，B不正确。蛋白质变性后，其溶解度降低，C不正确，黏度增加，结晶能力消失，生物学活性丧失，D正确，易被蛋白酶水解等，A不正确。故选D。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "不易被蛋白酶水解",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "分子量降低",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "溶解性增加",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "生物学活性丧失",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "共价键被破坏",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000004,
+                            "ATestID": 41000004,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年12月24日",
+                            "OldTestJson": "{\"Title\":\"变性蛋白质的主要特点是\",\"Explain\":\"蛋白质的变性主要发生在二硫键和非共价键的破坏，E不正确，不涉及一级结构中氨基酸序列的改变，B不正确。蛋白质变性后，其溶解度降低，C不正确，黏度增加，结晶能力消失，生物学活性丧失，D正确，易被蛋白酶水解等，A不正确。故选D。\",\"TestPoint\":\"氨基酸、多肽、蛋白质\",\"Answer\":\"D\",\"Difficulty\":\"难\",\"SelectedItems\":[{\"Content\":\"不易被蛋白酶水解\",\"ItemName\":\"A\"},{\"Content\":\"分子量降低\",\"ItemName\":\"B\"},{\"Content\":\"溶解性增加\",\"ItemName\":\"C\"},{\"Content\":\"生物学活性降低\",\"ItemName\":\"D\"},{\"Content\":\"共价键被破坏\",\"ItemName\":\"E\"}],\"StyleType\":\"ATEST\"}"
+                        },
+                        {
+                            "Title": "b366d35a8d89317a9bcf11770b57d58eff015d1ccbf487d1bc4e458bcad4d286",
+                            "Explain": "蛋白质一级结构是指多肽链中氨基酸残基的排列顺序，也是蛋白质最基本的结构，由基因上遗传密码的排列顺序所决定，D正确，E不正确。蛋白质的四级结构主要描述蛋白质亚基的空间排列以及亚基之间的连接和相互作用，不涉及亚基内部结构，A不正确。蛋白质二级结构是多肽链局部的空间结构（构象），主要有α-螺旋、β-折叠、β-转角等几种形式，它们是构成蛋白质高级结构的基本要素。B和C不正确。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "亚基聚合",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "α-螺旋",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "β-折叠",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "氨基酸序列",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "氨基酸含量",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000005,
+                            "ATestID": 41000005,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题无误，不做修改。",
+                            "OperateTime": "2018年8月09日"
+                        },
+                        {
+                            "Title": "3428e7a252e42e3ae2ce0f1ab735c9ab145fd523017103ea5884d9407be394f6d3d87058031879456cdeb2e0ee691561ca2550569e629336",
+                            "Explain": "蛋白质分子凝聚并从溶液中析出的现象称为蛋白质沉淀。变性蛋白质一般易于沉淀，但也可不变性而使蛋白质沉淀。在一定条件下，变性的蛋白质也可不发生沉淀，C正确。蛋白质变性后黏度增加，易被蛋白酶水解，溶解度降低，A、B、D不正确。蛋白质变性涉及二硫键的破坏，E不正确。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "变性蛋白质的溶液黏度下降",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "变性的蛋白质不易被消化",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "蛋白质沉淀不一定就是变性",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "蛋白质变性后容易形成结晶",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "蛋白质变性不涉及二硫键破坏",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000006,
+                            "ATestID": 41000006,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。",
+                            "OperateTime": "2017年8月23日"
+                        },
+                        {
+                            "Title": "b366d35a8d89317acf1307a6778e4b16f8418ad55135655287e64442ad3d86815e7d1bdff2c8b0c736c853d44363ff5eabb440eb5c688987",
+                            "Explain": "蛋白质的氨基酸评分（蛋白质化学评分），用于反映蛋白质构成和利用率的关系，即所含必需氨基酸的含量和比值主要决定了蛋白质生物学价值的高低，E正确。其他选项皆错，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "所含氨基酸的数量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "表观消化率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "含量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "真消化率"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "所含必需氨基酸的含量和比值"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000007,
+                            "ATestID": 41000007,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b366d35a8d89317aec33c286914982d32cb23d0d5cc105f7b1fc7fcce68d7698f1527743af1390c269b091492c953b27",
+                            "Explain": "蛋白质的四级结构主要描述蛋白质亚基的空间排列以及亚基之间的连接和相互作用，不涉及亚基内部结构。蛋白质亚基之间形成的四级结构主要通过疏水作用、氢键、范德华力等，其中最主要的是疏水作用。因而亚基解聚时破坏了蛋白质的四级结构，E正确。其他选项皆错，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "二硫键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "一级结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "二级结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "三级结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "四级结构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000008,
+                            "ATestID": 41000008,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "374746796cb9a554860047a8fa5d35064d7354136d2bfa63ea694239779b92b518522a0adb7b335a2924151b56268fe6bccdff9962d0e6fbabfdef7103c8c07c",
+                            "Explain": "原核生物转录与翻译过程是偶联的，而真核生物转录生成的mRNA要运输到胞质中进行翻译，所以胞质中存有mRNA，C说法错误。其他选项说法皆正确，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "主要有mRNA、tRNA和rRNA三类"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "tRNA分子量比mRNA和rRNA小"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "胞质中没有mRNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "rRNA可与蛋白质结合"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "RNA并不全是单链结构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000009,
+                            "ATestID": 41000009,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6e49408db7c4579e30e57b3c4618e44ddcb4cf30c81e0581909a6fc41b3b3472d6b6b85416bf6bd35343dca23bfb6efd50d1cbc1f1623c418811c7b8341a5357febcb6bc49a205d5a58e801b926fcc38",
+                            "Explain": "氨基酸是组成蛋白质的基本单位，存在于自然界的氨基酸有300多种，但组成人体蛋白质的仅有20种氨基酸，都是L-α-氨基酸（除甘氨酸外）。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "缬氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "赖氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "甘氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "酪氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "丝氨酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000001,
+                            "ATestID": 43000001,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4748f9251b6357052bd21d128926169bab01178da48ea0bc",
+                            "Explain": "含有芳香环的氨基酸被分类为芳香族氨基酸，代表物质酪氨酸、苯丙氨酸、色氨酸、氨基酸是既含氨基（-NH[XB2.gif]）又含羧基（-COOH）的有机化合物。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "苯丙氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "羟酪氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "赖氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脯氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "异亮氨酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000002,
+                            "ATestID": 43000002,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e3783f417fa7a491085b37cb94442828e5665e487ea7affdac0ddd5ad1e372ca",
+                            "Explain": "氨基酸在等电点时，在电场中不泳动。氨基酸是一种两性电解质，其解离方式取决于所处溶液的pH。若溶液pH<PI，解离成阳离子；若溶液pH>PI，解离成阴离子；若溶液pH=PI，成为兼性离子，呈电中性，在电场中不泳动。所有氨基酸都含有碱性的α-氨基和酸性的α-羧基，可在酸性溶液中与H[SBjia.gif]结合成带正电荷的阳离子（-NH[SBjiaXB3.gif]），也可在碱性溶液中与OH[SBjian.gif]结合成带负电荷的阴离子（-COO-）。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "不带负电荷"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "在电场中不泳动"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "带正电荷"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "不带正电荷"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "不带正负电荷"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000003,
+                            "ATestID": 43000003,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dc8a6893df4c6f26e31ba95b91f3a2c1eb1a5aa53f2f56ba2477a27257dc1179b30d574633a277467d0ee53f5b564cbf58f7009036cc7e9d",
+                            "Explain": "合成蛋白质时，脯氨酸可羟化修饰为羟脯氨酸。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "脯氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "天冬酰胺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "羟脯氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "异亮氨酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "谷氨酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000005,
+                            "ATestID": 43000005,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "59bb26ecf37f4df544f9e64f9d24c7e4a06c8b7ec0b756802d542653b17610a1d64399152cfd36af5b53432e69b89b8192ba6973ab62e62ff76af5976db40262",
+                            "Explain": "蛋白质彻底水解后，用化学分析方法证明其基本组成单位是α-氨基酸。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "在α-碳原子上都结合有氨基或亚氨基"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "所有的α-碳原子都是不对称碳原子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "组成人体的氨基酸都是L型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "赖氨酸是唯一的一种亚氨基酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均正确"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000006,
+                            "ATestID": 43000006,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a96c5502fd5bbc8725c955748fd4bb7a93a52b6004cdbdf6fc9de04698808bf37c4e5866b968dbabcc169d67f6e097465",
+                            "Explain": "尽管蛋白质的种类繁多，结构各异，但元素组成相似，主要有碳、氢、氧、氮、硫。有些蛋白质含有少量磷或金属元素，个别含碘。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "元素组成主要有碳、氢、氧、氮、硫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "P元素的含量较多且固定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "生物体内只有蛋白质才含有氨基酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "组成蛋白质的氨基酸均为中性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "组成蛋白质的氨基酸均为碱性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000007,
+                            "ATestID": 43000007,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "31476b5ae58eff0c11c1abc368cd98e29afe00032044f645d7aa9aaacfc9cb8aabdc538693f8fb66acd3d61b73693bfd7eb750f97ddb44a46405dda5721718c77a0a32406b2db86cebde11a5fbbf8347",
+                            "Explain": "各种蛋白质的含氮量很接近，平均为16%，由于蛋白质是体内的主要含氮物，因此测定生物样品的含氮量通常按下列公式推算大致含量。每克样品含氮克数×6.25×100=100克样品的蛋白质含量(g%)。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "1.00g"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "6.40g"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "1.50g"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "3.20g"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "1.25g"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000008,
+                            "ATestID": 43000008,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b366d35a8d89317a3c04592392d08b960f5345b5585ee13cc8bbc2bd16e7aad18fb40f2f0e87757e633ac1ffbf0b4f9a2c75152c0aca520974af2b2b9a3927a98653b7994cb78578f42821b48424ddc2",
+                            "Explain": "α-螺旋为蛋白质二级结构，螺旋走向为顺时针方向，每3.6个氨基酸残基螺旋上升一圈，螺距为0.54nm。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "2个"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "3个"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "3.2个"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "3.6个"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "4.2个"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000009,
+                            "ATestID": 43000009,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "36a44cc6549ebe60254b194b04f447ac4513c4814fda70516f74bd834011cc07f4a3c47da2d234b6a257d457f804775917496dfc87b29731",
+                            "Explain": "谷胱甘肽(GSH)是由谷氨酸、半胱氨酸和甘氨酸组成的三肽。在谷胱甘肽过氧化物酶的催化下，GSH可还原细胞内产生的H[XB2.gif]O[XB2.gif]，使其变成H[XB2.gif]O。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "第一个肽键由谷氨酸γ-羧基与半胱氨酸的氨基组成",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "主要功能基团是半胱氨酸的巯基",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "在谷胱甘肽过氧化酶催化下，细胞内的H[XB2.gif]O可氧化为H[XB2.gif]O[XB2.gif]",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "谷胱甘肽的巯基有嗜核特性",
+                                    "ItemName": "D"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000010,
+                            "ATestID": 43000010,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。\n",
+                            "OperateTime": "2018年10月24日"
+                        },
+                        {
+                            "Title": "ab8e6dd72c612f98b676475b03a0c9d535da21fdfd231634c608f4a025b1e8bf4bfa88de5bc57e55baf2ae2850463dc4",
+                            "Explain": "牛胰岛素分子中含有3个二硫键，1个位于A链的第6位和第11位半胱氨酸的巯基间，另两个位于A、B链之间。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "分子中有3个二硫键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "A链有21个氨基酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "B链有30个氨基酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "分子中有2个二硫键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "是第1个测定一级结构的蛋白质"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000011,
+                            "ATestID": 43000011,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "65aff898100871d2874dd2dab7caa20c023cbd5d722e17937b52c5036406e77ffbf16a967d55a29265277e7ec8fb941e",
+                            "Explain": "蛋白质的二级结构是指多肽链骨架盘绕折叠所形成的有规律性的结构。最基本的二级结构类型有α-螺旋结构和β-折叠结构。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "一种蛋白质分子只存在一种二级结构类型"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "是多肽链本身折叠盘曲而形成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "主要为α-双螺旋和β-片层结构"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "维持二级结构稳定的键是肽键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可以没有一级结构，只有二级结构"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000012,
+                            "ATestID": 43000012,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a3b393c4d06458fd3c2b17761ff4af51ff53195600baa0cea54bc6a253a9488ac9b49fd122f834226af85f0c2fd55b39373174a01373b4c6",
+                            "Explain": "最基本的二级结构类型有α-螺旋结构和β-折叠结构。β-折叠使多肽链形成片层结构，肽链间的肽键和亚氨基氢形成氢键从而稳固β-折叠结构。二硫键的位置属于一级结构范畴。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "范德华力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "离子键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "疏水键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "二硫键"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "氢键"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000013,
+                            "ATestID": 43000013,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a92249e71da94b8379338a74a9e506b11a8b1bd2d94ab040029d76962e2fc7f9baad18744ee0494f81493ebe1806d659b5d9",
+                            "Explain": "结构域是蛋白质的三级结构。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "α-螺旋"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "β-折叠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "无规卷曲"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "结构域"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均是"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000014,
+                            "ATestID": 43000014,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b366d35a8d89317af6d99dae69cfe2d4b15161db80602e70487883fc59fa15e2fb34288820517b79",
+                            "Explain": "蛋白质的二级结构包括α-螺旋、β-折叠、β-转角和无规卷曲。α-螺旋和β-折叠是蛋白质二级结构的主要形式。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "α-螺旋"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "β-转角"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "β-折叠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "β-螺旋"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "无规则卷曲"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000015,
+                            "ATestID": 43000015,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b905344b208ae94475bf1d3fda7136db17d27b82eeff702f913f41c19e21293eec268b22c38a370ff93b8b4b94e3c214adba1cedbbc5a62e",
+                            "Explain": "组成天然蛋白质的20种氨基酸多属于L-α-氨基酸。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "L-α-氨基酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "L-β-氨基酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "D-α-氨基酸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "D-β-氨基酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "B-α-氨基酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014429,
+                            "ATestID": 43014429,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "222375300d10e5ff89f505163f1b2be68c9585f36a35aa427d75d084a1e431a5cd2a67fca598eafa",
+                            "Explain": "天冬氨酸和谷氨酸都含有两个羧基，属于酸性氨基酸。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "丙氨酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "赖氨酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "丝氨酸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "谷氨酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "苯丙氨酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014430,
+                            "ATestID": 43014430,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "daf5df901412406b662348667515a7c183ff5169610bdcd19c87bf9602c1fac2786386b38f00b48cc65e96a3fe10d86c394c90d808d8efab",
+                            "Explain": "肽键由两个氨基酸之间新产生的酰胺键（-CO-NH-）组成，不可自由旋转。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "由C[XBα.gif]和N组成"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "由C[XBα1.gif]和Ca[XBα2.gif]组成"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "由CO和C-COOH组成"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肽键有一定程度双键性质"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肽键可以自由旋转"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014431,
+                            "ATestID": 43014431,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b366d35a8d89317a44fce40329694103590d3dd4ec809ebefd9d2dad6d5e6302",
+                            "Explain": "蛋白质的二级结构是指多肽链主链骨架盘绕折叠而形成的构象,借氢键维系，所以选C。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "氨基酸的空间位置"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "每一原子的相对空间位置"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "局部主链的空间构象"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "每一蛋白质的空间构象"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "DNA之间的空间位置"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014434,
+                            "ATestID": 43014434,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "41bf8b59a8f7f66f759f518db2342943f8a539a95ffeca9962d745d26c18b9f38d8eed77aa047462a80578f2db5fe58146407cde5a66323d",
+                            "Explain": "α-螺旋属于蛋白质的二级结构，借氢键维系，所以选C。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "盐键"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "疏水键"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "氢键"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肽键"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "二硫键"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014436,
+                            "ATestID": 43014436,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a223df0e8f23d436edacf7f8f7ac6c8663be61dc2d587f9b2f85b5f7635bbce6aef8263446f551a67f6d59d3b4986c156709959828ae76247",
+                            "Explain": "在极端的pH值(加酸或碱)和受热条件下，DNA分子中双链间的氢键断裂，双螺旋结构解开成为两股单键的现象，这就是DNA的变性。",
+                            "TestPoint": "DNA与RNA",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "磷酸二酯键断裂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "N-C糖苷键断裂"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "戊糖内C-C键断裂"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "碱基内C-C键断裂"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "对应碱基间氢键断裂"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014437,
+                            "ATestID": 43014437,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d8fc7ebcffa4afe24a3a837f725bf24002fe3ec3fea647efc156d122b5d137dd",
+                            "Explain": "种常见蛋白质氨基酸中，只有半胱氨酸含有巯基。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "半胱氨酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "丝氨酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "蛋氨酸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脯氨酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "鸟氨酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014441,
+                            "ATestID": 43014441,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fb926c477a204986587d81aa6bee68965ef4c389ee0e894d7077c8dc42de4514431cd4eba1e657dd67bf3e7fab1b2d48",
+                            "Explain": "天然蛋白质中不含有的氨基酸是鸟氨酸。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "半胱氨酸",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "丝氨酸",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "蛋氨酸",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "脯氨酸",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "鸟氨酸",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014442,
+                            "ATestID": 43014442,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "374746796cb9a554b3f70ad6bf3164593946088ad56a1c5960f92838d9a9a61f1f4459f89ee1494141f6ca9a77a35b0a0d0ee028f751e899",
+                            "Explain": "生物活性降低或者丧失是变性蛋白质的一项主要特点，另外易被蛋白酶水解、溶解度降低等也是变性蛋白的特点，而不是所有变形蛋白质都可以复性，所以选D。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "蛋白质变性时生物学活性降低或丧失"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "蛋白质变性时理化性质发生变化"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "蛋白质变性时一级结构不受影响"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "去除变性因素后，所有变性蛋白质都可以复性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "球蛋白变性后其水溶性降低"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014443,
+                            "ATestID": 43014443,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "efd054ec56260109d891ffc31cf4348d0a20715cb1ba94dd7e30629ee41a8ed217c2962392dd64d2803316bfa8bee9b7692de3186b7cbe8e10ef17a2404b26fd",
+                            "Explain": "三级结构中多肽链的盘曲方式由氨基酸残基的排列顺序决定。三级结构的形成和稳定主要靠疏水键、盐键、二硫键、氢键和Van der Waals力。肽键是蛋白质一级结构的基本结构键。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "盐键",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "氢键",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "范德华力",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "肽键",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "疏水键",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014444,
+                            "ATestID": 43014444,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "Title": "85df7e8dd5129716ca9bca8395cc119a8617ad1e400a6f2b9b43ae6f4c80f888fe3897136a90e206eabfc6ddb205fe60d02bd1c22ac3e31a",
+                            "Explain": "酪氨酸和色氨酸的最大吸收峰在280nm波长附近。核酸对紫外吸收的最大峰在260nm波长附近。蛋白质在280nm波长附近有特征性吸收峰。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "240nm"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "260nm"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "280nm"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "570nm"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "620nm"
+                                }
+                            ],
+                            "AllTestID": 43000016,
+                            "BTestID": 43000001,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000001,
+                                    "Title": "85df7e8dd5129716ca9bca8395cc119a8617ad1e400a6f2b9b43ae6f4c80f888fe3897136a90e206eabfc6ddb205fe60d02bd1c22ac3e31a",
+                                    "Explain": "酪氨酸和色氨酸的最大吸收峰在280nm波长附近。核酸对紫外吸收的最大峰在260nm波长附近。蛋白质在280nm波长附近有特征性吸收峰。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000002,
+                                    "Title": "58de41e49958b5ca57a5fcf33f7962e1019d02e9e0ce0a569a597618ec7a74af3f74921e554bca62e7978837015be9011e2c509ffe8302cac3506a9c2cdbc9d2",
+                                    "Explain": "酪氨酸和色氨酸的最大吸收峰在280nm波长附近。核酸对紫外吸收的最大峰在260nm波长附近。蛋白质在280nm波长附近有特征性吸收峰。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000003,
+                                    "Title": "b366d35a8d89317a97e84c5c90bd8b4f046f602c94fe07e66deb7b8357941a8093252ea9926bc90f5c864f017373a809043c83dffc6224b0",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "873f19719a816fe27915c1ea38f5fedc77705a90bd8c30a69af6d3d6435689c66d193f66c9cdeccae32f9e40f25c3dda",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "半胱氨酸"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "蛋氨酸"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "丝氨酸"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "脯氨酸"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "鸟氨酸"
+                                }
+                            ],
+                            "AllTestID": 43014445,
+                            "BTestID": 43002651,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002651,
+                                    "Title": "873f19719a816fe27915c1ea38f5fedc77705a90bd8c30a69af6d3d6435689c66d193f66c9cdeccae32f9e40f25c3dda",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002652,
+                                    "Title": "fb926c477a204986587d81aa6bee68965ef4c389ee0e894d7077c8dc42de4514431cd4eba1e657dd67bf3e7fab1b2d48",
+                                    "Explain": "鸟氨酸是肝脏合成尿素的中间产物——又称鸟氨酸循环，详见尿素合成。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "777ec57b473b2f44858d0cac4cc30c12",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "二级结构破坏"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "一级结构破坏"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "五级结构破坏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "三级结构破坏"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "四级结构破坏"
+                                }
+                            ],
+                            "AllTestID": 43014446,
+                            "BTestID": 43002653,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 2,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002653,
+                                    "Title": "777ec57b473b2f44858d0cac4cc30c12",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002654,
+                                    "Title": "841d748cb685c0b05d1e038a81c7158628f220528ed4670b",
+                                    "Explain": "蛋白质水解破坏了其共价键肽键，属一级结构破坏。四级结构指寡聚蛋白中亚基之间的相互关系，因而亚基解聚使四级结构破坏。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000003,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 41000003,
+                            "ChildTableID": -1,
+                            "Answer": "A",
+                            "AnswerCount": 2
+                        },
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 41000003,
+                            "ChildTableID": -1,
+                            "Answer": "B",
+                            "AnswerCount": 2
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000003,
+                        "ChildTableID": -1,
+                        "UserCount": 30551,
+                        "RightCount": 17744,
+                        "FavCount": 477,
+                        "DiscussionCount": 13,
+                        "ExplainCount": 2,
+                        "ConcernCount": 1123
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000003,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 13,
+                "ExplainCount": 2,
+                "ConcernCount": 1123
+            },
+            {
+                "AllTestID": 41000004,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000004,
+                        "ChildTableID": -1,
+                        "UserCount": 25274,
+                        "RightCount": 16343,
+                        "FavCount": 292,
+                        "DiscussionCount": 7,
+                        "ExplainCount": 1,
+                        "ConcernCount": 375
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000004,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 7,
+                "ExplainCount": 1,
+                "ConcernCount": 375
+            },
+            {
+                "AllTestID": 41000005,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000005,
+                        "ChildTableID": -1,
+                        "UserCount": 22992,
+                        "RightCount": 18389,
+                        "FavCount": 126,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 199
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000005,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 199
+            },
+            {
+                "AllTestID": 41000006,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000006,
+                        "ChildTableID": -1,
+                        "UserCount": 22917,
+                        "RightCount": 14904,
+                        "FavCount": 255,
+                        "DiscussionCount": 10,
+                        "ExplainCount": 6,
+                        "ConcernCount": 298
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000006,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 10,
+                "ExplainCount": 6,
+                "ConcernCount": 298
+            },
+            {
+                "AllTestID": 41000007,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000007,
+                        "ChildTableID": -1,
+                        "UserCount": 19221,
+                        "RightCount": 15896,
+                        "FavCount": 133,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 1,
+                        "ConcernCount": 154
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000007,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 1,
+                "ConcernCount": 154
+            },
+            {
+                "AllTestID": 41000008,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000008,
+                        "ChildTableID": -1,
+                        "UserCount": 17994,
+                        "RightCount": 9556,
+                        "FavCount": 318,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 101
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000008,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 101
+            },
+            {
+                "AllTestID": 41000009,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000009,
+                        "ChildTableID": -1,
+                        "UserCount": 16318,
+                        "RightCount": 10352,
+                        "FavCount": 233,
+                        "DiscussionCount": 8,
+                        "ExplainCount": 0,
+                        "ConcernCount": 213
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000009,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 8,
+                "ExplainCount": 0,
+                "ConcernCount": 213
+            },
+            {
+                "AllTestID": 43000001,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000001,
+                        "ChildTableID": -1,
+                        "UserCount": 16056,
+                        "RightCount": 10457,
+                        "FavCount": 296,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 202
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000001,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 202
+            },
+            {
+                "AllTestID": 43000002,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000002,
+                        "ChildTableID": -1,
+                        "UserCount": 15247,
+                        "RightCount": 10684,
+                        "FavCount": 228,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 143
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000002,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 143
+            },
+            {
+                "AllTestID": 43000003,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000003,
+                        "ChildTableID": -1,
+                        "UserCount": 15084,
+                        "RightCount": 10200,
+                        "FavCount": 220,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 152
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000003,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 152
+            },
+            {
+                "AllTestID": 43000005,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000005,
+                        "ChildTableID": -1,
+                        "UserCount": 15294,
+                        "RightCount": 8035,
+                        "FavCount": 385,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 1,
+                        "ConcernCount": 242
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000005,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 1,
+                "ConcernCount": 242
+            },
+            {
+                "AllTestID": 43000006,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000006,
+                        "ChildTableID": -1,
+                        "UserCount": 14890,
+                        "RightCount": 8367,
+                        "FavCount": 325,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 177
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000006,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 177
+            },
+            {
+                "AllTestID": 43000007,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000007,
+                        "ChildTableID": -1,
+                        "UserCount": 13465,
+                        "RightCount": 9973,
+                        "FavCount": 126,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 103
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000007,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 103
+            },
+            {
+                "AllTestID": 43000008,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000008,
+                        "ChildTableID": -1,
+                        "UserCount": 13954,
+                        "RightCount": 7016,
+                        "FavCount": 468,
+                        "DiscussionCount": 8,
+                        "ExplainCount": 1,
+                        "ConcernCount": 565
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000008,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 8,
+                "ExplainCount": 1,
+                "ConcernCount": 565
+            },
+            {
+                "AllTestID": 43000009,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000009,
+                        "ChildTableID": -1,
+                        "UserCount": 13281,
+                        "RightCount": 8015,
+                        "FavCount": 330,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 230
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000009,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 230
+            },
+            {
+                "AllTestID": 43000010,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000010,
+                        "ChildTableID": -1,
+                        "UserCount": 12792,
+                        "RightCount": 7565,
+                        "FavCount": 309,
+                        "DiscussionCount": 6,
+                        "ExplainCount": 0,
+                        "ConcernCount": 278
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000010,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 6,
+                "ExplainCount": 0,
+                "ConcernCount": 278
+            },
+            {
+                "AllTestID": 43000011,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000011,
+                        "ChildTableID": -1,
+                        "UserCount": 12741,
+                        "RightCount": 6579,
+                        "FavCount": 367,
+                        "DiscussionCount": 5,
+                        "ExplainCount": 0,
+                        "ConcernCount": 280
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000011,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 5,
+                "ExplainCount": 0,
+                "ConcernCount": 280
+            },
+            {
+                "AllTestID": 43000012,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43000012,
+                            "ChildTableID": -1,
+                            "Answer": "E",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000012,
+                        "ChildTableID": -1,
+                        "UserCount": 12446,
+                        "RightCount": 6799,
+                        "FavCount": 194,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 64
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000012,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 64
+            },
+            {
+                "AllTestID": 43000013,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000013,
+                        "ChildTableID": -1,
+                        "UserCount": 11442,
+                        "RightCount": 9126,
+                        "FavCount": 92,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 32
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000013,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 32
+            },
+            {
+                "AllTestID": 43000014,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000014,
+                        "ChildTableID": -1,
+                        "UserCount": 11507,
+                        "RightCount": 8024,
+                        "FavCount": 123,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 38
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000014,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 38
+            },
+            {
+                "AllTestID": 43000015,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000015,
+                        "ChildTableID": -1,
+                        "UserCount": 11520,
+                        "RightCount": 7890,
+                        "FavCount": 126,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000015,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 43014429,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014429,
+                        "ChildTableID": -1,
+                        "UserCount": 10208,
+                        "RightCount": 8885,
+                        "FavCount": 59,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 47
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014429,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 47
+            },
+            {
+                "AllTestID": 43014430,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014430,
+                        "ChildTableID": -1,
+                        "UserCount": 10989,
+                        "RightCount": 6873,
+                        "FavCount": 232,
+                        "DiscussionCount": 9,
+                        "ExplainCount": 0,
+                        "ConcernCount": 78
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014430,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 9,
+                "ExplainCount": 0,
+                "ConcernCount": 78
+            },
+            {
+                "AllTestID": 43014431,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014431,
+                        "ChildTableID": -1,
+                        "UserCount": 10684,
+                        "RightCount": 7012,
+                        "FavCount": 192,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 66
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014431,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 66
+            },
+            {
+                "AllTestID": 43014434,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014434,
+                        "ChildTableID": -1,
+                        "UserCount": 10379,
+                        "RightCount": 6778,
+                        "FavCount": 124,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014434,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43014436,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014436,
+                        "ChildTableID": -1,
+                        "UserCount": 9920,
+                        "RightCount": 8297,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014436,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014437,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014437,
+                        "ChildTableID": -1,
+                        "UserCount": 10099,
+                        "RightCount": 7047,
+                        "FavCount": 183,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 72
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014437,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 72
+            },
+            {
+                "AllTestID": 43014441,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014441,
+                        "ChildTableID": -1,
+                        "UserCount": 10092,
+                        "RightCount": 6525,
+                        "FavCount": 232,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 65
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014441,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 65
+            },
+            {
+                "AllTestID": 43014442,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014442,
+                        "ChildTableID": -1,
+                        "UserCount": 9836,
+                        "RightCount": 6386,
+                        "FavCount": 223,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 55
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014442,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 55
+            },
+            {
+                "AllTestID": 43014443,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014443,
+                        "ChildTableID": -1,
+                        "UserCount": 9278,
+                        "RightCount": 7781,
+                        "FavCount": 51,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014443,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014444,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014444,
+                        "ChildTableID": -1,
+                        "UserCount": 9861,
+                        "RightCount": 6640,
+                        "FavCount": 117,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014444,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43000016,
+                "ChildTableID": 43000001,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000016,
+                        "ChildTableID": 43000001,
+                        "UserCount": 10230,
+                        "RightCount": 6394,
+                        "FavCount": 233,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 65
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000016,
+                    "ChildTableID": 43000001
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 65
+            },
+            {
+                "AllTestID": 43000016,
+                "ChildTableID": 43000002,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000016,
+                        "ChildTableID": 43000002,
+                        "UserCount": 9499,
+                        "RightCount": 7659,
+                        "FavCount": 117,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 49
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000016,
+                    "ChildTableID": 43000002
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 49
+            },
+            {
+                "AllTestID": 43000016,
+                "ChildTableID": 43000003,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000016,
+                        "ChildTableID": 43000003,
+                        "UserCount": 9439,
+                        "RightCount": 7693,
+                        "FavCount": 80,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 45
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000016,
+                    "ChildTableID": 43000003
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 45
+            },
+            {
+                "AllTestID": 43014445,
+                "ChildTableID": 43002651,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014445,
+                        "ChildTableID": 43002651,
+                        "UserCount": 9026,
+                        "RightCount": 7763,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014445,
+                    "ChildTableID": 43002651
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014445,
+                "ChildTableID": 43002652,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014445,
+                        "ChildTableID": 43002652,
+                        "UserCount": 8766,
+                        "RightCount": 8080,
+                        "FavCount": 47,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014445,
+                    "ChildTableID": 43002652
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43014446,
+                "ChildTableID": 43002653,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014446,
+                        "ChildTableID": 43002653,
+                        "UserCount": 9390,
+                        "RightCount": 6355,
+                        "FavCount": 114,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 39
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014446,
+                    "ChildTableID": 43002653
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 39
+            },
+            {
+                "AllTestID": 43014446,
+                "ChildTableID": 43002654,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014446,
+                        "ChildTableID": 43002654,
+                        "UserCount": 10118,
+                        "RightCount": 5524,
+                        "FavCount": 241,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 39
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014446,
+                    "ChildTableID": 43002654
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 39
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

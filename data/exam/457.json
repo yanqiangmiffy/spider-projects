@@ -1,0 +1,513 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:00:07 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "1e4a76040dc0d6b4e7251e26667ab30bf43004df0d2b20d87ad1129e9669ce9ae4b7dd4e179e23c3b9fc372bec3d53fe6ff4b9db2f402693",
+                            "Explain": "溶脲脲原体经性接触传播，引起泌尿生殖道感染（非淋菌性尿道炎），与不孕、死胎、早产有关。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "炭疽芽孢杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "溶脲脲原体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "科萨奇B组病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "淋球菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "白喉杆菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000291,
+                            "ATestID": 43000291,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 457,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "79deee466aa0a123754edf921dd6f8aa809faf33e0a0699675dbd88f12eedbbbe19599e7b1627b65",
+                            "Explain": "支原体为目前发现的最小的最简单的细胞，也是唯一一种没有细胞壁的原核细胞。其大小介于细菌和病毒之间。培养特性：营养要求比一般细菌高，最适pH7.8～8.0之间，低于7.0则死亡。生长缓慢，在琼脂含量较少的固体培养基上孵育2～3天出现典型的“荷包蛋样”菌落。因其缺乏坚硬的细胞膜，对青霉素耐药。故正确答案为C。",
+                            "TestPoint": "支原体的特性",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "呈多形态性，培养形成\"油煎蛋样\"菌落"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "是能在无生命培养基中生长繁殖的最小微生物"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "对青霉素敏感"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "培养支原体的pH值不低于7.0"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "没有细胞壁"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002195,
+                            "ATestID": 43002195,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 457,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "25c568d719826d2f9c35268fe03bb011cbcc2da359e400c82e4e89b74c3aef17d796baed0ba78fb3",
+                            "Explain": "支原体与L型细菌的相同点：无细胞壁、呈多形性、能通过滤菌器、对低渗敏感、“油煎蛋”样菌落、对青霉素抵抗。L型细菌细胞壁缺失的原因是：青霉素、溶菌酶和胆汁等作用所致。支原体细菌细胞壁缺失的原因是遗传。故正确答案为E。",
+                            "TestPoint": "支原体与L型细菌的特性",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "缺乏细胞壁"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "具有DNA和RNA两种核酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "可通过细菌滤器"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "培养时形成油煎蛋样菌落"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "形态结构不因有无青霉素等诱因而改变"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002196,
+                            "ATestID": 43002196,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 457,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a25f925420f68d4442af5724970260d84a369b3219c62579e215a0a584df2c4fc59be0b7c6414b74136acd06498d0e826b4e8d1ec8a7a85d",
+                            "Explain": "非典型性肺炎是指由支原体、衣原体、军团菌、立克次体、腺病毒以及其他一些不明微生物引起的肺炎。而典型肺炎是指由肺炎链球菌等常见细菌引起的大叶性肺炎或支气管肺炎。肺炎支原体主要通过飞沫传播，是人类原发性非典型性肺炎的主要病原体之一。故正确答案为B。",
+                            "TestPoint": "非典型肺炎",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肺炎球菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肺炎支原体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "嗜肺军团菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "冠状病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "溶脲脲原体"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002197,
+                            "ATestID": 43002197,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 457,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "055d9d83638d3ea2af0858c96b2684f46c0fa676dd5a8749b091cd2ee3cfc32170e53efb9da1022f7b92cb9208d77b82",
+                            "Explain": "支原体是一类缺乏细胞壁，呈高度多形性，能通过滤菌器，在无生命培养基中能生长繁殖的最小原核细胞型微生物，所以本题选C。",
+                            "TestPoint": "支原体",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "衣原体"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "病毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "支原体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "螺旋体"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "真菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014934,
+                            "ATestID": 43014934,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 457,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "0eb15d87d9bcca36ecf148c5d266f3b9114108838a223f7eb763778e22bddb0495bd0535a1677e5f",
+                            "Explain": "支原体是一类没有细胞壁的原核细胞型微生物，呈高度多形态性，能通过滤菌器。营养要求高，生长缓慢、形成荷包蛋样菌落，是目前能在无生命培养基中生长繁殖的最小原核细胞型微生物。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "衣原体"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "病毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "真菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "螺旋体"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "支原体"
+                                }
+                            ],
+                            "AllTestID": 43000292,
+                            "BTestID": 43000076,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 457,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000076,
+                                    "Title": "0eb15d87d9bcca36ecf148c5d266f3b9114108838a223f7eb763778e22bddb0495bd0535a1677e5f",
+                                    "Explain": "支原体是一类没有细胞壁的原核细胞型微生物，呈高度多形态性，能通过滤菌器。营养要求高，生长缓慢、形成荷包蛋样菌落，是目前能在无生命培养基中生长繁殖的最小原核细胞型微生物。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000077,
+                                    "Title": "055d9d83638d3ea2af0858c96b2684f46c0fa676dd5a8749b091cd2ee3cfc32170e53efb9da1022f7b92cb9208d77b82",
+                                    "Explain": "支原体是一类没有细胞壁的原核细胞型微生物，呈高度多形态性，能通过滤菌器。营养要求高，生长缓慢、形成荷包蛋样菌落，是目前能在无生命培养基中生长繁殖的最小原核细胞型微生物。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000291,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000291,
+                        "ChildTableID": -1,
+                        "UserCount": 1336,
+                        "RightCount": 937,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000291,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002195,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002195,
+                        "ChildTableID": -1,
+                        "UserCount": 1338,
+                        "RightCount": 925,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002195,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002196,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002196,
+                        "ChildTableID": -1,
+                        "UserCount": 1375,
+                        "RightCount": 782,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002196,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002197,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002197,
+                        "ChildTableID": -1,
+                        "UserCount": 1420,
+                        "RightCount": 846,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002197,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014934,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014934,
+                        "ChildTableID": -1,
+                        "UserCount": 1239,
+                        "RightCount": 954,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014934,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000292,
+                "ChildTableID": 43000076,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000292,
+                        "ChildTableID": 43000076,
+                        "UserCount": 1304,
+                        "RightCount": 900,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000292,
+                    "ChildTableID": 43000076
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000292,
+                "ChildTableID": 43000077,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000292,
+                        "ChildTableID": 43000077,
+                        "UserCount": 1216,
+                        "RightCount": 1018,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000292,
+                    "ChildTableID": 43000077
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

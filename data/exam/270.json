@@ -1,0 +1,383 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:25:37 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "c07e133b88e67051f0635d0a099da583dd461e7f3fceef630c9a40cea3e99fc6cba25a0eddfe3cc8",
+                            "Explain": "霍乱弧菌是人类霍乱的病原体，菌体一端有单根鞭毛和菌毛，无荚膜与芽胞。在一定条件下，霍乱弧菌进入小肠后，依靠鞭毛的运动，穿过黏膜表面的黏液层，可能借菌毛作用黏附于肠壁上皮细胞上，在肠黏膜表面迅速繁殖，经过短暂的潜伏期后便急骤发病。故排除A、B。霍乱弧菌产生三种毒素。Ⅰ型毒素为内毒素，是制作菌苗引起疫苗免疫的主要成分。Ⅱ型毒素为外毒素，即霍乱肠毒素，现已证明霍乱的剧烈腹泻就是由这种外毒素引起的。故排除D、E，本题选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "鞭毛",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "菌毛",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "荚膜",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "肠毒素",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "内毒素",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000270,
+                            "ATestID": 41000270,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 270,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。",
+                            "OperateTime": "2017年8月23日"
+                        },
+                        {
+                            "Title": "7fcbefbf5734f7841b006e44f25e99e0d8254d6a6a2fe43b9fb97fa48ab32168c5bbaa0a3b4392e14c8d180f79d97fe2656fe25646f14a49125bc694c28f64d3993bbb2f3ff709e7276decededa8370153586354581b98d7d5e66adefa5c82a4d1ad6694c6b79f36344f092b1faeb83b18f92d6bef215158c7b73d2cccc4a189b791d7f63e60d992c617a1c339800124a2f913e4bca5988688f84ddd676a1b10d5c4fc12c5a1d106c634611efa6664d18a3b1fb4fbbe58d8aa800a780e400c1981ebf1ddc8d4b5dd8b932882555c99d206e1b2e26c8be114",
+                            "Explain": "副溶血性弧菌引起的胃肠炎临床表现有：恶心、呕吐、腹痛、低热、寒战等。水样便是最显著特征.偶尔出现血便，补液是主要治疗措施。应及时输液，防止其脱水。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "立即应用抗生素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "静脉补充碳酸氢钠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "迅速静脉补液"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "立即给予甘露醇"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "应用糖皮质激素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000272,
+                            "ATestID": 41000272,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 270,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c07e133b88e6705124617599b7732a33e07f93b0181935e9f043c8704a1ae65c59d09bbbfa05aaee",
+                            "Explain": "霍乱肠毒素作用于腺苷酸环化酶，使细胞内cAMP浓度增高，肠黏膜细胞分泌增多，致水样便。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "霍乱肠毒素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "霍乱内毒素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "腺苷酸环化酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "透明质酸酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "蛋白水解酶"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000280,
+                            "ATestID": 43000280,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 270,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "01ed7c598f6737206f0eb0253ade3f8f",
+                            "Explain": "副溶血性弧菌的嗜盐性与所致疾病：该菌主要存在于海水、海底沉积物和海产品中，在含3.5%NaCl的培养基中生长良好，故又称为嗜盐性细菌，主要引起食物中毒，常因食用带菌的鱼、蟹等海产品所致。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "痢疾志贺菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "破伤风梭菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "结核分枝杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "白喉棒状杆菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "副溶血性弧菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000281,
+                            "ATestID": 43000281,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 270,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c07e133b88e6705163e26ffc306f6ad773f223aa2d3098f1f2903523114599618b353e81ef2f66847e130aa74d5544b08083d7b9ba2a9029",
+                            "Explain": "有菌毛和单鞭毛，运动活泼，但无荚膜，亦不形成芽胞。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "增菌培养基通常为碱性蛋白胨水"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "有菌毛和单鞭毛"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "悬滴观察呈\"穿梭\"样运动"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "EI-Tor生物型可形成芽胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "以上都是错误的"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014916,
+                            "ATestID": 43014916,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 270,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000270,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000270,
+                        "ChildTableID": -1,
+                        "UserCount": 1761,
+                        "RightCount": 976,
+                        "FavCount": 41,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000270,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 41000272,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000272,
+                        "ChildTableID": -1,
+                        "UserCount": 1685,
+                        "RightCount": 1350,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000272,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000280,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000280,
+                        "ChildTableID": -1,
+                        "UserCount": 1703,
+                        "RightCount": 1319,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000280,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43000281,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000281,
+                        "ChildTableID": -1,
+                        "UserCount": 1638,
+                        "RightCount": 1460,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000281,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43014916,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014916,
+                        "ChildTableID": -1,
+                        "UserCount": 1565,
+                        "RightCount": 1053,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014916,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

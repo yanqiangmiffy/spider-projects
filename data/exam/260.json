@@ -1,0 +1,698 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:25:35 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "72b4da686ba151ba537f7d5b5291eb78581b32b6a286b519d117038983b8cefc9030a7c8e87f7e7b0e02373ed44292e2c9275c4971db355b9782ebb1dd7d55e1d2f4e788ddd6ca6edb0f5b7124abceb1f8ab666ef4a330a59b2621903fe24264531edf1e5d9dfa19",
+                            "Explain": "乳糖发酵试验在初步鉴别肠道致病和非致病菌时有重要意义，肠道致病菌一般不分解乳糖，而非致病菌多数能分解乳糖。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "葡萄糖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "麦芽糖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "蔗糖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "菊糖"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乳糖"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000267,
+                            "ATestID": 41000267,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7ad9c77c6e63e075ac2050cedebd5eb6b537da3e7a6ad29b6db2b108e61363dffbedea9d2955264dc5cd13b1580b4f8fbad775cec50d782e67732c6f147b11ebea8ed4d64dd5619a",
+                            "Explain": "肠产毒型大肠埃希菌(ETEC)引起婴幼儿和旅游者腹泻，出现轻度水泻，也可呈严重的霍乱样症状。肠出血型大肠埃希菌(EHEC)引起散发性或暴发性出血性结肠炎，可产生志贺氏毒素样细胞毒素，伴溶血性尿毒综合征。肠致病性大肠埃希菌(EPEC) :是婴儿腹泻的主要病原菌，有高度传染性，严重者可致死，成人少见。肠侵袭性大肠埃希菌(EIEC) 可引起豚鼠角结合膜炎。肠集聚型大肠埃希菌(EAEC)可引起腹泻。综合分析，本题选B。",
+                            "TestPoint": "大肠埃希菌",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肠产毒型大肠埃希菌(ETEC)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肠出血型大肠埃希菌(EHEC)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肠致病性大肠埃希菌(EPEC)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肠侵袭性大肠埃希菌(EIEC)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "肠集聚型大肠埃希菌(EAEC)"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002178,
+                            "ATestID": 43002178,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "814735a3efffd7f099924a014a71cebef21ba736bf1f8297777cf0cc2a1159ea89934f97549d5c309f8e90ed656690a54edd57a0b3551062",
+                            "Explain": "肠道杆菌均为革兰阴性杆菌，鉴别可依据生化反应、抗原构造，均含有菌体(O)抗原，一般以大肠杆菌为条件致病菌。故本题选B。",
+                            "TestPoint": "肠道杆菌",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "Content": "均为革兰阴性杆菌",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "均为条件致病菌",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "鉴别依据生化反应",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "鉴别依据抗原构造",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "均含有菌体(O)抗原",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002179,
+                            "ATestID": 43002179,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改",
+                            "OperateTime": "2017年8月29日"
+                        },
+                        {
+                            "Title": "228b4a7806d596856e95f26759684440f038af02b18ae53d8daadd902380654f18df8744241a2864b9165523bacb7062",
+                            "Explain": "肠出血性大肠埃希氏菌（EHEC）O157：H7血清型引起以反复出血性腹泻和严重腹痛为特征的出血性结肠炎，表现为大量血样便腹泻。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "福氏志贺菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "伤寒沙门菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "结核菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "大肠埃希菌O157：H7型"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "轮状病毒A组"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014912,
+                            "ATestID": 43014912,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fdf8020ba968bb6535deba55bc654f24d4cf07eb64bb336a568492956d47ad53fb394e6aaeb71d67c3e729e630bf51860f2ee827b65e13f1b674cbd4ea087b77a2964484304b7dbaf5f38a6110df2b0014949d7933e1ba76d829339d37351e8f419985475acd535994b79827cc5f8a6e3015bd40e47e561e36eb3bb9f37a565764fc59f2fdee61a0bc6f102ea1711397db05d6e8a2b95a653e2794908d71d13116452b5aee5ae2007714ff3d5823e0af1cf9f623b564f7afea4c8d4d1c42aba8",
+                            "Explain": "机体感染伤寒、副伤寒杆菌后，会在体内产生相应抗体，即O抗体、H抗体、Vi抗体。伤寒抗体常在病后一周左右出现，第3到4周阳性率最高，并可持续数月。病程中应每周复查一次，如病人H与O的凝集价均高于参考值或较原凝集价升高4倍以上，则患伤寒的可能性很大。若H凝集价高而O低于正常值，则可能是以往预防接种疫苗的结果或非特异性回忆反应所致。Vi抗体的检测主要用于慢性带菌者的调查，效价在1：32以上有诊断价值。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "H效价不高、O效价增高提示是非特异性回忆反应"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "O效价不高、H效价增高提示伤寒杆菌感染"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "O效价不高、H效价增高提示与其他沙门菌间的交叉反应"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "H效价不高、O效价增高提示是预防接种的结果"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "O和H效价均增高有助于伤寒的诊断"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014914,
+                            "ATestID": 43014914,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c0e1e846490f774755af481f4adc3eb0f279237899d8e4cc9ff60e9742fbf167816ecafe40024885e8724e298329e664f5e4ad2243c41cb79fa79bdb774c70029156de9a9f930e724b04aea0b1a01d2583f00914e305c53440a2fe65cc9ea93018cf1ea3e8bea8e1517c690d9e1de9dffbc7947c75dd639e9ccf4a24e2936ba4affcb3ebb0809245d40724ced3a105262cac775b848db7c846775f5d73910f2671b1c933521de9e5020a6c5459131c86d61e1efbbd69e858d4227e6a145e952e214e5d4fbb250f1f60c63deb00b2cfe228990702b1c0f255594d7f32c64f6d0baed4dc281f37eae3a4c6a20de3c574a56a01824ce9837cf1c7b54273fb94265e0c0c33a58a0b224e98f36021f9ca268457b0802cd63153ed8bdede7aac414dd40281bba3d774b97381036562e3c319cfe568e8995db373bd4d9c489e23b2b60bb45505725686f6e8f69a7a1235e7d4423a6ebd128572b5a1d89a21fa21d706dc245fa234e96f36a76682ec26d8e10cbffa0aec5321962b6137630c6dc0a52b6156d574a47c3cfa0ad46148d112b88d8fe0abf448c34f1f4b7c4e450fe1488055236aa4c0641fbb88",
+                            "Explain": "鼠疫耶尔森菌传染性强，病死率高，易酿成大流行，主要累及皮肤和淋巴结，其次为败血症、肺炎、脑膜炎。人通过接触感染动物或污染食物而患病。临床可表现为发热、咳嗽、气促、发绀、咯血、胸痛等，辅助检查：血白细胞一般为（10～20）×10[SB9.gif]/L。痰、血或淋巴结吸出物培养可阳性。直接荧光素标记抗体染色可检测标本中的致病菌抗原，快速，可作为病因诊断。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "伤寒杆菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "大肠埃希菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "奈瑟球菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "鼠疫耶尔森菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "流感嗜血杆菌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014915,
+                            "ATestID": 43014915,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "226182cd4e2fec206ee061f52607119cb0d74debc8fa55b3bf522b9eacc79dec152a58200f176d48c50e6d564561ffc11bf81263907f257b25e83a8a2e2c3cd45c5eb3e3a10903b2163562e02826066393f24d1ca4d6f486f70542330e96453660195b1b59a8b854892d2f759d2e7cd280fb6134699edabc57212e96f07612dc63cd1cc78a26f311",
+                            "Explain": "肥达反应是伤寒患者的血清学诊断，正常人因隐性感染或预防接种，血清中可含有一定量抗体，其效价随各地区情况而不同，故故排除E。一般说来，O凝集价≥1：80、H凝集价≥1：160时才有诊断价值。伤寒潜伏期仅有“H”抗体效价增高，而“O”抗体效价不高，故排除A。伤寒感染期的“H”抗体效价增高，而“O”抗体效价也增高。伤寒恢复期“H”抗体效价趋于正常，而“O”抗体效价也趋于正常。曾注射伤寒三联疫菌后一般呈阴性。",
+                            "TestPoint": "伤寒杆菌",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "伤寒潜伏期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "伤寒感染期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "伤寒恢复期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "曾注射伤寒三联疫菌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "来自疫区健康者"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002180,
+                            "ATestID": 43002180,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 4,
+                    "Style": "A3/A4型题",
+                    "Explain": "A3/A4型题：以下提供若干个案例，每个案例下设若干道考题。请根据答案所提供的信息，在每一道考题下面的A、B、C、D、E五个备选答案中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "A3TEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "该患者最可能的诊断是",
+                            "Explain": "1.稽留热是伤寒引起的，伤寒的临床表现包括持续高热、肝脾大、白细胞降低，可伴有蛋白尿，部分患者皮肤出现玫瑰疹，肠出血和肠穿孔为其主要并发症。伤寒最符合题目中描述的症状。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "败血症"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "伤寒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "急性白血病"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "系统性红斑狼疮"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "疟疾"
+                                }
+                            ],
+                            "StyleType": "A3TEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "7fcbefbf5734f78474ad560022188ce557f463e5d4742e5b48389875a3fd8b30007541392e0f563316641631dc14bc0a673af9c26b84b627a7ded79008fce3fe8c239afa3c96f4bd50a71c668ca9dcc64507f8fb665746d21d23d3fc1e15514ac07d0732cc4ef4c07d4b5016bbc0c169e10f7d6fd4f31608f4fc632e44de73fac26ba8b6323b189677e0258cc951891fa2e74f90f514a121beea0f3dd70b76316664113dc731466dc2a9622e6072946c79718c027ab504b0983ba081de548e1612ed7b118ef4c4ef41539984e261dd0c3c972223714ce6d7943f69c00dd1f898d088a732cd45a14bb68cbf36613a3a7ff77e27fa24e95a02ff64c2a9abd6fac318d79bb408302ad762e667232b122146d5c73a187cf0131bd239d90ccf2200a7a3c2111f4ba327d59f3e8b6f45265b5df7a8421c7a686a666ccdcedfc33e9baed70415cea2dc0dd9a3499953df156529077972956f1bf06f5b28596cc1faa832cecbfa0c7dba316cc770dba300a4a76ecfda637f781e2c5ccf4d47486654e9543486d9707e7e046cf7367e2e4f8864c620d3582efd4b272a",
+                            "AllTestID": 41000268,
+                            "A3TestID": 41000001,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 260,
+                            "A3TestItems": [
+                                {
+                                    "A3TestItemID": 41000001,
+                                    "Title": "b8ebb5662d0ea15ba78dbeaf0d5fe19fa9f90765daca94a3e245c07ec3589c20",
+                                    "Explain": "1.稽留热是伤寒引起的，伤寒的临床表现包括持续高热、肝脾大、白细胞降低，可伴有蛋白尿，部分患者皮肤出现玫瑰疹，肠出血和肠穿孔为其主要并发症。伤寒最符合题目中描述的症状。故选B。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "败血症"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "伤寒"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "急性白血病"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "系统性红斑狼疮"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "疟疾"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "A3TestItemID": 41000002,
+                                    "Title": "2225248c6ec41099652cb56c9d43869eb0f08d35f1c5922e65556a1d59c4bb0052019de7c52d70e6db13fd0c06e76003",
+                                    "Explain": "2.伤寒杆菌培养阳性可确诊，血培养在病程1～2周阳性率最高，可达80%以上，骨髓培养较血培养阳性率高，但适用于已采用抗菌治疗或血培养阴性者。肥达反应对伤寒有辅助诊断价值。血涂片找疟原虫为疟疾的确诊依据。抗Sm为系统性红斑狼疮的标记性抗体。故选A。",
+                                    "SelectedItems": [
+                                        {
+                                            "ItemName": "A",
+                                            "Content": "血培养"
+                                        },
+                                        {
+                                            "ItemName": "B",
+                                            "Content": "骨髓检查"
+                                        },
+                                        {
+                                            "ItemName": "C",
+                                            "Content": "血涂片找疟原虫"
+                                        },
+                                        {
+                                            "ItemName": "D",
+                                            "Content": "肥达反应"
+                                        },
+                                        {
+                                            "ItemName": "E",
+                                            "Content": "抗Sm"
+                                        }
+                                    ],
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000267,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000267,
+                        "ChildTableID": -1,
+                        "UserCount": 1948,
+                        "RightCount": 1259,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000267,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43002178,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002178,
+                        "ChildTableID": -1,
+                        "UserCount": 1896,
+                        "RightCount": 1341,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002178,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002179,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002179,
+                        "ChildTableID": -1,
+                        "UserCount": 2017,
+                        "RightCount": 943,
+                        "FavCount": 44,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002179,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43014912,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014912,
+                        "ChildTableID": -1,
+                        "UserCount": 1686,
+                        "RightCount": 1377,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014912,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014914,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014914,
+                        "ChildTableID": -1,
+                        "UserCount": 1737,
+                        "RightCount": 1057,
+                        "FavCount": 44,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014914,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 43014915,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014915,
+                        "ChildTableID": -1,
+                        "UserCount": 1635,
+                        "RightCount": 1244,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014915,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002180,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002180,
+                        "ChildTableID": -1,
+                        "UserCount": 1707,
+                        "RightCount": 1216,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 26
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002180,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 26
+            },
+            {
+                "AllTestID": 41000268,
+                "ChildTableID": 41000001,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000268,
+                        "ChildTableID": 41000001,
+                        "UserCount": 1802,
+                        "RightCount": 1251,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000268,
+                    "ChildTableID": 41000001
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000268,
+                "ChildTableID": 41000002,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000268,
+                        "ChildTableID": 41000002,
+                        "UserCount": 1970,
+                        "RightCount": 890,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000268,
+                    "ChildTableID": 41000002
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

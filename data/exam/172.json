@@ -1,0 +1,1085 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:25:20 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "d84495ef52d712d46d2e2a3b97aae945165e8e577385982a44182fb16e0796544d9af6fc4d25a1af6fe9e51b3c62c27518efc8a9e96f2602",
+                            "Explain": "mRNA和核糖体都是存在于核质内的，故A、B错误。异染颗粒是普遍存在的贮藏物，用于细菌的鉴别，并非遗传物质，故D错误。性菌毛与致育性有关，E错误。核质以外的遗传物质包括质粒、噬菌体、转位因子，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "mRNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "核糖体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "质粒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "异染颗粒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "性菌毛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000248,
+                            "ATestID": 41000248,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "312e318639acda17b08f4a269f44e3000567f903fedcf639a5645edbc84ab22584a32d368e8e10f1ab5afc31ca6866e1",
+                            "Explain": "细菌的耐药性与染色体基因突变和耐药质粒（R质粒）的转移等相关。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "A质粒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "G质粒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "D质粒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "F质粒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "R质粒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000266,
+                            "ATestID": 43000266,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11a23f072acb6dee5c586030533d0f20922b841c0c22f9af88153f6471ed70f0cbe12e092934855c",
+                            "Explain": "微绒毛通过增大细胞表面，扩大吸收面积，参与细胞的吸收功能。普通菌毛具有粘着细胞（红细胞、上皮细胞）和定居各种细胞表面的能力，它与某些细菌的致病性有关。带有性菌毛的细菌称为F+菌或雄性菌，无性菌毛的细菌称为F-菌或雌性菌，F+菌体内的质粒或染色体DNA可通过中空的性菌毛进入F-菌体内，这个过程称为接合，故与接合有关的细菌结构是性菌毛。鞭毛是细菌的运动器官。纤毛也叫做菌毛，菌毛分为普通菌毛和性菌毛。故本题选C。",
+                            "TestPoint": "细菌结构",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "微绒毛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "普通菌毛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "性菌毛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "鞭毛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "纤毛"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002153,
+                            "ATestID": 43002153,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "902943ca071138c95c94dd27ae890252da5d4a7f84915c4f9816c841a68e1d91",
+                            "Explain": "耐药质粒的组成部分是RTF与耐药(-γ)决定因子。",
+                            "TestPoint": "质粒",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "RTF(耐药传递因子)与F因子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "RTF与耐药(-γ)决定因子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "γ决定因子与gAl基因"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "γ决定因子与Bio基因"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "γ决定因子与F因子"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002154,
+                            "ATestID": 43002154,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "510f2fd09fe34f53fc7837ba6a9c6fd1eeea724c18bc5dd996af34aaac71cb65aebdba68790188be",
+                            "Explain": "异染颗粒为白喉棒状杆菌、鼠疫耶尔森菌和结核分枝杆菌等所特有的胞质颗粒，经亚甲蓝染色呈紫色，此着色特点用于鉴别诊断，且与细菌的耐药性有关。只有部分质粒与细菌耐药性有关，故而E选项较D好。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "性菌毛",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "细菌染色体",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "质粒",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "鞭毛",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "异染颗粒",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014891,
+                            "ATestID": 43014891,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。\n经核实，该试题无误，不修改。\n\n经核实，该试题无误，不修改。\n\n",
+                            "OperateTime": "2018年8月13日"
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 15,
+                    "TestItems": [
+                        {
+                            "Title": "2c7f460184e85b72ab16404140805c1f9c91cb7ede195635",
+                            "Explain": "细菌的耐药性与染色体基因突变和耐药质粒（R质粒）的转移等相关，选B。",
+                            "TestPoint": "细菌 ",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "F质粒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "R质粒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "Vi质粒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "Col质粒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "γ决定因子"
+                                }
+                            ],
+                            "AllTestID": 43002155,
+                            "BTestID": 43000475,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000475,
+                                    "Title": "2c7f460184e85b72ab16404140805c1f9c91cb7ede195635",
+                                    "Explain": "细菌的耐药性与染色体基因突变和耐药质粒（R质粒）的转移等相关，选B。",
+                                    "TestPoint": "细菌 ",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000476,
+                                    "Title": "fc0af432f96c6e95b1ecd69b0ce293b6ae43d205205607aa5809e94fec6ad010",
+                                    "Explain": "F质粒决定细菌性别，选A。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000477,
+                                    "Title": "363012d298a811633c994c81bfcb8dfcd5c90e00285f8e4a079c86cc5bd1d24c",
+                                    "Explain": "Col质粒编码大肠菌素，选D。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000478,
+                                    "Title": "510f2fd09fe34f5366d2a017159ab61e401fd7c185f35ec2a17a349d2862ecc46b0db187d64384ac",
+                                    "Explain": "Vi质粒是毒力质粒，选C。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000479,
+                                    "Title": "fc0af432f96c6e95fd862322fb4d9b6a72cf50a96c2579adb932ff86cc693949e0df4f681994d54f",
+                                    "Explain": "细菌的耐药性基因是γ决定因子，选E。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "9440b99f6a397aedfd9bfd8c1dcbab0ef2a553480a10751cc56db19b3c6b350b0b3164750246cba67d76555638afdbaf21fcee10d01419a0a1ad8ffec8c271a627aaa1ccff04eac712211d7ea9e5017ab559b3443210c6be3fa45b4204055f13",
+                            "Explain": "以温和噬菌体为载体，受体菌获供体菌遗传物质而获得新的性状称为转导。",
+                            "TestPoint": "细菌",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "转化"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "转导"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "溶原性转换"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "接合"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "原生质体融合"
+                                }
+                            ],
+                            "AllTestID": 43002156,
+                            "BTestID": 43000480,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000480,
+                                    "Title": "9440b99f6a397aedfd9bfd8c1dcbab0ef2a553480a10751cc56db19b3c6b350b0b3164750246cba67d76555638afdbaf21fcee10d01419a0a1ad8ffec8c271a627aaa1ccff04eac712211d7ea9e5017ab559b3443210c6be3fa45b4204055f13",
+                                    "Explain": "以温和噬菌体为载体，受体菌获供体菌遗传物质而获得新的性状称为转导。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000481,
+                                    "Title": "156bbab6f3a7b060545f25cae6525a311e70e9f79bb3e66968882edb33ddd76bc89deec084864288",
+                                    "Explain": "细菌DNA直接进入受体菌，成为转化。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000482,
+                                    "Title": "e8d0e3a30b144f6b2a003ea57f4de1277aab56a24dad184c8049e0e8d85e9b3ad5b9359f05277ef635f9c45cec00b8da1a04febab271d22fdd28154e9f342fd694fe51a867eaf31d",
+                                    "Explain": "供体菌通过性菌毛将遗传物质转移给受体菌，称为接合。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000483,
+                                    "Title": "20a9d307fb939815653f154975fada1412af83fdd0c1d5f9d18b179260a0f90d7b80fd798a62cf0ee50e9003b64f391d9ac840d6e2e05d5ccc0626a11f3b51eacb49f62b816c944f",
+                                    "Explain": "细菌因其基因组上整合有前噬菌体而获新的性状称为溶原性转换，例如不产毒素的白喉棒状杆菌被β-棒状杆菌噬菌体感染时则变成产毒白喉棒状杆菌，选C。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000484,
+                                    "Title": "b6b4968d9bef0e41406b2dd0bdbd73fad628ded3bfca677f06265412f67121fdd0fba95d089559449ce4d4fab0e3a38abdfddc139358a8b0769a436ca24c1351f3ddffa65a15cbab86f4188680f0a283623a68a219bac300",
+                                    "Explain": "原生质体融合是指失去细胞壁的细菌发生融合，获得多种类型重组融合体，选E。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000485,
+                                    "Title": "c587f151baae23abba7b934b47095306ed39198ff9b9fb577b76117df169a39cbad1cb3bda2c9510f6ff1be1870a3e55acdbdbeabca3fa1145d808eb90f9324b098804eacbf470a56156b71bbb8a11c2b88474281bd58ddeac9e418bb04a454395a3412324b01a5f97e4efd879e0317a733c7efecc4da9d1",
+                                    "Explain": "细菌因其基因组上整合有前噬菌体而获新的性状称为溶原性转换，例如不产毒素的白喉棒状杆菌被β-棒状杆菌噬菌体感染时则变成产毒白喉棒状杆菌，选C。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "4460cf86877ef4652c1641348cef2c26c8af99a43983ff5cb6c04134c1f4a86a34712ba40343245aff03653702636cef09b65a230377691c42afbf3195117a88f5c63faa2749a332",
+                            "Explain": "携带细菌绝大多数遗传信息，决定细菌基因型的是染色体。",
+                            "TestPoint": "细菌",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "染色体"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "质粒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "毒力岛"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "转座子"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "前噬菌体"
+                                }
+                            ],
+                            "AllTestID": 43002157,
+                            "BTestID": 43000486,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 172,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000486,
+                                    "Title": "4460cf86877ef4652c1641348cef2c26c8af99a43983ff5cb6c04134c1f4a86a34712ba40343245aff03653702636cef09b65a230377691c42afbf3195117a88f5c63faa2749a332",
+                                    "Explain": "携带细菌绝大多数遗传信息，决定细菌基因型的是染色体。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000487,
+                                    "Title": "d062acf9b35221aabb77b1cc78d5d5a4bfe5bca036a912bc1134c073019d277cf10c9208e44aa98a",
+                                    "Explain": "可通过接合方式传递的是质粒。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000488,
+                                    "Title": "bd845b91d7fa089f8406a3d17a6bbf2636a617fb51fd83cfacd9cb24cbab30bd048f9762c31672f7",
+                                    "Explain": "整合在宿主菌染色体上的是前噬菌体。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000489,
+                                    "Title": "8fc03f73525ebdc0c9ae0dda630762e265c7ba389561f7263c3c902d058d38bd608a65be10194269e3c51c72e8211cac",
+                                    "Explain": "能在细菌遗传物质间自行移动的是转座子。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000248,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000248,
+                        "ChildTableID": -1,
+                        "UserCount": 2276,
+                        "RightCount": 1614,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000248,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000266,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000266,
+                        "ChildTableID": -1,
+                        "UserCount": 2302,
+                        "RightCount": 1170,
+                        "FavCount": 63,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000266,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43002153,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002153,
+                        "ChildTableID": -1,
+                        "UserCount": 2196,
+                        "RightCount": 1516,
+                        "FavCount": 40,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002153,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002154,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002154,
+                        "ChildTableID": -1,
+                        "UserCount": 2249,
+                        "RightCount": 1189,
+                        "FavCount": 72,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 34
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002154,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 34
+            },
+            {
+                "AllTestID": 43014891,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43014891,
+                            "ChildTableID": -1,
+                            "Answer": "C",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014891,
+                        "ChildTableID": -1,
+                        "UserCount": 2268,
+                        "RightCount": 868,
+                        "FavCount": 78,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014891,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002155,
+                "ChildTableID": 43000475,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002155,
+                        "ChildTableID": 43000475,
+                        "UserCount": 2032,
+                        "RightCount": 1511,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002155,
+                    "ChildTableID": 43000475
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002155,
+                "ChildTableID": 43000476,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002155,
+                        "ChildTableID": 43000476,
+                        "UserCount": 2139,
+                        "RightCount": 1267,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002155,
+                    "ChildTableID": 43000476
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43002155,
+                "ChildTableID": 43000477,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002155,
+                        "ChildTableID": 43000477,
+                        "UserCount": 2129,
+                        "RightCount": 1105,
+                        "FavCount": 63,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002155,
+                    "ChildTableID": 43000477
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43002155,
+                "ChildTableID": 43000478,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002155,
+                        "ChildTableID": 43000478,
+                        "UserCount": 2167,
+                        "RightCount": 1324,
+                        "FavCount": 56,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002155,
+                    "ChildTableID": 43000478
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43002155,
+                "ChildTableID": 43000479,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002155,
+                        "ChildTableID": 43000479,
+                        "UserCount": 2249,
+                        "RightCount": 1089,
+                        "FavCount": 63,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002155,
+                    "ChildTableID": 43000479
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002156,
+                "ChildTableID": 43000480,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002156,
+                        "ChildTableID": 43000480,
+                        "UserCount": 2220,
+                        "RightCount": 1019,
+                        "FavCount": 69,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002156,
+                    "ChildTableID": 43000480
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002156,
+                "ChildTableID": 43000481,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002156,
+                        "ChildTableID": 43000481,
+                        "UserCount": 2110,
+                        "RightCount": 1036,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002156,
+                    "ChildTableID": 43000481
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002156,
+                "ChildTableID": 43000482,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002156,
+                        "ChildTableID": 43000482,
+                        "UserCount": 2016,
+                        "RightCount": 1430,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002156,
+                    "ChildTableID": 43000482
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002156,
+                "ChildTableID": 43000483,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002156,
+                        "ChildTableID": 43000483,
+                        "UserCount": 2016,
+                        "RightCount": 1245,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002156,
+                    "ChildTableID": 43000483
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002156,
+                "ChildTableID": 43000484,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002156,
+                        "ChildTableID": 43000484,
+                        "UserCount": 1866,
+                        "RightCount": 1601,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002156,
+                    "ChildTableID": 43000484
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002156,
+                "ChildTableID": 43000485,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002156,
+                        "ChildTableID": 43000485,
+                        "UserCount": 2118,
+                        "RightCount": 1294,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002156,
+                    "ChildTableID": 43000485
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002157,
+                "ChildTableID": 43000486,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002157,
+                        "ChildTableID": 43000486,
+                        "UserCount": 2002,
+                        "RightCount": 1290,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002157,
+                    "ChildTableID": 43000486
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002157,
+                "ChildTableID": 43000487,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002157,
+                        "ChildTableID": 43000487,
+                        "UserCount": 2047,
+                        "RightCount": 1252,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002157,
+                    "ChildTableID": 43000487
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002157,
+                "ChildTableID": 43000488,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002157,
+                        "ChildTableID": 43000488,
+                        "UserCount": 2074,
+                        "RightCount": 1094,
+                        "FavCount": 45,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002157,
+                    "ChildTableID": 43000488
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43002157,
+                "ChildTableID": 43000489,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002157,
+                        "ChildTableID": 43000489,
+                        "UserCount": 2001,
+                        "RightCount": 1333,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002157,
+                    "ChildTableID": 43000489
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

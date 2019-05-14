@@ -1,0 +1,853 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 22:58:47 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "eeab5acbe2f1ac9f0658ef47d5dadd23054b1e897d4188e4756267c33cfff6d3ee7637758389eb592c0e15e7a1735ed26a5d92c89432819d134641f8d3e1db1e",
+                            "Explain": "两种球蛋白可以预防麻疹、传染性肝炎。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "流感"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "麻疹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "百日咳"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "结核病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙型脑炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000273,
+                            "ATestID": 43000273,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "17075c45c5207b8a310920ce17c997748eb5d7f0326d9deae13b4ef824a1599b8fb91ee285003f1eb95965bd81bb052dab6d547503d98e076bc027a9fe6c2e36b782349192f0fd64ec39d37dc02b9c3bc4a2c16ce966eebfdfa92c497839e793283b13206bc37a175af9b599bf995cf178a0d95af8da0140d363a0950c993f9ce856e09e7b2a8cdfbca55cb97e0e3574c8ddb571af8763e46fde7daf00889086d0278ff7dbf2812670bf6a3d5a75613f",
+                            "Explain": "紧急预防方法是用含有高效价抗-HBs制备的人免疫球蛋白(HBVIg)，一般在一周内注射有预防效果。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "注射抗生素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "注射丙种球蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "注射乙型肝炎疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "注射α-干扰素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "注射HBVIg"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000274,
+                            "ATestID": 43000274,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "565d6037e5c59711f93bf1011c442aee436c7b9f875fb7675a0ad586b61c844bf8a1e01798b85b9e2a27692a13777803161645b17ba36b1ebbb3244fea03dc4fa4614075214999be7545fd303afa6836",
+                            "Explain": "将分离的病原菌再和患者血清作抗原抗体凝集试验，作为病因确证，称为血清学诊断。伤寒采用肥达反应；风湿热采用抗O试验(ASO试验)；斑疹伤寒采用外斐反应；支原体肺炎采用冷凝集试验；结核菌素试验是应用结核菌素进行皮肤试验来测定人体对结核杆菌是否有变态反应一种试验，不属于血清学诊断方法。",
+                            "TestPoint": "血清学诊断方法",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "伤寒——肥达反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "风湿热——抗O试验(ASO试验)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "斑疹伤寒——外斐反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "支原体肺炎——冷凝集试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "结核——结核菌素试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002161,
+                            "ATestID": 43002161,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1c3078f5cc28727f56e1a2f1c16d077d85e7f0a4c83511efddc1a04bb50cebde7d2469143c757579",
+                            "Explain": "抗毒性免疫是一种以体液抗体为主的免疫应答。机体的免疫应答，主要表现为抗外毒素（IgG、IgM抗体）中和外毒素的作用。故本题选B。",
+                            "TestPoint": "抗毒性免疫",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "激活的巨噬细胞分泌的蛋白酶类"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "IgG、IgM抗体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "辅助T细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "靶细胞表面毒素受体被修饰"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "细胞毒性T细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002162,
+                            "ATestID": 43002162,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b13b783a74aa97f24e9704b477e532eeb22c7cea62feae289ddddaa9e48a1c23117d29f79e4774ab7c1d9aab595b31e9380664ff864be803",
+                            "Explain": "细菌毒素（通常指外毒素)的对应抗体或含有这种抗体的免疫血清,它能中和相对应的外毒素的毒性作用,机体经产生外毒素而致病的病原菌，如白喉、破伤风、气性坏疽等菌感染，即能产生抗毒素。破伤风是破伤风杆菌侵入人体伤口、并在伤口内繁殖和产生外毒素所引起的一种急性特异性感染。结核病是由结核杆菌引起的全身性传染性疾病，不产生外毒素。肠热症为伤寒沙门菌导致，其致病原因为产生内毒素。波状热即布氏杆菌病。痢疾是由志贺菌属引起的肠道传染病。.猩红热为A群溶血性链球菌感染引起的急性呼吸道传染病。风湿热是一种常见的反复发作的急性或慢性身性结缔组织炎症，A族溶血性链球菌对风湿热和风心病有一定的病因学关系。综合分析，本题选D。",
+                            "TestPoint": "抗毒素",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "破伤风与结核病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肠热症与波状热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "白喉与痢疾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "白喉与破伤风"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "猩红热与风湿热"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002163,
+                            "ATestID": 43002163,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c12db51d6be2e85bfb99148b67aaf8e8856562dee45d43172564ca7868ed329d39523b6723e807db",
+                            "Explain": "分离鉴定细菌程序包括细菌分离培养、直接形态学检查、生化反应、抗原和毒力检测。血清中特异抗体检测属于体液免疫检查。故血清中特异抗体检测不属分离鉴定细菌程序，本题选E。",
+                            "TestPoint": "分离鉴定细菌程序",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "细菌分离培养"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "直接形态学检查"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "生化反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抗原和毒力检测"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血清中特异抗体检测"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002164,
+                            "ATestID": 43002164,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "6c2fa01b8ba968e3374b55fcb03a6b1b",
+                            "Explain": "卡介苗（BCG）是将有毒的牛分枝杆菌在含有胆汁的甘油、马铃薯培养基上，经过13年，连续传230代，获得的一株毒力减弱但仍保持免疫原性的变异株，属于毒力变异后的活疫菌。",
+                            "TestPoint": "细菌",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "活疫菌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "死疫菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "类毒素"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抗毒素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "转移因子"
+                                }
+                            ],
+                            "AllTestID": 43002165,
+                            "BTestID": 43000495,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000495,
+                                    "Title": "6c2fa01b8ba968e3374b55fcb03a6b1b",
+                                    "Explain": "卡介苗（BCG）是将有毒的牛分枝杆菌在含有胆汁的甘油、马铃薯培养基上，经过13年，连续传230代，获得的一株毒力减弱但仍保持免疫原性的变异株，属于毒力变异后的活疫菌。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000496,
+                                    "Title": "8c2cb75d8acad06da02096f473bf78d5",
+                                    "Explain": "伤寒、副伤寒的免疫预防一直是接种死疫菌。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000497,
+                                    "Title": "493f5676e2ae89cc393b585219c353ce",
+                                    "Explain": "白喉的治疗除了使用抗生素外应尽早注射足量白喉抗毒素以中和毒素",
+                                    "TestPoint": "白喉",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000498,
+                                    "Title": "599b8780042a484f7e8b24555225304a6c31cb0755e9d7ad",
+                                    "Explain": "目前通过注射破伤风类毒素来预防破伤风 。",
+                                    "TestPoint": "细菌",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "2a2938926ed4ffb7c9b605e72c79529f13db1c9d10ebd9f161ddc997f074376c",
+                            "Explain": "被动免疫力。这种转移可以自然地完成,例如由母体传给胎儿;也可以通过注射被动免疫制剂做到,例如接触了乙型肝炎患者,可注射乙型肝炎免疫球蛋白，选B。",
+                            "TestPoint": "免疫系统",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "隐性或显性感染"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "通过胎盘获得母体的抗体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "接种疫苗"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "注射抗毒素"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "注射类毒素"
+                                }
+                            ],
+                            "AllTestID": 43002166,
+                            "BTestID": 43000499,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 222,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000499,
+                                    "Title": "2a2938926ed4ffb7c9b605e72c79529f13db1c9d10ebd9f161ddc997f074376c",
+                                    "Explain": "被动免疫力。这种转移可以自然地完成,例如由母体传给胎儿;也可以通过注射被动免疫制剂做到,例如接触了乙型肝炎患者,可注射乙型肝炎免疫球蛋白，选B。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000500,
+                                    "Title": "2a2938926ed4ffb7856387d6f49d0f6f6caea3043c152342f345c5ce43cabc6a",
+                                    "Explain": "利用抗原刺激,使机体产生抗体的方法,而非直接自体外引入抗体。主动免疫对随后的感染有高度抵抗的能力，选A。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000501,
+                                    "Title": "a3ef00aaaa097f2c337d9c919d6345aea147429a97757671",
+                                    "Explain": "人工被动免疫就是采用人工方法向机体输入由他人或动物产生的免疫效应物,如免疫血清、淋巴因子等,使机体立即获得免疫力,达到防治某种疾病的目的。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000502,
+                                    "Title": "c3292569590fd17d1e2b5388660f5a6c",
+                                    "Explain": "预防结核用接种疫苗。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000273,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000273,
+                        "ChildTableID": -1,
+                        "UserCount": 2232,
+                        "RightCount": 1144,
+                        "FavCount": 75,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000273,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43000274,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000274,
+                        "ChildTableID": -1,
+                        "UserCount": 2236,
+                        "RightCount": 1068,
+                        "FavCount": 61,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000274,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002161,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002161,
+                        "ChildTableID": -1,
+                        "UserCount": 2161,
+                        "RightCount": 980,
+                        "FavCount": 73,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002161,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43002162,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002162,
+                        "ChildTableID": -1,
+                        "UserCount": 1990,
+                        "RightCount": 1203,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002162,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43002163,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002163,
+                        "ChildTableID": -1,
+                        "UserCount": 1927,
+                        "RightCount": 1314,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002163,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002164,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002164,
+                        "ChildTableID": -1,
+                        "UserCount": 1981,
+                        "RightCount": 1096,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002164,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002165,
+                "ChildTableID": 43000495,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002165,
+                        "ChildTableID": 43000495,
+                        "UserCount": 1952,
+                        "RightCount": 926,
+                        "FavCount": 52,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 33
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002165,
+                    "ChildTableID": 43000495
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 33
+            },
+            {
+                "AllTestID": 43002165,
+                "ChildTableID": 43000496,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002165,
+                        "ChildTableID": 43000496,
+                        "UserCount": 1944,
+                        "RightCount": 942,
+                        "FavCount": 58,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002165,
+                    "ChildTableID": 43000496
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002165,
+                "ChildTableID": 43000497,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002165,
+                        "ChildTableID": 43000497,
+                        "UserCount": 1879,
+                        "RightCount": 1195,
+                        "FavCount": 36,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002165,
+                    "ChildTableID": 43000497
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002165,
+                "ChildTableID": 43000498,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002165,
+                        "ChildTableID": 43000498,
+                        "UserCount": 1928,
+                        "RightCount": 1186,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002165,
+                    "ChildTableID": 43000498
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002166,
+                "ChildTableID": 43000499,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002166,
+                        "ChildTableID": 43000499,
+                        "UserCount": 1792,
+                        "RightCount": 1299,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002166,
+                    "ChildTableID": 43000499
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002166,
+                "ChildTableID": 43000500,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002166,
+                        "ChildTableID": 43000500,
+                        "UserCount": 1952,
+                        "RightCount": 1102,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002166,
+                    "ChildTableID": 43000500
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002166,
+                "ChildTableID": 43000501,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002166,
+                        "ChildTableID": 43000501,
+                        "UserCount": 1980,
+                        "RightCount": 1020,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002166,
+                    "ChildTableID": 43000501
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002166,
+                "ChildTableID": 43000502,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002166,
+                        "ChildTableID": 43000502,
+                        "UserCount": 1780,
+                        "RightCount": 1366,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002166,
+                    "ChildTableID": 43000502
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

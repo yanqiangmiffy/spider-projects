@@ -1,0 +1,603 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:24:16 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "6c8736c8eaaed58484df8c1482ec838379f2dc040349f7910985711f8dd448d321b0523c7934b086e564c051f0130914",
+                            "Explain": "病毒癌基因是存在于病毒（大多是逆转录病毒）基因组中能使靶细胞发生恶性转化的基因。它不编码病毒结构成分，对病毒无复制作用，但是当受外界的条件激活时可产生诱导肿瘤发生的作用，感染宿主细胞时能随机整合于宿主细胞基因组中而发病。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "主要存在于朊病毒中"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "在体外不能引起细胞转化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "感染宿主细胞能随机整合于宿主细胞基因组"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "又称为原癌基因"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可直接合成蛋白质"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000099,
+                            "ATestID": 35000099,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699adf6f83b01f0ea7f8d255cdeeb6d98e8ac0cca4fa3e9331faf325ca8d8a5430475ac3e3315730a3d29dc3b4af606abe26",
+                            "Explain": "肿瘤细胞中存在着显性作用的癌基因，在正常细胞中有与之同源的正常基因，被称为原癌基因，B正确。只有当原癌基因的结构或调控区发生变异，基因产物增多或活性增强时，细胞过度增殖，才形成肿瘤，故A不正确。原癌基因与细胞增殖有关，是维持机体正常生命活动所必需的，在进化上高度保守，C不正确。原癌基因对细胞因子有编码作用，D不正确。原癌基因未发生变异时，处于失活状态，E不正确。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "只要有就可以引起癌症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "存在于正常细胞中"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "只对细胞有害，而无正常功能"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "不为细胞因子编码"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "总是处于活化状态"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000088,
+                            "ATestID": 41000088,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aed2b8a7b87e1e23d7d11e8ac3f9da9459733aefb872002387d9255a1662496d04a69f8b0da35d88",
+                            "Explain": "原癌基因sis的表达产物是生长因子。原癌基因发生突变后可能生成生长因子的变异体，从而导致细胞生长、增殖失控，引起病变。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "生长因子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "生长因子受体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "转录因子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "CTP结合蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "ATP结合蛋白"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000131,
+                            "ATestID": 43000131,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "76b3ff12585befd4c12b0964213abed22ada03cf63730dbfb1a20f6065ad1b37a93645d42c68b282072c5b3bc597071f7058d78b46ab2613851c76f0c9a5486a",
+                            "Explain": "不是所有的原癌基因都有致癌性。原癌基因是指存在于生物正常细胞基因中的癌基因。正常情况下，这些基因处于静止或低表达状态，不仅对细胞无害，而且对维持细胞的正常功能具有重要作用。只有当其受到致癌因素作用被活化并发生异常时，才导致细胞癌变。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "广泛存在于生物界"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "基因序列高度保守"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "其作用通过表达产物来实现"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "基因处于静止或低表达状态"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "所有原癌基因都有致癌性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000132,
+                            "ATestID": 43000132,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185a69ba17e0c8290e8b6fc78acca2fe26870444bb35b458e8a",
+                            "Explain": "erb为细胞癌基因，不属于抑癌基因。抑癌基因是一类抑制细胞过度生长、增殖，从而遏制肿瘤形成的基因。常见的抑癌基因包括P[XB53.gif]，、Rb、P[XB16.gif]、APC、DCC、VHL等。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "P[XB53.gif]"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "Rb"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "APC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "APK"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "erb"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000133,
+                            "ATestID": 43000133,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6eeecb17c4f746b02483bf23fda31f58dc3cf4f421b6b8e74e2c255db0f62761",
+                            "Explain": "上述均为抑癌基因，其中Rb是最早发现的抑癌基因。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "P[XB53.gif]"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "VHL"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "APC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "DCC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "Rb"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000134,
+                            "ATestID": 43000134,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1bde14e3030d1c72611995ec6cf1471b734b2fe27b2a417858b37c2e6170f4c733dd0d24791a8b9e1ef72a342408d968",
+                            "Explain": "由于野生型P[XB53.gif]蛋白在维持细胞正常生长、抑制恶性增殖中起重要作用，因此被称为\"基因卫士\"。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "APC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "Rb"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "C",
+                                    "Content": "P[XB53.gif]"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "DCC"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "APK"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000135,
+                            "ATestID": 43000135,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "795e308182cb9d7a0e6fc88d97f81f3a592b78cbe234f842453e661797051597ad1a98201edbff25",
+                            "Explain": "抑癌基因也称为抗癌基因，正常细胞中存在。在被激活的情况下它们具有抑制细胞增殖的作用，但在一定情况下被抑制或丢失后可减弱甚至消除抑癌作用。正常情况下它们对细胞的发育、生长和分化调节起重要作用。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "其产物具有抑制细胞增殖的能力"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "与癌基因的表达无关"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肿瘤细胞出现时才表达"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "不存在于人类正常细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "缺失与细胞的增殖和分化有关的因子"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014621,
+                            "ATestID": 43014621,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 315,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000099,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000099,
+                        "ChildTableID": -1,
+                        "UserCount": 3721,
+                        "RightCount": 1282,
+                        "FavCount": 38,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 28
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000099,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 28
+            },
+            {
+                "AllTestID": 41000088,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000088,
+                        "ChildTableID": -1,
+                        "UserCount": 3704,
+                        "RightCount": 3205,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000088,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43000131,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000131,
+                        "ChildTableID": -1,
+                        "UserCount": 3830,
+                        "RightCount": 847,
+                        "FavCount": 64,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 33
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000131,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 33
+            },
+            {
+                "AllTestID": 43000132,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000132,
+                        "ChildTableID": -1,
+                        "UserCount": 3667,
+                        "RightCount": 3275,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000132,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43000133,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000133,
+                        "ChildTableID": -1,
+                        "UserCount": 3758,
+                        "RightCount": 872,
+                        "FavCount": 66,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 45
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000133,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 45
+            },
+            {
+                "AllTestID": 43000134,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000134,
+                        "ChildTableID": -1,
+                        "UserCount": 3619,
+                        "RightCount": 803,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000134,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43000135,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000135,
+                        "ChildTableID": -1,
+                        "UserCount": 3560,
+                        "RightCount": 889,
+                        "FavCount": 46,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000135,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43014621,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014621,
+                        "ChildTableID": -1,
+                        "UserCount": 3465,
+                        "RightCount": 925,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014621,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

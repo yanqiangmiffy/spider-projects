@@ -1,0 +1,392 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 22:53:24 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 5,
+                    "TestItems": [
+                        {
+                            "Title": "b366d35a8d89317adfd60c8996257b9b85524f662946b112",
+                            "Explain": "蛋白质在酸性、碱性、酶等条件下发生水解。蛋白质的一级结构，是指蛋白质肽链中氨基酸的排列顺序，是蛋白质最基本的结构。各种氨基酸按遗传密码的顺序，通过肽键连接起来，成为多肽链，故一级结构的主要化学键是肽键，蛋白质水解时就是把肽键断开，即一级结构破坏。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "一级结构破坏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "二级结构破坏（指分子中局部主链的空间构象）"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "三级结构破坏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "四级结构破坏（亚基解聚时，四级结构破坏）"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "空间结构破坏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000001,
+                            "ATestID": 39000001,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 356,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1a38c702a2052add7f64d2100a76eae907b616ce641c519917a1238bbfecb967d98402c5075bf05bb7837b73c3870dc1c5e158ed5bff240a",
+                            "Explain": "常见辅酶所含B族维生素：\n\n[lczyys1.gif]",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "维生素B1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "维生素B2"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "维生素B12"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "泛酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "维生素PP"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000002,
+                            "ATestID": 39000002,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 356,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b286ba25bf1ee4a02a10615f3b0dd5da2b85011af38282a5e79aa77ce5fa3119",
+                            "Explain": "NAD+：腺烟酰胺腺嘌呤二核苷酸（含维生素pp）",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "维生素B1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "维生素B2"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "维生素B12"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "泛酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "维生素PP"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000003,
+                            "ATestID": 39000003,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 356,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4de2ec53fd0d510d2865f64d03f933db68a22c68d10b147c96f64e42578bc7c5",
+                            "Explain": "糖异生的主要原料为乳酸、氨基酸及甘油。乳酸来自肌糖原分解。肌肉内生成的乳酸不能在肌肉内重新合成糖，经血液转运至肝后异生成糖。这部分糖异生主要与运动强度有关。而在饥饿时，糖异生的原料主要为氨基酸和甘油。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "甘油"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "氨基酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "脂肪酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "乳酸"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "丙酮酸"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000004,
+                            "ATestID": 39000004,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 356,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f3d5e36aabd5cd6b5b8b3f20c51306c9ac4814e7fdcfa9e0857c7b7e5e6600650a1bf34887ab55fb803b574c6adb04f1345ce5010a717479",
+                            "Explain": "竞争性抑制作用：竞争性抑制剂的结构与底物相似，能与底物竞争酶的结合位点，故称竞争性抑制作用。抑制剂与底物竞争酶的结合位点的能力取决于两者的浓度。如抑制剂浓度恒定，底物浓度低时，抑制作用最为明显。随着底物浓度的增加，酶-底物复合物浓度增加，抑制作用减弱。当底物浓度远远大于抑制剂浓度时，几乎所有的酶均被底物夺取，此时，酶促反应的Vmax不变，但Km值变大",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抑制剂与底物结构相似"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抑制剂与底物竞争酶的底物结合部位"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "增加底物浓度也不能达到最大反应速度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "当抑制剂存在时Km值变大"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抑制剂与酶非共价结合"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 39000005,
+                            "ATestID": 39000005,
+                            "SrcID": 9,
+                            "SbjID": 37,
+                            "CptID": 356,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 39000001,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000001,
+                        "ChildTableID": -1,
+                        "UserCount": 2642,
+                        "RightCount": 1467,
+                        "FavCount": 44,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 31
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000001,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 31
+            },
+            {
+                "AllTestID": 39000002,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000002,
+                        "ChildTableID": -1,
+                        "UserCount": 2777,
+                        "RightCount": 1219,
+                        "FavCount": 101,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000002,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 39000003,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000003,
+                        "ChildTableID": -1,
+                        "UserCount": 2426,
+                        "RightCount": 1557,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000003,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 39000004,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000004,
+                        "ChildTableID": -1,
+                        "UserCount": 2674,
+                        "RightCount": 1185,
+                        "FavCount": 59,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000004,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 39000005,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 39000005,
+                        "ChildTableID": -1,
+                        "UserCount": 2473,
+                        "RightCount": 1653,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 39000005,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}
