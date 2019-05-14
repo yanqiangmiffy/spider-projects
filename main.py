@@ -9,6 +9,7 @@
 """
 import requests
 import csv
+import os
 import json
 import pickle
 import pandas as pd
@@ -94,33 +95,41 @@ def get_chapter_exam(id):
         json.dump(data, fout, ensure_ascii=False, indent=4)
 
 
-def read_exam():
+def read_exam(filename):
     """
     读取试题
     :return:
     """
 
-    with open('data/exam35.json', 'r', encoding='utf-8') as fout:
+    with open(filename, 'r', encoding='utf-8') as fout:
         data = json.loads(fout.read())
-        with open('data/question.csv', 'w', encoding='utf-8') as fout:
+        with open('data/question.csv', 'a', encoding='utf-8') as fout:
             csv_writer = csv.DictWriter(fout, fieldnames=
             ['Title', 'Explain', 'TestPoint', 'Answer',
              'OptionA', 'OptionB', 'OptionC', 'OptionD', 'OptionE',
              'StyleType', 'AllTestID', 'ATestID', 'SrcID', 'SbjID', 'CptID'])
-            csv_writer.writeheader()
+            # csv_writer.writeheader()
             for style in data['data']['test']['StyleItems']:
                 for item in style['TestItems']:
-                    print(item, len(item['SelectedItems']))
+                    # print(item, len(item['SelectedItems']))
                     question = dict()
                     question['Title'] = aes_decrypt(item['Title'])
                     question['Explain'] = item['Explain']
                     question['TestPoint'] = item['TestPoint']
                     question['Answer'] = item['Answer']
+
+                    question['OptionA'] = ''
+                    question['OptionB'] = ''
+                    question['OptionC'] = ''
+                    question['OptionD'] = ''
+                    question['OptionE'] = ''
+
                     question['OptionA'] = item['SelectedItems'][0]['Content']
                     question['OptionB'] = item['SelectedItems'][1]['Content']
                     question['OptionC'] = item['SelectedItems'][2]['Content']
                     question['OptionD'] = item['SelectedItems'][3]['Content']
-                    question['OptionE'] = item['SelectedItems'][4]['Content']
+                    if len(item['SelectedItems'])>4:
+                        question['OptionE'] = item['SelectedItems'][4]['Content']
                     question['StyleType'] = item['StyleType']
                     question['AllTestID'] = item['AllTestID']
                     # question['ATestID']=item['ATestID']
@@ -133,8 +142,11 @@ def read_exam():
 if __name__ == '__main__':
     # read_chapter()
     # read_exam()
-    chapter=pd.read_csv('data/chapter.csv')
-    for id in chapter.third_id:
-        print("正在爬取：",id)
-        get_chapter_exam(id)
-        time.sleep(2)
+    # chapter=pd.read_csv('data/chapter.csv')
+    # for id in chapter.third_id:
+    #     print("正在爬取：",id)
+    #     get_chapter_exam(id)
+    #     time.sleep(2)
+    for filename in os.listdir('data/exam'):
+        print(filename)
+        read_exam('data/exam/'+filename)
