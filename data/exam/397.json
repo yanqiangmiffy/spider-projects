@@ -1,0 +1,769 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:26:26 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "da762eb47d1ecab69f164b6b4a49172b4b9e7d845b02ffc2",
+                            "Explain": "AIDS的传染源是HIV无症状携带者和AIDS病患者。HIV存在于传染源的血液、精液或阴道分泌物中，主要传播方式有三种：①通过同性或异性间的性行为传播；②经血传播，输入带HIV的血液和血制品或移植感染HIV的供体器官，以及静脉药瘾者共用污染的注射器与针头等传播；③母婴垂直传播，孕妇携带HIV，可通过胎盘感染胎儿致先天性感染。日常生活接触或同一工作场所的接触及公用卫生间，只要无经血液暴露的接触，一般不会被传染HIV。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "AIDS患者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HIV携带者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "AIDS患者和HIV携带者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "正常人"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "医生"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000318,
+                            "ATestID": 43000318,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "cd86ab985d0194cccbae920caac1104a879be299d13d2d3ed14f5f590f0a14f3a5593943b65869597e74926ef3e1f1895cca2220a04390c009f0ac41edadad2d",
+                            "Explain": "HIV病毒体的包膜糖蛋白刺突gp120与细胞膜上的特异性受体CD4分子结合，然后病毒包膜与细胞膜发生融合，核衣壳进入细胞质内，脱壳释放RNA；病毒的反转录酶以病毒RNA为模板，经反转录产生互补的负股DNA构成RNA:DNA杂交体.RNA股水解去除后，再由负股DNA产生正股DNA，从而组成双股DNA，整合入宿主细胞染色体中，这种整合的病毒双股DNA即前病毒。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "gp160"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "gp41"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "P24"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "P17"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "gp120"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000319,
+                            "ATestID": 43000319,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "477a99944fd6ebe7e7266fbb3506eac8788c0a2df601a87b2cb077f2985b1f951b1c339e5ea79131f6be307b4dd7933f",
+                            "Explain": "人类免疫缺陷病毒为含反转录酶的单链RNA病毒，外层有类脂包膜，其他选项正确。故答案选择C。",
+                            "TestPoint": "反转录病毒的性状",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "均含有反转录酶"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "均侵犯CD4+细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "有包膜DNA病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "复制时先形成RNA：DNA中间体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "基因组易发生变异"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002260,
+                            "ATestID": 43002260,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e917576eabb47c672e0baefc398ffdaa0de5168667d4f78e3396a8d716651f75a39ebeabe377e3a67d996ea4ddb0ee843d8cd8236530928b",
+                            "Explain": "人类免疫缺陷病毒传播途径主要有三种：1.通过通行或异性间的性行为；2.输入带HIV的血液和血制品及静脉药瘾者共用污染的注射器及针头等；3.母婴传播。故答案选择D。",
+                            "TestPoint": "HIV的传播途径",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "传染源是HIV携带者和AIDS患者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "引起人类艾滋病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "可通过性行为传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "不能经胎盘传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可通过输血传播"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002261,
+                            "ATestID": 43002261,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b91b8871badf138b5598ae89c789f6f7a34a8e3e2bccd8c134c76c0e8b52ab27",
+                            "Explain": "艾滋病临床表现可分为：（一）急性感染：出现发热、全身不适、头痛、厌食、肌痛、关节痛和淋巴结肿大，一般症状可持续3～14日后自然消失。（二）无症状感染：临床上没有任何症状，但血清中能检出HIV以及HIV核心和包膜蛋白的抗体，具有传染性。（三）艾滋病：本期可有5种表现：1.全身性症状（艾滋病相关综合征）。2.神经系统症状3.严重机会性感染。4.继发肿瘤。5.并发其他疾病。故正确答案为A。",
+                            "TestPoint": "艾滋病临床表现",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "隐性感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "原发急性感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "无症状潜伏感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "AIDS相关综合征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "典型AIDS"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002262,
+                            "ATestID": 43002262,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "da6ea328be1ca015823d07d6a1546b794d3f1a9a2fb013e3a3c16e691f944fb8",
+                            "Explain": "艾滋病的病原体是人免疫缺陷病毒。",
+                            "TestPoint": "艾滋病",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "人乳头瘤病毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "苍白密螺旋体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "沙眼衣原体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "解脲支原体"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "人免疫缺陷病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014969,
+                            "ATestID": 43014969,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "b31024d265ef721885952735de24be95277c5953cfa968c0cee23f67e3d426d5938d030b73c0f480bed0fcc38a2bde37363e9d48f80b52612538dfb3d4fcd16372afec48cde3681931661104926fbc4a38566ffdd2a9c2534792f308244d17f2ae80b4678a054d27fa67735b4d71bc9bb7e76ce89903280e51c1712abd0eb54fed2febc90e5a32b00c6df99731165fec52ff0f3eb7070415",
+                            "Explain": "HIV可垂直传播，故应该立即终止妊娠.A不符合。HIV可通过性交传播，B不符合。HIV有较长的潜伏期，D不符合。在刷牙时不小心会出血，HIV可通过血液传播，E不符合。妇女可与其他人共用餐具，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "应该立即终止妊娠"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "此病可经过性交传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "应避免与其他人共用餐具"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "此病有较长的潜伏期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "应禁止共用牙刷等用具"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000310,
+                            "ATestID": 41000310,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "b31024d265ef72184586bf6afff9233f09409c292ac742b8da45a701719c7c464de456bc5700837ade8e83a2b9961758801e1d9eec840c4ecbfd5b3d918ae16935fafae5da095b346167f84299e048505af902f2876f22b8",
+                            "Explain": "HIV抗体检测主要检测p24抗体和gp120抗体，一般ELISA连续2次阳性，再作蛋白印迹法（WB）方法确证。对于确认实验室结果为HIV抗体可疑阳性者，建议3个月后复检。故正确答案为D。",
+                            "TestPoint": "HIV感染检测",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "PCR法查DNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "分离培养病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "检测病毒抗原"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "蛋白印迹(Westem blotting)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "RT-PCR查RNA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002263,
+                            "ATestID": 43002263,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7eed3a723312da3f906858e973bf34cfa8ab6c7542e892a4c0d370d93855ed4b91410a96d58004af83797becb61eb577c5e3c85ecadbdfd1d83bbe7435ed431cc20fc32a77875f0811cb32546ad999455bb00e5da4f91a2f139b591a0621024b40f084d13a793c40ba9c3d76661e5b42c9cc0e9987a58f95f523d9dd6f7c0759243c374a1e20691f22297843e2447e5b",
+                            "Explain": "对HIV感染的治疗，目前使用多种药物的综合治疗（鸡尾酒疗法），以防止耐药的发生。常用为叠氮胸苷、拉米夫定和英迪纳瓦三联疗法，综合治疗后血中HIV含量明显下降，可控制疾病的发展，降低AIDS病人死亡率。故正确答案为C。",
+                            "TestPoint": "HIV感染的治疗",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "蛋白酶抑制剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "核苷类反转录酶抑制剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "鸡尾酒疗法(联合用药疗法)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "非核苷类反转录酶抑制剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脱氧鸟苷单一用药疗法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002264,
+                            "ATestID": 43002264,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b31024d265ef721885952735de24be95277c5953cfa968c0cee23f67e3d426d5938d030b73c0f480bed0fcc38a2bde37695056d15a060e3421df90ce7689f8fbcb87dd7fe4a4e4a8a83ba1ef85f35970f73a91468eb92347c46f559db84e21bf6d45b3519d9052bf5506b8da5055eefd9a5bb1e9d11c8b09",
+                            "Explain": "成年男性患者，被确诊为HIV感染者，消瘦衰竭经常发生肺感染，造成免疫低下机制主要是CD4[~+.gif]T细胞大量被破坏。",
+                            "TestPoint": "艾滋病",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "神经胶质细胞减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "树突状细胞减少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "吞噬细胞被破坏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "中和抗体保护作用低"
+                                },
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "E",
+                                    "Content": "CD4[~+.gif]T细胞大量被破坏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002265,
+                            "ATestID": 43002265,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 397,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000318,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000318,
+                        "ChildTableID": -1,
+                        "UserCount": 1197,
+                        "RightCount": 1096,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000318,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43000319,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000319,
+                        "ChildTableID": -1,
+                        "UserCount": 1285,
+                        "RightCount": 845,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000319,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002260,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002260,
+                        "ChildTableID": -1,
+                        "UserCount": 1353,
+                        "RightCount": 766,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002260,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002261,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002261,
+                        "ChildTableID": -1,
+                        "UserCount": 1209,
+                        "RightCount": 1121,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002261,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002262,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002262,
+                        "ChildTableID": -1,
+                        "UserCount": 1403,
+                        "RightCount": 766,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002262,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014969,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014969,
+                        "ChildTableID": -1,
+                        "UserCount": 1070,
+                        "RightCount": 1014,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014969,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 41000310,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000310,
+                        "ChildTableID": -1,
+                        "UserCount": 1217,
+                        "RightCount": 928,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000310,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002263,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002263,
+                        "ChildTableID": -1,
+                        "UserCount": 1281,
+                        "RightCount": 583,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002263,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002264,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002264,
+                        "ChildTableID": -1,
+                        "UserCount": 1185,
+                        "RightCount": 850,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002264,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002265,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002265,
+                        "ChildTableID": -1,
+                        "UserCount": 1125,
+                        "RightCount": 1028,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002265,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

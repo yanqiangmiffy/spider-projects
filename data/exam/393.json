@@ -1,0 +1,527 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:26:22 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "e2e161fa282daf7fa6d59ad790bb4b0e440f7325fd476cd2dc8d0857a1df93b7d09b35902819e4601665ce2e122eb9b9",
+                            "Explain": "肾综合征出血热的病原是肾综合征出血热病毒（HFRSV），属于布尼亚病毒科的汉坦病毒属。为单股负链RNA病毒。我国流行的主要是汉坦病毒和汉城病毒。汉坦病毒可引起流行性出血热（肾综合征出血热）和肺综合征，分别造成肾组织和肺组织的急性出血、坏死。病后可获得持久免疫力。故答案选择A。",
+                            "TestPoint": "汉坦病毒的特性",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "为有包膜的DNA病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "黑线姬鼠为主要传染源"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "经呼吸道和消化道传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "病后可获得牢固的免疫力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "中和试验可将汉坦病毒分为6个血清型"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002256,
+                            "ATestID": 43002256,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 393,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "e05686a4af1cfc876ec9ca607aec7d72af250222dac3963f8fed90d77a082e9e08736e3e72598f1e",
+                            "Explain": "汉坦病毒属于布尼亚病毒科汉坦病毒属，可分为两种：一种辛诺柏病毒引起汉坦病毒肺综合征（HPS），另一种汉坦病毒引起肾综合征出血热（HFRS）。前者主要流行于美国，我国虽未发现，但有发生的可能。后者即我国常见的肾综合征出血热，是一类以发热、出血和肾功能损伤为特征的急性传染病。故答案选择C。",
+                            "TestPoint": "汉坦病毒",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "Q热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "恙虫病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肾综合征出血热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "流行性乙型脑炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "森林脑炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002257,
+                            "ATestID": 43002257,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 393,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e4f520a1673da6b9c070e9f7741fa976eaab3a60474ef8041f830ac7281d6d13d3b86235eac6f4fa8c00763fb04f90b",
+                            "Explain": "汉坦病毒引起肾综合征出血热和汉坦病毒肺综合征。故选A。登革病毒引起登革热，新疆出血热病毒引起新疆出血热，黄热病毒引起黄热病，Las-sa病毒引起Lassa热，均不是引起肾综合征出血热的病原体，皆不选。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "汉坦病毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "登革病毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "新疆出血热病毒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "黄热病毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "Lassa病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014965,
+                            "ATestID": 43014965,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 393,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2e6bfa0fd048ef144b8e427c70dfa4ec856bf96d84a250b7f9048c5da987613f",
+                            "Explain": "与白血病有关的病毒是HTLV。",
+                            "TestPoint": "白血病分类",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "EBV"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "HTLV"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "HBV"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "VZV"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "HPV"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014966,
+                            "ATestID": 43014966,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 393,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "474e832d631e41eb59682c9131528e91f7c421b7886215a43da92a6dd7d3b34384993d5f6f25fcd7",
+                            "Explain": "可引起潜伏感染的病毒是VZV。",
+                            "TestPoint": "病毒",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "EBV"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "HTLV"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "HBV"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "VZV"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "HPV"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014967,
+                            "ATestID": 43014967,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 393,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "be5523bcdc35d2b769073ddf29450548b2fd058d567ed967f35ef4132fb0d0f7aee7003df9bbf55d",
+                            "Explain": "登革病毒的传播方式是经虫媒传播。",
+                            "TestPoint": "病毒",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "呼吸道传播"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "虫媒传播"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "性接触传播"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "消化道传播"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "血液传播"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014968,
+                            "ATestID": 43014968,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 393,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "7670f462bf2a878ec4bcbbc31b1097dcafa1e6ecc2d9e51fe0c3b2cadfc2d472969d83f013a4a17053611b45e70a627ec6268ef65a47e5da57c635f034e86044f6c84699ad784a1ce6ad08e435472df295f8a6e85f215eff68b10b860efc649a18b927b3b6dd3a98dd7b7b6336a9027e3dc2748ad4a4b3e92ff613411402042f0f6a89200ec9970e6fcdf87353aa931d185bf2a04d228477c39dd54bca616bace2e77a915733d5e48115eaec48a250434f71647f394caf7f08c9cca2cef6cc06430d202da1aee51fa9f53368cf246a484444265aea68fd918f3c2144f9ef3dc82d2c2d3453ea5b7681426c2284de1c492db0fee9aacd5b73beaaea355955d0aad30b0830686734048df8078e2e9ac7683dd45f09566a8ae28554e03780c654f2f3cfc9d8c3be3e9abd099a7b987550a8065b46f02dde445c21ecb07db46eb8b52fedc16e2ed8164c184fbf8f9c0ac5b5665e1e114617ee87",
+                            "Explain": "根据题干所述症状、体征，满足\"发热、休克、充血、出血和急性肾衰竭\"五大典型症状，考虑为肾综合征出血热，即流行性出血热，选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "流行性脑脊髓膜炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "败血症，感染性休克"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "流行性出血热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "钩端螺旋体病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "传染性单核细胞增多症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000306,
+                            "ATestID": 41000306,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 393,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43002256,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002256,
+                        "ChildTableID": -1,
+                        "UserCount": 1416,
+                        "RightCount": 746,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002256,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 43002257,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002257,
+                        "ChildTableID": -1,
+                        "UserCount": 1266,
+                        "RightCount": 1127,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002257,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014965,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014965,
+                        "ChildTableID": -1,
+                        "UserCount": 1176,
+                        "RightCount": 1121,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014965,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43014966,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014966,
+                        "ChildTableID": -1,
+                        "UserCount": 1257,
+                        "RightCount": 843,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014966,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43014967,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014967,
+                        "ChildTableID": -1,
+                        "UserCount": 1320,
+                        "RightCount": 668,
+                        "FavCount": 23,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014967,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43014968,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014968,
+                        "ChildTableID": -1,
+                        "UserCount": 1170,
+                        "RightCount": 1017,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014968,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41000306,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000306,
+                        "ChildTableID": -1,
+                        "UserCount": 1337,
+                        "RightCount": 997,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000306,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

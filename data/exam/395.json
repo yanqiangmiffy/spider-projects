@@ -1,0 +1,578 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:26:24 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "ae7b4854835e616b1aa1d8751d6c4d0253db2c620abf46a760070a6be422dce5",
+                            "Explain": "丙型肝炎病毒引起丙型肝炎，乙型肝炎病毒引起乙型肝炎，人乳头瘤病毒与子宫颈癌密切相关，脊髓灰质炎病毒引起小儿麻痹，以上均与淋巴瘤不相关，A、B、C、D均错误。EB病毒与淋巴瘤发生相关，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "丙型肝炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙型肝炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "人乳头瘤病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "脊髓灰质炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "EB病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000308,
+                            "ATestID": 41000308,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 395,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "a427f0e00ad4246d75f3cdae12858c6c76c1ed40cefbb789ba5ad39e573285d3699604c5890675c47fe9744cc237ff12299e800889d2805b4b632b6c278e3ff622d9dcdc322ce940ddf933d5ddd183055ad18fbb9dd344f73063c77df78c3e81459fe4e7f3bfb250e910fe0aeb8287419fb2ff9f2c8f019c5ed7723d244e35e00d314092be6f9d68e73151dd644255364d527043e53bc2be6e5f9fdf1f31782a",
+                            "Explain": "1.根据题干，病人背部沿肋间皮肤灼痛，出现红疹、疱疹、串连成带状，最可能的诊断是带状疱疹。2.肾综合征出血热又称流行性出血热，有发热，头痛、眼眶痛、腰痛以及面、颈、胸皮肤潮红;随后有出血现象及肾功能受损，排尿量少，甚至休克。3.流行性斑疹伤寒：急性起病，持续高热，特殊皮疹及明显的中枢神经系统症状。4. 风疹：低热、全身皮疹为特征，常伴有耳后、枕部淋巴结肿大。5. 输血后单核细胞增多症：发烧、喉咙痛（有时严重）、食欲丧失、疲倦、淋巴腺肿大，通常位于颈部、腋下或鼠蹊部、脾脏肿大、肝脏肿大、黄疸，黄皮肤黄眼睛（有时）、头痛、普遍性全身疼痛。故答案选择B。",
+                            "TestPoint": "传染性疾病",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肾综合征出血热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "带状疱疹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "流行性斑疹伤寒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "风疹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "输血后单核细胞增多症"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002258,
+                            "ATestID": 43002258,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 395,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "2e6bfa0fd048ef144b8e427c70dfa4ec856bf96d84a250b7f9048c5da987613f",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "EBV",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "HPV",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "HBV",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "VZV",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "HTLV",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43000317,
+                            "BTestID": 43000094,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 395,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000094,
+                                    "Title": "2e6bfa0fd048ef144b8e427c70dfa4ec856bf96d84a250b7f9048c5da987613f",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": "经核实，试题正确答案为E，已修改。",
+                                    "OperateTime": "2018年9月12日"
+                                },
+                                {
+                                    "BTestItemID": 43000095,
+                                    "Title": "474e832d631e41eb59682c9131528e91f7c421b7886215a43da92a6dd7d3b34384993d5f6f25fcd7",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": "经核实，试题正确答案为D，已修改。",
+                                    "OperateTime": "2018年9月12日"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "1e903d4e7c3040f43e08b30cc5d4f578feb24b0c072b676d56945952e9f7552da9075c3b77e54b88153a9dec472c2e7d",
+                            "Explain": "水痘带状疱疹病毒（VZV）在成年人、老年人可引起带状疱疹 。水痘常发生在初次感染引起的患者，婴幼儿多见",
+                            "TestPoint": "水痘",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "HSV-1"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "HSV-2"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "VZV"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "CMV"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "EBV"
+                                }
+                            ],
+                            "AllTestID": 43002259,
+                            "BTestID": 43000513,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 395,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000513,
+                                    "Title": "1e903d4e7c3040f43e08b30cc5d4f578feb24b0c072b676d56945952e9f7552da9075c3b77e54b88153a9dec472c2e7d",
+                                    "Explain": "水痘带状疱疹病毒（VZV）在成年人、老年人可引起带状疱疹 。水痘常发生在初次感染引起的患者，婴幼儿多见",
+                                    "TestPoint": "水痘",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000514,
+                                    "Title": "9695527cf6dfa8359fc6679a1eeeb1ca91fd477ca20ce8cc5682da1d2828dd22864309a230e7f310",
+                                    "Explain": "与鼻咽癌的发生有关的是EBV。",
+                                    "TestPoint": "鼻咽癌",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000515,
+                                    "Title": "0df8e7075f47bae2e1d1e5fec67cf58b5986b539d7a20a45387deb3cdd03314a3c96accab0b78443fba2e540790060ede4f6d1be63f20555",
+                                    "Explain": "感染可引起巨细胞包涵体病的病原体是CMV",
+                                    "TestPoint": "病毒",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000516,
+                                    "Title": "bb2207124bdaf10bfac108669ad69099befa39ab8e02d59dd2166438b5af992fa20cc78564b754f1",
+                                    "Explain": "引起口唇疱疹的病原体是HSV-1。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000517,
+                                    "Title": "070c9d2e69a45afbef7257e68935fbe1136b1cd598ad12ea261a9cf2c47307695e9a4d78708483dd",
+                                    "Explain": "常引起生殖器疱疹的病原体是HSV-2。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000518,
+                                    "Title": "070c9d2e69a45afbe7c4aabc51977d99b466d92caeab56753d3f56716f23abc0fcbe92fbb7ab2941",
+                                    "Explain": "常引起角膜结膜炎的病原体是HSV-1。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000308,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000308,
+                        "ChildTableID": -1,
+                        "UserCount": 1237,
+                        "RightCount": 888,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000308,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002258,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002258,
+                        "ChildTableID": -1,
+                        "UserCount": 1159,
+                        "RightCount": 1090,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002258,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43000317,
+                "ChildTableID": 43000094,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000317,
+                        "ChildTableID": 43000094,
+                        "UserCount": 1244,
+                        "RightCount": 827,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000317,
+                    "ChildTableID": 43000094
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43000317,
+                "ChildTableID": 43000095,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000317,
+                        "ChildTableID": 43000095,
+                        "UserCount": 1333,
+                        "RightCount": 573,
+                        "FavCount": 30,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000317,
+                    "ChildTableID": 43000095
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002259,
+                "ChildTableID": 43000513,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002259,
+                        "ChildTableID": 43000513,
+                        "UserCount": 1275,
+                        "RightCount": 757,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002259,
+                    "ChildTableID": 43000513
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002259,
+                "ChildTableID": 43000514,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002259,
+                        "ChildTableID": 43000514,
+                        "UserCount": 1222,
+                        "RightCount": 938,
+                        "FavCount": 20,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002259,
+                    "ChildTableID": 43000514
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002259,
+                "ChildTableID": 43000515,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002259,
+                        "ChildTableID": 43000515,
+                        "UserCount": 1179,
+                        "RightCount": 771,
+                        "FavCount": 28,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002259,
+                    "ChildTableID": 43000515
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002259,
+                "ChildTableID": 43000516,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002259,
+                        "ChildTableID": 43000516,
+                        "UserCount": 1217,
+                        "RightCount": 662,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002259,
+                    "ChildTableID": 43000516
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002259,
+                "ChildTableID": 43000517,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002259,
+                        "ChildTableID": 43000517,
+                        "UserCount": 1148,
+                        "RightCount": 951,
+                        "FavCount": 27,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002259,
+                    "ChildTableID": 43000517
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002259,
+                "ChildTableID": 43000518,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002259,
+                        "ChildTableID": 43000518,
+                        "UserCount": 1275,
+                        "RightCount": 614,
+                        "FavCount": 39,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002259,
+                    "ChildTableID": 43000518
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

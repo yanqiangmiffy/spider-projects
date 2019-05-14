@@ -1,0 +1,483 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:26:09 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "7bd3377c128840ecf8a13c41ef142b0d830de014e2ad1adf8737489af83c01ace2662a9705ee5e33",
+                            "Explain": "病毒标本的分离培养方法包括：（1）组织培养：器官培养、组织块培养和细胞培养。（2）鸡胚接种：鸡胚卵黄囊接种、羊膜腔和尿囊腔接种。（3）动物接种：用新生小鼠或乳鼠进行病毒分离。人工合成培基不适用于培养病毒。故答案选择E。",
+                            "TestPoint": "培养病毒的方法",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "适龄鸡胚接种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "传代细胞培养"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "组织器官培养"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "易感动物接种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "人工合成培基"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002231,
+                            "ATestID": 43002231,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 382,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9a5625b204e7fabe0b9af0a55562a25f97c5a98d46c4e608324cb28f43dec76ad04589d9c708831adeaa63b16926bb1c",
+                            "Explain": "不能用于检测抗病毒抗体的方法是红细胞凝集试验,红细胞凝集试验（直接血凝试验）主要用于血库中红细胞抗原的分型、病毒抗原的鉴定等。所以，其不能用于检测抗病毒抗体。故答案选择C。",
+                            "TestPoint": "检测抗病毒抗体的方法",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "ELISA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "中和试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "红细胞凝集试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血凝抑制试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "补体结合试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002232,
+                            "ATestID": 43002232,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 382,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6adfb333c7971acb4b545810e7d1d0ea3d7bdd7fd3ef17b8e945d75a3df2423171b2be9c29b0a2f216c0907c87090e5cb9d27fcc1f9e111b991ff29ad408e360307e9e7c5610cd6d",
+                            "Explain": "用活疫苗进行预防接种，可有效控制的病毒性疾病是脊髓灰质炎，即通过口服脊髓灰质炎疫苗产生免疫。狂犬病预防接种应注射狂犬病疫苗。乙型肝炎预防接种应注射乙肝疫苗。流行性乙型脑炎：预防接种疫苗有三种：鼠脑灭活疫苗、细胞培养灭活疫苗和细胞培养减毒活疫苗。艾滋病(AIDS)暂无疫苗能有效预防该病。故答案选择B。",
+                            "TestPoint": "预防接种",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "狂犬病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脊髓灰质炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "艾滋病(AIDS)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "乙型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "流行性乙型脑炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002233,
+                            "ATestID": 43002233,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 382,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5b4b065cc6df5aa19703a12f0e2d25fe7532339f30ce26eb6f465a781c276a9679179465cb3f82b63d2792ad5ad92769529e4e115d38f342ecaa15fd7d6892ae947727f8627064148aabb816789c638d",
+                            "Explain": "病毒感染的检查结果成败的关键，病毒在室温中很容易灭活，因此标本采集后应立即送往实验室，如果短时间内不能送到检测地点，应将标本放在装有冰块的保温瓶中。做血清学检测的标本，应在患者急性期和恢复期各取一份血清，对比双份血清中抗体效价。通常恢复期血清抗体效价比急性期增高4倍以上才有诊断意义。故选D。",
+                            "TestPoint": "标本采集原则",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "无菌操作"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "发病早期采集"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "采集病变部位标本"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "查抗体时，采早期血清即可"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "尽快送检，暂保存时放-70℃"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002234,
+                            "ATestID": 43002234,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 382,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "571d8ed3535fb606e10fcd337a19ab81",
+                            "Explain": "灭活疫苗是指失去活性的病毒，不能在体内复制，抗体滴度随时间下降，常见的灭活疫苗包括乙型脑炎、狂犬病、麻疹、流行性感冒疫苗等。故2题选A。减毒活疫苗是指毒力减弱或基本无毒的活微生物制成活疫苗，常见的减毒活疫苗包括卡介苗、炭疽杆菌疫苗、脊髓灰质炎、流感、麻疹疫苗等。故1题选B。类毒素疫苗是指外毒素经处理后失去毒性，仍保留免疫原性，注入机体后吸收慢，能长时间刺激机体，产生更高满意度的抗体，常见的类毒素疫苗包括破伤风和白喉类毒素等。常见的基因工程疫苗指能将编码某种病原体抗原的外源性基因克隆到真核质粒表达载体上，然后注射到宿主内，使外源基因表达，刺激机体产生免疫应答。重组乙型肝炎病毒表面抗原属于此类。故3题选D。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "灭活疫苗",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "减毒活疫苗",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "类毒素疫苗",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "基因工程疫苗",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "DNA疫苗",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 41000292,
+                            "BTestID": 41000077,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 382,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000077,
+                                    "Title": "571d8ed3535fb606e10fcd337a19ab81",
+                                    "Explain": "灭活疫苗是指失去活性的病毒，不能在体内复制，抗体滴度随时间下降，常见的灭活疫苗包括乙型脑炎、狂犬病、麻疹、流行性感冒疫苗等。故2题选A。减毒活疫苗是指毒力减弱或基本无毒的活微生物制成活疫苗，常见的减毒活疫苗包括卡介苗、炭疽杆菌疫苗、脊髓灰质炎、流感、麻疹疫苗等。故1题选B。类毒素疫苗是指外毒素经处理后失去毒性，仍保留免疫原性，注入机体后吸收慢，能长时间刺激机体，产生更高满意度的抗体，常见的类毒素疫苗包括破伤风和白喉类毒素等。常见的基因工程疫苗指能将编码某种病原体抗原的外源性基因克隆到真核质粒表达载体上，然后注射到宿主内，使外源基因表达，刺激机体产生免疫应答。重组乙型肝炎病毒表面抗原属于此类。故3题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000078,
+                                    "Title": "af284879cc3ca1ccbc8c35ce8fda4ccf80126252540941c4",
+                                    "Explain": "灭活疫苗是指失去活性的病毒，不能在体内复制，抗体滴度随时间下降，常见的灭活疫苗包括乙型脑炎、狂犬病、麻疹、流行性感冒疫苗等。故2题选A。减毒活疫苗是指毒力减弱或基本无毒的活微生物制成活疫苗，常见的减毒活疫苗包括卡介苗、炭疽杆菌疫苗、脊髓灰质炎、流感、麻疹疫苗等。故1题选B。类毒素疫苗是指外毒素经处理后失去毒性，仍保留免疫原性，注入机体后吸收慢，能长时间刺激机体，产生更高满意度的抗体，常见的类毒素疫苗包括破伤风和白喉类毒素等。常见的基因工程疫苗指能将编码某种病原体抗原的外源性基因克隆到真核质粒表达载体上，然后注射到宿主内，使外源基因表达，刺激机体产生免疫应答。重组乙型肝炎病毒表面抗原属于此类。故3题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000079,
+                                    "Title": "3f31704ef23921477cc2393aa62a5eaa414eb972942eecabafdc8ee934bed4a8f662d716a6835910093c56d69a0aa131",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43002231,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002231,
+                        "ChildTableID": -1,
+                        "UserCount": 1165,
+                        "RightCount": 701,
+                        "FavCount": 26,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002231,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43002232,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002232,
+                        "ChildTableID": -1,
+                        "UserCount": 1161,
+                        "RightCount": 689,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002232,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43002233,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002233,
+                        "ChildTableID": -1,
+                        "UserCount": 1168,
+                        "RightCount": 693,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002233,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002234,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002234,
+                        "ChildTableID": -1,
+                        "UserCount": 1092,
+                        "RightCount": 745,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002234,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 41000292,
+                "ChildTableID": 41000077,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000292,
+                        "ChildTableID": 41000077,
+                        "UserCount": 1147,
+                        "RightCount": 817,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000292,
+                    "ChildTableID": 41000077
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 41000292,
+                "ChildTableID": 41000078,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000292,
+                        "ChildTableID": 41000078,
+                        "UserCount": 1088,
+                        "RightCount": 737,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000292,
+                    "ChildTableID": 41000078
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000292,
+                "ChildTableID": 41000079,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000292,
+                        "ChildTableID": 41000079,
+                        "UserCount": 1090,
+                        "RightCount": 653,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000292,
+                    "ChildTableID": 41000079
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

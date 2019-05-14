@@ -1,0 +1,598 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:01:50 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "46b1bd6277ab59edccdfa0f1b75e70eed21f1cde17d934c964609ac80493cda3c25614f1dc001be2e499c2a41e881309a7ea1935f0a0089c7b91b130cb5793c3d9c11cc8b6f43f0f",
+                            "Explain": "流行性乙型脑炎病毒引起外周血白细胞升高。故选A。脊髓灰质炎病毒、病毒性肝炎病毒、SARS病毒、流行性感冒病毒均引起外周血白细胞降低。其他选项都不正确。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "流行性乙型脑炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "脊髓灰质炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "病毒性肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "SARS"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "流行性感冒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000302,
+                            "ATestID": 41000302,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b1e1ccfd39b99ebd8f76af28e2cb65d2779761f9c8c21566bd55d763708f2b617696bb9276bad238",
+                            "Explain": "猪是最重要的传染源和中间宿主，特别是新生的幼猪。因为幼猪的免疫力差，具有较高的感染率和高滴度的病毒血症。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "典型乙型脑炎患者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "感染乙脑病毒的猪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "携带乙脑病毒的蚊虫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "轻型乙型脑炎患者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙脑病毒携带者"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000303,
+                            "ATestID": 41000303,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b1e1ccfd39b99ebdaad73f7ea577f2ff324490d38c939163ee1eab7c0cdee4e052392b644c7c86072dce9cc21d43868e6c28a890ebf66d5c",
+                            "Explain": "乙型脑炎的主要传播媒介是蚊，主要是三带喙库蚊，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "猪"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙脑病毒携带者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "乙脑患者"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "蚊虫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "野鼠"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000304,
+                            "ATestID": 41000304,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b1e1ccfd39b99ebd3ccaa7a8cdf3cc937b1ee310a8337e97c9985d72e3f31bf9422929a1a9ad42f860513f41778c6e3e",
+                            "Explain": "蚊体可携带乙脑病毒越冬以及经卵传代，所以蚊既是传播媒介又是储存宿主，幼猪是中间或扩散宿主。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "消化道传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "输血传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "直接接触传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "呼吸道传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "虫媒传播"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000314,
+                            "ATestID": 43000314,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "187605f0d9170bd62e7b47776f438ba71e96e2aac838488a46c1ba4ef3497c87ce2fd436c4878185",
+                            "Explain": "登革病毒是小型黄病毒，属于黄热病毒属，病毒颗粒外被脂蛋白包膜，并具有包膜刺突（A错误）。能引起登革热急性传染病，通常由在白天叮咬人的埃及伊蚊和白纹伊蚊传播，引起登革热。故答案选择A。",
+                            "TestPoint": "登革病毒的特点",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "属于无包膜RNA病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "以蚊为传播媒介"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "引起登革热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "临床表现形式有登革热、登革出血热、登革热-休克综合征3种"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "机体感染后以体液免疫为主"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002254,
+                            "ATestID": 43002254,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6261e6fa3cd9a2366936d2634c578a4ca2f815a13e6dba2fd2cf0ac5f87e5893a63bfabc3b6314935d8f955f5696dea6801ad06107a38eeb",
+                            "Explain": "1.乙脑病毒通过蚊体携带越冬以及经卵传代，所以蚊既是传播媒介又是储存宿主，幼猪是中间或扩散宿主。2.登革病毒：通常由在白天叮咬人的埃及伊蚊和白纹伊蚊传播。3. 麻疹病毒：通过咳嗽、喷嚏等飞沫经呼吸道侵入人体。4. 斑疹伤寒立克次体：由普氏立克次体通过人虱传播。5. 恙虫病立克次体：由恙螨叮咬侵入人体。6. Q热柯克斯体：蜱体内能保存很久并可经卵传代。故答案选择B。",
+                            "TestPoint": "传染性疾病",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乙型脑炎病毒，登革病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙型脑炎病毒，麻疹病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "登革病毒，斑疹伤寒立克次体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "登革病毒，恙虫病立克次体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙型脑炎病毒，Q热柯克斯体"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002255,
+                            "ATestID": 43002255,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b1e1ccfd39b99ebd3ccaa7a8cdf3cc937b1ee310a8337e97c9985d72e3f31bf9422929a1a9ad42f860513f41778c6e3e",
+                            "Explain": "乙型脑炎病毒的主要传播途径是虫媒传播。",
+                            "TestPoint": "流行性乙型脑炎",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "消化道传播"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "输血传播"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "虫媒传播"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "呼吸道传播"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "直接接触传播"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014963,
+                            "ATestID": 43014963,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "43ac24506e974bdb0eec4bb6fdc637bceed31ccd0b2b800af0322606b949de566cb5f2cc6ca7437faef1b6d2f56e5d7900aaf3c763f622b2fa2d401181766cf62e5bd12dff99964a",
+                            "Explain": "乙脑病毒传染源主要是带毒的猪、牛、羊、马等家畜和鸟类，幼猪是最重要的传染源和中间宿主。主要传播媒介是三带喙库蚊，蚊子不仅是传播媒介而且是重要的传播宿主，故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "蚊"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "幼猪"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "成年猫"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "乙型脑炎带毒者"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "虱"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014964,
+                            "ATestID": 43014964,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 391,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000302,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000302,
+                        "ChildTableID": -1,
+                        "UserCount": 1331,
+                        "RightCount": 790,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000302,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 41000303,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000303,
+                        "ChildTableID": -1,
+                        "UserCount": 1353,
+                        "RightCount": 703,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000303,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 41000304,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000304,
+                        "ChildTableID": -1,
+                        "UserCount": 1314,
+                        "RightCount": 820,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 1
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000304,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 1
+            },
+            {
+                "AllTestID": 43000314,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000314,
+                        "ChildTableID": -1,
+                        "UserCount": 1179,
+                        "RightCount": 1098,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000314,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43002254,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002254,
+                        "ChildTableID": -1,
+                        "UserCount": 1315,
+                        "RightCount": 587,
+                        "FavCount": 38,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002254,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43002255,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002255,
+                        "ChildTableID": -1,
+                        "UserCount": 1314,
+                        "RightCount": 684,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002255,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43014963,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014963,
+                        "ChildTableID": -1,
+                        "UserCount": 1042,
+                        "RightCount": 988,
+                        "FavCount": 0,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014963,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43014964,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014964,
+                        "ChildTableID": -1,
+                        "UserCount": 1164,
+                        "RightCount": 719,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014964,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

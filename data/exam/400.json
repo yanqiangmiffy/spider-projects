@@ -1,0 +1,176 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:02:28 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "697e7d81b080a21697e24ef29ab26c863db1502ed3b33176a83087d978ccef06",
+                            "Explain": "朊病毒蛋白是一类高度保守的糖蛋白。正常朊病毒(PrPc)广泛表达于脊椎动物细胞表面，它可能与神经系统功能的维持、淋巴细胞信号转导及核酸代谢等有关。致病性朊病毒(PrPsc)是PrPc的构象异构体，两者之间没有共价键差异。PrPsc可引起一系列致死性神经变性疾病，这种与朊病毒蛋白构象相关的疾病统称为朊病毒病。其他四种病原体都可以通过性接触传播。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "生殖器疱疹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HIV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "HBV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "解脲脲原体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "朊病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000321,
+                            "ATestID": 43000321,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 400,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "74b7161f73520797056c6ebc8fc0f8a2053cdd7e83fe8e8ddfe9f3a4f5dcf4d0",
+                            "Explain": "朊粒是不含核酸，对蛋白酶有抗性的蛋白，所以不含有DNA，选D。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "引起人和动物中枢神经退化性病变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "不含有RNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "是蛋白酶抗性蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "仅含DNA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "具有传染性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002267,
+                            "ATestID": 43002267,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 400,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000321,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000321,
+                        "ChildTableID": -1,
+                        "UserCount": 1124,
+                        "RightCount": 731,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000321,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002267,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002267,
+                        "ChildTableID": -1,
+                        "UserCount": 1146,
+                        "RightCount": 678,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002267,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

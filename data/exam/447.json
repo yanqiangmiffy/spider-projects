@@ -1,0 +1,761 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:26:49 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "9eb2abf5fc05a04c3c1a09125be918d0d67172bbed0d974499ad1c06627aed89",
+                            "Explain": "表达于成熟B细胞。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "属肿瘤坏死因子受体超家族"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "是诱导B细胞再次应答的必需条件"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "表达于滤泡树突状细胞及活化的单核细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "与T细胞表面CD40L结合"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "表达于成熟T细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000350,
+                            "ATestID": 43000350,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d2f28a47c06e4777dd28583cef8bcec7b05e078b2b2a165269dd8b99dd71e9b8ddb69065e8e81266c098e8d785e2f3e84d476b89294e435d",
+                            "Explain": "T淋巴细胞B淋巴细胞K淋巴细胞NK淋巴细胞肥大细胞单核吞噬细胞系统。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "TCR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "BCR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "FcR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "GVHR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CR"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002327,
+                            "ATestID": 43002327,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "716209c08f887ab6285b23abd5ea0bb7cdb3187773d45c29e72928f6f3ee20176a3fda5a0f0d832c",
+                            "Explain": "CD40-CD40是与T细胞和B细胞功能有关的一种表面抗原,其前体含有297aa,为I型跨膜糖蛋白.参与B细胞活化。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "CD3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "CD4"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "CD40"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "CD8"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CD28"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002328,
+                            "ATestID": 43002328,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d2f28a47c06e4777dd28583cef8bcec7bd17960b28990863438e6db6619ea38763d149f642c73fee",
+                            "Explain": "1.免疫球蛋白超家族：有关免疫球蛋白超家族中某些常见的黏附分子如CD4、CD8、CD22、CD28、CTLA-4、ICOS、ICAM-1、CD80、CD86等；2.整合素家族：包括β1组～β88个组；3.选择素家族：包括L-选择素、P-选择素和E-选择素；4.粘蛋白样血管地址素；5.钙黏蛋白家族。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "整合素家族"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "选择素家族"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "免疫球蛋白超家族"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "钙黏蛋白家族"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "钙调蛋白家族"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002329,
+                            "ATestID": 43002329,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a9226ae0adb1972ef2600eba0454d6df21e4869747fd821ae404806b20260e5d7b8b",
+                            "Explain": "1.淋巴细胞归巢；2.参与细胞的识别，细胞的活化和信号转导。免疫细胞识别中的辅助受体和协同刺激或抑制信号；3.炎症过程中白细胞与血管内皮细胞黏附；4.细胞的增殖与分化；5.细胞的伸展与移动；6.是免疫应答、炎症发生、凝血、肿瘤转移以及创伤愈合等一系列重要生理和病理过程的分子基础。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "细胞活化增生",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "肿瘤转移",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "补体活化",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "炎症及凝血",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "淋巴细胞归巢",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002330,
+                            "ATestID": 43002330,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185d8914842423c234a11d3c95e42266bff1622d952e15baccf604d3fe7a44c2b7d5a5caceff9bcd07afcea6fd50fab9d6865e45f74699f1dd6",
+                            "Explain": "不属于T细胞-APC识别刺激信号的黏附分子CD19/CD21/CD81复合体-C3d。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "CD4-MHCⅡ类分子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "CD8-MHCⅠ类分子"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "CD19/CD21/CD81复合体-C3d"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "CD28-CD80／CD86"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "LFA1-ICAM1"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002331,
+                            "ATestID": 43002331,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5b0872252ae6f66a8b2a5afbfcdf5e38c5a7a86e273a3a7a56385e2e118770639d9543171ecfe6fa29e292797d45938bcd4d9a82a8e39ae73aad21c10c3d9617738d6b43d7021cfffda4ee49867ab997",
+                            "Explain": "协同刺激信号是免疫活性细胞活化需要的第二双信号刺激，是抗原提呈细胞表面协同刺激分子与淋巴细胞表面协同刺激分子受体结合、相互作用后产生的。其中最重要的协同刺激信号为APC表面的B7分子和T细胞表面的CD28分子，T细胞表面CD40L和B细胞表面CD40分子结合产生的活化信号。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "CD40-CD40L"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "CD80-CD28"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "CD86-CD28"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "ICAM-1-LFA-1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "B7.1-CTLA-4"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002332,
+                            "ATestID": 43002332,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1262d46e5de175299e3d1314708164637d0ec2146a7096ce123397ef39d990383ad01699df9dea11cf6a818de1eaaf29",
+                            "Explain": "B细胞共受体：CD19、20、21，CD40，CD80 协同刺激分子包括：CD40、CD80/86和黏附分子，所以选E。",
+                            "TestPoint": "免疫细胞",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CD4"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CD19"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CD21"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "CD28"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CD40"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015024,
+                            "ATestID": 43015024,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "8419e849a5e7c8fea388800a5f582b6e69dd5fc762287564c61cfc3cfc2196bce0ae360b1ae2531d",
+                            "Explain": "具有抑制补体活化作用的是CR1。",
+                            "TestPoint": "补体系统",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CD"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CAM"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CR1"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "CKR"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "FcR"
+                                }
+                            ],
+                            "AllTestID": 43002333,
+                            "BTestID": 43000550,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 447,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000550,
+                                    "Title": "8419e849a5e7c8fea388800a5f582b6e69dd5fc762287564c61cfc3cfc2196bce0ae360b1ae2531d",
+                                    "Explain": "具有抑制补体活化作用的是CR1。",
+                                    "TestPoint": "补体系统",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000551,
+                                    "Title": "85cdafdef04f4fd31d68aab82df9d282357fd6c2bbd33c5487a0cebeff0e3d530573288875e648a864c2e574dd327b7e481a96bac29a175505ad8f05222a561c69ec16fff331b472",
+                                    "Explain": "白细胞分化成熟不同阶段的所表达的细胞表面标志是CD分子，选A。",
+                                    "TestPoint": "免疫细胞",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000552,
+                                    "Title": "8baf625e07ea325561d86e9b1a7ff806d38927759bc9444364c5c656d127ce04836c51ab77295cf4f1f94bf30fd537252f5aa87f8b23b960",
+                                    "Explain": "在细胞间或细胞与基质间起黏附作用的是CAM（细胞粘附因子）。",
+                                    "TestPoint": "细胞",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000350,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000350,
+                        "ChildTableID": -1,
+                        "UserCount": 1120,
+                        "RightCount": 585,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000350,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43002327,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002327,
+                        "ChildTableID": -1,
+                        "UserCount": 1066,
+                        "RightCount": 679,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002327,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43002328,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002328,
+                        "ChildTableID": -1,
+                        "UserCount": 1030,
+                        "RightCount": 756,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002328,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002329,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002329,
+                        "ChildTableID": -1,
+                        "UserCount": 1082,
+                        "RightCount": 577,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002329,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002330,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002330,
+                        "ChildTableID": -1,
+                        "UserCount": 1108,
+                        "RightCount": 448,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002330,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002331,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002331,
+                        "ChildTableID": -1,
+                        "UserCount": 953,
+                        "RightCount": 649,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002331,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002332,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002332,
+                        "ChildTableID": -1,
+                        "UserCount": 928,
+                        "RightCount": 706,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002332,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015024,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015024,
+                        "ChildTableID": -1,
+                        "UserCount": 887,
+                        "RightCount": 693,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015024,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002333,
+                "ChildTableID": 43000550,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002333,
+                        "ChildTableID": 43000550,
+                        "UserCount": 1031,
+                        "RightCount": 458,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002333,
+                    "ChildTableID": 43000550
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002333,
+                "ChildTableID": 43000551,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002333,
+                        "ChildTableID": 43000551,
+                        "UserCount": 975,
+                        "RightCount": 588,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002333,
+                    "ChildTableID": 43000551
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002333,
+                "ChildTableID": 43000552,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002333,
+                        "ChildTableID": 43000552,
+                        "UserCount": 1008,
+                        "RightCount": 462,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002333,
+                    "ChildTableID": 43000552
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

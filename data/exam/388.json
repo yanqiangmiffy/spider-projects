@@ -1,0 +1,1353 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:26:17 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 12,
+                    "TestItems": [
+                        {
+                            "Title": "96d548afe676d56469478f53b9af7290cdc66d0f40bbefd59b5f16ec99ec557c0e2ca21bd641fd38",
+                            "Explain": "干扰素α主要用于慢性乙型肝炎和丙型肝炎抗病毒的治疗，主要通过诱导宿主产生细胞因子，在多个环节抑制病毒复制。拉米夫定是一种反转录酶抑制剂，具有较强抑制HBV复制的作用。更昔洛韦能预防及治疗免疫功能缺陷患者的巨细胞病毒感染。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "干扰素α"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "干扰素β"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "干扰素γ"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "拉米夫定"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "更昔洛韦"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000295,
+                            "ATestID": 41000295,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9a9d6efb369bd503425ff0521f308246a55e58c15c04f739348999839ecde02eaa4e32f21dcaccd60bb700c3e56da3e650229646a637b7f7f54c0405531df87f",
+                            "Explain": "乙型肝炎病毒的致病机制：①细胞免疫及其介导的免疫病理损伤；②体液免疫及其介导的免疫损伤；③自身免疫反应引起的损伤。乙型肝炎病毒造成肝细胞病变是因为细胞介导的免疫病理损伤。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "直接损伤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "诱发体液免疫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "诱发细胞免疫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "诱导免疫耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "DNA与人体染色体整合"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000296,
+                            "ATestID": 41000296,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dfc22dea278693406c09513287419af47d2820ce150d5be0a71bf2757b6693ddf87a1e8ee68412431dbcccbc1867f530",
+                            "Explain": "戊型肝炎病毒(HEV)曾被称为肠道传播的非甲非乙型肝炎病毒，是通过肠道传播。故选A。其他选项都不是HEV的主要传播途径.B、C、D、E都错误。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "消化道传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "输血传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "虫媒传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "呼吸道传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "直接接触传播"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000297,
+                            "ATestID": 41000297,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0e3650272229fa34554d0e505de3be1d0a40c6d83bedaef0efe029a43bd1442244375c6b1a3a207510dfa180553cc779e1e2bfef82eb3a2d22a1b09b197f14cc6253e3a106787031da0be274ca0b5b855baca562bc8a06a5ff09548ce359040435df02e329493b3e668e548c952c64ad2cb034120bbdf32c2b514dc038e94316bb894dd09f24989cf386e6e255dbf1237003a7c84d66434afd99fd23b0425a488a31e44f0846bf07ee32bf84a95ceff778d2d4ce5712be4a",
+                            "Explain": "血中查出HBsAg为机体感染HBV的重要标志。抗-HBs阳性是HBV感染恢复的标志，也是乙肝疫苗免疫成功的标志。抗-HBe阳性表示机体已获得一定的免疫力，HBV复制能力减弱，传染性降低。抗-HBc阳性表示HBV处于复制状态，具有强的传染性。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "+  -  +  -"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "+  +  -  -"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "-  +  -  +"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "-  -  -  +"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "-  -  +  -"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000300,
+                            "ATestID": 41000300,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "11a0051e1c283c44db1a9bc7607b2ef76bbfd03314237ec3e23bf97a887396a4302de59b8868aaadf7d784d02d789ab8a0d44fccb36040dc",
+                            "Explain": "甲型肝炎在黄疸前期DNA复制最强。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "潜伏期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "黄疸前期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "黄疸期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "恢复期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "慢性期"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000308,
+                            "ATestID": 43000308,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea818573ac7976217c52eaa86d61a246965b944c3096c75ec59a9a7bd2c43c8011cce3",
+                            "Explain": "甲型肝炎病毒(HAV)，属嗜肝RNA病毒科，主要经粪-口传播，人类感染HAV后，大多表现为亚临床或隐性感染，仅少数人表现为急性甲型肝炎，无慢性化，预后好，故不会诱发肝癌。患过甲肝或隐性感染者，可获得持久的免疫力，或是注射甲肝活疫苗也可获得持久免疫力。故答案选择C。",
+                            "TestPoint": "于甲型肝炎病毒特点",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "属于无包膜小RNA病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "主要经粪-口传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "预后不良可诱发肝癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "病后可获持久免疫"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可用灭活或减毒活疫苗预防"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002244,
+                            "ATestID": 43002244,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c6685412a3f0dba941019e890aab7143159ad47608302be64b3f44f86767d696531bda49db49b57f0b143b61ceed8f38",
+                            "Explain": "检测乙肝抗原与抗体的实际用途：（1）筛选供血员。（2）可作为乙肝病人或携带者的特异性诊断。（3）对乙肝病人预后和转归提供参考。（4）研究乙肝的流行病学，了解各地人群对乙肝的感染情况。（5）判断人群对乙肝的免疫水平。故答案选择C。",
+                            "TestPoint": "检测乙肝抗原与抗体的实际用途",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "用于乙型肝炎的诊断"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "用于筛选合格的献血员"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "选择治疗用药的参考"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "判断乙型肝炎的预后"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "调查人群的免疫水平"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002245,
+                            "ATestID": 43002245,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a6ac9906cf5fedb9fcf03e4f5605350911939053391a6faf126d83234ee121593c7851d2b369575ab2fc2fb82c57adf8",
+                            "Explain": "乙型肝炎病毒表面抗原(HBsAg)是指乙型肝炎病毒外壳部分所含的小球形颗粒与管型颗粒，乙型肝炎病毒表面抗原在乙型肝炎病毒感染早期出现于病人血循环中，可持续数月、数年乃至终身，是诊断乙型肝炎病毒感染最常用的指标。但在所谓乙型肝炎病毒感染的窗口期，乙型肝炎病毒表面抗原可以阴性。故答案选择C。",
+                            "TestPoint": "乙肝病毒表面抗原",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "3种HBV颗粒均含有HBsAg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "检出HBeAg表示体内有病毒复制"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "仅有携带者能检出HBsAg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "检出抗HBs表示已获免疫力"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抗HBcIgM阳性表示体内有HBV复制、有传染性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002246,
+                            "ATestID": 43002246,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5fbb297162c57f93e1516b0862835523ba0c6c549a6cb464bcdcc24b2df6e0d61ff18fdd92653f510db0553ffe45c368",
+                            "Explain": "孕妇HBeAg(+)，说明感染有乙肝病毒，新生儿最好应注射HBlg+乙型肝炎疫苗。HBIg主要用于新生儿、接触乙肝患者血液的意外操作者、性伴侣间的乙肝病毒暴露后的紧急预防及乙肝患者或表面抗原携带者的密切接触者的预防。尤其是表面抗原阳性母亲的新生儿的母婴阻断，其效果与注射HBIg时间有关，越早效果越好，但最好与乙肝疫苗联合应用。故答案选择B。",
+                            "TestPoint": "乙肝病毒暴露后的紧急预防",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "丙种球蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HBlg+乙型肝炎疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "干扰素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胎盘球蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "乙型肝炎疫苗"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002247,
+                            "ATestID": 43002247,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "337680ca62f414dfb7546c84086f78e9c2907b20a3d35497102919371050de8d602e26c696eb587c",
+                            "Explain": "通过输血传播的肝炎为HBV、HCV，所以选择HCV（本题目中无HBV选择项）。HAV、HEV通过消化道传播。HDV是缺陷病毒，只有HDV可以在存在HBV感染的基础上出现重叠感染。HIV是人免疫缺陷病毒，引起的是艾滋病。故答案选择C。",
+                            "TestPoint": "肝炎病毒的传播途径",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "HAV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HIV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "HCV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HDV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "HEV"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002248,
+                            "ATestID": 43002248,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "daf5df901412406b524e3627e1ced42e2531e3b0352ff433ddfd253334a0c303f8a110b06d653e57bfbac7dc7d66eeb3490a050c698abbfc030ef157d05f843c",
+                            "Explain": "戊型肝炎的主要传播途径是粪-口途径传播。其他选项均正确。故答案选择E。",
+                            "TestPoint": "肝炎病毒",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "HAV-消化道传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HBV-输血和注射"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "HCV-输血和注射"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HDV-输血和注射"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "HEV-输血和注射"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002249,
+                            "ATestID": 43002249,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7765ab0341928e1373d7b219ba46f5394c14dfdfe7c49b94c7e859e46a038e2a",
+                            "Explain": "1970年首先由DSDane在乙型肝炎病毒感染者的血清中发现，故称为Dane（丹）颗粒。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "丁型肝炎病毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乙型肝炎病毒"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "甲型肝炎病毒"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "戊型肝炎病毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "丙型肝炎病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014960,
+                            "ATestID": 43014960,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 4,
+                    "TestItems": [
+                        {
+                            "Title": "ab245cc7474d45a60e6f91ed8b264e03bb14f63c245be4d40b14fe062a0ffc9012e66407d6fcc17ed6864777fb56bed7b6b3c10c6f6039d5c8aac514a07ab6601aedb91548fc093aec49191ba6137c294345f600b28bc1dfebd50d07efb47f58a2a3660999cea60d36b6b6fcf13563550d49f5eec84da8c4b220fe0106a61ab2ad494c7c3022de20033a531086dbbeb1a360c3efe34360823ddf8e3b1a0286637e3328ed8e92853f5b377a13801fd1e96294946f8687b777282bf3c3a7a7ea536caf0b46350a306a40f3251a0e9d945153ca37132d8ffa256a0dac11159024ba81e14ef28e216255e015ed52c4591926cea01c1c3bd12807c20041bdb9ddf59a68f66753f175bfda62198c380ce374f8",
+                            "Explain": "常见肝炎病毒有甲肝病毒-HAV，乙肝病毒-HBV，丙肝病毒-HCV，丁肝病毒-HDV，戊肝病毒-HEV。通过实验室检查，抗HAV阳性，说明病人感染的是甲肝病毒。故诊断为甲型肝炎。故答案选择A。",
+                            "TestPoint": "肝炎病毒",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "甲型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "丙型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "丁型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "戊型肝炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002250,
+                            "ATestID": 43002250,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a316062827100ac2255b01f7ea06ea64a34773afb6545fa8ff02682af911ed5957eaf57a49cdca48114b6f45257d9ef763c9a423c06774d737bdef4710e43b7e3c085f4814568cb8c11d14c8bb878c5f3c6228f9430f1e58fbd469945d5bab0e56d31556f663bac80a8403aa221b2d0f5d124ea15d6fd24bc5dc15cc69c62ac5425b3302351d183436e1e4e653b5988264d2f54cdc2c60687f507b2fed8084a5",
+                            "Explain": "常见肝炎病毒有甲肝病毒-HAV，乙肝病毒-HBV，丙肝病毒-HCV，丁肝病毒-HDV，戊肝病毒-HEV。而抗HCV-IgM抗是丙肝抗体，主要HCV感染后刺激机体产生的免疫球蛋白G。故答案选择C。",
+                            "TestPoint": "肝炎病毒",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "甲型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "乙型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "丙型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "丁型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "戊型肝炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002251,
+                            "ATestID": 43002251,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0ca4b3dd03ea16acc6b4ffbe64f899c0d442059cd26151f95887205160247a3d4eccedc47a20d924757130f080d46972a7324302526f6fb03e6602b75e8d88ef86edf372f9008e4b102f345c1f945fbcd9a8de205736c05196119f67322a3f141cc7a42a342a795d8b0c6ba4b9759109de5d431a052375b54bc543a6c2b81e153f712613e1f5efe019e4b5cacc7492858d1c09bd16eb47c2afa798a11e950b95",
+                            "Explain": "通过输血传播的肝炎为HBV、HCV，所以选择HCV（本题目中无HBV选择项）。HAV、HEV通过消化道传播。HDV是缺陷病毒，只有HDV可以在存在HBV感染的基础上出现重叠感染。抗CMV由巨细胞病毒引起是一种疱疹病毒,传播方式为胎盘或生殖道上行感染、输血等，不属于肝炎。故答案选择B。",
+                            "TestPoint": "肝炎病毒的特点",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抗HAV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗HCV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗HDV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抗HEV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抗CMV"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002252,
+                            "ATestID": 43002252,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "226182cd4e2fec20aa956e15ce57e44550ff811f044c0a5e2eceb6af94dcac0b50bebd232d9c029acb32f57636bc2ba8a8e17a83b5723f6c4508115989158a75344682778922dd3eb6dc882025663750d8f43ccba922741fb4076f6dd8216e3db2d9a2dc9ada2f879b69c1e9efa8cd443ff00305724e1103b4df052a346b875e53928f9cbea0fcef",
+                            "Explain": "该患者是合并HDV感染，因为HDV是缺陷病毒，只有HDV可以在存在HBV感染的基础上出现重叠感染。故答案选择C。",
+                            "TestPoint": "肝炎病毒的特点",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "HAV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HCV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "HDV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HEV"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CMV"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002253,
+                            "ATestID": 43002253,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "dfc22dea278693406c09513287419af47d2820ce150d5be0a71bf2757b6693ddf87a1e8ee68412431dbcccbc1867f530",
+                            "Explain": "丙型肝炎病毒(HCV)过去被称为肠道外传播的非甲非乙型肝炎病毒。现被归属于黄病毒科。经输血、血制品或污染注射器而传播，是引起输血后慢性肝炎和肝硬化的主要原因之一。戊肝主要经消化道传播，蚊虫是乙脑病毒的主要传播媒介。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "消化道传播"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "输血传播"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "虫媒传播"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "呼吸道传播"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "直接接触传播"
+                                }
+                            ],
+                            "AllTestID": 43000312,
+                            "BTestID": 43000088,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 388,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000088,
+                                    "Title": "dfc22dea278693406c09513287419af47d2820ce150d5be0a71bf2757b6693ddf87a1e8ee68412431dbcccbc1867f530",
+                                    "Explain": "丙型肝炎病毒(HCV)过去被称为肠道外传播的非甲非乙型肝炎病毒。现被归属于黄病毒科。经输血、血制品或污染注射器而传播，是引起输血后慢性肝炎和肝硬化的主要原因之一。戊肝主要经消化道传播，蚊虫是乙脑病毒的主要传播媒介。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000089,
+                                    "Title": "96d548afe676d564ddb7e1ea4ea2f57db75ffba7659cc0d0a6e1038fbecb6eefe6fa126ad16b791b7a3d71871d81bfc5",
+                                    "Explain": "丙型肝炎病毒(HCV)过去被称为肠道外传播的非甲非乙型肝炎病毒。现被归属于黄病毒科。经输血、血制品或污染注射器而传播，是引起输血后慢性肝炎和肝硬化的主要原因之一。戊肝主要经消化道传播，蚊虫是乙脑病毒的主要传播媒介。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000090,
+                                    "Title": "b1e1ccfd39b99ebd3ccaa7a8cdf3cc937b1ee310a8337e97c9985d72e3f31bf9422929a1a9ad42f860513f41778c6e3e",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000295,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000295,
+                        "ChildTableID": -1,
+                        "UserCount": 1407,
+                        "RightCount": 587,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000295,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 41000296,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000296,
+                        "ChildTableID": -1,
+                        "UserCount": 1345,
+                        "RightCount": 689,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000296,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 41000297,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000297,
+                        "ChildTableID": -1,
+                        "UserCount": 1244,
+                        "RightCount": 1049,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000297,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000300,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000300,
+                        "ChildTableID": -1,
+                        "UserCount": 1397,
+                        "RightCount": 797,
+                        "FavCount": 39,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000300,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43000308,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000308,
+                        "ChildTableID": -1,
+                        "UserCount": 1350,
+                        "RightCount": 679,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000308,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43002244,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002244,
+                        "ChildTableID": -1,
+                        "UserCount": 1252,
+                        "RightCount": 821,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002244,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002245,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002245,
+                        "ChildTableID": -1,
+                        "UserCount": 1305,
+                        "RightCount": 579,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002245,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002246,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002246,
+                        "ChildTableID": -1,
+                        "UserCount": 1238,
+                        "RightCount": 797,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002246,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002247,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002247,
+                        "ChildTableID": -1,
+                        "UserCount": 1208,
+                        "RightCount": 721,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002247,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002248,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002248,
+                        "ChildTableID": -1,
+                        "UserCount": 1213,
+                        "RightCount": 905,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002248,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002249,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002249,
+                        "ChildTableID": -1,
+                        "UserCount": 1172,
+                        "RightCount": 921,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002249,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43014960,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014960,
+                        "ChildTableID": -1,
+                        "UserCount": 1121,
+                        "RightCount": 859,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014960,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43002250,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002250,
+                        "ChildTableID": -1,
+                        "UserCount": 1113,
+                        "RightCount": 979,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002250,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002251,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002251,
+                        "ChildTableID": -1,
+                        "UserCount": 1137,
+                        "RightCount": 991,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002251,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002252,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002252,
+                        "ChildTableID": -1,
+                        "UserCount": 1135,
+                        "RightCount": 1005,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002252,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002253,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002253,
+                        "ChildTableID": -1,
+                        "UserCount": 1248,
+                        "RightCount": 813,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002253,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000312,
+                "ChildTableID": 43000088,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000312,
+                        "ChildTableID": 43000088,
+                        "UserCount": 1126,
+                        "RightCount": 1002,
+                        "FavCount": 1,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000312,
+                    "ChildTableID": 43000088
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000312,
+                "ChildTableID": 43000089,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000312,
+                        "ChildTableID": 43000089,
+                        "UserCount": 1127,
+                        "RightCount": 999,
+                        "FavCount": 0,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000312,
+                    "ChildTableID": 43000089
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43000312,
+                "ChildTableID": 43000090,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000312,
+                        "ChildTableID": 43000090,
+                        "UserCount": 1228,
+                        "RightCount": 817,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000312,
+                    "ChildTableID": 43000090
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

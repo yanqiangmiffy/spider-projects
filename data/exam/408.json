@@ -1,0 +1,2103 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:03:08 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 21,
+                    "TestItems": [
+                        {
+                            "Title": "1230d563be253302efcefa2a15b3ee89cd25838eb46cac53dcbeea025a404ab56ef3b9bc063a05e0",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "B淋巴细胞",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "浆细胞",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "单核细胞",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "NK细胞",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "巨噬细胞",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000320,
+                            "ATestID": 41000320,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题正确答案为A，已修改。",
+                            "OperateTime": "2018年11月13日"
+                        },
+                        {
+                            "Title": "f62e8d3f5200d095e98004c9bdda31e5b7ee95d18d8e44f031da9ac5c5e916dc",
+                            "Explain": "双信号的刺激导致T细胞完全活化：第一信号来自抗原，为APC表面的MHC-抗原肽复合物与TCR(CD4和CD8)的相互作用和结合；第二信号来自共刺激分子，为APC表面的共刺激分子与T细胞表面的相应配体的相互作用和结合。故A、B说法正确。T细胞的主要功能有：辅助Ig产生、辅助B细胞增生、参与迟发型超敏反应、介导细胞毒性作用、产生细胞因子，故D、E说法正确。T细胞依靠TCR分子来识别特异性抗原，故C说法错误，选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "活化需要双信号"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "作用受MHC限制"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "可直接识别外源抗原"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "对B细胞有辅助作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "可产生细胞因子"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000321,
+                            "ATestID": 41000321,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bf050f07d30ac3231103c15cdc72c8cfcafc694f4bbfd7febd0fef8bfc58ad10cdc29fc26e2f0406",
+                            "Explain": "B细胞受体(BCR)属于膜型免疫球蛋白，即膜表面免疫球蛋白(SmIg)，通过与特异性抗体结合，启动B细胞活化的第一信号，这是B细胞免疫应答的第一阶段，也是最重要的阶段，故A对。CD5是T细胞表面标志，故C错。CD40和CD80是B细胞表面标志，但不是最重要的。FcγR存在于多种细胞表面，也不是B细胞表面最重要的标志。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "SmIg"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "FcγR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "CD5"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "CD40"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CD80"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000322,
+                            "ATestID": 41000322,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7a3e3d1c9f62d76c50a3635e748435c4104ad2ced51e7123dd45eebc454028c4f54e245badd3799b732acfe8f661c9b1",
+                            "Explain": "在免疫应答识别阶段T细胞与APC之间的作用以及效应阶段T细胞与靶细胞之间的作用都涉及TCR对自身MHC分子的识别，即只有当相互作用细胞双方的MHC分子一致时，免疫应答才能发生，这一现象称为MHC限制性。受MHC限制的细胞间相互作用主要发生在T淋巴细胞与树突细胞之间。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "巨噬细胞与肿瘤细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肥大细胞与T淋巴细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "中性粒细胞与B淋巴细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "NK细胞与病毒感染细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "T淋巴细胞与树突细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000323,
+                            "ATestID": 41000323,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "90ed870007c8d331ecefba18224c8cb9b1c20f65136422ae7cd79f929d6ae68d",
+                            "Explain": "人类杀伤细胞免疫球蛋白样受体(KIR)是一种主要表达在NK细胞、T细胞上的抑制性信号传递分子。正常情况下，KIR的存在可能是NK、T细胞不攻击自身正常组织的重要因素。KIR分子传递的抑制性信号可能是活化T细胞的负调节因素。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "KIR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "KAR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "TCR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "MBL"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CEA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000324,
+                            "ATestID": 41000324,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bf050f07d30ac323de3422c070d3a82001675a7c10f6c5e8",
+                            "Explain": "B淋巴细胞的表面标志：CD19和CD20分子是人B细胞特有的表面标志，存在于前B细胞、未成熟B细胞和成熟B细胞表面，其主要功能是调节B细胞活化。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "CD28"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "CD3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "CD4"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "CD8"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "CD20"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000335,
+                            "ATestID": 43000335,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "383831a6476f39e1c73cb3175ef7446664eca8c6005f4bc8476b42ebdb4b957320f1d0d7fbeb1bb404143c9c10db427b",
+                            "Explain": "T细胞表面的重要标志包括TCR-CD3复合物、CD4和CD8、协同刺激分子和丝裂原结合分子等。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "识别抗原受体"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "细胞因子受体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "C3受体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "CD3分子"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "毛刺"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014992,
+                            "ATestID": 43014992,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "db75f3ba8b2aa061514518167038a9d0a05329317d63226d74b54b47d4fb69aab74074a70803fc3970e71183eb6b5252",
+                            "Explain": "病毒感染主要引起淋巴细胞增多。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "巨噬细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "淋巴细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "浆细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "嗜酸性粒细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "单核细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014993,
+                            "ATestID": 43014993,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dd34a38ddf6edc0b38ba363712b63a8073aa41be08bdbfe0",
+                            "Explain": "IL-2由T淋巴细胞产生，可促进活化的T、B细胞增殖，活化NK细胞及其他杀伤细胞功能。",
+                            "TestPoint": "免疫细胞",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "巨噬细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "B细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "T淋巴细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肥大细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "B淋巴细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014994,
+                            "ATestID": 43014994,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "142f92633b8d07c2de80fbfa95d22bb57a81e905d34d3a53e7b02d61bc4560f79bc5146a91199abd",
+                            "Explain": "TH2分泌IL-4、5、6、10等。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "IFN-α"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "IL-4"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "TNF-B"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "IFN-γ"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "胸腺肽"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014995,
+                            "ATestID": 43014995,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b905344b208ae9441f5f7dc0d4175505301bdf398d58cfbba4ec2762642f825abb489b439141b6a19ec5f9608d037a8c",
+                            "Explain": "只有T和B细胞才具有特异性的抗原识别受体，接受抗原信号。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "B淋巴细胞",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "浆细胞",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "巨噬细胞",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "NK细胞",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "单核细胞",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014996,
+                            "ATestID": 43014996,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题无误，不做修改。",
+                            "OperateTime": "2018年9月11日"
+                        },
+                        {
+                            "Title": "1230d563be253302efcefa2a15b3ee89cd25838eb46cac53dcbeea025a404ab56ef3b9bc063a05e0",
+                            "Explain": "有特异性抗原受体的细胞是B淋巴细胞，通过接受特异性的抗原进行分化，从而产生特异性抗体，选A。",
+                            "TestPoint": "免疫细胞",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "B淋巴细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "浆细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "NK细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "巨噬细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "单核细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014997,
+                            "ATestID": 43014997,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bf050f07d30ac3231103c15cdc72c8cfcafc694f4bbfd7febd0fef8bfc58ad10cdc29fc26e2f0406",
+                            "Explain": "mlg是B细胞的特征性表面标志。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Smlg"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CD5"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CD40"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "FCYR"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CD56"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014998,
+                            "ATestID": 43014998,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c27374ba19d5b668b630a0b50b81dfc15fa4df3daf28c643c4dff2a8170698f3",
+                            "Explain": "B细胞表面的CD19与CD21及CD81（TAPA-1）非共价相连，形成B细胞活化的共受体，能提高B细胞对抗原刺激的敏感性。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CD8"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CD4"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CD3"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "CD19"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CD56"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014999,
+                            "ATestID": 43014999,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f62e8d3f5200d09534dc24fa9d27404f6647a21e92cb664f6571ee62a41958025e283ecc35d22c6cc8b63e23dbe389a0",
+                            "Explain": "NK能杀伤与IgG抗体结合的靶细胞，这种杀伤作用称为抗体依赖细胞介导的细胞毒作用，即ADCC效应。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "直接杀伤靶细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "产生细胞因子"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "参与对病毒的免疫应答"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "介导ADCC效应"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "诱导抗体的类别转换"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015000,
+                            "ATestID": 43015000,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a8d81d1aedf840045cecf26b912b1842326621ba897acb4ca160364202f7e6c6e5361544e676a300",
+                            "Explain": "T细胞的生物学功能：①能分泌不同的细胞因子；②能特异性直接杀伤靶细胞；③参与对病毒的免疫应答；④诱导抗体的类别转换 。抗体依赖的细胞介导的细胞毒作用(ADCC)是指IgG抗体结合病毒感染细胞或肿瘤细胞后，NK细胞可通过表面的Fc受体与IgG的Fc段结合，从而杀伤靶细胞 。NK细胞能介导ADCC效应，而T细胞不能介导ADCC效应，所以选E。",
+                            "TestPoint": "免疫细胞",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "产生细胞因子"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "直接杀伤靶细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "参与对病毒的免疫应答"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "诱导抗体的类别转换"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "介导ADCC效应"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015001,
+                            "ATestID": 43015001,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a6811575747882e7d7180404bf1201faee1128cb1e146766b253a230f4389e1d7560f376246cc30e39a68c0e53d596d419caca06a3489344d5a393871c0c0c97",
+                            "Explain": "NK细胞能介导ADCC效应，所以选D。",
+                            "TestPoint": "免疫细胞",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "B细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "浆细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CTL"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "NK细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肥大细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015002,
+                            "ATestID": 43015002,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8c2df938c1a4905e60633518893bb23dc136f844b7e575c7",
+                            "Explain": "抗体依赖的细胞介导的细胞毒作用(ADCC)是指IgG抗体结合病毒感染细胞或肿瘤细胞后，NK细胞可通过表面的Fc受体与IgG的Fc段结合，从而杀伤靶细胞，所以选B。",
+                            "TestPoint": "免疫细胞",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "IFN-y"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "IgG"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CD3"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "IL-4"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肥大细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015003,
+                            "ATestID": 43015003,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f07ff7324c7a6985ca70ccd5024bf120df78393159993954466f6d8dd8dec3ffd261c0e89107b30f206e02dd1d9830c2",
+                            "Explain": "NK细胞表面具有HLAⅠ类分子。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "辅助性T细胞-CD4抗原阳性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "细胞毒性T细胞-CD8抗原阳性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "单核吞噬细胞-MHCⅡ类抗原阳性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "NK细胞-CD4抗原阳性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "人红细胞-MHCⅠ类抗原阴性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015004,
+                            "ATestID": 43015004,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a6811575747882e7e3b5a86fbab9512ba2310594424116d91ead26f5c7bbc875",
+                            "Explain": "树突状细胞表面表达MHCⅡ类分子，故受到MHC（人类主要组织相容性复合体）限制。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CTL杀伤病毒感染细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "巨噬细胞吞噬细菌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "NK细胞杀伤肿瘤细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抗体结合病毒"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "树突状细胞摄取抗原"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015005,
+                            "ATestID": 43015005,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "58709a1e336fc34f5250be2f744dc8fa1cc28baf9393fb5459c9b8af06d4da7931ae1791f14a1752388444bb74329c15",
+                            "Explain": "自然杀伤细胞是一类重要的固有免疫细胞。可以无需致敏就直接杀伤肿瘤和病毒感染细胞。在机体抗肿瘤和早期抗感染或胞内寄生虫感染的过程中起重要的作用。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CD4[SBjia.gif]细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CD8[SBjia.gif]细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CTL细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "NK细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "B细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015006,
+                            "ATestID": 43015006,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 12,
+                    "TestItems": [
+                        {
+                            "Title": "cfe3b8de936edcce2e49fd12094a933eb2cb2ea703af30d05c419b8787f57cd75bbb5441a96721c1",
+                            "Explain": "NK细胞有自然杀伤活性、ADCC、分泌细胞因子；B淋巴细胞参与体液免疫，提呈抗原，受抗原刺激后，会增殖分化出大量浆细胞。浆细胞可合成和分泌抗体，并在血液中循环。故.题选E，2题选B。肥大细胞存在于血液中，其颗粒中含有肝素、组胺、5-羟色胺，细胞崩解释放出颗粒以及颗粒中的物质，可在组织内引起速发型过敏反应。细胞毒性T淋巴细胞属于T细胞亚群，具有特异性细胞毒性，介导细胞免疫，是排斥同种异体移植物、杀伤病毒感染细胞和肿瘤细胞的效应细胞。故1题选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "NK细胞"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "B细胞"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肥大细胞"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "细胞毒性T淋巴细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "浆细胞"
+                                }
+                            ],
+                            "AllTestID": 41000325,
+                            "BTestID": 41000087,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000087,
+                                    "Title": "cfe3b8de936edcce2e49fd12094a933eb2cb2ea703af30d05c419b8787f57cd75bbb5441a96721c1",
+                                    "Explain": "NK细胞有自然杀伤活性、ADCC、分泌细胞因子；B淋巴细胞参与体液免疫，提呈抗原，受抗原刺激后，会增殖分化出大量浆细胞。浆细胞可合成和分泌抗体，并在血液中循环。故.题选E，2题选B。肥大细胞存在于血液中，其颗粒中含有肝素、组胺、5-羟色胺，细胞崩解释放出颗粒以及颗粒中的物质，可在组织内引起速发型过敏反应。细胞毒性T淋巴细胞属于T细胞亚群，具有特异性细胞毒性，介导细胞免疫，是排斥同种异体移植物、杀伤病毒感染细胞和肿瘤细胞的效应细胞。故1题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000088,
+                                    "Title": "f03cdedae96156382417fa43fd1d5f9907e1c1ee16e176bf",
+                                    "Explain": "NK细胞有自然杀伤活性、ADCC、分泌细胞因子；B淋巴细胞参与体液免疫，提呈抗原，受抗原刺激后，会增殖分化出大量浆细胞。浆细胞可合成和分泌抗体，并在血液中循环。故.题选E，2题选B。肥大细胞存在于血液中，其颗粒中含有肝素、组胺、5-羟色胺，细胞崩解释放出颗粒以及颗粒中的物质，可在组织内引起速发型过敏反应。细胞毒性T淋巴细胞属于T细胞亚群，具有特异性细胞毒性，介导细胞免疫，是排斥同种异体移植物、杀伤病毒感染细胞和肿瘤细胞的效应细胞。故1题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000089,
+                                    "Title": "73e90729087e0223a4ea3cad6ed051ac1791b157ccaf8529",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "a8d81d1aedf8400454ceefd133b7c3f22057455e374fc58f",
+                            "Explain": "CD3分子是T细胞的重要标志，由5种多肽链组成，它们的胞质区均含有ITAM，具有转导TCR信号的功能。NK细胞的受体KIR（杀伤细胞抑制受体）能识别自身组织细胞表面的MHC-Ⅰ类分子并与之结合，产生抑制信号。该抑制信号在胞内起主导作用，能阻断杀伤信号的转导，保护正常的自身组织细胞不被破坏。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CD3"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CD19"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "KIR"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "MHC-Ⅱ"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "IL-2"
+                                }
+                            ],
+                            "AllTestID": 43000339,
+                            "BTestID": 43000096,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000096,
+                                    "Title": "a8d81d1aedf8400454ceefd133b7c3f22057455e374fc58f",
+                                    "Explain": "CD3分子是T细胞的重要标志，由5种多肽链组成，它们的胞质区均含有ITAM，具有转导TCR信号的功能。NK细胞的受体KIR（杀伤细胞抑制受体）能识别自身组织细胞表面的MHC-Ⅰ类分子并与之结合，产生抑制信号。该抑制信号在胞内起主导作用，能阻断杀伤信号的转导，保护正常的自身组织细胞不被破坏。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000097,
+                                    "Title": "336252cbadabecc50179a052ac2c86f2be76b386fa8a47aef2fcd8a2e081663f",
+                                    "Explain": "CD3分子是T细胞的重要标志，由5种多肽链组成，它们的胞质区均含有ITAM，具有转导TCR信号的功能。NK细胞的受体KIR（杀伤细胞抑制受体）能识别自身组织细胞表面的MHC-Ⅰ类分子并与之结合，产生抑制信号。该抑制信号在胞内起主导作用，能阻断杀伤信号的转导，保护正常的自身组织细胞不被破坏。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000098,
+                                    "Title": "b9eb8a4ba7c1f5fd0314e44d29cbceb6dcacbf3bb25a1dcf",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "a8d81d1aedf8400454ceefd133b7c3f25c1a82753e297ead72f336f31ab310c0",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "CD3",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "KIR",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "CD19",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "MHC-Ⅱ",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "IL-2",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43014990,
+                            "BTestID": 43002749,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002749,
+                                    "Title": "a8d81d1aedf8400454ceefd133b7c3f25c1a82753e297ead72f336f31ab310c0",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": "经核实，该试题无误，不修改。\n",
+                                    "OperateTime": "2017年8月30日"
+                                },
+                                {
+                                    "BTestItemID": 43002750,
+                                    "Title": "336252cbadabecc50179a052ac2c86f2be76b386fa8a47ae331242c5c59b21552cc927f8f9589a65",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002751,
+                                    "Title": "b9eb8a4ba7c1f5fd0314e44d29cbceb61605eccfcadfb1ffff33316ac6fd7ee0",
+                                    "Explain": "此题为典型的记忆题。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": "经核实，试题无误，不做修改。",
+                                    "OperateTime": "2018年8月20日"
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "90ed870007c8d331ecefba18224c8cb9b1c20f65136422ae7cd79f929d6ae68d",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "KIR"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CEA"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "TCR"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "MBL"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "ASP"
+                                }
+                            ],
+                            "AllTestID": 43014991,
+                            "BTestID": 43002752,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 408,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002752,
+                                    "Title": "90ed870007c8d331ecefba18224c8cb9b1c20f65136422ae7cd79f929d6ae68d",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002753,
+                                    "Title": "d2a284d181e3dce12df522aa472d998d9ecf116f951be29f",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002754,
+                                    "Title": "528ccb68b6d53582a04359415781d3e7ad6a1b654f4b9be6",
+                                    "Explain": "杀伤细胞免疫球蛋白样受体KIR可传递抑制信号，TCR是T细胞抗原受体，血浆中甘露糖结合的凝集素MBL可激活补体。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000320,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 41000320,
+                            "ChildTableID": -1,
+                            "Answer": "A",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000320,
+                        "ChildTableID": -1,
+                        "UserCount": 2324,
+                        "RightCount": 1059,
+                        "FavCount": 64,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000320,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 41000321,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000321,
+                        "ChildTableID": -1,
+                        "UserCount": 2029,
+                        "RightCount": 1348,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000321,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 41000322,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000322,
+                        "ChildTableID": -1,
+                        "UserCount": 2071,
+                        "RightCount": 1163,
+                        "FavCount": 57,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000322,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 41000323,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000323,
+                        "ChildTableID": -1,
+                        "UserCount": 1990,
+                        "RightCount": 1210,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 29
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000323,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 29
+            },
+            {
+                "AllTestID": 41000324,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000324,
+                        "ChildTableID": -1,
+                        "UserCount": 1994,
+                        "RightCount": 1031,
+                        "FavCount": 68,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 50
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000324,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 50
+            },
+            {
+                "AllTestID": 43000335,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000335,
+                        "ChildTableID": -1,
+                        "UserCount": 1810,
+                        "RightCount": 1128,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000335,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 43014992,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014992,
+                        "ChildTableID": -1,
+                        "UserCount": 1720,
+                        "RightCount": 1075,
+                        "FavCount": 40,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014992,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43014993,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014993,
+                        "ChildTableID": -1,
+                        "UserCount": 1705,
+                        "RightCount": 1117,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014993,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43014994,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014994,
+                        "ChildTableID": -1,
+                        "UserCount": 1698,
+                        "RightCount": 1044,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014994,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43014995,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014995,
+                        "ChildTableID": -1,
+                        "UserCount": 1647,
+                        "RightCount": 1071,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014995,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43014996,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014996,
+                        "ChildTableID": -1,
+                        "UserCount": 1766,
+                        "RightCount": 964,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014996,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014997,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014997,
+                        "ChildTableID": -1,
+                        "UserCount": 1552,
+                        "RightCount": 1342,
+                        "FavCount": 12,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014997,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014998,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014998,
+                        "ChildTableID": -1,
+                        "UserCount": 1552,
+                        "RightCount": 1360,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014998,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43014999,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014999,
+                        "ChildTableID": -1,
+                        "UserCount": 1619,
+                        "RightCount": 1189,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014999,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015000,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015000,
+                        "ChildTableID": -1,
+                        "UserCount": 1727,
+                        "RightCount": 936,
+                        "FavCount": 44,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015000,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015001,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015001,
+                        "ChildTableID": -1,
+                        "UserCount": 1561,
+                        "RightCount": 1319,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015001,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015002,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015002,
+                        "ChildTableID": -1,
+                        "UserCount": 1620,
+                        "RightCount": 1288,
+                        "FavCount": 22,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015002,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015003,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015003,
+                        "ChildTableID": -1,
+                        "UserCount": 1707,
+                        "RightCount": 980,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015003,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015004,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015004,
+                        "ChildTableID": -1,
+                        "UserCount": 1655,
+                        "RightCount": 1061,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015004,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43015005,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015005,
+                        "ChildTableID": -1,
+                        "UserCount": 1654,
+                        "RightCount": 984,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015005,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015006,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015006,
+                        "ChildTableID": -1,
+                        "UserCount": 1616,
+                        "RightCount": 1047,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015006,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000325,
+                "ChildTableID": 41000087,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000325,
+                        "ChildTableID": 41000087,
+                        "UserCount": 1625,
+                        "RightCount": 1219,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000325,
+                    "ChildTableID": 41000087
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 41000325,
+                "ChildTableID": 41000088,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000325,
+                        "ChildTableID": 41000088,
+                        "UserCount": 1716,
+                        "RightCount": 958,
+                        "FavCount": 41,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000325,
+                    "ChildTableID": 41000088
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 41000325,
+                "ChildTableID": 41000089,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000325,
+                        "ChildTableID": 41000089,
+                        "UserCount": 1695,
+                        "RightCount": 1140,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000325,
+                    "ChildTableID": 41000089
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43000339,
+                "ChildTableID": 43000096,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000339,
+                        "ChildTableID": 43000096,
+                        "UserCount": 1978,
+                        "RightCount": 1304,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000339,
+                    "ChildTableID": 43000096
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43000339,
+                "ChildTableID": 43000097,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000339,
+                        "ChildTableID": 43000097,
+                        "UserCount": 1912,
+                        "RightCount": 1272,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000339,
+                    "ChildTableID": 43000097
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43000339,
+                "ChildTableID": 43000098,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000339,
+                        "ChildTableID": 43000098,
+                        "UserCount": 2022,
+                        "RightCount": 1167,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000339,
+                    "ChildTableID": 43000098
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43014990,
+                "ChildTableID": 43002749,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014990,
+                        "ChildTableID": 43002749,
+                        "UserCount": 1739,
+                        "RightCount": 1436,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014990,
+                    "ChildTableID": 43002749
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014990,
+                "ChildTableID": 43002750,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014990,
+                        "ChildTableID": 43002750,
+                        "UserCount": 1752,
+                        "RightCount": 1449,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014990,
+                    "ChildTableID": 43002750
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43014990,
+                "ChildTableID": 43002751,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43014990,
+                            "ChildTableID": 43002751,
+                            "Answer": "B",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014990,
+                        "ChildTableID": 43002751,
+                        "UserCount": 2038,
+                        "RightCount": 842,
+                        "FavCount": 22,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014990,
+                    "ChildTableID": 43002751
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43014991,
+                "ChildTableID": 43002752,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014991,
+                        "ChildTableID": 43002752,
+                        "UserCount": 1882,
+                        "RightCount": 1216,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014991,
+                    "ChildTableID": 43002752
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43014991,
+                "ChildTableID": 43002753,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014991,
+                        "ChildTableID": 43002753,
+                        "UserCount": 1809,
+                        "RightCount": 1350,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014991,
+                    "ChildTableID": 43002753
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43014991,
+                "ChildTableID": 43002754,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014991,
+                        "ChildTableID": 43002754,
+                        "UserCount": 1883,
+                        "RightCount": 1012,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014991,
+                    "ChildTableID": 43002754
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

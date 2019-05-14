@@ -1,0 +1,1755 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Wed May 15 2019 02:27:15 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 17,
+                    "TestItems": [
+                        {
+                            "Title": "fd410578456c1afbb86864448f8f986e81a018e0da367a94721b12d5fd364fbff3ec3d7af650d84266ccac68df7d51174f02e1634c9d7bf441992fdc00db3e1f7519bd75f152a7a6a678fa5ae3de5c4b",
+                            "Explain": "放射免疫测定法是用放射性核素标记抗原或抗体进行的免疫测定。同位素的高度敏感性使该方法具有重复性好、准确性高等优点。该方法最为敏感，广泛应用于激素等微量物质和CTL功能的检测。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "免疫荧光技术"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "放射免疫分析法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "双向琼脂扩散法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "单向琼脂扩散法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "对流免疫电泳"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000339,
+                            "ATestID": 35000339,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "572e2bd720dbcf2fac002244746cffc163f1ce8e939aa1070d3a7b71766082954dcabc0d25e34f5dc8b6df37bf1b8a58559de4faf692a1e498d9f8daecd2d469",
+                            "Explain": "流式细胞术是一种可以对细胞或亚细胞结构进行快速测量的新型的细胞分析技术和分选技术。能精确的从混合的T、B细胞中分离T细胞，故首选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "流式细胞技术"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "放射免疫分析法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "ELISA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "双向琼脂扩散试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "免疫电泳"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000340,
+                            "ATestID": 35000340,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "dbddd1bdf82baf5900105fb90413ec6c770f0f26ba96824ee8c52066c4885c6689cf1dc0653c3e0bb1a91b6ede26caad",
+                            "Explain": "抗原抗体反应的特点主要有三性，即特异性、比例性、可逆性。特异性是抗原抗体反应的最主要特征，这种特异性是由抗原决定簇和抗体分子的超变区之间空间结构的互补性确定的。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抗原的相对分子质量"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗体的电荷"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗原和抗体的浓度"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抗原和抗体的构象"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "免疫球蛋白的类别"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002459,
+                            "ATestID": 43002459,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4ad19d78c322db6293f0167a5d5e0a8b49915bab5346dd9dd26124fcc41fe4494de6c19df361e92437d1e6d367f1f92b",
+                            "Explain": "抗原抗体反应的特点主要有三性：即特异性、比例性、可逆性。",
+                            "TestPoint": "抗原",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抗原抗体特异性结合"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗原抗体结合稳定、不可逆"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗原抗体按一定比例结合"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "反应受酸碱度影响"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "反应受温度影响"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002460,
+                            "ATestID": 43002460,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2ae9080a5a89cfc1302d53040c9d6568470f9c58b075dee137cfa07f70d1f98be9ff15261f82637c",
+                            "Explain": "单向琼脂扩散适量抗体与琼脂混匀，浇注成板，凝固后，在板上打孔，孔中加入抗原，抗原就会向孔的四周扩散，边扩散边与琼脂中的抗体结合。一定时间后，在两者比例适当处形成白色沉淀环。沉淀环的直径与抗原的浓度成正比。如事先用不同浓度的标准抗原制成标准曲线，则从曲线中可求出标本中抗原的含量。本试验主要用于检测标本中各种免疫球蛋白和血清中各种补体成分的含量，敏感性很高。",
+                            "TestPoint": "抗原",
+                            "Answer": "B",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "双向琼脂扩散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "单向琼脂扩散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "直接凝集实验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "间接凝集实验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "协同凝集实验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002461,
+                            "ATestID": 43002461,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "23f9bc4be774fe4701f2a2911969414f74da20690b86ab75f1fbef0e99112682",
+                            "Explain": "主要有玻片法和试管法。玻片法是抗原和相应抗体在玻片上进行的凝集反应，用于定性检测抗原，如ABO血型鉴定、细菌鉴定等。试管法是在试管中倍比稀释待检血清，加入已知颗粒性抗原进行的凝集反应，用于定量检测抗体，如诊断伤寒病的肥达试验。试管法凝集反应时，抗原抗体结合出现明显可见反应的最大的抗血清或抗原制剂稀释度称为效价，又称滴度。",
+                            "TestPoint": "免疫应答概述",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肥达反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "单向琼脂扩散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "双向琼脂扩散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "对流免疫电泳"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "抗\"O\"试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002462,
+                            "ATestID": 43002462,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2c77d574039334a7836b27b838b383ae546e5a48864de0765853e5bc59a9c5693148b10116c26cba649befc7929bbd4a85a6ae287e3d2375fbb7c27d016d37c15d8930f43a5d176a2f985f15697a5cc872ff3cdba14348a899398aa2e8c18532961c564a2ba97633793414e2acbe82d3",
+                            "Explain": "应用酶联免疫法检测抗破伤风类毒素抗体，加底物显色后，所测定的颜色的光密度值，同病人血清中特异性抗体的浓度呈正比。",
+                            "TestPoint": "免疫缺陷病及真题讲解",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "同病人血清中特异性抗体的浓度呈正比"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "同固相上结合的抗原呈正比"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "同病人血清中特异性抗体的浓度呈反比"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "同酶标记的抗体浓度呈正比"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "同酶底物的浓度呈正比"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002463,
+                            "ATestID": 43002463,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2ae9080a5a89cfc1fd1a10d182911498c86ab94de90ff6da04ef2f840aac9614ebb7d2c3dcb80e98",
+                            "Explain": "酶联免疫吸附测定enzymelinkedimmunosorbentassay（简写ELISA）指将可溶性的抗原或抗体结合到聚苯乙烯等固相载体上，利用抗原抗体结合专一性进行免疫反应的定性和定量检测方法，是检测IgE含量常用的简单方法。",
+                            "TestPoint": "抗原",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "凝集反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "单向琼脂扩散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "ELISA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "免疫电泳"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "免疫荧光法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002464,
+                            "ATestID": 43002464,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "25e4fa2eb0157262e33ceec585239cac2a1ddc6a092c80d7ec2eaae1a70bda8e6350a72dbfa717c9",
+                            "Explain": "放射性标记方法用易于检测的一种或两种放射性核素给某种化合物分子打上“记号”的方法。作“记号”的放射性核素，如果是该化合物分子中固有元素的同位素，一般称为同位素标记，否则称为非同位素标记。标记技术中最敏感的方法。",
+                            "TestPoint": "绪论",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "荧光标记法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "酶标记法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "放射性核素标记法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "化学发光测定法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胶体金标记法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002465,
+                            "ATestID": 43002465,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9492d3ff471199b12e8c73ce6cc7608c3736779ad434820bfc42543a7be32b69ace8174641110b7fa0b8eb972fddac7a66b578e00bbf203e",
+                            "Explain": "四唑氮蓝还原试验（NBT试验）：主要检测了解中性粒细胞的胞内杀菌能力。正常NBT阳性细胞在5%～10%，免疫缺陷时其值下降，如慢性肉芽肿常<5%。",
+                            "TestPoint": "T细胞介导的免疫细胞应答",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "[~3.gif]H-TdR参入法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "ELISA"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "免疫PCR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "MTT法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "硝基蓝四氮唑实验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002466,
+                            "ATestID": 43002466,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "10dd9bb14c595d7b85094c2be2a9c479cad3b3fd5b20f082c3ae54a9de26451323c7eed256df5a5d08eb2c86ed7654b867e8f8488a6037669f3fd83b2589bd47ee7b1a2ef2e84916034bdb9a2b842695f2deb77fc1f29410",
+                            "Explain": "MTT法又称MTT比色法，是一种检测细胞存活和生长的方法。其检测原理为活细胞线粒体中的琥珀酸脱氢酶能使外源性MTT还原为水不溶性的蓝紫色结晶甲瓒（Formazan）并沉积在细胞中，而死细胞无此功能。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乳酸脱氢酶释放法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "MTT法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "ELISA法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "溶血空斑试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "ELISOP法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002467,
+                            "ATestID": 43002467,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ae9ace17adb750012fc0ca6c5ef58123c8d02a81f7956f6285374bcd7ecf8a8935eba1518fb5cbd5",
+                            "Explain": "迟发型超敏为Ⅳ型超敏反应，引起传染性迟发性超敏反应的病原体主要包括胞内寄生菌（如结核杆菌、麻风杆菌和布氏杆菌），病毒和真菌等。结核病人肺空洞的形成和干酪样坏死以及结核菌素皮试引起的局部性组织损伤均属此类。故答案选择D。",
+                            "TestPoint": "Ⅳ型超敏反应",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "库姆试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "抗毒素血清皮试"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "青霉素皮试"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "OT试验(结核菌素试验)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "普鲁卡因皮试"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002468,
+                            "ATestID": 43002468,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0a7b6f12e5e82f320eafaf71d6b4a57c9662ee06b2e0bb3df9a4bb6986737620fa12424a05ad3a13bc70d90bffeacddca4e3f6df43722c452b20034e7eaef1c81dac6b84f49e578db77e3763a0bc60d5",
+                            "Explain": "蛋白质印迹法（免疫印迹试验）即WesternBlot。它是分子生物学、生物化学和免疫遗传学中常用的一种实验方法。其基本原理是通过特异性抗体对凝胶电泳处理过的细胞或生物组织样品进行着色。测定蛋白样品中某种相对分子质量的蛋白选用最佳的方法。",
+                            "TestPoint": "细胞因子的种类及功能",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "免疫PCR"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "ELISA法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "蛋白印迹试验(Western blotting)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "斑点杂交"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "Southern blotting"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002469,
+                            "ATestID": 43002469,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bdc629a5167f1c39027d5fc7181e5035387a3d64dea12b61208d3f7098e7600a1d56b9fad07789792c70905c361327a8",
+                            "Explain": "检测CTL杀伤活性的常用实验是乳酸脱氢酶释放法",
+                            "TestPoint": "检测CTL杀伤活性的检查",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "免疫电泳"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "流式细胞术"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "乳酸脱氢酶释放法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "溶血空斑试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "ELISA"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002470,
+                            "ATestID": 43002470,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4abb645dac784ec55827cfba8f91ab3c7734aa0af14e6911fc74718877dfd940d283037323ed6f184f12949228f55f980079856df38df72f",
+                            "Explain": "常用于外周血T细胞亚群检测的方法是流式细胞术，流式细胞术工作原理是在细胞分子水平上通过单克隆抗体对单个细胞或其他生物粒子进行多参数、快速的定量分析。它可以高速分析上万个细胞，并能同时从一个细胞中测得多个参数，具有速度快、精度高、准确性好的优点，是当代最先进的细胞定量分析技术之一。",
+                            "TestPoint": "T细胞介导的免疫细胞应答",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "流式细胞术"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "MTT法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "细胞毒试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "凝集反应"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "沉淀反应"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002471,
+                            "ATestID": 43002471,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a9519d8f2335e8b591ca91126debe789558807fd6753156b8f63fbc27d98e451a2c587e28499aa18ed8da9a85925beeac90e4dd5e18ac65b",
+                            "Explain": "现在常用的为SPA-SRBC溶血空斑试验。SPA能与人及多数哺乳动物IgG的Fc段呈非特异性结合，利用这一特征，首先将SPA包被SRBC，然后进行溶血空斑测定，可提高敏感度和应用范围。是细胞水平检测抗体形成能力。",
+                            "TestPoint": "抗原",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "Coomb's试验",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "E花环试验",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "凝集反应",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "淋巴细胞转化试验",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "溶血空斑试验",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002472,
+                            "ATestID": 43002472,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b3feddffdd0926d9db6e2a28455c4c84b0a17c650f8b007857b462284c735b78cf51fb847ed91490",
+                            "Explain": "①玻片法：操作简单，适于大量标本检查，但反应时间长；被检查者如血清抗体效价低，则不易引起红细胞凝集，因此，不适于反向定型。这种方法常用②试管法：由于离心作用可加速凝集反应，故反应时间短，而且，借助于离心力可以使红细胞接触紧密，促进凝集作用，适于急诊检查。",
+                            "TestPoint": "免疫缺陷病及真题讲解",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "玻片凝集法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "间接凝集法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "单扩散"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "试管凝集法"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "间接凝集抑制法"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002473,
+                            "ATestID": 43002473,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 10,
+                    "TestItems": [
+                        {
+                            "Title": "a1cd6abf34477d837de6d2082a3fb6248925f9749b2931f2",
+                            "Explain": "测细胞分子量用Westernblotting。",
+                            "TestPoint": "氨基酸、多肽、蛋白质",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Westernblotting"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "ELISPOT"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "H-TdR掺入法"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "细胞毒试验"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "细胞凋亡试验"
+                                }
+                            ],
+                            "AllTestID": 43000374,
+                            "BTestID": 43000108,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000108,
+                                    "Title": "a1cd6abf34477d837de6d2082a3fb6248925f9749b2931f2",
+                                    "Explain": "测细胞分子量用Westernblotting。",
+                                    "TestPoint": "氨基酸、多肽、蛋白质",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000109,
+                                    "Title": "0f12c269593c6937c2b0ed3072446bcb",
+                                    "Explain": "测定细胞数用ELISPOT。",
+                                    "TestPoint": "细胞",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000110,
+                                    "Title": "daea704d424eb5e559017e87a41b722634e8ab6b00bcdff8",
+                                    "Explain": "测定淋巴细胞增殖用H-TdR掺入法。",
+                                    "TestPoint": "细胞",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "32fd8bbe054e0346dc3a8b086b262cbae800128b5dcf33d71d8be1fd4ec47e302e524f01c9c5d557",
+                            "Explain": "检查血清中抗核抗体的方法是免疫荧光法。",
+                            "TestPoint": "免疫系统",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "免疫荧光法"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "免疫胶体金技术"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "对流免疫电泳"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "ELISA"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "放射免疫测定法"
+                                }
+                            ],
+                            "AllTestID": 43002474,
+                            "BTestID": 43000614,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000614,
+                                    "Title": "32fd8bbe054e0346dc3a8b086b262cbae800128b5dcf33d71d8be1fd4ec47e302e524f01c9c5d557",
+                                    "Explain": "检查血清中抗核抗体的方法是免疫荧光法。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000615,
+                                    "Title": "32fd8bbe054e03465d1006efcb7154a8a63f47e3263509448a77c22ae8611353b1cd4ec300e39dee074e1b1090898b43",
+                                    "Explain": "检查血清中Ig各组分含量的方法是ELISA，即为酶联免疫吸附滴定。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000616,
+                                    "Title": "c508ff2f313750655a4e65a3252cd6cbf0ff47baa8e0dc9ad82d831b5981c8fdf6e2de792729390a28fcedeaf2f4a18789f83d7b818c7c7f",
+                                    "Explain": "检查激素、药物等微量物质的方法是放射免疫测定法。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000617,
+                                    "Title": "668a3d2d55caaaf6f1903b2aeaaa4c8e10ce0383e3494d939b38ec9169c3a7dd2dc0e8405163602a",
+                                    "Explain": "早孕快速检测技术的原理是免疫胶体金技术。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "b76f2565131bf0d336017a28f1fd5fac41eceb67b52325b25bf67bcd29530bb7fd9ba43bf24389c1450292101b4dad5a",
+                            "Explain": "可检测细胞因子分子量的技术是Western bolt。",
+                            "TestPoint": "细胞",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "Western bolt",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "3H-7dR入法",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "基因芯片法",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "EUSPOT",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "蛋白质芯片法",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43015084,
+                            "BTestID": 43002771,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 351,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002771,
+                                    "Title": "b76f2565131bf0d336017a28f1fd5fac41eceb67b52325b25bf67bcd29530bb7fd9ba43bf24389c1450292101b4dad5a",
+                                    "Explain": "可检测细胞因子分子量的技术是Western bolt。",
+                                    "TestPoint": "细胞",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002772,
+                                    "Title": "b76f2565131bf0d336017a28f1fd5fac41eceb67b52325b2ddf19b5b748b89e5e802978647c73c98f708db91741ec93a2bfc6834c65e174c",
+                                    "Explain": "可检测细胞因子分泌细胞数量的技术是EUSPOT。",
+                                    "TestPoint": "细胞",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002773,
+                                    "Title": "b76f2565131bf0d3f82c0805b4f443ea8b7a3b1ad56896bf8f0d0547b16f3571c64b0ddaf89dbc1c",
+                                    "Explain": "可检测淋巴细胞增殖的技术是3H-7dR入法。",
+                                    "TestPoint": "细胞",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000339,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000339,
+                        "ChildTableID": -1,
+                        "UserCount": 753,
+                        "RightCount": 344,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000339,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 35000340,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000340,
+                        "ChildTableID": -1,
+                        "UserCount": 738,
+                        "RightCount": 409,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000340,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002459,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002459,
+                        "ChildTableID": -1,
+                        "UserCount": 712,
+                        "RightCount": 422,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002459,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002460,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002460,
+                        "ChildTableID": -1,
+                        "UserCount": 677,
+                        "RightCount": 478,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002460,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43002461,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002461,
+                        "ChildTableID": -1,
+                        "UserCount": 750,
+                        "RightCount": 323,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 18
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002461,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 18
+            },
+            {
+                "AllTestID": 43002462,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002462,
+                        "ChildTableID": -1,
+                        "UserCount": 652,
+                        "RightCount": 364,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002462,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002463,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002463,
+                        "ChildTableID": -1,
+                        "UserCount": 645,
+                        "RightCount": 319,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002463,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002464,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002464,
+                        "ChildTableID": -1,
+                        "UserCount": 660,
+                        "RightCount": 350,
+                        "FavCount": 17,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002464,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002465,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002465,
+                        "ChildTableID": -1,
+                        "UserCount": 624,
+                        "RightCount": 377,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002465,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002466,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002466,
+                        "ChildTableID": -1,
+                        "UserCount": 640,
+                        "RightCount": 352,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002466,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002467,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002467,
+                        "ChildTableID": -1,
+                        "UserCount": 677,
+                        "RightCount": 291,
+                        "FavCount": 17,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002467,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002468,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002468,
+                        "ChildTableID": -1,
+                        "UserCount": 587,
+                        "RightCount": 472,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002468,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002469,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002469,
+                        "ChildTableID": -1,
+                        "UserCount": 571,
+                        "RightCount": 445,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002469,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002470,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002470,
+                        "ChildTableID": -1,
+                        "UserCount": 661,
+                        "RightCount": 301,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002470,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002471,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002471,
+                        "ChildTableID": -1,
+                        "UserCount": 643,
+                        "RightCount": 342,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002471,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002472,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002472,
+                        "ChildTableID": -1,
+                        "UserCount": 658,
+                        "RightCount": 242,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002472,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002473,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002473,
+                        "ChildTableID": -1,
+                        "UserCount": 640,
+                        "RightCount": 386,
+                        "FavCount": 7,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002473,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43000374,
+                "ChildTableID": 43000108,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000374,
+                        "ChildTableID": 43000108,
+                        "UserCount": 627,
+                        "RightCount": 321,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000374,
+                    "ChildTableID": 43000108
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000374,
+                "ChildTableID": 43000109,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000374,
+                        "ChildTableID": 43000109,
+                        "UserCount": 594,
+                        "RightCount": 372,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000374,
+                    "ChildTableID": 43000109
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000374,
+                "ChildTableID": 43000110,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000374,
+                        "ChildTableID": 43000110,
+                        "UserCount": 605,
+                        "RightCount": 409,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000374,
+                    "ChildTableID": 43000110
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002474,
+                "ChildTableID": 43000614,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002474,
+                        "ChildTableID": 43000614,
+                        "UserCount": 655,
+                        "RightCount": 250,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002474,
+                    "ChildTableID": 43000614
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002474,
+                "ChildTableID": 43000615,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002474,
+                        "ChildTableID": 43000615,
+                        "UserCount": 637,
+                        "RightCount": 316,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002474,
+                    "ChildTableID": 43000615
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002474,
+                "ChildTableID": 43000616,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002474,
+                        "ChildTableID": 43000616,
+                        "UserCount": 614,
+                        "RightCount": 371,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002474,
+                    "ChildTableID": 43000616
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002474,
+                "ChildTableID": 43000617,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002474,
+                        "ChildTableID": 43000617,
+                        "UserCount": 611,
+                        "RightCount": 361,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002474,
+                    "ChildTableID": 43000617
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015084,
+                "ChildTableID": 43002771,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015084,
+                        "ChildTableID": 43002771,
+                        "UserCount": 543,
+                        "RightCount": 331,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015084,
+                    "ChildTableID": 43002771
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43015084,
+                "ChildTableID": 43002772,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015084,
+                        "ChildTableID": 43002772,
+                        "UserCount": 569,
+                        "RightCount": 285,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015084,
+                    "ChildTableID": 43002772
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43015084,
+                "ChildTableID": 43002773,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015084,
+                        "ChildTableID": 43002773,
+                        "UserCount": 551,
+                        "RightCount": 358,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015084,
+                    "ChildTableID": 43002773
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

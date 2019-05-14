@@ -1,0 +1,4195 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:09:03 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 45,
+                    "TestItems": [
+                        {
+                            "Title": "67bc512bc3089c778c9e7567f81a88993b03c30ef8b4782f7caf018e6965bc854b8e7b19c28a654d",
+                            "Explain": "分化在肿瘤学上是指肿瘤细胞和组织与其来源的细胞和组织的相似程度。异型性小、分化高者，说明肿瘤与其来源组织相似程度越高。异型性大者，说明肿瘤分化低。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "肿瘤周围有较多的淋巴细胞浸润"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "不容易引起器官的阻塞和破坏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "高度恶性的肿瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "有较大的异型性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "与起源组织相似"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000415,
+                            "ATestID": 35000415,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185f5ed90c0948f9488b16106f4cf5827cf32faa2f846181ba7",
+                            "Explain": "A、C、D、E项均为肉瘤的特征，则B为癌的特征，肉瘤细胞弥散分布，不成巢状，实质与间质分界不清，间质内血管丰富。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "间质结缔组织少"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "瘤细胞成巢状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "多经血行转移"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "切面成鱼肉状"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "瘤组织内血管丰富"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000418,
+                            "ATestID": 35000418,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "efd054ec56260109049945a776831b16dede8e1346b39e5b0c698c289fcd159c265ef684f53caed4d63c850ebc99d608",
+                            "Explain": "恶性肿瘤的生长速度与机体极不协调，肿瘤可以长得很大而患者骨瘦如柴。恶性肿瘤异型性大，除肿瘤实质和间质在排列组合具有明显差异性，更为突出的是瘤细胞的异型性不同程度的失去分化成熟的能力。大多数恶性肿瘤以浸润性生长方式，不管致瘤因子存在与否都呈现无止境的旺盛生长。所以D项错误。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "相对无止境的生长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "生长旺盛"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "与机体不协调"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "增生过程必须有致瘤因子持续存在"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "不同程度失去分化成熟的能力"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000419,
+                            "ATestID": 35000419,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8962f0d4d52a219dcc1c45bc02f067e414f374ccb99cff49371b852efeac82a7",
+                            "Explain": "非典型增生是指细胞增生并出现异型性，但不足以诊断为恶性的状况。非典型性增生可分为轻、中、重度。轻度非典型增生，细胞异型性达上皮1/3，能逆转；中度非典型增生，细胞异型性达上皮2/3，能逆转；重度非典型增生，细胞异型性超过上皮全层2/3，但未累及上皮全层，常常转变为癌。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "间变性肿瘤细胞的特点，即多形性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "活跃的炎性增生，有肥胖的成纤维细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "肿瘤细胞核大、深染，累及上皮全层"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "增生上皮细胞有异型性，累及上皮下部的2/3"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "早期的肿瘤性增生，累及上皮全层"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000422,
+                            "ATestID": 35000422,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "222375300d10e5fff90e0da5edee7c6874efa652abe7a1031206a55c237a264b",
+                            "Explain": "动脉瘤是动脉壁局部薄弱后所形成的永久性异常扩张，有动脉硬化、创伤、感染、梅毒及先天性因素引起。室壁瘤并非心脏肿瘤，而是心肌梗死的一种并发症。创伤性神经瘤则是外周神经受损时，若断离的两端相隔太远，或者两端之间有瘢痕或其他组织阻隔，或者因截肢失去远端，而与增生结缔组织混杂在一起，卷曲成团，成为创伤性神经瘤，可发生顽固性疼痛。蕈样真菌病是一种T细胞起源的恶性肿瘤，又称蕈样肉芽肿，是一种上皮性皮肤淋巴瘤。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "动脉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "蕈样真菌病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "室壁瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "创伤性神经瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "粥样瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000425,
+                            "ATestID": 35000425,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9446bcf5f0a7bbba227551c2b571c43db29b361155ecbcba01560a99d4d0a50b883252c2c1a9d1dab6767e2002ce4dd94d1e4a0e7e435e62f7a0f35db4e664878d7721bf3b51f08c51aeb2b5bda0e80f0cd5a1e6a4f1b84cbd4a2931cc1ef0246634e37874bdde62033ac8ac463632749425168191253aaf22b7690fe5362d3bd4f17c86f884d059",
+                            "Explain": "鳞状细胞癌的镜下特征为癌细胞呈巢状分布，与间质界限清楚。分化好的鳞癌可见角化珠和细胞间桥。分化差的鳞癌无角化珠形成，甚至也无细胞间桥，细胞异型性明显，并见较多的核分裂象。结核的标志诊断为结核结节，慢性炎症无异型细胞出现，转移性腺癌应有腺癌细胞成分，淋巴瘤应有异型性的淋巴细胞存在，故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "淋巴结结核"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "淋巴结慢性炎症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "淋巴结转移性腺癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "恶性淋巴瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "淋巴结转移性鳞癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000428,
+                            "ATestID": 35000428,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "02b50e5b583d09037e4f6f3813a2c4dcabe42a03b8eae176e340e8e89ee2df419f5084b600147cfbd8035657307be198eac0ac86869d120578313e6b7679a7a1fc1ff93392f7a76c2665e0ecf1313dccbe84cf73a670ff1ccb61905874b4c8639e5133f2b83b41e342b217034b56dfad7e0105cbd1f7caaccd2e4a7ce54788c619c6dbd32c940a324c2cc4b8d65a4a8e8d761ae48a401bc6d3ad9552a410bad6d47ccfb7a515ad07aaa8a8fa31b4e9c6d78b8481538b9ad0e6e1d39a7f75d3c57274e499be646c2cdb0677709aaf68b8bc1210365107a3813031d979116c99b793cdd7dbb002720e28e83413be1cf6f73396ee7008183df8254e5ab1d3d2b5fe21eba758523e2a303f4c8c9ba1a191b18daa2b27c798868a",
+                            "Explain": "CD20是B细胞及其肿瘤的标记，用含抗CD20单抗的化学方案治疗后明显好转，说明此霍奇金淋巴瘤是B细胞来源的，上述答案中只有弥漫性大B细胞淋巴瘤是B细胞肿瘤，而外周T细胞淋巴瘤、间变性大细胞淋巴瘤、覃样肉芽肿和Stzary综合征均为T细胞肿瘤。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "外周T细胞淋巴瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "间变性大细胞淋巴瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "蕈样肉芽肿"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "Stzary综合征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "弥漫性大B细胞淋巴瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 35000431,
+                            "ATestID": 35000431,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "80a6d5306d7eaaeac4c12819066952a9df5cb7061b4cd64ca67dce5c4db890da1610c4aa314b6fad502eed18eecaf4c03fbb2e1df228e38a",
+                            "Explain": "只有实质细胞而没有间质的恶性肿瘤是乳腺髓样癌。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乳腺髓样癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "印戒细胞癌"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "恶性黑色素瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "横纹肌肉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "以上均正确"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000402,
+                            "ATestID": 43000402,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "7b3da3f2e6d8fb16bdf3b40ff4519e60b905e8060fbae60c1383bbb61f66e2969e92f6cc0875e0fa",
+                            "Explain": "\"癌前病变\"是指有癌变潜在可能的良性病变，有可能逆转。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "癌肿的早期阶段"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "良性肿瘤发生了癌变"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "一种恶性病变，不可逆转"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "不能逆转"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "有癌变潜在可能的良性病变，有可能逆转"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000405,
+                            "ATestID": 43000405,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2deb6d1028aea890f4371a1e9fb978ea89479985a1df54f7c1aee76645bf75c0019740290c356d3eecffc7430dcfc718",
+                            "Explain": "乳腺癌中，浸润性导管癌最多见，组织学上表现为癌细胞体积大，呈实性团块结构，癌细胞团之间为纤维结缔组织。其次，为浸润性小叶癌，癌细胞体积小，呈条索状排列，癌巢小而少，大量纤维组织增生。小管癌少见，癌组织中大量管状腺体形成。髓样癌较少见，癌细胞体积大，细胞境界不清，呈合体细胞样，核仁清楚，大片癌细胞巢伴淋巴细胞浸润，纤维间质少。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "癌组织中大量腺体形成"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "癌巢小而少，大量纤维组织增生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "大片癌细胞巢伴淋巴细胞浸润"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "大量黏液形成，其中漂浮癌细胞团"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "癌细胞巢伴纤维间质浸润"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000411,
+                            "ATestID": 43000411,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "46b1bd6277ab59ed23b32357dac2f94a998395da00d1482ef0d91d7bd5413eee9c283809c1a030b08d2196242b1b1ff8",
+                            "Explain": "血管壁的局限性异常扩张称为动脉瘤：误位组织形成的肿块称为迷离瘤；器官内固有组织结构紊乱所形成的肿块称为错构瘤；以上病变都不属于真性肿瘤。Bowen病是指皮肤的原位癌病变，属于真性肿瘤。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "动脉瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "Bowen瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "迷离瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "错构瘤"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血管瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000412,
+                            "ATestID": 43000412,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2c7c7b4c31e07705ac08413c78d4a6d2d8243fbef26da2703ce04162bd90a2f9ab0e890c34c03d64",
+                            "Explain": "异型性是区别良、恶性肿瘤重要的组织学依据。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肿瘤的肉眼形态"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肿瘤对机体的影响"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肿瘤的大小"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肿瘤细胞的异型性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肿瘤的体积"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015194,
+                            "ATestID": 43015194,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5f2c3617d234e23ab908b1d0aebef8af763991a18de7b0fed230dd767c18fab036568cdf02f18271bf23e22c5c4fc61c848e025290524572",
+                            "Explain": "判定良性与恶性肿瘤，最具鉴别意义的是肿瘤细胞的异型性。",
+                            "TestPoint": "肿瘤的命名和分类",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肿瘤细胞的异型性"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "生长速度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "对机体影响"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "生长方式"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肿瘤的大小"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015195,
+                            "ATestID": 43015195,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4aaac2939032ea3f26bb450c2a5143002182aa5e3878156c736e860a9de29d84b8ec4f3b93b99d273f498734557b6a348044804bfee76b301fcb2a6179342588",
+                            "Explain": "肿瘤组织无论在细胞形态和组织结构上，都与其发源的正常组织有不同程度的差异，这种差异称为异型性。异型性是肿瘤异常分化在形态上的表现。异型性越小，说明分化程度越高。这种异型性的大小是诊断肿瘤，确定其良、恶性的主要组织学依据。故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "生长方式"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "生长速度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肿瘤的异型性"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "对机体影响"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肿瘤的部位"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015196,
+                            "ATestID": 43015196,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "67bc512bc3089c778c9e7567f81a88993b03c30ef8b4782f60ba61f21a76b2b65875e0b19f82ceb0",
+                            "Explain": "良性肿瘤细胞的异型性小，而恶性肿瘤细胞具有高度异型性，与起源组织相似，即异型性小、分化度高。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "对机体影响大"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "高度恶性的肿瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "不容易引起器官的阻塞和破坏"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "有较大的异型性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "与起源组织相似"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015197,
+                            "ATestID": 43015197,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "30714b1b4ee8da79182d9593086d24fe88595d813590ea8c",
+                            "Explain": "临床上，肿痛分期主要根据原发肿瘤的大小，浸润程度，扩散程度，有无局部或远处转移。",
+                            "TestPoint": "肿瘤的命名和分类",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肿瘤细胞的分化程度"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肿瘤细胞核分裂象的多少"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肿瘤细胞的恶性程度"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肿瘤的生长范围和扩散程度"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肿瘤细胞的大小"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015198,
+                            "ATestID": 43015198,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "daf5df901412406b0b4157402f955e0a2f9baa52fbad62c2f89a75872940b9edcb10384799ec9b59",
+                            "Explain": "交界性肿瘤也可出现转移，如卵巢交界性肿瘤可存在淋巴结转移及种植转移。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胃癌可转移至盆腔"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乳癌可转移至锁骨上淋巴结"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "交界性肿瘤不出现转移"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "肝癌可出现脑转移"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肺癌可出现骨转移"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015199,
+                            "ATestID": 43015199,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f8603956da1308ac4b849505138b71305136a67b41a8b47c6c3173118939b8a73981c3b1f9c48c106ef94b585d1fdb7e5ee1084a430f4c10",
+                            "Explain": "选C，分化程度。有些良性肿瘤无包膜，比如血管瘤。生长速度跟三个方面有关：1，细胞倍增时间；2，生长分数；3，瘤细胞的生成与丢失。有些恶性肿瘤不见得很快生长。疼痛的话……肿瘤大了，压迫周围组织、神经，也会产生疼痛吧。跟溃疡一定无关啦，比如髓样肿瘤（白血病）是恶性的，它是异常白细胞侵犯全身组织，也没说造成溃疡的；良性肿瘤大多数有包膜，也不会造成溃疡。分化程度是主要的区分条件，也称为异型性。",
+                            "TestPoint": "肿瘤的命名和分类",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "有无包膜"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "生长速度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "分化程度"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "疼痛程度"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肿瘤大小"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015200,
+                            "ATestID": 43015200,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5f71a5824b59c542ca2001b3d0e43dc8c4352cb5fb9b7e33ad3099039347df8d111322eafc901a85ada436187a890d7dffca00f8cc510bc2",
+                            "Explain": "含两个以上胚层的多种成分的肿瘤，如畸胎瘤。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "无性细胞瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "绒毛膜癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "畸胎瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "增生性瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "内胚窦瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015201,
+                            "ATestID": 43015201,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "222375300d10e5ff81e1004d6f79311c3d1dbdc438d247ed7151ba6b8c308c1d",
+                            "Explain": "\"母\"一般为恶性，除外：骨母细胞瘤、软骨母细胞瘤、肌母细胞瘤。",
+                            "TestPoint": "肿瘤的命名和分类",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "视网膜母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肾母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "神经母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "淋巴瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015202,
+                            "ATestID": 43015202,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6f9c38277ffa6bb950317b560aeed8013b5752ec0f8f00cc502bf21fb4e71785",
+                            "Explain": "葡萄胎既有良性的也有恶性的。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "白血病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨髓瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "良性葡萄胎"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "神经母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "无性细胞瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015204,
+                            "ATestID": 43015204,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2ce23cefdf3e994b89c1f09260d3797c7a689796e1e6962e5fc4555cc8e0063f",
+                            "Explain": "癌前病变是指某些具有癌变潜能的良性病变，长期不治疗，有的可转变为癌。",
+                            "TestPoint": "癌症",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "早期浸润癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "良性肿瘤的恶变"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "恶性度高的肿瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "有可能癌变的良性病变"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "有可能转变成鳞癌的良性病变"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015205,
+                            "ATestID": 43015205,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b074910a7d6c61a7aaa4fd5755cd630caf31f4ab3c27207a27a885246c4d72b5",
+                            "Explain": "癌前病变有黏膜白色病变，乳腺增生性纤维囊性变，结肠、直肠的多发性腺瘤性息肉病，皮肤慢性溃疡，慢性子宫颈炎伴子宫颈糜烂，慢性萎缩性胃炎与胃溃疡，肝硬化。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "大肠腺瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "皮下脂肪瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "乳腺纤维腺瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "子宫平滑肌瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "子宫肌瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015206,
+                            "ATestID": 43015206,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "edafd83869d88508d73594281ef7963c5efd03532af1531f6f031f8df54b8a80b019a71e6982731c",
+                            "Explain": "十二指肠溃疡不会癌变。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "黏膜白斑"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "溃疡性结肠炎"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "十二指肠溃疡"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "乳腺导管上皮乳头状瘤样增生"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "家族性腺瘤性肠息肉病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015207,
+                            "ATestID": 43015207,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aa66e55d899a9dc3d863ec18df20cc2755923d2c29a22029a5175d9adeda2cb9ed13772dfa160406ddfaf5994e22238fba343d5cb0531597e0acb5c8165b20b5",
+                            "Explain": "重度非典型增生累及上皮2/3以上，尚未达到全层且很难逆转，常转变为癌。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "肠上皮化生"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "假幽门腺化生"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "黏膜重度萎缩，腺体减少"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "重度不典型增生"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "淋巴滤泡增生"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015209,
+                            "ATestID": 43015209,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "df714c76f85c761f20a9cf0bec9dd41ca2ee404244d2c27d50116fb939df7903ef433f8250e41cc40cbe1d818967ebade91def07c1687e3aa010fd23542d0e08",
+                            "Explain": "不完全大肠型化生和中度以上不典型增生属癌前病变 。",
+                            "TestPoint": "癌症",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "明显肠上皮化生"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "中度以上不典型增生"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "假幽门腺化生"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胃小凹上皮增生"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "假幽门腺化生伴肠上皮化生"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015210,
+                            "ATestID": 43015210,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6adc417f69209499e5134e6e6a21e70760e378632cf021a588be3e84961c1141",
+                            "Explain": "原位癌又称Bowen氏病，或上皮内上皮癌。多见于老年人，好发于角结膜交界处，肿瘤与邻近正常组织有明显界限。发展缓慢，可在若干年内局限在上皮内，病理检查显示为一种无规律的表皮增生，属于真正的上皮内上皮癌。切片中可见上皮细胞极性紊乱，正常上皮细胞被许多异形或多核奇异细胞所代替，常见角化和不全形化分裂相，上皮基底膜完整，一般预后良好。",
+                            "TestPoint": "癌症",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "早期癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "原发癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "癌前病变"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "在原地的癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "未突破基底膜的癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015212,
+                            "ATestID": 43015212,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0734bbe4a5697e7bf1f86b4f043f7b9b4f6fbe9c23ad9f6456337ac96f1f40a7ac323b08bcf3e64e",
+                            "Explain": "起源于上皮组织的恶性肿瘤叫癌，起源于间叶组织的肿瘤叫肉瘤，两者皆可以是恶性的，只是组织来源不一致。",
+                            "TestPoint": "上皮性和非上皮性肿瘤",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "发生的部位不同"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肿瘤的大小不同"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "肿瘤的颜色不同"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "发生的年龄不同"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "组织来源不同"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015213,
+                            "ATestID": 43015213,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c23ddaf18fd68ed67ed06e5cc27140ca9982cd4c37f1e85e27798f1416b1eba80b26d884ac242af4",
+                            "Explain": "起源于上皮组织的恶性肿瘤叫癌，起源于间叶组织的肿瘤叫肉瘤，两者皆可以是恶性的，只是组织来源不一致。",
+                            "TestPoint": "上皮性和非上皮性肿瘤",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "Content": "异型性明显，有核分裂象",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "浸润性生长、无包膜",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "肿瘤大小",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "组织来源",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "肿瘤体积",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015214,
+                            "ATestID": 43015214,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "daf5df901412406b4b43e8b76b80c290c967be5b4d8e49688dbb51f36a0ec086",
+                            "Explain": "球瘤不一定都是良性。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "癌比肉瘤多见"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "恶性肿瘤多呈浸润性生长"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "癌的淋巴道转移比肉瘤的多见"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "球瘤都属良性"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肉瘤多发生于青年人"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015216,
+                            "ATestID": 43015216,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8e86af14737f7171d3aeeb6a2c396c66a388486200f253790653cdf6b6dbcc3f5ee456f7b95d7ff9",
+                            "Explain": "来源于间叶组织的肿瘤是肉瘤。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "肉瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "类癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "原位癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015217,
+                            "ATestID": 43015217,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fbc6e7f0aedbfbdf8d78e5026c30a47cd4799dcf9d18b0a97e5ed153f1f10ace",
+                            "Explain": "肉瘤为恶性间叶组织肿瘤的统称，肿瘤间质的结缔组织少，但血管较丰富，故肉瘤多先由血道转移。",
+                            "TestPoint": "上皮性和非上皮性肿瘤",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "直接蔓延"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "血道转移"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "种植性转移"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "淋巴道转移"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "直接转移"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015220,
+                            "ATestID": 43015220,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "374746796cb9a55422678d097e97fb122d4d1d3ad106d4fdee66c00c658f2cbcf45fd72f089921fd",
+                            "Explain": "镜下只有分化好的鳞癌，癌巢中科出现层状角化物，称为角化珠。",
+                            "TestPoint": "上皮性和非上皮性肿瘤",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "分化好的鳞癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "分化好的腺癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "移行细胞癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "分化差的鳞癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "分化差的大细胞癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015222,
+                            "ATestID": 43015222,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "214666c68c73f7770238ed78e381764c118e527acc4989c11311cfafd3e16c9b8378764844b30b23405e38350eabc67c",
+                            "Explain": "分化好的鳞癌癌巢中，可见细胞间桥及角化珠；分化差者，癌细胞无角化珠，细胞间桥少或无，而呈明显异型性。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "分化好的鳞癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "基底细胞癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "分化差的鳞癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "移行细胞癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "上皮细胞癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015223,
+                            "ATestID": 43015223,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1d2c9ef1adeea52df04989229b2b7a32c3ce2a35b550b96bccf4a0041a5f5e3671b94495d2453c92230f1bc3126ca16a56893e3d3afd940d",
+                            "Explain": "高分化鳞状细胞癌的癌细胞团中有较多癌株存在。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "低分化鳞状细胞癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "高分化鳞状细胞癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "高分化腺癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "低分化腺癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "小细胞癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015225,
+                            "ATestID": 43015225,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "d7a66102afc5d725693868cfed1e2af73bfd48bd7cccf81fc5af3f32810af5b7d724f7070706a277",
+                            "Explain": "T细胞性淋巴瘤包括扭曲性淋巴细胞淋巴瘤、蕈样肉芽肿-Sezary综合征、淋巴上皮样细胞淋巴瘤。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "伯基特淋巴瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "B淋巴瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "免疫母细胞淋巴瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "滤泡中心细胞型淋巴瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "扭曲性淋巴细胞型淋巴瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015226,
+                            "ATestID": 43015226,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "50ae17164388fe73b5cc7d9f89bcf8393eea14c7b5cce20bdc6bea7383f47aa5",
+                            "Explain": "抑癌基因最多见的是p53基因和Rb基因。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "Rb"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "ras"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "myc"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "c-erbB-2"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "sis"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015227,
+                            "ATestID": 43015227,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "44b45413acf6603df187c02783b6c3066c3899d90f91946834e54acc25ec99ecba4b12268e71262faf0b704bc9a06fcfd3153bd6191ff565b15576d369c7ddc9ee11bebbf10dbbce",
+                            "Explain": "亚硝胺类化合物常可引起消化道肿瘤，如胃癌、肠癌、大肠癌、肝癌等。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "食管癌"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "胃癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胆囊癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "大肠癌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肝癌"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015228,
+                            "ATestID": 43015228,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f36e9abd9cffbed42de1a7a9a306f6c52706117d79d2fd66d76551d797939ed40c9d430461274c1285c53da037d49810c68082a4fd14d15ac347f938a0217da350f305a55f5d9699",
+                            "Explain": "子宫颈上皮非典型增生属癌前病变，子宫颈上皮细胞呈现程度不等的异型性，表现为细胞大小形态不一，核增大深染，核浆比例增大，核分裂像增多，细胞极性紊乱 。病变由基底层逐渐向表层发展 。子宫颈原位癌异型增生的细胞累及子宫颈粘膜上皮全层，但病变局限于上皮层内，未突破基底膜。",
+                            "TestPoint": "原位癌",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "细胞排列极向消失"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "细胞具有异型性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "细胞增生活跃，层数增多"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "增生的细胞表层角化不全"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "累及上皮全层"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015229,
+                            "ATestID": 43015229,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "60784516521d25fdd36a6ad2276e11bdd25888afb3e7d32cb3134f097cf9ffbb2251e23fbbe95bd3",
+                            "Explain": "上皮组织发生的良性肿瘤有乳头状瘤和腺瘤，所以选C。",
+                            "TestPoint": "上皮性和非上皮性肿瘤",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "淋巴管瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "血管瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "乳头状瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "平滑肌瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "脂肪瘤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015230,
+                            "ATestID": 43015230,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "5a677c7a2ea925b80d38fe9d6889863b856f358435cf739591a7b681c7eef537727c5231768f6c842d6984ab3a10d528",
+                            "Explain": "高分化，即肿瘤细胞的分化程度接近正常细胞，提示恶性程度低。",
+                            "TestPoint": "肿瘤的命名和分类",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "瘤细胞极性消失"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "瘤细胞呈巢状生长"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "瘤细胞异型性大"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "瘤细胞呈结节性生长"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "瘤细胞与起源的细胞相似"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015231,
+                            "ATestID": 43015231,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "2651c4701943e7720859c368ee6cf9dc272f6bb83c930e383a2ceba95594ff4c1049c57b82270bc1f4a034364b99c9f06c92ff7f0a5076bb56a8a2d517ec72944188023cef21bce68bbdc6dc33c5031c6212d6a6cb0d6688",
+                            "Explain": "前哨淋巴结检测是决定乳腺癌术武的最科学和客观的指标。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "大小",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "数量",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "质地",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "是否有癌转移",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "染色的状况",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015232,
+                            "ATestID": 43015232,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，该试题无误，不修改。",
+                            "OperateTime": "2017年11月27日"
+                        },
+                        {
+                            "Title": "f8603956da1308ac9b649ab10ec0a9209d38bf20193cc022663d85c019930610c2242fb89bb7abf29e4250a10c169b94",
+                            "Explain": "良性肿瘤生长缓慢，无浸润和转移，一般对机体影响较小，主要影响可表现为局部压迫和阻塞、激素增多症状等，而这些症状的有无及严重程度，主要与肿瘤发生部位和继发性改变有关。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "生长部位"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "生长速度"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "组织来源"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "生长时间"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "体积大小"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015233,
+                            "ATestID": 43015233,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "64f049a76ce368920c87cc143a2a23664a224c67a28b380960c6059afc91390f029bef7329dc30f00bdce71c690a17e9a336e68da2678034ba002f89ac8644ed797075f6d5b3b9733f0df523e248d04519ecff6a18ac3616972ad580b46fdbead9821c6755b9a5b770d395699240bce9792a7749ee80385efe6556c859c3724d8f415793caa4e3a6834f9af295ec16986b8a2215e82b30f8182fe339cf29fd72",
+                            "Explain": "弥漫性大B细胞淋巴瘤是一类形态范围变化较大的异质性B细胞淋巴瘤，约占所有非霍奇金淋巴瘤的20%～40%。该肿瘤除原发于淋巴结外，还可原发于纵隔、咽环、胃肠道、皮肤、骨和脑等处。镜下表现为形态多样、体积较大的淋巴细胞弥漫浸润。CD20是B细胞特异性标志，在B细胞增殖和分化中起重要的调节作用。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "CD10[SBjia.gif]"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "CD13[SBjia.gif]"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "CD20[SBjia.gif]"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "CD5[SBjia.gif]"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "CD34[SBjia.gif]"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015234,
+                            "ATestID": 43015234,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "4b8b056e46657cbd51a5781442edeaaf656a66675ecddb8e43ca1dc0f98109519cd4a21952c382ff55a4d7139dec5a2d",
+                            "Explain": "镜下只有分化好的鳞癌，癌巢中科出现层状角化物，称为角化珠，所以高分化鳞状细胞癌的镜下特点是出现角化珠。",
+                            "TestPoint": "肿瘤的命名和分类",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "细胞核大小不一"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "细胞质嗜碱性"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "血管丰富"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "角化珠的形成"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "核分裂象少见"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015235,
+                            "ATestID": 43015235,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "941d0f38e1d0cdeafbec92f2a0bcfb69857ab7789fa3cf1506f89df1c6dc1749137675e377a903a5",
+                            "Explain": "原位癌是指宫颈鳞状上皮的重度不典型增生，已累及上皮的全层，但尚未突破基膜向下侵袭者。故选E。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "癌局限于宫颈的部位未累及宫体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "宫颈上皮内部分细胞具有异型性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "癌细胞高度分化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "癌细胞突破上皮基膜侵入下方固有膜"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "癌细胞仅局限于上皮全层"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000413,
+                            "ATestID": 41000413,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 19,
+                    "TestItems": [
+                        {
+                            "Title": "13bd42e0fe182eb8093045d064cadf98d7714f00e9aceb36c64c70d32ba98107",
+                            "Explain": "卵巢未成熟型畸胎瘤则属于恶性肿瘤。黑色素瘤是黑色素细胞发生的恶性肿瘤。畸胎瘤则是由多潜能的生殖细胞发生的肿瘤，由两个或三个胚层的组织构成。根据分化程度可分为良性和恶性。故21题、22题均选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "转移性肿瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "恶性肿瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "交界性肿瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "癌前病变"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "早期浸润癌"
+                                }
+                            ],
+                            "AllTestID": 35000433,
+                            "BTestID": 35000096,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000096,
+                                    "Title": "13bd42e0fe182eb8093045d064cadf98d7714f00e9aceb36c64c70d32ba98107",
+                                    "Explain": "卵巢未成熟型畸胎瘤则属于恶性肿瘤。黑色素瘤是黑色素细胞发生的恶性肿瘤。畸胎瘤则是由多潜能的生殖细胞发生的肿瘤，由两个或三个胚层的组织构成。根据分化程度可分为良性和恶性。故21题、22题均选B。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000097,
+                                    "Title": "9d1e948585969b6d20987cf0a7b1f861",
+                                    "Explain": "卵巢未成熟型畸胎瘤则属于恶性肿瘤。黑色素瘤是黑色素细胞发生的恶性肿瘤。畸胎瘤则是由多潜能的生殖细胞发生的肿瘤，由两个或三个胚层的组织构成。根据分化程度可分为良性和恶性。故21题、22题均选B。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "2ce23cefdf3e994b7bf2b4a830438f43",
+                            "Explain": "癌前病变的几种常见疾病：黏膜白斑、子宫颈糜烂、乳腺囊性增生病、结肠腺瘤样息肉病、慢性萎缩性胃炎、皮肤慢性溃疡、交界痣及肝硬化等。故23题选E。蕈样真菌病是来源于皮肤T淋巴细胞的恶性肿瘤。故24题选A。胃黏液癌起源于胃黏膜的上皮组织，故为上皮来源的恶性肿瘤。故25题选C。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "蕈样真菌病"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "伯基特（Burkitt）淋巴瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胃黏液癌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "畸胎瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "乳腺增生性纤维囊变"
+                                }
+                            ],
+                            "AllTestID": 35000434,
+                            "BTestID": 35000098,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000098,
+                                    "Title": "2ce23cefdf3e994b7bf2b4a830438f43",
+                                    "Explain": "癌前病变的几种常见疾病：黏膜白斑、子宫颈糜烂、乳腺囊性增生病、结肠腺瘤样息肉病、慢性萎缩性胃炎、皮肤慢性溃疡、交界痣及肝硬化等。故23题选E。蕈样真菌病是来源于皮肤T淋巴细胞的恶性肿瘤。故24题选A。胃黏液癌起源于胃黏膜的上皮组织，故为上皮来源的恶性肿瘤。故25题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000099,
+                                    "Title": "a893bb4d4a4a468c4e560625d7154c68c0a6bbda4346f8903f9e1bdd1452b14802493ee7ed66bcee54488e45f2c09bb3",
+                                    "Explain": "癌前病变的几种常见疾病：黏膜白斑、子宫颈糜烂、乳腺囊性增生病、结肠腺瘤样息肉病、慢性萎缩性胃炎、皮肤慢性溃疡、交界痣及肝硬化等。故23题选E。蕈样真菌病是来源于皮肤T淋巴细胞的恶性肿瘤。故24题选A。胃黏液癌起源于胃黏膜的上皮组织，故为上皮来源的恶性肿瘤。故25题选C。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000100,
+                                    "Title": "b41f6425f4594112bccb03af295eb73b5d0b42a73645e0eebdceb77eaca78fea",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "8933e7e4f163df20115adc4103227e993bb266cc0a0eab0abae1f63925b78d91",
+                            "Explain": "由幼稚细胞参与形成的肿瘤称母细胞瘤，有良恶性之分，如良性者有骨母细胞瘤、软骨母细胞瘤。恶性者有神经母细胞瘤、髓母细胞瘤和肾母细胞瘤等。故28题选D。畸胎瘤多发生于性腺，一般含有两个以上胚层的多种成分，结构混乱，成熟性畸胎瘤为良性，未分化的畸胎瘤为恶性。故29题选A。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "成熟性畸胎瘤"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "骨母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "神经纤维瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "髓母细胞瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "软骨母细胞瘤"
+                                }
+                            ],
+                            "AllTestID": 35000436,
+                            "BTestID": 35000103,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 35000103,
+                                    "Title": "8933e7e4f163df20115adc4103227e993bb266cc0a0eab0abae1f63925b78d91",
+                                    "Explain": "由幼稚细胞参与形成的肿瘤称母细胞瘤，有良恶性之分，如良性者有骨母细胞瘤、软骨母细胞瘤。恶性者有神经母细胞瘤、髓母细胞瘤和肾母细胞瘤等。故28题选D。畸胎瘤多发生于性腺，一般含有两个以上胚层的多种成分，结构混乱，成熟性畸胎瘤为良性，未分化的畸胎瘤为恶性。故29题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 35000104,
+                                    "Title": "fab9cce0769210d47ddf1b1ad925ad6416a3c12b961042f2fd351448af3782c0a2799934678fd150c5c08ac5e2979df4",
+                                    "Explain": "由幼稚细胞参与形成的肿瘤称母细胞瘤，有良恶性之分，如良性者有骨母细胞瘤、软骨母细胞瘤。恶性者有神经母细胞瘤、髓母细胞瘤和肾母细胞瘤等。故28题选D。畸胎瘤多发生于性腺，一般含有两个以上胚层的多种成分，结构混乱，成熟性畸胎瘤为良性，未分化的畸胎瘤为恶性。故29题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "b1cb8619bc9e25b682178f4418a5d6d7",
+                            "Explain": "细胞受到严重损伤累及细胞核时，呈现代谢停止、结构破坏和功能丧失等不可逆改变，即细胞死亡，其中如果坏死组织很快因酶性分解而变成液态，称液化性坏死，常发生于含脂质多和含蛋白酶多的组织，故3题选D。玻璃样变性通常用来描述在常规HE染色切片中细胞内或者细胞外组织变成均质、红染、毛玻璃样，故2题选B。凋亡又称为程序性细胞死亡，是依赖能量的细胞内死亡程序活化而导致的活体内单个或小团细胞的死亡，故1题选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "活体内单个或小团细胞的死亡"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "细胞或间质内出现半透明、均质、红染无结构物质"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "除脂肪细胞外，其他细胞出现脂滴"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "坏死组织发生酶性分解"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "结核分枝杆菌引起的坏死"
+                                }
+                            ],
+                            "AllTestID": 41000422,
+                            "BTestID": 41000129,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000129,
+                                    "Title": "b1cb8619bc9e25b682178f4418a5d6d7",
+                                    "Explain": "细胞受到严重损伤累及细胞核时，呈现代谢停止、结构破坏和功能丧失等不可逆改变，即细胞死亡，其中如果坏死组织很快因酶性分解而变成液态，称液化性坏死，常发生于含脂质多和含蛋白酶多的组织，故3题选D。玻璃样变性通常用来描述在常规HE染色切片中细胞内或者细胞外组织变成均质、红染、毛玻璃样，故2题选B。凋亡又称为程序性细胞死亡，是依赖能量的细胞内死亡程序活化而导致的活体内单个或小团细胞的死亡，故1题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000130,
+                                    "Title": "fb6959f15d51bcae213eae16bac6383b13892f209a27ded6",
+                                    "Explain": "细胞受到严重损伤累及细胞核时，呈现代谢停止、结构破坏和功能丧失等不可逆改变，即细胞死亡，其中如果坏死组织很快因酶性分解而变成液态，称液化性坏死，常发生于含脂质多和含蛋白酶多的组织，故3题选D。玻璃样变性通常用来描述在常规HE染色切片中细胞内或者细胞外组织变成均质、红染、毛玻璃样，故2题选B。凋亡又称为程序性细胞死亡，是依赖能量的细胞内死亡程序活化而导致的活体内单个或小团细胞的死亡，故1题选A。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000131,
+                                    "Title": "bc7c594ab3f0b8ff0b6bdc2df53f188e7d08bb094f04fd4f",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "f4904b7338d7374087ce1cec49c7532158db906e3a36a9fe1a7d344082a7b21b14d46170de6a636d4803acedf94292b1aced44bc0892ea38",
+                            "Explain": "癌前病变是指某些具有潜在癌变可能性的病变或疾病，如长期存在则有可能转变为癌，直、结肠家族性多发性腺瘤性息肉属于癌前病变，故1题选A。肿瘤浸润黏膜及黏膜下层，但尚未浸润肌层，称早期癌，故2题选B。未成熟型畸胎瘤肉眼观呈实体分叶状，实体区域常可查见未成熟的骨或软骨组织。主要由未分化的胚胎组织构成的肿瘤则预后较差，3题选D。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "癌前病变"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "早期癌"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "良性肿瘤"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "恶性肿瘤"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "交界性肿瘤"
+                                }
+                            ],
+                            "AllTestID": 41000423,
+                            "BTestID": 41000132,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000132,
+                                    "Title": "f4904b7338d7374087ce1cec49c7532158db906e3a36a9fe1a7d344082a7b21b14d46170de6a636d4803acedf94292b1aced44bc0892ea38",
+                                    "Explain": "癌前病变是指某些具有潜在癌变可能性的病变或疾病，如长期存在则有可能转变为癌，直、结肠家族性多发性腺瘤性息肉属于癌前病变，故1题选A。肿瘤浸润黏膜及黏膜下层，但尚未浸润肌层，称早期癌，故2题选B。未成熟型畸胎瘤肉眼观呈实体分叶状，实体区域常可查见未成熟的骨或软骨组织。主要由未分化的胚胎组织构成的肿瘤则预后较差，3题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000133,
+                                    "Title": "51d7ab2fffe81180cd1adee029c4f17d77ef1cea1b8aa4beac97a71365c4f6298d02ddcceac5bb78548980d77d8bcd58054810f83c01cc6e",
+                                    "Explain": "癌前病变是指某些具有潜在癌变可能性的病变或疾病，如长期存在则有可能转变为癌，直、结肠家族性多发性腺瘤性息肉属于癌前病变，故1题选A。肿瘤浸润黏膜及黏膜下层，但尚未浸润肌层，称早期癌，故2题选B。未成熟型畸胎瘤肉眼观呈实体分叶状，实体区域常可查见未成熟的骨或软骨组织。主要由未分化的胚胎组织构成的肿瘤则预后较差，3题选D。",
+                                    "TestPoint": "",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000134,
+                                    "Title": "9c79bbdbc7a97d7ed144b84bdf8837959c54e4c2e1e8f5eae967af4446d877c6",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "27cb07316d51e30a1f62a7f074fcc5eee3b18db82c91b0f7eeca3bd5125f7d396cd23bcee5a863ccb0c09c52984d2b34e71336183218039446f9b6786f01f30bb90e083e045d067a",
+                            "Explain": "宫颈管黏膜局限性增生，形成椭圆形赘生物突向宫口属于宫颈息肉。",
+                            "TestPoint": "子宫与宫颈",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "宫颈糜烂"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "宫颈息肉"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "宫颈肥大"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "宫颈腺体囊肿"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "子宫颈癌"
+                                }
+                            ],
+                            "AllTestID": 43015237,
+                            "BTestID": 43002809,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002809,
+                                    "Title": "27cb07316d51e30a1f62a7f074fcc5eee3b18db82c91b0f7eeca3bd5125f7d396cd23bcee5a863ccb0c09c52984d2b34e71336183218039446f9b6786f01f30bb90e083e045d067a",
+                                    "Explain": "宫颈管黏膜局限性增生，形成椭圆形赘生物突向宫口属于宫颈息肉。",
+                                    "TestPoint": "子宫与宫颈",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002810,
+                                    "Title": "df5af991725cff44aa1073921148047550d6b61530e4dbd6f5d241ab30ec3f95e4ae0344fcd0acd30c7d13c542a12a3897d159f92dc1199bc9068b759bc738b96c45332dc97831d94b4d7ae3bce1a393032c224845148d4ba416f56c5fff7d03f60030c5db8e34ceb796791518ea22c29e1d9f06eaf912aa",
+                                    "Explain": "宫颈糜烂愈合过程中，腺管的开口被阻塞，分泌物滞留于腺腔内，在宫颈表面形成小囊肿为宫颈腺体囊肿。",
+                                    "TestPoint": "子宫与宫颈",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002811,
+                                    "Title": "a6c0a18e550efe671648f5e1b90bd5f91fe827150190f569da51f6b8374c24c7ffd6855226e4cd476809b70851646a3adf1dda60cadb6bdf5b8cbfd2a40c46a4d02bdb0588c1c6f7f2e32f1d28d8ac93",
+                                    "Explain": "炎症利激使宫颈间质组织充血、水肿、腺体和纤维组织增为宫颈肥大。",
+                                    "TestPoint": "宫颈炎的临床表现及治疗",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002812,
+                                    "Title": "0e75811b9ab7410fa3452e96a652cde239f9487387e563a56dcf19141a5ae930696cea16c9e87af72a989050c0f4cbd6e4e34a48bd09c45d",
+                                    "Explain": "宫颈鳞状上皮脱落，被柱状上皮所覆盖为宫颈糜烂。",
+                                    "TestPoint": "子宫与宫颈",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "8b7a8efd2d0a707fec0fe4e673f8ec0d5ef45605b210ecde5882ac54a6686bb80a5439aa89336f23",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "息肉状"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乳头状"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "分叶状"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "结节状"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "囊状"
+                                }
+                            ],
+                            "AllTestID": 43015239,
+                            "BTestID": 43002815,
+                            "SrcID": 9,
+                            "SbjID": 38,
+                            "CptID": 101,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002815,
+                                    "Title": "8b7a8efd2d0a707fec0fe4e673f8ec0d5ef45605b210ecde5882ac54a6686bb80a5439aa89336f23",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002816,
+                                    "Title": "6299e689aa94253316e1d03e2aa90adc39841d9ae3279fb7592e94856ee855ce3b3b649eff0217cc9e02fc0e6b822fb4081c77aaaa037281",
+                                    "Explain": "脂肪瘤最常见的部位为背、肩、颈及四肢的皮下组织。有包膜，质软，色淡黄，分叶状，肿瘤可由数厘米至数十厘米不等。可单发，亦可多发。瘤组织结构与正常脂肪组织相似。腺瘤为腺上皮发生的良性肿瘤，多见于甲状腺、卵巢、乳腺、涎腺和肠等处。黏膜腺瘤多呈息肉状，腺器宫内的腺瘤多呈结节状，常有包膜。根据腺瘤的组成及形态特点，又将其分为囊腺瘤、纤维腺瘤、多形性腺瘤、患肉状腺瘤及绒毛状腺瘤等，如涎腺的多形性腺瘤、结肠的息肉状腺瘤和乳腺的纤维腺瘤等。\n（139～141题共用备选答案）\n（143-146题共用备选答案）\n（170～171题共用备选答案）\n（175～176题共用备选答案）",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 35000415,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000415,
+                        "ChildTableID": -1,
+                        "UserCount": 8025,
+                        "RightCount": 7051,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 44
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000415,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 44
+            },
+            {
+                "AllTestID": 35000418,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000418,
+                        "ChildTableID": -1,
+                        "UserCount": 7959,
+                        "RightCount": 4147,
+                        "FavCount": 91,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 55
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000418,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 55
+            },
+            {
+                "AllTestID": 35000419,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000419,
+                        "ChildTableID": -1,
+                        "UserCount": 7507,
+                        "RightCount": 4284,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 30
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000419,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 30
+            },
+            {
+                "AllTestID": 35000422,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000422,
+                        "ChildTableID": -1,
+                        "UserCount": 7215,
+                        "RightCount": 6693,
+                        "FavCount": 55,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 42
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000422,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 42
+            },
+            {
+                "AllTestID": 35000425,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000425,
+                        "ChildTableID": -1,
+                        "UserCount": 7308,
+                        "RightCount": 5835,
+                        "FavCount": 99,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 45
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000425,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 45
+            },
+            {
+                "AllTestID": 35000428,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000428,
+                        "ChildTableID": -1,
+                        "UserCount": 6881,
+                        "RightCount": 6003,
+                        "FavCount": 54,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 24
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000428,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 24
+            },
+            {
+                "AllTestID": 35000431,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000431,
+                        "ChildTableID": -1,
+                        "UserCount": 6690,
+                        "RightCount": 5777,
+                        "FavCount": 85,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 39
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000431,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 39
+            },
+            {
+                "AllTestID": 43000402,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000402,
+                        "ChildTableID": -1,
+                        "UserCount": 6847,
+                        "RightCount": 3278,
+                        "FavCount": 128,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 48
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000402,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 48
+            },
+            {
+                "AllTestID": 43000405,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000405,
+                        "ChildTableID": -1,
+                        "UserCount": 6224,
+                        "RightCount": 4016,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000405,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43000411,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000411,
+                        "ChildTableID": -1,
+                        "UserCount": 6534,
+                        "RightCount": 1255,
+                        "FavCount": 112,
+                        "DiscussionCount": 4,
+                        "ExplainCount": 0,
+                        "ConcernCount": 40
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000411,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 4,
+                "ExplainCount": 0,
+                "ConcernCount": 40
+            },
+            {
+                "AllTestID": 43000412,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000412,
+                        "ChildTableID": -1,
+                        "UserCount": 6086,
+                        "RightCount": 5372,
+                        "FavCount": 64,
+                        "DiscussionCount": 3,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000412,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 3,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43015194,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015194,
+                        "ChildTableID": -1,
+                        "UserCount": 5698,
+                        "RightCount": 5615,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015194,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015195,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015195,
+                        "ChildTableID": -1,
+                        "UserCount": 5622,
+                        "RightCount": 5480,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015195,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015196,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015196,
+                        "ChildTableID": -1,
+                        "UserCount": 5458,
+                        "RightCount": 5373,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015196,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015197,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015197,
+                        "ChildTableID": -1,
+                        "UserCount": 5461,
+                        "RightCount": 5131,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015197,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015198,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015198,
+                        "ChildTableID": -1,
+                        "UserCount": 5393,
+                        "RightCount": 4869,
+                        "FavCount": 33,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015198,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015199,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015199,
+                        "ChildTableID": -1,
+                        "UserCount": 5236,
+                        "RightCount": 4826,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015199,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 43015200,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015200,
+                        "ChildTableID": -1,
+                        "UserCount": 5026,
+                        "RightCount": 4838,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015200,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015201,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015201,
+                        "ChildTableID": -1,
+                        "UserCount": 5038,
+                        "RightCount": 4532,
+                        "FavCount": 32,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 25
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015201,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 25
+            },
+            {
+                "AllTestID": 43015202,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [
+                        {
+                            "AppID": 1328,
+                            "AllTestID": 43015202,
+                            "ChildTableID": -1,
+                            "Answer": "E",
+                            "AnswerCount": 1
+                        }
+                    ],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015202,
+                        "ChildTableID": -1,
+                        "UserCount": 5286,
+                        "RightCount": 2964,
+                        "FavCount": 83,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 17
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015202,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 17
+            },
+            {
+                "AllTestID": 43015204,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015204,
+                        "ChildTableID": -1,
+                        "UserCount": 4798,
+                        "RightCount": 4433,
+                        "FavCount": 19,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015204,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43015205,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015205,
+                        "ChildTableID": -1,
+                        "UserCount": 4883,
+                        "RightCount": 3369,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015205,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015206,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015206,
+                        "ChildTableID": -1,
+                        "UserCount": 4765,
+                        "RightCount": 3711,
+                        "FavCount": 81,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015206,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43015207,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015207,
+                        "ChildTableID": -1,
+                        "UserCount": 4565,
+                        "RightCount": 3925,
+                        "FavCount": 44,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015207,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015209,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015209,
+                        "ChildTableID": -1,
+                        "UserCount": 4587,
+                        "RightCount": 3691,
+                        "FavCount": 50,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015209,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015210,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015210,
+                        "ChildTableID": -1,
+                        "UserCount": 4266,
+                        "RightCount": 3871,
+                        "FavCount": 35,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015210,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43015212,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015212,
+                        "ChildTableID": -1,
+                        "UserCount": 4154,
+                        "RightCount": 3853,
+                        "FavCount": 27,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015212,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015213,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015213,
+                        "ChildTableID": -1,
+                        "UserCount": 4032,
+                        "RightCount": 3869,
+                        "FavCount": 20,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015213,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015214,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015214,
+                        "ChildTableID": -1,
+                        "UserCount": 4096,
+                        "RightCount": 3010,
+                        "FavCount": 8,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015214,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015216,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015216,
+                        "ChildTableID": -1,
+                        "UserCount": 3963,
+                        "RightCount": 2540,
+                        "FavCount": 29,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015216,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015217,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015217,
+                        "ChildTableID": -1,
+                        "UserCount": 3807,
+                        "RightCount": 3403,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 11
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015217,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 11
+            },
+            {
+                "AllTestID": 43015220,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015220,
+                        "ChildTableID": -1,
+                        "UserCount": 3808,
+                        "RightCount": 2476,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 22
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015220,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 22
+            },
+            {
+                "AllTestID": 43015222,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015222,
+                        "ChildTableID": -1,
+                        "UserCount": 3709,
+                        "RightCount": 2396,
+                        "FavCount": 48,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015222,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015223,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015223,
+                        "ChildTableID": -1,
+                        "UserCount": 3376,
+                        "RightCount": 3262,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015223,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015225,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015225,
+                        "ChildTableID": -1,
+                        "UserCount": 3479,
+                        "RightCount": 2562,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015225,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015226,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015226,
+                        "ChildTableID": -1,
+                        "UserCount": 3647,
+                        "RightCount": 1623,
+                        "FavCount": 107,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 23
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015226,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 23
+            },
+            {
+                "AllTestID": 43015227,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015227,
+                        "ChildTableID": -1,
+                        "UserCount": 3428,
+                        "RightCount": 1970,
+                        "FavCount": 71,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 27
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015227,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 27
+            },
+            {
+                "AllTestID": 43015228,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015228,
+                        "ChildTableID": -1,
+                        "UserCount": 3329,
+                        "RightCount": 2539,
+                        "FavCount": 61,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015228,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015229,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015229,
+                        "ChildTableID": -1,
+                        "UserCount": 3564,
+                        "RightCount": 2066,
+                        "FavCount": 69,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015229,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015230,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015230,
+                        "ChildTableID": -1,
+                        "UserCount": 3193,
+                        "RightCount": 2000,
+                        "FavCount": 59,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015230,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015231,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015231,
+                        "ChildTableID": -1,
+                        "UserCount": 3004,
+                        "RightCount": 2693,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015231,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43015232,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015232,
+                        "ChildTableID": -1,
+                        "UserCount": 2909,
+                        "RightCount": 2381,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015232,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43015233,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015233,
+                        "ChildTableID": -1,
+                        "UserCount": 3131,
+                        "RightCount": 2167,
+                        "FavCount": 53,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015233,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015234,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015234,
+                        "ChildTableID": -1,
+                        "UserCount": 2818,
+                        "RightCount": 2420,
+                        "FavCount": 48,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015234,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43015235,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015235,
+                        "ChildTableID": -1,
+                        "UserCount": 2708,
+                        "RightCount": 2568,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015235,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41000413,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000413,
+                        "ChildTableID": -1,
+                        "UserCount": 2881,
+                        "RightCount": 2390,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000413,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 35000433,
+                "ChildTableID": 35000096,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000433,
+                        "ChildTableID": 35000096,
+                        "UserCount": 2959,
+                        "RightCount": 2125,
+                        "FavCount": 42,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000433,
+                    "ChildTableID": 35000096
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 35000433,
+                "ChildTableID": 35000097,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000433,
+                        "ChildTableID": 35000097,
+                        "UserCount": 2795,
+                        "RightCount": 2402,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000433,
+                    "ChildTableID": 35000097
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 35000434,
+                "ChildTableID": 35000098,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000434,
+                        "ChildTableID": 35000098,
+                        "UserCount": 2907,
+                        "RightCount": 2024,
+                        "FavCount": 50,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 21
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000434,
+                    "ChildTableID": 35000098
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 21
+            },
+            {
+                "AllTestID": 35000434,
+                "ChildTableID": 35000099,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000434,
+                        "ChildTableID": 35000099,
+                        "UserCount": 2946,
+                        "RightCount": 1726,
+                        "FavCount": 59,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000434,
+                    "ChildTableID": 35000099
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 35000434,
+                "ChildTableID": 35000100,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000434,
+                        "ChildTableID": 35000100,
+                        "UserCount": 3103,
+                        "RightCount": 1542,
+                        "FavCount": 65,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000434,
+                    "ChildTableID": 35000100
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 35000436,
+                "ChildTableID": 35000103,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000436,
+                        "ChildTableID": 35000103,
+                        "UserCount": 2771,
+                        "RightCount": 1879,
+                        "FavCount": 43,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000436,
+                    "ChildTableID": 35000103
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 35000436,
+                "ChildTableID": 35000104,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 35000436,
+                        "ChildTableID": 35000104,
+                        "UserCount": 2507,
+                        "RightCount": 2280,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 35000436,
+                    "ChildTableID": 35000104
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41000422,
+                "ChildTableID": 41000129,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000422,
+                        "ChildTableID": 41000129,
+                        "UserCount": 2373,
+                        "RightCount": 2151,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000422,
+                    "ChildTableID": 41000129
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 41000422,
+                "ChildTableID": 41000130,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000422,
+                        "ChildTableID": 41000130,
+                        "UserCount": 2295,
+                        "RightCount": 2158,
+                        "FavCount": 18,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000422,
+                    "ChildTableID": 41000130
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000422,
+                "ChildTableID": 41000131,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000422,
+                        "ChildTableID": 41000131,
+                        "UserCount": 2464,
+                        "RightCount": 1760,
+                        "FavCount": 30,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000422,
+                    "ChildTableID": 41000131
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41000423,
+                "ChildTableID": 41000132,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000423,
+                        "ChildTableID": 41000132,
+                        "UserCount": 2627,
+                        "RightCount": 2194,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000423,
+                    "ChildTableID": 41000132
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000423,
+                "ChildTableID": 41000133,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000423,
+                        "ChildTableID": 41000133,
+                        "UserCount": 2528,
+                        "RightCount": 1824,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000423,
+                    "ChildTableID": 41000133
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000423,
+                "ChildTableID": 41000134,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000423,
+                        "ChildTableID": 41000134,
+                        "UserCount": 2477,
+                        "RightCount": 2062,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000423,
+                    "ChildTableID": 41000134
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015237,
+                "ChildTableID": 43002809,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015237,
+                        "ChildTableID": 43002809,
+                        "UserCount": 2471,
+                        "RightCount": 1658,
+                        "FavCount": 51,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015237,
+                    "ChildTableID": 43002809
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015237,
+                "ChildTableID": 43002810,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015237,
+                        "ChildTableID": 43002810,
+                        "UserCount": 2280,
+                        "RightCount": 2038,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015237,
+                    "ChildTableID": 43002810
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015237,
+                "ChildTableID": 43002811,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015237,
+                        "ChildTableID": 43002811,
+                        "UserCount": 2549,
+                        "RightCount": 1806,
+                        "FavCount": 61,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015237,
+                    "ChildTableID": 43002811
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015237,
+                "ChildTableID": 43002812,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015237,
+                        "ChildTableID": 43002812,
+                        "UserCount": 2554,
+                        "RightCount": 1415,
+                        "FavCount": 85,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015237,
+                    "ChildTableID": 43002812
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015239,
+                "ChildTableID": 43002815,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015239,
+                        "ChildTableID": 43002815,
+                        "UserCount": 2315,
+                        "RightCount": 1262,
+                        "FavCount": 76,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015239,
+                    "ChildTableID": 43002815
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43015239,
+                "ChildTableID": 43002816,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015239,
+                        "ChildTableID": 43002816,
+                        "UserCount": 2445,
+                        "RightCount": 1529,
+                        "FavCount": 80,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015239,
+                    "ChildTableID": 43002816
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

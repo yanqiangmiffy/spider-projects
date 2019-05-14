@@ -1,0 +1,770 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:06:59 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "e16f6208fc3a21e33fba63c82485e05d0ad33146081c91e17e805e80d5ef4033339f55a517ed17faaab76626efc9da26",
+                            "Explain": "HLA又称移植抗原。临床实践表明，同种异体移植(除同卵双生子外）的排斥应是成功率的最大障碍。",
+                            "TestPoint": "移植免疫",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "Rh血型抗原"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "ABO血型抗原"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "异嗜性抗原"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HLA抗原"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "变应原"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002454,
+                            "ATestID": 43002454,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a6811575747882e7eb86e26ef27632ba2a6447c2afaeb92def09b2db33b866af",
+                            "Explain": "HVGR（hostversusgraftreaction）：即宿主抗移植物反应,包括超急性排斥,急性排斥和慢性排斥，GVHR主要见于骨髓移植后、是骨髓移植的主要障碍。",
+                            "TestPoint": "移植免疫",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "超急排斥一般在移植24h内发生，多由ABO血型或MHCⅠ分子的抗体引起"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "急性排斥发生在移植后数天或数月，主要由细胞免疫介导"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "慢性排斥发生在移植后数月或数年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HVGR是骨髓移植的主要障碍"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "GVHR是移植物中的免疫细胞对宿主成分的免疫应答"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002455,
+                            "ATestID": 43002455,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a323f305ca1a8ca5be1b3f403fdabf7252579c9889a30efbfd1969abe76a39c1ae3f2274cfb942032c883fbc0b3ad6aa",
+                            "Explain": "GVHR的发生需要一些特定的条件：①宿主与移植物之间的组织相容性不合；②移植物中必需含有足够数量的免疫细胞；③宿主处于免疫无能或免疫功能严重缺损状态。GVHR主要见于骨髓移植后。此外，脾、胸腺移植时，以及免疫缺陷的新生儿接受输血时，均可发生不同程度的GBHR。",
+                            "TestPoint": "移植免疫",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "骨髓移植"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "肾移植"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "心脏移植"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "胸腺移植"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "皮肤移植"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002456,
+                            "ATestID": 43002456,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "ecbaeaa052b6141ec7f899b78aea260b5a8bb9266df3d0d22f7b14254aebb19cec963a5d13df33d89b01420e399102b08c4985819b6f3a9aaef23fc273e27c4a",
+                            "Explain": "慢性排斥反应以体液免疫为主，是由于循环中特异性抗体低水平的免疫应答导致血管周围炎症，使移植物血管内皮持续低程度的损害伴有血管平滑肌细胞增生阻塞血管，移植物功能逐渐下降。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "血管内膜纤维化"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "血管肌层肥厚"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "血管外膜纤维组织增生"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血管壁纤维性坏死"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "血管壁玻璃样变性"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000369,
+                            "ATestID": 41000369,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "39745180373fe1d50205865163361b5f1ca57f77960f407594d5dea05ccc72fe8294b5a3b651433d31bccf3112d24311",
+                            "Explain": "CD4+T辅助细胞识别供体HLA-Ⅱ类抗原，促使抗原递呈细胞释放IL-I，后者可促进T辅助细胞增殖和释放IL-2，IL-2可进一步促进T辅助细胞增殖并为细胞毒性T细胞的分化提供辅助信号；除了IL-2之外，TH细胞还能产生IL-4、IL-5、促进B细胞分化并产生抗移植物的抗体，参与移植排斥；此外与迟发变态反应相伴随的血管损害、组织缺血以及巨噬细胞介导的破坏作用，也是移植物毁损的重要机制。",
+                            "TestPoint": "移植免疫",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "IL-1"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "IL-8"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "IL-2"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "IL-4"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "IL-5"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002457,
+                            "ATestID": 43002457,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "17cb7ce635b3cb4ea78a124456cb113073abf04fa1a8b714fd78ecebf7c05924eacbb45eeadfa6fc",
+                            "Explain": "超急性排斥反应是在移植物血液循环恢复后数分钟或数小时（24～48小时）内发生的排斥反应，其发生原因是受者体内存在抗供者同种异型抗原（如HLA抗原、ABO血型抗原和血小板抗原等）的抗体。移植物抗宿主反应最常发生于同种骨髓移植后。移植物抗宿主反应引起的宿主的损伤被称为移植物抗宿主病(GVHD)。骨髓移植物中成熟T细胞是介导GVHR的主要效应细胞。另外，T细胞产生的多种细胞因子诱导的淋巴因子激活的杀伤细胞（主要为NK细胞）参与GVHD的发生。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "供体内预存有抗受体的ABO血型抗体"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "供体内预存有抗受体的HLA-Ⅰ类抗原的抗体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "受体内预存有抗供体的ABO血型抗体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "受体内有针对供体组织器官的Tc细胞"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "移植物中含有足够数量的免疫细胞"
+                                }
+                            ],
+                            "AllTestID": 43000373,
+                            "BTestID": 43000106,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000106,
+                                    "Title": "17cb7ce635b3cb4ea78a124456cb113073abf04fa1a8b714fd78ecebf7c05924eacbb45eeadfa6fc",
+                                    "Explain": "超急性排斥反应是在移植物血液循环恢复后数分钟或数小时（24～48小时）内发生的排斥反应，其发生原因是受者体内存在抗供者同种异型抗原（如HLA抗原、ABO血型抗原和血小板抗原等）的抗体。移植物抗宿主反应最常发生于同种骨髓移植后。移植物抗宿主反应引起的宿主的损伤被称为移植物抗宿主病(GVHD)。骨髓移植物中成熟T细胞是介导GVHR的主要效应细胞。另外，T细胞产生的多种细胞因子诱导的淋巴因子激活的杀伤细胞（主要为NK细胞）参与GVHD的发生。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000107,
+                                    "Title": "e16f6208fc3a21e3a240ec7c8d09e2b1446a4ff7d5c2a9c178f46969f8fde74f2a7267527d0efebb",
+                                    "Explain": "超急性排斥反应是在移植物血液循环恢复后数分钟或数小时（24～48小时）内发生的排斥反应，其发生原因是受者体内存在抗供者同种异型抗原（如HLA抗原、ABO血型抗原和血小板抗原等）的抗体。移植物抗宿主反应最常发生于同种骨髓移植后。移植物抗宿主反应引起的宿主的损伤被称为移植物抗宿主病(GVHD)。骨髓移植物中成熟T细胞是介导GVHR的主要效应细胞。另外，T细胞产生的多种细胞因子诱导的淋巴因子激活的杀伤细胞（主要为NK细胞）参与GVHD的发生。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "829e9c5cd917f5eb5c19a2747f86330deabe3f695d93d98266b914481bd2c8c73975e6610f15c43b4bbb8da3e8c88fe62c921f25633afbd07b88ab12a46166ee3f037c0c6c37c461b1ed258454aadb41",
+                            "Explain": "无血缘关系的同种器官移植时，发生排斥反应的主要原因是MHC不相配，选C。",
+                            "TestPoint": "免疫系统",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "移植物供血不足"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "受者体内有抗供者组织抗原的抗体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "MHC不相配"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "受者免疫功能紊乱"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "受者体内有自身反应性T细胞"
+                                }
+                            ],
+                            "AllTestID": 43002458,
+                            "BTestID": 43000612,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000612,
+                                    "Title": "829e9c5cd917f5eb5c19a2747f86330deabe3f695d93d98266b914481bd2c8c73975e6610f15c43b4bbb8da3e8c88fe62c921f25633afbd07b88ab12a46166ee3f037c0c6c37c461b1ed258454aadb41",
+                                    "Explain": "无血缘关系的同种器官移植时，发生排斥反应的主要原因是MHC不相配，选C。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000613,
+                                    "Title": "df44ef2690bf3f4d890d8875259d46410148006c6f4588e4947b302e0502dc3b86ebc14cf92d6879bc131ced37638972df1306274599b38f",
+                                    "Explain": "异种移植时发生超急性排斥反应的机制是受者体内有抗供者组织抗原的抗体，放生了免疫排斥，选B。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "17cb7ce635b3cb4ea78a124456cb113073abf04fa1a8b71423b459caa19faccc4837d8733385f1a3",
+                            "Explain": "",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "供体内预存有抗受体的ABO血型抗体",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "受体内有针对供体组织器官的Tc细胞",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "受体内预存有抗供体的ABO血型抗体",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "供体内预存有抗受体的HLA Ⅰ类抗原的抗体",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "供受者HLA配型不符",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "AllTestID": 43015076,
+                            "BTestID": 43002769,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 342,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002769,
+                                    "Title": "17cb7ce635b3cb4ea78a124456cb113073abf04fa1a8b71423b459caa19faccc4837d8733385f1a3",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002770,
+                                    "Title": "e16f6208fc3a21e3a240ec7c8d09e2b1446a4ff7d5c2a9c149eacc51bacdfe445c9e72ab05ffd32c",
+                                    "Explain": "超急性排斥反应产生的原因是受者体内预先存在抗供者同种异型抗原（HLA、ABO血型和血小板抗原等）的IgM类抗体；移植物抗宿主反应（GVHR）的机制是：骨髓移植物中成熟T细胞被宿主的异型组织相容性抗原（主要与次要）激活，增殖分化为效应T细胞，并随血循环游走至受者全身，对宿主组织或器官发动免疫攻击。",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43002454,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002454,
+                        "ChildTableID": -1,
+                        "UserCount": 877,
+                        "RightCount": 632,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002454,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002455,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002455,
+                        "ChildTableID": -1,
+                        "UserCount": 891,
+                        "RightCount": 432,
+                        "FavCount": 20,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002455,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002456,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002456,
+                        "ChildTableID": -1,
+                        "UserCount": 816,
+                        "RightCount": 656,
+                        "FavCount": 10,
+                        "DiscussionCount": 2,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002456,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 2,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41000369,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000369,
+                        "ChildTableID": -1,
+                        "UserCount": 877,
+                        "RightCount": 382,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000369,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002457,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002457,
+                        "ChildTableID": -1,
+                        "UserCount": 853,
+                        "RightCount": 522,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002457,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43000373,
+                "ChildTableID": 43000106,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000373,
+                        "ChildTableID": 43000106,
+                        "UserCount": 866,
+                        "RightCount": 423,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000373,
+                    "ChildTableID": 43000106
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000373,
+                "ChildTableID": 43000107,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000373,
+                        "ChildTableID": 43000107,
+                        "UserCount": 864,
+                        "RightCount": 338,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000373,
+                    "ChildTableID": 43000107
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002458,
+                "ChildTableID": 43000612,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002458,
+                        "ChildTableID": 43000612,
+                        "UserCount": 827,
+                        "RightCount": 395,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002458,
+                    "ChildTableID": 43000612
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43002458,
+                "ChildTableID": 43000613,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002458,
+                        "ChildTableID": 43000613,
+                        "UserCount": 811,
+                        "RightCount": 575,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002458,
+                    "ChildTableID": 43000613
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015076,
+                "ChildTableID": 43002769,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015076,
+                        "ChildTableID": 43002769,
+                        "UserCount": 732,
+                        "RightCount": 542,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015076,
+                    "ChildTableID": 43002769
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43015076,
+                "ChildTableID": 43002770,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015076,
+                        "ChildTableID": 43002770,
+                        "UserCount": 776,
+                        "RightCount": 456,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015076,
+                    "ChildTableID": 43002770
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

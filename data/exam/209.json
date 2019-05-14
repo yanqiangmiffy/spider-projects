@@ -1,0 +1,602 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:04:33 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "Title": "80b05ec7e9420111f8ef3eea45a623ba060df7bded67eb1357aafb244d0017c7905e00bc9323a5fb09e66a485bfdec09",
+                            "Explain": "HLA-DR、HLA-DP和HIA-DQ为经典的HLA-Ⅱ类基因。某些HLA-Ⅱ类基因可有2个或2个以上的B链功能基因，但一般只有一个α链功能基因。这些α链分别与β[XB2.gif]微球蛋白（β[XB2.gif]-m）结合，共同组成HLA-Ⅱ类抗原分子，呈递外源性抗原。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "由α链和β[XB2.gif]-m链组成",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "呈递外源性抗原",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "分布在所有有核细胞的表面",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "由HLAA、B、C等基因编码",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "可与CD[XB8.gif]分子结合",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000352,
+                            "ATestID": 43000352,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题正确答案为B，已修改。",
+                            "OperateTime": "2018年9月12日"
+                        },
+                        {
+                            "Title": "532d43d768ed66036118d94724dc0920b292a31fe1e246c6",
+                            "Explain": "人类白细胞抗原（英文：HumanLeucocyteAntigen简称HLA）复合体是人类的主要组织相容性复合体（MHC）,位于第6号染色体的短臂上，具有最复杂多态性的人类基因系统。故答案选择C。",
+                            "TestPoint": "抗原",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "第7号染色体上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "第5号染色体上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "第6号染色体上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "第13号染色体上"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "第2号染色体上"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002334,
+                            "ATestID": 43002334,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "002235026aa4a9226ae0adb1972ef26070b60f600750c3d700aaf2d14550fb86c85a2668d0f365fc0c4bba25c4c4a427",
+                            "Explain": "HLA复合体有多基因性、多态性、单元型遗传、共显性遗传、连锁不平衡等遗传特征。多基因性指复合体由多个位置相邻的基因座位所组成，编码产物具有相同或相似的功能。多态性指一个基因座位上存在多个等位基因。单元型指的是染色体上MHC不同座位等位基因的特定组合。HLAⅠ类和Ⅱ类等位基因产物的表达具有共显性特点，即同源染色体对应座位上的两个等位基因都能得到表达。连锁不平衡指分属两个或两个以上基因座位的等位基因，同时出现在一条染色体上的机率高于随机出现的频率。",
+                            "TestPoint": "主要组织相容性复合体",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "多基因性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "基因常需要重组"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "共显性遗传"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "单元型遗传"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "连锁不平衡"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002336,
+                            "ATestID": 43002336,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "80f9df55cb46d24fd27fc2c313c8127067d092c77b5d533567fce440083ea276",
+                            "Explain": "超过90%的强直性脊椎炎患者其HLA-B27抗原表达为阳性，普通人群中仅5-10%的为阳性，而强直性脊椎炎由于症状与许多疾病相似而难以确诊。",
+                            "TestPoint": "抗体",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "类风湿性关节炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "系统性红斑狼疮"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "强直性脊柱炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肾小球性肾炎咯血综合征"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "胰岛素依赖型糖尿病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002337,
+                            "ATestID": 43002337,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "0ff49af491db4fd13c7d44b6d769201c6bea0bad2c2ebd4fed2099d1b483b4495fcd73352c67e465",
+                            "Explain": "HLAⅠ类分子最多可能表达4种。",
+                            "TestPoint": "免疫",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "1"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "2"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "3"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "4"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "7"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015028,
+                            "ATestID": 43015028,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "80b05ec7e9420111a962c8cd3ecca774a3c608f5587ca7950388444fe4c19de4c3d127709b2943285d72dda02f303c8bef8aa0a30b9cfbc3",
+                            "Explain": "HLA-DR、HLA-DP和HIA-DQ为经典的HLA-Ⅱ类基因。某些HLA-Ⅱ类基因可有2个或2个以上的B链功能基因，但一般只有一个α链功能基因。这些α链分别与β[XB2.gif]微球蛋白（β[XB2.gif]-m）结合，共同组成HLA-Ⅱ类抗原分子，呈递外源性抗原。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "Content": "可与CD8分子结合",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "呈递外源性抗原",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "分布在所有有核细胞的表面",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "由HLAA、B、C等基因编码",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "以上都不正确",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015029,
+                            "ATestID": 43015029,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题错误部分已修改。",
+                            "OperateTime": "2018年9月12日"
+                        },
+                        {
+                            "Title": "d45da489b9e76ee8039c6cacee13c1d90cbffe72cc2d72b0c37d9d680464089f0e59b6d49cfd8a778e7516c37c549fa0594d82f93ccbe68cad13b41d12159a67f5d3607f82918b4c",
+                            "Explain": "介导主要组织相容复合体（MHC）非限制杀伤的细胞是NK细胞。",
+                            "TestPoint": "免疫细胞",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "Content": "CTL细胞",
+                                    "ItemName": "A"
+                                },
+                                {
+                                    "Content": "B细胞",
+                                    "ItemName": "B"
+                                },
+                                {
+                                    "Content": "NK细胞",
+                                    "ItemName": "C"
+                                },
+                                {
+                                    "Content": "浆细胞",
+                                    "ItemName": "D"
+                                },
+                                {
+                                    "Content": "肥大细胞",
+                                    "ItemName": "E"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015030,
+                            "ATestID": 43015030,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": "经核实，试题正确答案为C，已修改。",
+                            "OperateTime": "2018年9月12日"
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "2f705c07cac08625703c776fa944233fc41af9239441fadcb8c81c06a77f5d5a",
+                            "Explain": "HLA复合体基因主要编码HLA-Ⅰ类分子的重链（O链）、HLA-Ⅱ类分子的O链、HLA-Ⅱ类分子的p链和B因子。故HLA-Ⅰ类分子的轻链(p:m)不是HLA复合体基因编码的，轻链为β微球蛋白。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "HLA-Ⅰ类分子的重链（O链）"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "HLA-Ⅰ类分子的轻链(p：m)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "HLA-Ⅱ类分子的O链"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "HLA-Ⅱ类分子的p链"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "B因子"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000343,
+                            "ATestID": 41000343,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 209,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000352,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000352,
+                        "ChildTableID": -1,
+                        "UserCount": 1059,
+                        "RightCount": 416,
+                        "FavCount": 30,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000352,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43002334,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002334,
+                        "ChildTableID": -1,
+                        "UserCount": 997,
+                        "RightCount": 539,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 19
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002334,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 19
+            },
+            {
+                "AllTestID": 43002336,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002336,
+                        "ChildTableID": -1,
+                        "UserCount": 1008,
+                        "RightCount": 525,
+                        "FavCount": 28,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002336,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002337,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002337,
+                        "ChildTableID": -1,
+                        "UserCount": 958,
+                        "RightCount": 716,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002337,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015028,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015028,
+                        "ChildTableID": -1,
+                        "UserCount": 940,
+                        "RightCount": 406,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015028,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43015029,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015029,
+                        "ChildTableID": -1,
+                        "UserCount": 866,
+                        "RightCount": 489,
+                        "FavCount": 9,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015029,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43015030,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015030,
+                        "ChildTableID": -1,
+                        "UserCount": 886,
+                        "RightCount": 473,
+                        "FavCount": 19,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015030,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000343,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000343,
+                        "ChildTableID": -1,
+                        "UserCount": 934,
+                        "RightCount": 453,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000343,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

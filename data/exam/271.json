@@ -1,0 +1,1358 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:05:19 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 11,
+                    "TestItems": [
+                        {
+                            "Title": "c311beb4f70a700bed0906f97a8cd3e253576d5dc0a6ec726e3c83f43c57ebc785a87a2d3d219e42a454bb19d6d47b6eb74571378726127a2b25b206b29d9a957c9ae27a2fb3abe328c8716b95f9b4ece0c057e9b996dd7170b593a98e19564038f9d78588459f16ffdf3ba3090bda795e555b837ff8077ed9f67dc98665b6903e41ce3ecbbf2780",
+                            "Explain": "免疫耐受是指机体免疫系统接受某种抗原作用后产生的特异性的免疫无应答状态。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "受者的免疫细胞功能活跃"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "移植物的免疫细胞功能活跃"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "移植物已失去了免疫原性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "受者对移植物发生了免疫耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "移植物对受者发生了免疫耐受"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000358,
+                            "ATestID": 43000358,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f07ff7324c7a69854e4e42419f7348cc317a581c9af32cbbaf2a0531e7d8b015ed561993022b922ae85a5f4549d7aa5f",
+                            "Explain": "免疫耐受是指对抗原特异性应答的T细胞与B细胞，在抗原刺激下，不能被激活，不能产生特异性免疫效应细胞及特异性抗体，从而不能执行正免疫应答的现象。这不同于免疫缺陷或使用免疫抑制剂后造成的抑制状态，不会导致自身免疫病的发生称为免疫耐受。引起免疫耐受的抗原称为耐受原。如自身组织抗原，引起天然免疫耐受；非自身抗原（如病原微生物和异种组织抗原等），在一定条件下可以是免疫原，也可以是耐受原。",
+                            "TestPoint": "免疫应答概述",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "产生免疫耐受后对各种抗原均不感受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "免疫耐受无记忆性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "免疫耐受就是免疫抑制"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "产生自身耐受是自身免疫病的起因"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "对病毒感染免疫耐受的机体易发生该病毒的疾病"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002376,
+                            "ATestID": 43002376,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "795e308182cb9d7a24515af5daf19e1bf72b1bb562e82749f85af47424d3f814ee616bd15f2d30db8b5ed0c3cd2240b24442730c1b1c9be9005964ec3222b510",
+                            "Explain": "免疫耐受性（immunetolerance）机体免疫系统在接触某种抗原后，对该抗原产生的特异性无应答状态。对某一抗原已形成免疫耐受的个体，再次接触同一抗原时，不能产生常规可检测的免疫应答或免疫反应，但对其他抗原仍具有免疫应答能力。免疫耐受性从属于特异性免疫耐受性范畴，可由于单独T细胞耐受、单独B淋巴细胞耐受，或二者同时耐受而表现为不能产生特异性迟发型变态反应，或血流中不出现特异性抗体，或两种情况并存。特异性无应答性可以天然获得，也可模拟天然获得方式人工诱导产生。前者称为自身免疫耐受性或天然耐受性；后者称为获得性免疫耐受性。自身免疫耐受性表现为机体本身对自己的组织不产生免疫应答。大量的实验结果证明，免疫耐受性可在胚胎期、新生期或成年期诱导产生。其规律是，个体的发育期越早，诱导的成功率越高。给成年动物注入抗原不易造成免疫耐受性。但在注射抗原的同时注入免疫抑制剂，可诱导产生对该抗原的免疫耐受性。即使以后没有药物作用时，再注射同种抗原也可产生免疫耐受。虽然注射抗原后，T细胞和B细胞都产生免疫耐受性，但T细胞和B细胞对诱导产生免疫耐受性所需抗原的剂量，以及耐受性维持时间的长短有很大差异。T细胞所需剂量少，维持时间长。",
+                            "TestPoint": "免疫耐受形式",
+                            "Answer": "A",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抗原的持续存在是维持免疫耐受的重要条件"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "耐受原多为大分子颗粒性物质"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "抗原有多种不同的决定簇易形成耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "抗原经皮下或肌内注射易形成耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "TD-Ag无论多少剂量均不易引起T细胞耐受"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002377,
+                            "ATestID": 43002377,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b7c57eed6a78956084e0d121676192b746917eba51b73486b42b0516241453a0f4ec83d576bf9523e280eb5d6cfc033d70b157f64bbbdd96ebd815405412a368",
+                            "Explain": "1．对自身成分的免疫无应答性不决定于遗传，而是后天形成的。2．自身耐受性形成的原因是自身抗原。3．淋巴系细胞的抗原反应性无论自身抗原及非自身抗原均无定向表达，若将其中对自身的反应性细胞除去，结果可形成仅对非自身的免疫机制。不仅对自身成分，而且对外来抗原的免疫耐受性也可在后天形成。4.低剂量TD-Ag仅能使T细胞产生耐受，不能使B细胞产生耐受",
+                            "TestPoint": "免疫细胞2",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "诱导T细胞耐受所需时间长，B细胞短"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "诱导T细胞耐受维持时间短，B细胞长"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "高剂量TD-Ag不能使T、B细胞产生耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "低剂量TD-Ag仅能使T细胞产生耐受，不能使B细胞产生耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "低剂量的TI-Ag能使T、B细胞均产生耐受"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002378,
+                            "ATestID": 43002378,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea8185c5f1fe0af117ffc735185bee6a75610b103cdbcd6f1cf8f093784fc275b8e0b7",
+                            "Explain": "免疫耐受是指对抗原特异性应答的T细胞与B细胞，在抗原刺激下，不能被激活，不能产生特异性免疫效应细胞及特异性抗体，从而不能执行正免疫应答的现象。这不同于免疫缺陷或使用免疫抑制剂后造成的抑制状态，不会导致自身免疫病的发生称为免疫耐受。引起免疫耐受的抗原称为耐受原。如自身组织抗原，引起天然免疫耐受；非自身抗原（如病原微生物和异种组织抗原等），在一定条件下可以是免疫原，也可以是耐受原。1．缺乏识别自身抗原的受体。如吞噬细胞表面表达的多糖受体（如甘露糖受体）不识别正常细胞（无相应多糖，或被唾液酸等遮盖），使自身抗原处于被忽视的状态。2．某些细胞表面。存在抑制性受体或抑制性结构，如NK细胞表面存在的KIR,识别正常细胞表面的MHCⅠ类分子，活化并传递抑制性信号到细胞内，致使NK细胞不破坏正常自身细胞。当正常细胞由于某种因素（如病毒感染，各种理化因素等）发生结构改变时，可致上述二种细胞活化，对改变抗原结构的细胞发生应答，引起细胞破坏。",
+                            "TestPoint": "免疫球蛋白的功能",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "克隆消除"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胸腺内阴性选择"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "T细胞克隆无能"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "免疫抑制"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "B细胞克隆无能"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002379,
+                            "ATestID": 43002379,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "35426ad67e0940df16a8cb463339ccb5fdfb28bb602fcac6da385e7756ad67c32af3554a7ca0685248045ed39ca85cec",
+                            "Explain": "特异性无应答性可以天然获得，也可模拟天然获得方式人工诱导产生。前者称为自身免疫耐受性或天然耐受性；后者称为获得性免疫耐受性。自身免疫耐受性表现为机体本身对自己的组织不产生免疫应答。大量的实验结果证明，免疫耐受性可在胚胎期、新生期或成年期诱导产生。其规律是，个体的发育期越早，诱导的成功率越高。给成年动物注入抗原不易造成免疫耐受性。但在注射抗原的同时注入免疫抑制剂，可诱导产生对该抗原的免疫耐受性。即使以后没有药物作用时，再注射同种抗原也可产生免疫耐受。虽然注射抗原后，T细胞和B细胞都产生免疫耐受性，但T细胞和B细胞对诱导产生免疫耐受性所需抗原的剂量，以及耐受性维持时间的长短有很大差异。T细胞所需剂量少，维持时间长。",
+                            "TestPoint": "免疫球蛋白的功能",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "Ab形成速度慢，而代谢速度过快所致"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "Ab过剩，多余的Ag中和了抗体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "产生无功能抗体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "浆细胞麻痹"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "B细胞分化增生受到抑制"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002380,
+                            "ATestID": 43002380,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8db812db48e873f5e146d5c95fd0caf99029dda4abce569c57b48820210bbc71",
+                            "Explain": "1.可溶性抗原诱导耐受（如静脉注射极大量Ag）；2.口服抗原诱导耐受；3.拮抗性抗原诱导耐受4.TI抗原诱导耐受；5.静息B细胞提呈抗原诱导耐受；6.阻断共刺激信号诱导耐受；7.免疫偏离诱导耐受。",
+                            "TestPoint": "免疫耐受",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "切除成年动物的胸腺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "切除成年动物的脾脏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "注射佐剂"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "注射极大量Ag"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "注射有丝分裂素和Ag"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002381,
+                            "ATestID": 43002381,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "efb0969bf936970a1eaefba21bd074ad9223c783516d0fdce80b3f7b80cc354e9d307bf8621fed61",
+                            "Explain": "抗原剂量过低，不足以诱导免疫应答，因此导致低带耐受。T淋巴细胞在低浓度抗原刺激下可被诱导低带耐受，而B细胞可以利用BCR捕捉低浓度抗原，因此不容易被诱导低带耐受。",
+                            "TestPoint": "免疫耐受",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "B细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "T细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "T、B细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "单核细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "NK细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002382,
+                            "ATestID": 43002382,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "af708e136299b99813aad0a2c3264d2cdf4f9971f1765198d40ffcd256226ee8e081265a2465024c",
+                            "Explain": "由于抗原浓度过高引起的免疫耐受称为高带耐受，TB淋巴细胞均能被诱导高带耐受，原因是抗原浓度太高，Tr细胞被活化抑制免疫应答，引起高带耐受。",
+                            "TestPoint": "免疫耐受",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "B细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "T细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "T和B细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "单核细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "NK细胞"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002383,
+                            "ATestID": 43002383,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6a1e6e6a309fc023e3153ec986bf5019ab4ff190433c5525de6a083f16fad882da9b1ae64e8d36fbf60a4d3295202d354e69bca9b07a9656549692925758bf39",
+                            "Explain": "抗原在胚胎期最易诱导免疫耐受，在新生儿期次之，成年期较难。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "成年期"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "青年期"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "老年期"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胚胎期"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "新生儿期"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015039,
+                            "ATestID": 43015039,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "aa9350cd095cb63a3bb8dd490f4870b0a9f17eab5a5f26114089ec7acc0445e9501da0c160ddc1f00c0b8984efee5a776f921a13c9e845a5b645f1f045da8f8c6666c38c8c04b4f8a9ce623b3d238b55ca3cec90e499b1ec0953729a399f416ac4563b4a49591976",
+                            "Explain": "如果人工诱导对DNP-BSA耐受的家兔，若想使该家兔产生DNP抗体，需注射的物质是DNP-HAS。",
+                            "TestPoint": "免疫系统",
+                            "Answer": "A",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "DNP-HAS"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "DNP-BSA"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "BSA"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "HAS"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "OA11-2"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43015040,
+                            "ATestID": 43015040,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "f07ff7324c7a69854e4e42419f7348cc931f79e89feb80eebdb02dc8db68b2688c79d4a9dad82b98",
+                            "Explain": "免疫耐受是指免疫活性细胞接触抗原性物质时所表现的特异性的无应答状态。免疫耐受与遗传有关，胚胎期接触自身抗原后，可被克隆清除，形成对自身抗原的耐受，故排除D、E。给成年动物注入抗原不易造成免疫耐受性，但在注射抗原的同时注入免疫抑制剂，可诱导产生对该抗原的免疫耐受性，多次注射耐受原可延长免疫耐受状态，排除A、B。大分子、颗粒性及蛋白质聚合物如血细胞、细菌及血清蛋白的聚合物等免疫原性较强，不易诱发免疫耐受，故选C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "多次注射耐受原可延长免疫耐受状态"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "静脉注射抗原易诱导免疫耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "聚合的蛋白抗原易诱导免疫耐受"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "遗传背景与免疫耐受相关"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "克隆清除是形成免疫耐受的机制之一"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000351,
+                            "ATestID": 41000351,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "8db812db48e873f5e146d5c95fd0caf95e7ea9c36258482b76b165525bd873dcd869f28ea6cc504e54914e0ddb6014a4",
+                            "Explain": "在胚胎时期或新生儿期，引入外源抗原，很容易诱导个体发生对该抗原的耐受，并阗此由Burnet提出了著名的克隆选择学说。故选A。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "胚胎期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "幼年期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "老年期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "成年期"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "青年期"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000352,
+                            "ATestID": 41000352,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 8,
+                    "TestItems": [
+                        {
+                            "Title": "c3cb0726b0d608df0649afa9c02a9824",
+                            "Explain": "高剂量TD-Ag能引起T、B细胞免疫耐受，选C。",
+                            "TestPoint": "免疫系统",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "引起T细胞免疫耐受"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "引起B细胞免疫耐受"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "引起T、B细胞免疫耐受"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "不引起免疫耐受"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "引起免疫抑制"
+                                }
+                            ],
+                            "AllTestID": 43002384,
+                            "BTestID": 43000574,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000574,
+                                    "Title": "c3cb0726b0d608df0649afa9c02a9824",
+                                    "Explain": "高剂量TD-Ag能引起T、B细胞免疫耐受，选C。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000575,
+                                    "Title": "fb0ab9055fd99c2e9877304bfd6a72b7",
+                                    "Explain": "低剂量TD-Ag能引起T细胞免疫耐受，选A。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000576,
+                                    "Title": "c3cb0726b0d608dff8eab8bb665c1788",
+                                    "Explain": "高剂量Tl-Ag能引起B细胞免疫耐受。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000577,
+                                    "Title": "fb0ab9055fd99c2e1b48bd48d4bcde52",
+                                    "Explain": "低剂量Tl-Ag不引起免疫耐受。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "341a0cb7bfb757704d9a1eb98f4144fa",
+                            "Explain": "脱敏疗法（desensitization）又称为特异性免疫治疗（specific immunotherapy）或减敏疗法（hyposensitization），通过建立免疫耐受来实现，选D。",
+                            "TestPoint": "脱敏",
+                            "Answer": "D",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "免疫调理"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "免疫抑制"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "免疫调节"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "建立免疫耐受"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "打破免疫耐受"
+                                }
+                            ],
+                            "AllTestID": 43002385,
+                            "BTestID": 43000578,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 271,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000578,
+                                    "Title": "341a0cb7bfb757704d9a1eb98f4144fa",
+                                    "Explain": "脱敏疗法（desensitization）又称为特异性免疫治疗（specific immunotherapy）或减敏疗法（hyposensitization），通过建立免疫耐受来实现，选D。",
+                                    "TestPoint": "脱敏",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000579,
+                                    "Title": "0adbdae2123de31e489ba1fb5529b676",
+                                    "Explain": "治疗肿瘤是打破免疫耐受，使得肿瘤收到免疫系统的清除。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000580,
+                                    "Title": "e86eecd1d399158bc1731aeee1595cd53218c68f49c20f0a9a56a64281ec6b0d",
+                                    "Explain": "促进巨噬细胞吞噬是免疫调理",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000581,
+                                    "Title": "84262736ef22d7e09cea015c9f753989ae02de7b13c02512",
+                                    "Explain": "先天免疫缺陷是免疫抑制，没有正常的免疫功能，免疫力低下。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43000358,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000358,
+                        "ChildTableID": -1,
+                        "UserCount": 789,
+                        "RightCount": 641,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000358,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002376,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002376,
+                        "ChildTableID": -1,
+                        "UserCount": 840,
+                        "RightCount": 518,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002376,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002377,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002377,
+                        "ChildTableID": -1,
+                        "UserCount": 800,
+                        "RightCount": 505,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002377,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002378,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002378,
+                        "ChildTableID": -1,
+                        "UserCount": 830,
+                        "RightCount": 454,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002378,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002379,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002379,
+                        "ChildTableID": -1,
+                        "UserCount": 815,
+                        "RightCount": 493,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002379,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002380,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002380,
+                        "ChildTableID": -1,
+                        "UserCount": 754,
+                        "RightCount": 350,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002380,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002381,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002381,
+                        "ChildTableID": -1,
+                        "UserCount": 716,
+                        "RightCount": 482,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002381,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002382,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002382,
+                        "ChildTableID": -1,
+                        "UserCount": 763,
+                        "RightCount": 374,
+                        "FavCount": 15,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002382,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002383,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002383,
+                        "ChildTableID": -1,
+                        "UserCount": 780,
+                        "RightCount": 311,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002383,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43015039,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015039,
+                        "ChildTableID": -1,
+                        "UserCount": 695,
+                        "RightCount": 460,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015039,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43015040,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43015040,
+                        "ChildTableID": -1,
+                        "UserCount": 710,
+                        "RightCount": 346,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43015040,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 41000351,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000351,
+                        "ChildTableID": -1,
+                        "UserCount": 768,
+                        "RightCount": 370,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000351,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41000352,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000352,
+                        "ChildTableID": -1,
+                        "UserCount": 661,
+                        "RightCount": 609,
+                        "FavCount": 2,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000352,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43002384,
+                "ChildTableID": 43000574,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002384,
+                        "ChildTableID": 43000574,
+                        "UserCount": 692,
+                        "RightCount": 552,
+                        "FavCount": 9,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002384,
+                    "ChildTableID": 43000574
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002384,
+                "ChildTableID": 43000575,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002384,
+                        "ChildTableID": 43000575,
+                        "UserCount": 712,
+                        "RightCount": 556,
+                        "FavCount": 6,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002384,
+                    "ChildTableID": 43000575
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002384,
+                "ChildTableID": 43000576,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002384,
+                        "ChildTableID": 43000576,
+                        "UserCount": 778,
+                        "RightCount": 398,
+                        "FavCount": 12,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002384,
+                    "ChildTableID": 43000576
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002384,
+                "ChildTableID": 43000577,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002384,
+                        "ChildTableID": 43000577,
+                        "UserCount": 752,
+                        "RightCount": 441,
+                        "FavCount": 10,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002384,
+                    "ChildTableID": 43000577
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002385,
+                "ChildTableID": 43000578,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002385,
+                        "ChildTableID": 43000578,
+                        "UserCount": 713,
+                        "RightCount": 519,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002385,
+                    "ChildTableID": 43000578
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002385,
+                "ChildTableID": 43000579,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002385,
+                        "ChildTableID": 43000579,
+                        "UserCount": 722,
+                        "RightCount": 433,
+                        "FavCount": 15,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 2
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002385,
+                    "ChildTableID": 43000579
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 2
+            },
+            {
+                "AllTestID": 43002385,
+                "ChildTableID": 43000580,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002385,
+                        "ChildTableID": 43000580,
+                        "UserCount": 745,
+                        "RightCount": 412,
+                        "FavCount": 14,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002385,
+                    "ChildTableID": 43000580
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43002385,
+                "ChildTableID": 43000581,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002385,
+                        "ChildTableID": 43000581,
+                        "UserCount": 713,
+                        "RightCount": 505,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002385,
+                    "ChildTableID": 43000581
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

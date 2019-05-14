@@ -1,0 +1,710 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:01:20 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 6,
+                    "TestItems": [
+                        {
+                            "Title": "5122a9c76ea367a1cb35a1a12f6a92f32567be0f40b5fa4d0f081fbd3a5f21913f67d4298e1763be9e60d5f0b9db24d6f1a972c91fae46031250a93378e7663cd835a933d3c826dcbb12e66be0b3b299b9866854112e44bd1256cceab78e1aa0",
+                            "Explain": "疫苗接种是预防风疹的有效措施。为了避免胎儿发生畸形，应对风疹减毒抗体阴性的易感育龄妇女和少女进行风疹接种。A、B、C、E都不符合题意。妊娠妇女是禁忌接种风疹减毒活疫苗的人群，故选D。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "育龄期女青年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "结婚登记时的女青年"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "1岁以上的少年儿童"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "妊娠妇女（孕妇）"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "注射过抗风疹人血清免疫球蛋白的孕妇"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000293,
+                            "ATestID": 41000293,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b931904abaea81858ff1f1bab633e4029969af54e8230f5ed66d4997ada782f3",
+                            "Explain": "属于副黏病毒科的是副流感病毒、麻疹病毒、腮腺炎病毒、呼吸道合胞病毒与间质性肺炎病毒；禽流感不属于副黏病毒科。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "副流感病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "禽流感病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "呼吸道合胞病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "麻疹病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "腮腺炎病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000303,
+                            "ATestID": 43000303,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "37a437429efd0f5f56c66dc8f120711f763bd9efbefb71ef77dd214a2a5192898db4f8b305e13b4dfe85e799c824154d",
+                            "Explain": "流感病毒易发生变异，变异的物质基础是HA和NA，两者变异可同时出现，也可单独出现。抗原变异幅度小时称为抗原漂移，如果变异幅度大形成新的亚型，一般引起大规模流行，这称为抗原转变（C错误）。其他选项均正确。故答案选择C。",
+                            "TestPoint": "流感病毒的特点",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "是有包膜病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "具有神经氨酸酶(NA)刺突"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "不易发生抗原性变异"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "具有分节段的RNA和核蛋白(NP)"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "具有血凝素HA刺突"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002235,
+                            "ATestID": 43002235,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "f72f56b4b5d3981408b9b5d21d6f95e0c1c2cba2364393347d9ea881d30b3439eb537119ccc0fd3d7d4bea5be3cdc82ba692d2bc874adcdbc58671864f6bfd0e",
+                            "Explain": "进行流感病毒的血清学诊断最常用的方法是血凝抑制试验。血清学检测：取发病3日内和2～4周后双份血清作血凝抑制试验或补体结合试验，测定急性期和恢复期血清抗体，升高4倍以上有诊断意义。最常用和最简单的方法是血凝抑制试验，必要时采用补体结合试验。抗体中和试验在流感病毒的诊断中主要是有助于回顾性诊断和流行病学调查。故答案选择D。",
+                            "TestPoint": "流感病毒检测",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "抗体中和试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "补体结合试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "红细胞凝集试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "血凝抑制试验"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "荧光抗体试验"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002236,
+                            "ATestID": 43002236,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "a25f925420f68d44fe8829a90e2c9e89861b9410202383c56af9f489176be64d428349c20ed647b8a9baabd21a7ee7330c59634d86dbb45f",
+                            "Explain": "亚急性硬化性全脑炎（SSPE）又称为Dawson病、亚急性硬化性白质脑炎，是一种以大脑白质和灰质损害为主的全脑炎。本病的发生是由于缺损型麻疹病毒慢性持续感染所致的一种罕见的致命性中枢神经系统退变性疾病。故答案选择B。",
+                            "TestPoint": "亚急性硬化性全脑炎",
+                            "Answer": "B",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "风疹病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "麻疹病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "轮状病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "腮腺炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "流感病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002237,
+                            "ATestID": 43002237,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "80fd41b16c75b955f299b554831f929b785aa1cee58d6ee6690cd389853f6e6e60c5f9cbd291b18c35074f7b2069fd68",
+                            "Explain": "腺病毒主要通过呼吸道、胃肠道和密切接触从人传播到人，主要感染儿童，大多数无症状。腺病毒对呼吸道、胃肠道、尿道和膀胱、眼、肝脏等均可感染，引起急性发热性咽喉炎、咽结膜热、急性呼吸道疾病、肺炎。但是不会引起先天畸形。故答案选择D。",
+                            "TestPoint": "腺病毒所致疾病",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "病毒性肺炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "流行性角结膜炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "咽结膜热"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "先天性畸形"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "婴幼儿胃肠炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002238,
+                            "ATestID": 43002238,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 2,
+                    "Style": "A2型题",
+                    "Explain": "A2型题：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "8565cf9b234eb2dbb007db71f8630c7b3c4505dce57f01dd5ec7e1e477ee47b1189a6e3339422c37b41750c31a7c5606004f53354c872afaee4e6dba689e656455b9d1374f83b9c1a09db00e5faaa166b56ab6244360d5350ad0f67d064c69abe5d711e99836fcbe8cabbf5d2a248cc4cea165270f6f336be92f06727695b21b7d800742eeb570b92f0e34d692a13099b49b74859927f3828d3f16c5de944682bba0517df5025050b30db76897e20616",
+                            "Explain": "此题存在一点争议。教材中述：易感染者若在接触病人2天内接种疫苗，则仍可能预防麻疹发生或减轻病情。在接触麻疹患者5天内，注射丙种球蛋白可预防发病。此次选B。",
+                            "TestPoint": "接触麻疹的处理",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "麻疹疫苗"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "丙种球蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "干扰素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "青霉素"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "类毒素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002239,
+                            "ATestID": 43002239,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "b307e70904963474f0fff02098642912be716ad1e9134ac7",
+                            "Explain": "副黏病毒科包括副流感病毒、麻疹病毒、呼吸道合胞病毒、腮腺炎病毒等，选B。",
+                            "TestPoint": "病毒",
+                            "Answer": "B",
+                            "Difficulty": "中",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "性病毒科"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "副黏病毒科"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "小RNA病毒科"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "正黏病毒科"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "冠状病毒科"
+                                }
+                            ],
+                            "AllTestID": 43014955,
+                            "BTestID": 43002742,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 385,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002742,
+                                    "Title": "b307e70904963474f0fff02098642912be716ad1e9134ac7",
+                                    "Explain": "副黏病毒科包括副流感病毒、麻疹病毒、呼吸道合胞病毒、腮腺炎病毒等，选B。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002743,
+                                    "Title": "11a0051e1c283c4446b219326572263b91c952d4fb465330ff6e0127605022aa",
+                                    "Explain": "甲型肺炎病毒属于小RNA病毒科。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002744,
+                                    "Title": "663d28916a38ba375baea61b1bb6a26d274da9b6bf1834b9",
+                                    "Explain": "SARS病毒属于冠状病毒科。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000293,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000293,
+                        "ChildTableID": -1,
+                        "UserCount": 1284,
+                        "RightCount": 977,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000293,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43000303,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000303,
+                        "ChildTableID": -1,
+                        "UserCount": 1311,
+                        "RightCount": 699,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000303,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002235,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002235,
+                        "ChildTableID": -1,
+                        "UserCount": 1221,
+                        "RightCount": 878,
+                        "FavCount": 20,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002235,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43002236,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002236,
+                        "ChildTableID": -1,
+                        "UserCount": 1354,
+                        "RightCount": 635,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002236,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002237,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002237,
+                        "ChildTableID": -1,
+                        "UserCount": 1321,
+                        "RightCount": 612,
+                        "FavCount": 42,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002237,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43002238,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002238,
+                        "ChildTableID": -1,
+                        "UserCount": 1189,
+                        "RightCount": 689,
+                        "FavCount": 25,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 14
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002238,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 14
+            },
+            {
+                "AllTestID": 43002239,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002239,
+                        "ChildTableID": -1,
+                        "UserCount": 1167,
+                        "RightCount": 808,
+                        "FavCount": 17,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002239,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43014955,
+                "ChildTableID": 43002742,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014955,
+                        "ChildTableID": 43002742,
+                        "UserCount": 1095,
+                        "RightCount": 855,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014955,
+                    "ChildTableID": 43002742
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014955,
+                "ChildTableID": 43002743,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014955,
+                        "ChildTableID": 43002743,
+                        "UserCount": 1213,
+                        "RightCount": 622,
+                        "FavCount": 37,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014955,
+                    "ChildTableID": 43002743
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 43014955,
+                "ChildTableID": 43002744,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014955,
+                        "ChildTableID": 43002744,
+                        "UserCount": 1132,
+                        "RightCount": 824,
+                        "FavCount": 22,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014955,
+                    "ChildTableID": 43002744
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

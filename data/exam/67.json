@@ -1,0 +1,442 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:03:02 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 3,
+                    "TestItems": [
+                        {
+                            "Title": "0fe5330cd43ed59adf6d797387cff18e69ea989ba7f932259fb03f981705d59971c53ba4fa5c96e42bebdbc61272b088fc9fa8ef756d3a5403e7ba76d2f2493f",
+                            "Explain": "免疫球蛋白由免疫细胞产生，不为肝脏产生。",
+                            "TestPoint": "",
+                            "Answer": "D",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "清蛋白"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "凝血酶原和白蛋白"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "凝血因子Ⅱ、Ⅷ等"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "免疫球蛋白"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "白蛋白"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014986,
+                            "ATestID": 43014986,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 67,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c2942f964373a51e385490cf89cec2589ea4749365b93b4b4083982419ead3ce813c6bf26d80ec5570c3fc1df0ce167e116ec4b392abbee1",
+                            "Explain": "淋巴器官是以淋巴组织为主构成的器官，包括淋巴结、脾、胸腺、扁桃体等。而胸腺能分泌胸腺激素及激素类物质，故其又属于内分泌机能的器官。故本题答案为C。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "淋巴结"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "扁桃体"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸腺"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "胰"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "皮肤"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014987,
+                            "ATestID": 43014987,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 67,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "fe9391ebe5b1b622c17f9802af2f04599e9b59e8208f54a03e3109fb033c58ec740f547039603607d398eeafdce3dd3a",
+                            "Explain": "外周免疫器官包括淋巴结、脾脏和黏膜相关淋巴组织等。其中黏膜相关淋巴组织主要包括呼吸道、胃肠道及泌尿生殖道黏膜固有层和上皮细胞下散在的无被膜淋巴组织，以及某些带有生发中心的器官化的淋巴组织，如扁桃体、小肠的派氏集合淋巴结及阑尾等。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "胸腺"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "脾脏"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "扁桃体"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "骨髓"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "肝脏"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014988,
+                            "ATestID": 43014988,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 67,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 5,
+                    "Style": "A1/A2型题",
+                    "Explain": "A1/A2型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 1,
+                    "TestItems": [
+                        {
+                            "Title": "60784516521d25fde4abf31c324ebd6c3dd7cf4c0255009f2f9ac08d28ab1648",
+                            "Explain": "免疫器官由中枢免疫器官和外周免疫器官两部分组成：中枢免疫器官包括胸腺和骨髓，外周免疫器官包括脾脏、淋巴结、阑尾和扁桃体等。A、C、D、E均为外周免疫器官，可以排除。故选B。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "淋巴结"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "胸腺"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "脾脏"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "阑尾"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "扁桃体"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000318,
+                            "ATestID": 41000318,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 67,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 2,
+                    "TestItems": [
+                        {
+                            "Title": "6dbbf1c73e24a1e6ced09a3ee8c966b412c27dbcbfce0b1c17bb5d8a51f12059",
+                            "Explain": "B细胞发育成熟的场所是骨髓。",
+                            "TestPoint": "免疫系统",
+                            "Answer": "A",
+                            "Difficulty": "易",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "骨髓"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "淋巴结"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "胸腺"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "外周免疫器官"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "脾"
+                                }
+                            ],
+                            "AllTestID": 43014989,
+                            "BTestID": 43002747,
+                            "SrcID": 9,
+                            "SbjID": 41,
+                            "CptID": 67,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43002747,
+                                    "Title": "6dbbf1c73e24a1e6ced09a3ee8c966b412c27dbcbfce0b1c17bb5d8a51f12059",
+                                    "Explain": "B细胞发育成熟的场所是骨髓。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43002748,
+                                    "Title": "41ec453a68ea26f24cbca8e70e039e9ac2d489cc3d285cad6c0ec5a44ae78be3",
+                                    "Explain": "免疫应答发生的场所是外周免疫器官。",
+                                    "TestPoint": "免疫系统",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 43014986,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014986,
+                        "ChildTableID": -1,
+                        "UserCount": 2219,
+                        "RightCount": 1445,
+                        "FavCount": 39,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 20
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014986,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 20
+            },
+            {
+                "AllTestID": 43014987,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014987,
+                        "ChildTableID": -1,
+                        "UserCount": 2132,
+                        "RightCount": 1468,
+                        "FavCount": 46,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014987,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43014988,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014988,
+                        "ChildTableID": -1,
+                        "UserCount": 2067,
+                        "RightCount": 1628,
+                        "FavCount": 34,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014988,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 41000318,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000318,
+                        "ChildTableID": -1,
+                        "UserCount": 2132,
+                        "RightCount": 1648,
+                        "FavCount": 21,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000318,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43014989,
+                "ChildTableID": 43002747,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014989,
+                        "ChildTableID": 43002747,
+                        "UserCount": 2164,
+                        "RightCount": 1345,
+                        "FavCount": 33,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 12
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014989,
+                    "ChildTableID": 43002747
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 12
+            },
+            {
+                "AllTestID": 43014989,
+                "ChildTableID": 43002748,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014989,
+                        "ChildTableID": 43002748,
+                        "UserCount": 2064,
+                        "RightCount": 1384,
+                        "FavCount": 39,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014989,
+                    "ChildTableID": 43002748
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}

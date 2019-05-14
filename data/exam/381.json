@@ -1,0 +1,1444 @@
+{
+    "msg": "获取章节试题成功",
+    "data": {
+        "test": {
+            "ReturnMessage": "取数据成功",
+            "APPEName": "ZY_LCZY_YTMJ",
+            "GenDate": "Tue May 14 2019 23:00:59 GMT+0800 (CST)",
+            "StyleItems": [
+                {
+                    "StyleID": 1,
+                    "Style": "A1型题",
+                    "Explain": "A1型题：每一道考试题下面有A、B、C、D、E五个备选答案。请从中选择一个最佳答案。",
+                    "Score": 1,
+                    "Type": "ATEST",
+                    "SubType": "",
+                    "TestCount": 15,
+                    "TestItems": [
+                        {
+                            "Title": "878e8cb98e0e8a0b3259bb1d4562ad3b4850a5c0f93b099bbc426cee6970f06aeabb2f485d183f0c",
+                            "Explain": "单纯疱疹病毒HSV-1通过直接或间接接触传播，HSV-2通过性传播，不能通过输血传播，故选A。EB病毒、巨细胞病毒、肝炎病毒、HIV都可以通过输血传播，B、C、D、E都不符合题意。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "单纯疱疹病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "EB病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "巨细胞病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "肝炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "HIV"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000288,
+                            "ATestID": 41000288,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "1b0a8e8a288506371c57fa485ac508fdaa0d1ebb6f9c6ef4867cd36a1981653f497a219db85946b2",
+                            "Explain": "病毒水平传播指在人群中不同个体人一人之间的传播和动物一人之间的传播。故选C。其他选项A、B、D、E都不是病毒水平传播的正确描述。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "通过血液向其他组织传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "从侵入门户向血液中的传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "在人群个体间的传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "在细胞与细胞间的传播"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "沿神经传播"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 41000290,
+                            "ATestID": 41000290,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "af3fc99dbd484862837a6245ec1a515e833e6c9f28f4e6efa8ac83122ea5d2038378604801aa9f40dbca061aebf312f74328b1da282284f04b7271ffb574eea7",
+                            "Explain": "戊型肝炎病毒(HEV)是经消化道传播的。病毒体直径27～34nm，无包膜。核酸单正链RNA，属杯状病毒科，迄今未能在细胞培养中使HEV复制。目前HEV有2个基因型，缅甸毒株与墨西哥毒株。",
+                            "TestPoint": "",
+                            "Answer": "E",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乙型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "丙型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "丁型肝炎"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "艾滋病"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "戊型肝炎"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43000300,
+                            "ATestID": 43000300,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "de8b16da396835d5e320e507004e3bb9903d1eb3fac15b6a814943444a0f34a45afee26b2061cb0d",
+                            "Explain": "A.乙型脑炎病毒：带毒雌蚊。B.森林脑炎病毒：蜱。C.登革热病毒：埃及伊蚊和白伊蚊。D.狂犬病病毒：人狂犬病主要被患病动物咬伤所致，或与畜密切接触有关。E.黄热病病毒：在城市是埃及伊蚊,在农村为趋血蚊和非洲伊蚊。故正确答案为D。",
+                            "TestPoint": "虫媒传播",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乙型脑炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "森林脑炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "登革热病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "狂犬病病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "黄热病病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002222,
+                            "ATestID": 43002222,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "b7477d301e966037340469d442f8137369e6891d850868fb4fb9689ca89d19eb5569f6e933989cf3",
+                            "Explain": "罕见经输血传播的病毒是乙型脑炎病毒。幼猪是乙脑病毒的主要传染源和中间宿主，蚊子是乙脑病毒的传播媒介。当人受带病毒的蚊子叮咬后，乙脑病毒进入人体，在血管内皮细胞、淋巴结、肝、脾等吞噬细胞内增殖，并经血液循环到达脑部而引起炎症。故正确答案为C。",
+                            "TestPoint": "经输血传播的病毒",
+                            "Answer": "C",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "乙型肝炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "人免疫缺陷病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "乙型脑炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "丙型肝炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "巨细胞病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002223,
+                            "ATestID": 43002223,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "bbb2df088e57967b4e88fa308559514e5e209c1b5afd3f7e6a55f3c936aac96bf75bf58d0c99405f",
+                            "Explain": "垂直传播指病毒从母体经过胎盘或产道传染给胎儿的传播。可垂直传播的病毒有：风疹病毒、水痘病毒、麻疹病毒、肝炎病毒、脊髓灰质炎病毒、人免疫缺陷病毒、柯萨奇B族病毒、腮腺炎及巨细胞病毒。脊髓灰质炎病毒：经口摄入为主要传播途径，直接或间接污染病毒的双手、用品、玩具、衣服及苍蝇等皆可成为传播媒介，饮水污染常引起爆发流行。故答案选择E。",
+                            "TestPoint": "垂直传播的病毒",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "风疹病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "巨细胞病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "乙型肝炎病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "人免疫缺陷病毒"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "脊髓灰质炎病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002224,
+                            "ATestID": 43002224,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "6d0d299aaaa6ec0ccf6f5dd8383f19112998dc345edcdb667c457debecc2c4c007422032e8e8c85dbb0bda9cc27949dc4da13ec068667fbb",
+                            "Explain": "超敏反应不是病毒的直接作用。其他选项均是病毒感染对宿主细胞的直接作用。超敏反应：指机体对某些抗原初次应答以后，再次接受相同抗原刺激时，发生的以机体功能紊乱或组织细胞损伤为主的特异性免疫应答，俗称变态反应或过敏反应。故答案选择E。",
+                            "TestPoint": "病毒感染对宿主细胞的直接作用",
+                            "Answer": "E",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "杀细胞感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "细胞融合"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "病毒与宿主细胞基因组整合"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "形成包涵体"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "产生超敏反应"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002225,
+                            "ATestID": 43002225,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "eb51f0954f941ba6cb60dd698748109e70619cd0fad7a24b7ea275d2c519d8f5",
+                            "Explain": "病毒的感染类型根据临床症状的有无，区分为显性感染和隐性感染；按病毒在机体内滞留的时间，分急性感染和持续性感染，后者又分为慢性感染、潜伏感染和慢发病毒感染。败血症：是由致病菌侵入血液循环并在其中生长繁殖，产生毒素而引起的全身性感染。故答案选择D。",
+                            "TestPoint": "病毒感染类型",
+                            "Answer": "D",
+                            "Difficulty": "易",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "慢性病毒感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "慢发病毒感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "潜伏性感染"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "败血症"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "隐性感染"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002226,
+                            "ATestID": 43002226,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "09f79b3c88b1ca353c3e95f20b9c513d4d03b2da55e83f413d205dea35721a93fd2c3c84a17413ca",
+                            "Explain": "干扰素（IFN）是一种广谱抗病毒剂，并不直接杀伤或抑制病毒，而主要是通过细胞表面受体作用使细胞产生抗病毒蛋白，从而抑制乙肝病毒的复制。其抗病毒蛋白是一类酶类，作用无特异性，对多数病毒均有一定抑制作用；但具有种属特异性（一般在同种细胞中活性高，对异种细胞无活性）。故答案选择C。",
+                            "TestPoint": "干扰素的特点",
+                            "Answer": "C",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "具有抗肿瘤、免疫调节作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "具有种属特异性"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "具有直接杀灭病毒作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "具有广谱抗病毒作用"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "属于非特异性免疫因素"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002227,
+                            "ATestID": 43002227,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ae94cb7429557250fae13909c776e35b126e89c1763ce571291664e3d8070a7ecd9b4af0516e10719ed44c2c74bbfda6",
+                            "Explain": "干扰素（IFN）是一种广谱抗病毒剂，并不直接杀伤或抑制病毒，而主要是通过细胞表面受体作用使细胞产生抗病毒蛋白，从而抑制乙肝病毒的复制。其抗病毒蛋白是一类酶类，作用无特异性，对多数病毒均有一定抑制作用；但具有种属特异性（一般在同种细胞中活性高，对异种细胞无活性）。故答案选择D。",
+                            "TestPoint": "干扰素的特点",
+                            "Answer": "D",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "干扰病毒的吸附"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "干扰病毒的穿入"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "直接干扰病毒mRNA的转录"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "诱导邻近细胞产生抗病毒蛋白"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "干扰病毒的释放"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002228,
+                            "ATestID": 43002228,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "70e6e0773bdf8a3eb1aa6b788863a99672bd5fc465631bae7d91091f48dc558d2d1fb2ced4fc4a5460bdde976aeb55d8",
+                            "Explain": "抗体抗病毒机制主要是中和病毒和调理作用。①中和作用：循环抗体（IgG、IgM）能有效中和进入血液的病毒，但其作用受抗体所能到达的部位的限制。中和抗体在初次感染的恢复作用中起的作用不大，但在防止病毒的再感染中起重要作用。②促进病毒被吞噬：抗体可与病毒结合导致游离的病毒颗粒丛集、凝聚，从而易被巨噬细胞所吞噬，补体的参与可加强这种作用。③抗体依赖性细胞介导的细胞毒作用和免疫溶解作用：抗体不仅能直接与游离病毒抗原结合，还能与表达于受感染细胞表面的病毒抗原结合，进而介导K细胞的杀伤作用，或通过激活补体导致细胞裂解。故答案选择E。",
+                            "TestPoint": "中和抗体抗病毒的作用机制",
+                            "Answer": "E",
+                            "Difficulty": "中",
+                            "SelectedItems": [
+                                {
+                                    "HasImg": 1,
+                                    "ItemName": "A",
+                                    "Content": "阻止病毒吸附和侵入易感细胞"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "B",
+                                    "Content": "与病毒形成免疫复合物易被吞噬"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "C",
+                                    "Content": "阻止无包膜病毒脱壳"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "D",
+                                    "Content": "与病毒表面抗原结合，激活补体，使细胞溶解"
+                                },
+                                {
+                                    "HasImg": 0,
+                                    "ItemName": "E",
+                                    "Content": "活化杀伤T细胞(CTL)释放淋巴因子"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43002229,
+                            "ATestID": 43002229,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "c579bbb4f89c699a0d8da25a4562159d123c5b58ae6f15e0a5743965f6700e6b5b8ec8a94a4c328968c0d43a938a000303a2b3a7e87cdb2f",
+                            "Explain": "水平传播指病毒在人群中不同个体间的传播。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "在细胞与细胞间的传播"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "从侵入门户向血液中的传播"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "在人群个体间的传播"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "沿神经传播"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "通过血液向其他组织传播"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014945,
+                            "ATestID": 43014945,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "9bc239b6d38192f71f6094aa20b38cbecfcdc07d49ead1fb2597cd09160f2bf1e89a75e4886e416f14c7a948be540377",
+                            "Explain": "B细胞其特征性表面标志是膜免疫球蛋白（即B细胞受体），经抗原激活后可分化为浆细胞，产生与其所表达B细胞受体具有相同特异性的抗体，介导体液免疫。",
+                            "TestPoint": "",
+                            "Answer": "B",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "外周血淋巴细胞计数"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "免疫球蛋白测定"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "嗜异性凝集试验"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "抗O试验"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "白蛋白测定"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014946,
+                            "ATestID": 43014946,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "ae94cb74295572501740b2f1a02c60fc49754b6d4c8de0c9a9a4922595b0ab97d3059d38f0015a71",
+                            "Explain": "干扰素抑制病毒作用的机制是间接活化一种内切核酸酶促使mRNA降解。",
+                            "TestPoint": "干扰素",
+                            "Answer": "E",
+                            "Difficulty": "难",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "间接活化一种内切核酸酶促使RNA降解"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "直接活化一种内切核酸酶促使mRNA降解"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "间接活化一种外切核酸酶促使mRNA降解"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "直接活化一种外切核酸酶促使mRNA降解"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "间接活化一种内切核酸酶促使mRNA降解"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014947,
+                            "ATestID": 43014947,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        },
+                        {
+                            "Title": "07e3e6fe96954f857e0c719839835d0f928604809c2e4ac74e158f097b3f5f376a48f12feca2877e53283fec23844edeee0067a167028f3a",
+                            "Explain": "AIDS常见的机会性感染：①原虫感染：弓形体病、隐孢子虫肠炎；②细菌性感染：最多见的是结核杆菌和鸟型分枝杆菌；③真菌感染：常见口腔念珠菌感染、卡氏肺孢子菌肺炎、隐球菌脑膜炎及组织胞浆菌病；④病毒性感染：可见乙型肝炎病毒、丙型肝炎病毒、单纯疱疹病毒、带状疱疹病毒、巨细胞病毒等感染。",
+                            "TestPoint": "",
+                            "Answer": "A",
+                            "Difficulty": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "EB病毒"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "弓形虫"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "新型隐球菌"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "卡氏肺孢子菌"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "巨细胞病毒"
+                                }
+                            ],
+                            "StyleType": "ATEST",
+                            "AllTestID": 43014948,
+                            "ATestID": 43014948,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "IsFav": 0,
+                            "UserNoteContent": "",
+                            "DealInfo": ""
+                        }
+                    ]
+                },
+                {
+                    "StyleID": 3,
+                    "Style": "B1型题",
+                    "Explain": "B1型题：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答案。请从中选择一个与问题关系最密切的答案。某个备选答案可能被选择一次、多次或不被选择。",
+                    "Score": 1,
+                    "Type": "BTEST",
+                    "SubType": "单项",
+                    "TestCount": 7,
+                    "TestItems": [
+                        {
+                            "Title": "9a9d6efb369bd503425ff0521f30824660326387c1368401af1a89e50ad62bd1",
+                            "Explain": "隐性感染无临床表现，通过免疫学检查才能发现，流行性乙型脑炎病毒常发生隐性感染。急性感染是指病原体侵入后，机体立即产生相应的临床表现。慢性感染是指一种病毒能在宿主细胞内不断复制而不杀死宿主细胞，乙型肝炎病毒、巨细胞病毒、EB病毒常发生慢性感染，故1题选C。潜伏感染是指病毒存在于组织或细胞中，无临床症状，由于免疫力低下等因素影响会被激活出现临床症状，水痘-带状疱疹病毒常发生潜伏感染，故2题选D。慢发病毒感染是指机体经显性或者隐性感染后，病毒潜伏期很长，此时无临床表现，一旦发病出现症状多为亚急性进行性加重，人类免疫缺陷病毒和麻疹缺陷病毒常发生慢发病毒感染，故3题选E。",
+                            "TestPoint": "",
+                            "Answer": "C",
+                            "Difficulty": "",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "隐性感染"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "急性（病原消灭型）感染"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "慢性感染"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "潜伏感染"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "慢发病毒感染"
+                                }
+                            ],
+                            "AllTestID": 41000291,
+                            "BTestID": 41000074,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 41000074,
+                                    "Title": "9a9d6efb369bd503425ff0521f30824660326387c1368401af1a89e50ad62bd1",
+                                    "Explain": "隐性感染无临床表现，通过免疫学检查才能发现，流行性乙型脑炎病毒常发生隐性感染。急性感染是指病原体侵入后，机体立即产生相应的临床表现。慢性感染是指一种病毒能在宿主细胞内不断复制而不杀死宿主细胞，乙型肝炎病毒、巨细胞病毒、EB病毒常发生慢性感染，故1题选C。潜伏感染是指病毒存在于组织或细胞中，无临床症状，由于免疫力低下等因素影响会被激活出现临床症状，水痘-带状疱疹病毒常发生潜伏感染，故2题选D。慢发病毒感染是指机体经显性或者隐性感染后，病毒潜伏期很长，此时无临床表现，一旦发病出现症状多为亚急性进行性加重，人类免疫缺陷病毒和麻疹缺陷病毒常发生慢发病毒感染，故3题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000075,
+                                    "Title": "c4b5c18068bc7478e100f0dd1aea1889429780f43ae154548eba02c00f83589ed157aa4699569659",
+                                    "Explain": "隐性感染无临床表现，通过免疫学检查才能发现，流行性乙型脑炎病毒常发生隐性感染。急性感染是指病原体侵入后，机体立即产生相应的临床表现。慢性感染是指一种病毒能在宿主细胞内不断复制而不杀死宿主细胞，乙型肝炎病毒、巨细胞病毒、EB病毒常发生慢性感染，故1题选C。潜伏感染是指病毒存在于组织或细胞中，无临床症状，由于免疫力低下等因素影响会被激活出现临床症状，水痘-带状疱疹病毒常发生潜伏感染，故2题选D。慢发病毒感染是指机体经显性或者隐性感染后，病毒潜伏期很长，此时无临床表现，一旦发病出现症状多为亚急性进行性加重，人类免疫缺陷病毒和麻疹缺陷病毒常发生慢发病毒感染，故3题选E。",
+                                    "TestPoint": "",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 41000076,
+                                    "Title": "9bcd5410f843f49bd213ac210679723174c50c0b435d8f528c1309a0df6d79bd43236eee923e4e4a",
+                                    "Explain": "",
+                                    "TestPoint": "",
+                                    "Answer": "E",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        },
+                        {
+                            "Title": "a5ce72946b23f3d5398e4d863f961f2fa883fb46dc90571ef2191f5987245d88d1d596b17e64705d",
+                            "Explain": "主要经消化道传播的病原体是HAV。",
+                            "TestPoint": "病毒",
+                            "Answer": "C",
+                            "Difficulty": "难",
+                            "StyleType": "BTEST",
+                            "SubStyleType": "ATEST",
+                            "FrontTitle": "",
+                            "SelectedItems": [
+                                {
+                                    "ItemName": "A",
+                                    "Content": "人类免疫缺陷病毒(HIV)"
+                                },
+                                {
+                                    "ItemName": "B",
+                                    "Content": "乙型肝炎病毒(HBV)"
+                                },
+                                {
+                                    "ItemName": "C",
+                                    "Content": "甲型肝炎病毒(HAV)"
+                                },
+                                {
+                                    "ItemName": "D",
+                                    "Content": "单纯疱疹病毒(HSV)"
+                                },
+                                {
+                                    "ItemName": "E",
+                                    "Content": "人类乳头瘤病毒(HPV)"
+                                }
+                            ],
+                            "AllTestID": 43002230,
+                            "BTestID": 43000509,
+                            "SrcID": 9,
+                            "SbjID": 40,
+                            "CptID": 381,
+                            "BTestItems": [
+                                {
+                                    "BTestItemID": 43000509,
+                                    "Title": "a5ce72946b23f3d5398e4d863f961f2fa883fb46dc90571ef2191f5987245d88d1d596b17e64705d",
+                                    "Explain": "主要经消化道传播的病原体是HAV。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "C",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000510,
+                                    "Title": "e11afeb60e5a2b23bccc978fec57f9a1dcc0b17508adcb96d8c3137c539ca84d78e3e934496b2be681db2ec9f0f6f678",
+                                    "Explain": "最易形成慢发病毒感染的病原体是HIV。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "A",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000511,
+                                    "Title": "e11afeb60e5a2b2330592bce7b66049f692d9c040a4e1a8f4a5a77c67e8683cecaaa7ea99bcf66f6",
+                                    "Explain": "最易形成潜伏感染的病原体是HSV。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "D",
+                                    "DealInfo": ""
+                                },
+                                {
+                                    "BTestItemID": 43000512,
+                                    "Title": "e11afeb60e5a2b235cc44683e31828fa97b2ae9f02b69ccdc0fa0149e91a98de37d64d2559ea6ec3",
+                                    "Explain": "最易形成慢性感染的病原体是HBV。",
+                                    "TestPoint": "病毒",
+                                    "Answer": "B",
+                                    "DealInfo": ""
+                                }
+                            ],
+                            "IsFav": 0,
+                            "UserNoteContent": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVip": 0,
+        "testInfo": [
+            {
+                "AllTestID": 41000288,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000288,
+                        "ChildTableID": -1,
+                        "UserCount": 1308,
+                        "RightCount": 818,
+                        "FavCount": 29,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000288,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 41000290,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000290,
+                        "ChildTableID": -1,
+                        "UserCount": 1278,
+                        "RightCount": 858,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000290,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43000300,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43000300,
+                        "ChildTableID": -1,
+                        "UserCount": 1228,
+                        "RightCount": 906,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43000300,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002222,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002222,
+                        "ChildTableID": -1,
+                        "UserCount": 1199,
+                        "RightCount": 1009,
+                        "FavCount": 18,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002222,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002223,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002223,
+                        "ChildTableID": -1,
+                        "UserCount": 1297,
+                        "RightCount": 676,
+                        "FavCount": 31,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 10
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002223,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 10
+            },
+            {
+                "AllTestID": 43002224,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002224,
+                        "ChildTableID": -1,
+                        "UserCount": 1182,
+                        "RightCount": 739,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 6
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002224,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 6
+            },
+            {
+                "AllTestID": 43002225,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002225,
+                        "ChildTableID": -1,
+                        "UserCount": 1238,
+                        "RightCount": 668,
+                        "FavCount": 24,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002225,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43002226,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002226,
+                        "ChildTableID": -1,
+                        "UserCount": 1130,
+                        "RightCount": 955,
+                        "FavCount": 4,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002226,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002227,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002227,
+                        "ChildTableID": -1,
+                        "UserCount": 1178,
+                        "RightCount": 781,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002227,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 43002228,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002228,
+                        "ChildTableID": -1,
+                        "UserCount": 1181,
+                        "RightCount": 678,
+                        "FavCount": 23,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 8
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002228,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 8
+            },
+            {
+                "AllTestID": 43002229,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002229,
+                        "ChildTableID": -1,
+                        "UserCount": 1216,
+                        "RightCount": 613,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 15
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002229,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 15
+            },
+            {
+                "AllTestID": 43014945,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014945,
+                        "ChildTableID": -1,
+                        "UserCount": 1016,
+                        "RightCount": 917,
+                        "FavCount": 3,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014945,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43014946,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014946,
+                        "ChildTableID": -1,
+                        "UserCount": 1105,
+                        "RightCount": 711,
+                        "FavCount": 14,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014946,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 43014947,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014947,
+                        "ChildTableID": -1,
+                        "UserCount": 1143,
+                        "RightCount": 566,
+                        "FavCount": 31,
+                        "DiscussionCount": 1,
+                        "ExplainCount": 0,
+                        "ConcernCount": 16
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014947,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 1,
+                "ExplainCount": 0,
+                "ConcernCount": 16
+            },
+            {
+                "AllTestID": 43014948,
+                "ChildTableID": -1,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43014948,
+                        "ChildTableID": -1,
+                        "UserCount": 1155,
+                        "RightCount": 535,
+                        "FavCount": 32,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 9
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43014948,
+                    "ChildTableID": -1
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 9
+            },
+            {
+                "AllTestID": 41000291,
+                "ChildTableID": 41000074,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000291,
+                        "ChildTableID": 41000074,
+                        "UserCount": 1253,
+                        "RightCount": 692,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 7
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000291,
+                    "ChildTableID": 41000074
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 7
+            },
+            {
+                "AllTestID": 41000291,
+                "ChildTableID": 41000075,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000291,
+                        "ChildTableID": 41000075,
+                        "UserCount": 1188,
+                        "RightCount": 802,
+                        "FavCount": 16,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 13
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000291,
+                    "ChildTableID": 41000075
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 13
+            },
+            {
+                "AllTestID": 41000291,
+                "ChildTableID": 41000076,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 41000291,
+                        "ChildTableID": 41000076,
+                        "UserCount": 1236,
+                        "RightCount": 664,
+                        "FavCount": 30,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 5
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 41000291,
+                    "ChildTableID": 41000076
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 5
+            },
+            {
+                "AllTestID": 43002230,
+                "ChildTableID": 43000509,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002230,
+                        "ChildTableID": 43000509,
+                        "UserCount": 1088,
+                        "RightCount": 841,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002230,
+                    "ChildTableID": 43000509
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002230,
+                "ChildTableID": 43000510,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002230,
+                        "ChildTableID": 43000510,
+                        "UserCount": 1129,
+                        "RightCount": 893,
+                        "FavCount": 13,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 4
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002230,
+                    "ChildTableID": 43000510
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 4
+            },
+            {
+                "AllTestID": 43002230,
+                "ChildTableID": 43000511,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002230,
+                        "ChildTableID": 43000511,
+                        "UserCount": 1114,
+                        "RightCount": 859,
+                        "FavCount": 11,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002230,
+                    "ChildTableID": 43000511
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            },
+            {
+                "AllTestID": 43002230,
+                "ChildTableID": 43000512,
+                "Correction": [],
+                "Statistics": {
+                    "Correction": [],
+                    "Test": {
+                        "AppID": 1328,
+                        "AllTestID": 43002230,
+                        "ChildTableID": 43000512,
+                        "UserCount": 1110,
+                        "RightCount": 922,
+                        "FavCount": 5,
+                        "DiscussionCount": 0,
+                        "ExplainCount": 0,
+                        "ConcernCount": 3
+                    }
+                },
+                "Analysis": [],
+                "KnowledgePoint": {
+                    "Summary": null,
+                    "KnowledgeText": null,
+                    "AllTestID": 43002230,
+                    "ChildTableID": 43000512
+                },
+                "DiscussionCount": 0,
+                "ExplainCount": 0,
+                "ConcernCount": 3
+            }
+        ],
+        "info": [],
+        "encoded": 1,
+        "examHistoryID": 0,
+        "yimoinfo": [],
+        "UserTime": 0
+    },
+    "status": 200
+}
