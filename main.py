@@ -15,6 +15,8 @@ import pickle
 import pandas as pd
 from utils import aes_decrypt
 import time
+import argparse
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
 }
@@ -128,7 +130,7 @@ def read_exam(filename):
                     question['OptionB'] = item['SelectedItems'][1]['Content']
                     question['OptionC'] = item['SelectedItems'][2]['Content']
                     question['OptionD'] = item['SelectedItems'][3]['Content']
-                    if len(item['SelectedItems'])>4:
+                    if len(item['SelectedItems']) > 4:
                         question['OptionE'] = item['SelectedItems'][4]['Content']
                     question['StyleType'] = item['StyleType']
                     question['AllTestID'] = item['AllTestID']
@@ -139,14 +141,49 @@ def read_exam(filename):
                     csv_writer.writerow(question)
 
 
+def process_question():
+    df_question = pd.read_csv('data/question.csv')
+    df_chapter = pd.read_csv('data/chapter.csv')
+    # first_id, first_name, second_id, second_name, third_id, third_name
+
+    first_dict = dict(zip(df_chapter['first_id'], df_chapter['first_name']))
+    second_dict = dict(zip(df_chapter['second_id'], df_chapter['second_name']))
+    third_dict = dict(zip(df_chapter['third_id'], df_chapter['third_name']))
+    # print(first_dict)
+    df_question['章节名称'] = df_question['SrcID'].apply(lambda x: first_dict[x])
+    df_question['科目名称'] = df_question['SbjID'].apply(lambda x: second_dict[x])
+    df_question['试题名称'] = df_question['CptID'].apply(lambda x: third_dict[x])
+    print(len(df_question))
+    df_question.dropna(subset=['Title'], inplace=True)
+    print(len(df_question))
+
+    # df_question.head(20).to_csv('data/sample.csv', index=None)
+    df_question.to_csv('data/data.csv', index=None)
+
+
 if __name__ == '__main__':
-    # read_chapter()
-    # read_exam()
-    # chapter=pd.read_csv('data/chapter.csv')
-    # for id in chapter.third_id:
-    #     print("正在爬取：",id)
-    #     get_chapter_exam(id)
-    #     time.sleep(2)
-    for filename in os.listdir('data/exam'):
-        print(filename)
-        read_exam('data/exam/'+filename)
+
+    parser = argparse.ArgumentParser(description="程序运行参数")
+    parser.add_argument('--get_chapter', '-c', action='store_true', help='爬取章节并存储到chapter.csv')
+    parser.add_argument('--get_exam', '-e', action='store_true', help='爬取试题并存储到question.cv')
+    parser.add_argument('--process_question', '-p', action='store_true', help='整理最终结果到data.csv')
+
+    args = parser.parse_args()
+    if args.get_chapter:
+        print("获取章节...")
+        get_chapters()
+        read_chapter()
+
+    if args.get_exam:
+        chapter = pd.read_csv('data/chapter.csv')
+        for id in chapter.third_id:
+            print("正在爬取试题：", id)
+            get_chapter_exam(id)
+            time.sleep(2)
+
+        for filename in os.listdir('data/exam'):
+            print(filename)
+            read_exam('data/exam/' + filename)
+    if args.process_question:
+        print("整理最终结果到 data.csv")
+        process_question()
