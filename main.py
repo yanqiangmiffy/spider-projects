@@ -216,6 +216,9 @@ def read_exam(filename):
 
 def process_question():
     df_question = pd.read_csv('data/question.csv')
+    df_question.columns = ['Title', 'Explain', 'TestPoint', 'Answer',
+                           'OptionA', 'OptionB', 'OptionC', 'OptionD', 'OptionE',
+                           'StyleType', 'AllTestID', 'ATestID', 'SrcID', 'SbjID', 'CptID']
     df_chapter = pd.read_csv('data/chapter.csv')
     # first_id, first_name, second_id, second_name, third_id, third_name
 
@@ -226,6 +229,7 @@ def process_question():
     df_question['章节名称'] = df_question['SrcID'].apply(lambda x: first_dict[x])
     df_question['科目名称'] = df_question['SbjID'].apply(lambda x: second_dict[x])
     df_question['试题名称'] = df_question['CptID'].apply(lambda x: third_dict[x])
+    df_question.drop(columns=['ATestID'], inplace=True)
     print(len(df_question))
     df_question.to_csv('data/full.csv', index=None)
     df_question.dropna(subset=['Title'], inplace=True)
