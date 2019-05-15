@@ -112,33 +112,106 @@ def read_exam(filename):
              'StyleType', 'AllTestID', 'ATestID', 'SrcID', 'SbjID', 'CptID'])
             # csv_writer.writeheader()
             for style in data['data']['test']['StyleItems']:
-                for item in style['TestItems']:
-                    # print(item, len(item['SelectedItems']))
-                    question = dict()
-                    question['Title'] = aes_decrypt(item['Title'])
-                    question['Explain'] = item['Explain']
-                    question['TestPoint'] = item['TestPoint']
-                    question['Answer'] = item['Answer']
+                if style['StyleID'] == 4:
+                    # print(style)
+                    for item in style['TestItems']:
+                        FrontTitle = aes_decrypt(item['FrontTitle'])
+                        # A3TestItems
+                        for a3item in item['A3TestItems']:
 
-                    question['OptionA'] = ''
-                    question['OptionB'] = ''
-                    question['OptionC'] = ''
-                    question['OptionD'] = ''
-                    question['OptionE'] = ''
+                            title = FrontTitle + aes_decrypt(a3item['Title'])
+                            title = title.strip()
 
-                    question['OptionA'] = item['SelectedItems'][0]['Content']
-                    question['OptionB'] = item['SelectedItems'][1]['Content']
-                    question['OptionC'] = item['SelectedItems'][2]['Content']
-                    question['OptionD'] = item['SelectedItems'][3]['Content']
-                    if len(item['SelectedItems']) > 4:
-                        question['OptionE'] = item['SelectedItems'][4]['Content']
-                    question['StyleType'] = item['StyleType']
-                    question['AllTestID'] = item['AllTestID']
-                    # question['ATestID']=item['ATestID']
-                    question['SrcID'] = item['SrcID']
-                    question['SbjID'] = item['SbjID']
-                    question['CptID'] = item['CptID']
-                    csv_writer.writerow(question)
+                            question = dict()
+                            question['Title'] = title
+                            question['Explain'] = a3item['Explain']
+                            question['TestPoint'] = a3item['TestPoint']
+                            question['Answer'] = a3item['Answer']
+
+                            question['OptionA'] = ''
+                            question['OptionB'] = ''
+                            question['OptionC'] = ''
+                            question['OptionD'] = ''
+                            question['OptionE'] = ''
+
+                            question['OptionA'] = a3item['SelectedItems'][0]['Content']
+                            question['OptionB'] = a3item['SelectedItems'][1]['Content']
+                            question['OptionC'] = a3item['SelectedItems'][2]['Content']
+                            question['OptionD'] = a3item['SelectedItems'][3]['Content']
+                            if len(a3item['SelectedItems']) > 4:
+                                question['OptionE'] = a3item['SelectedItems'][4]['Content']
+                            question['StyleType'] = item['StyleType']
+                            question['AllTestID'] = item['AllTestID']
+                            # question['ATestID']=item['ATestID']
+                            question['SrcID'] = item['SrcID']
+                            question['SbjID'] = item['SbjID']
+                            question['CptID'] = item['CptID']
+                            csv_writer.writerow(question)
+                            # print(a3item['SelectedItems'])
+                if style['StyleID'] == 3:
+                    # print(style)
+                    for item in style['TestItems']:
+                        # print(item)
+                        for bitem in item['BTestItems']:
+                            # print(bitem)
+                            title = aes_decrypt(bitem['Title'])
+                            # print(title)
+                            # print(item['SelectedItems'])
+                            title = title.strip()
+                            question = dict()
+                            question['Title'] = title
+                            question['Explain'] = bitem['Explain']
+                            question['TestPoint'] = bitem['TestPoint']
+                            question['Answer'] = bitem['Answer']
+
+                            question['OptionA'] = ''
+                            question['OptionB'] = ''
+                            question['OptionC'] = ''
+                            question['OptionD'] = ''
+                            question['OptionE'] = ''
+
+                            question['OptionA'] = item['SelectedItems'][0]['Content']
+                            question['OptionB'] = item['SelectedItems'][1]['Content']
+                            question['OptionC'] = item['SelectedItems'][2]['Content']
+                            question['OptionD'] = item['SelectedItems'][3]['Content']
+                            if len(item['SelectedItems']) > 4:
+                                question['OptionE'] = item['SelectedItems'][4]['Content']
+                            question['StyleType'] = item['StyleType']
+                            question['AllTestID'] = item['AllTestID']
+                            # question['ATestID']=item['ATestID']
+                            question['SrcID'] = item['SrcID']
+                            question['SbjID'] = item['SbjID']
+                            question['CptID'] = item['CptID']
+                            csv_writer.writerow(question)
+                # A1 A2
+                if style['StyleID'] == 1 or style['StyleID'] == 2:
+                    for item in style['TestItems']:
+                        # print(item, len(item['SelectedItems']))
+                        question = dict()
+                        question['Title'] = aes_decrypt(item['Title'])
+                        question['Explain'] = item['Explain']
+                        question['TestPoint'] = item['TestPoint']
+                        question['Answer'] = item['Answer']
+
+                        question['OptionA'] = ''
+                        question['OptionB'] = ''
+                        question['OptionC'] = ''
+                        question['OptionD'] = ''
+                        question['OptionE'] = ''
+
+                        question['OptionA'] = item['SelectedItems'][0]['Content']
+                        question['OptionB'] = item['SelectedItems'][1]['Content']
+                        question['OptionC'] = item['SelectedItems'][2]['Content']
+                        question['OptionD'] = item['SelectedItems'][3]['Content']
+                        if len(item['SelectedItems']) > 4:
+                            question['OptionE'] = item['SelectedItems'][4]['Content']
+                        question['StyleType'] = item['StyleType']
+                        question['AllTestID'] = item['AllTestID']
+                        # question['ATestID']=item['ATestID']
+                        question['SrcID'] = item['SrcID']
+                        question['SbjID'] = item['SbjID']
+                        question['CptID'] = item['CptID']
+                        csv_writer.writerow(question)
 
 
 def process_question():
@@ -166,7 +239,8 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description="程序运行参数")
     parser.add_argument('--get_chapter', '-c', action='store_true', help='爬取章节并存储到chapter.csv')
-    parser.add_argument('--get_exam', '-e', action='store_true', help='爬取试题并存储到question.cv')
+    parser.add_argument('--get_exam', '-e', action='store_true', help='爬取试题')
+    parser.add_argument('--read_exam', '-r', action='store_true', help='提取json文件到question.cv')
     parser.add_argument('--process_question', '-p', action='store_true', help='整理最终结果到data.csv')
 
     args = parser.parse_args()
@@ -182,9 +256,11 @@ if __name__ == '__main__':
             get_chapter_exam(id)
             time.sleep(2)
 
+    if args.read_exam:
         for filename in os.listdir('data/exam'):
             print(filename)
             read_exam('data/exam/' + filename)
+
     if args.process_question:
         print("整理最终结果到 data.csv")
         process_question()
