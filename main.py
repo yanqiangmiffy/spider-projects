@@ -154,6 +154,7 @@ def process_question():
     df_question['科目名称'] = df_question['SbjID'].apply(lambda x: second_dict[x])
     df_question['试题名称'] = df_question['CptID'].apply(lambda x: third_dict[x])
     print(len(df_question))
+    df_question.to_csv('data/full.csv', index=None)
     df_question.dropna(subset=['Title'], inplace=True)
     print(len(df_question))
 
