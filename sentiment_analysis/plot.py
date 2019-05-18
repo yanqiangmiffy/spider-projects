@@ -27,11 +27,11 @@ df3 = pd.read_excel('plotdata.xlsx', sheet_name=2)
 # print(df2)
 # print(df3)
 
-for df in [df1, df2, df3]:
+for df in [df2, df3]:
     k_range = [i for i in range(1, 1 + len(df))]
     train_scores = df['频数'].values
     plt.plot(k_range, train_scores, label=df.columns[0])
-    plt.xlabel('数据')
-    plt.ylabel('频数')
-    plt.legend()  # show legned
-    plt.show()
+plt.xlabel('数据')
+plt.ylabel('频数')
+plt.legend()  # show legned
+plt.show()
