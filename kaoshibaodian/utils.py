@@ -17,3 +17,5 @@ def aes_decrypt(s):
     ctx = execjs.compile(js)
     res = ctx.call("aesDecrypt", s)
     return res
+
+aes_decrypt('9341f888530869cd3b5d7be5913b69cef749311ba5a32e3d8a38acfefd1c7f1cf63b0ca49153b8dbb124762fcb81a369c89baaad978217f341406630bd0dd7ee')
