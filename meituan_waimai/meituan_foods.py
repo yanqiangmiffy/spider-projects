@@ -12,10 +12,10 @@ import json
 import pandas as pd
 import time
 import os
-df_shop=pd.read_csv('meituan1.csv')
+df_shop=pd.read_csv('meituan2.csv')
 
 for poid in df_shop['mtWmPoiId']:
-    if str(poid)+'.json' in os.listdir('foods'):
+    if str(poid)+'.json' in os.listdir('foods2'):
         print(poid,"已存在")
     else:
         url = ' http://i.waimai.meituan.com/openh5/poi/food?_=1557074935874&X-FOR-WITH=3xFYNRjatPfAeMJSAEVqBr145vtTTe%2BTmtCOQGkoWTXTMG7SjAR1qbqnCYD8vav%2B%2FGb2mS24TEdelMn7hr3pYqjygAsCqPnxYt49BO8l79AkJR%2BK1UOz%2Bld7JiOyczM0iU17mtHKx1V%2FJW02pgEQuA%3D%3D'
@@ -48,14 +48,14 @@ for poid in df_shop['mtWmPoiId']:
         data = {
             'geoType': '2',
             # 'mtWmPoiId': '975890765127073',
-            'mtWmPoiId': '975890765127073',
+            'mtWmPoiId': poid,
             'dpShopId': '-1',
             'source': 'shoplist',
             # 'skuId':'',
             'uuid': '84B13511022B53C8AE36AF69426F87EDBA6B5054B9F21C9B5B000A4E4A13215D',
             'platform': '3',
             'partner': '4',
-            'originUrl': 'http://h5.waimai.meituan.com/waimai/mindex/menu?dpShopId=&mtShopId=975890765127073&source=shoplist&initialLat=24.510897&initialLng=117.661801&actualLat=39.902443&actualLng=116.356058',
+            'originUrl': 'http://h5.waimai.meituan.com/waimai/mindex/menu?dpShopId=&mtShopId={}&source=shoplist&initialLat=24.510897&initialLng=117.661801&actualLat=39.902443&actualLng=116.356058'.format(poid),
             'riskLevel': '71',
             'optimusCode': '10',
             'wm_latitude': '24510897',
@@ -66,7 +66,7 @@ for poid in df_shop['mtWmPoiId']:
         }
 
         response = requests.post(url=url, headers=headers, data=data)
-        print(poid)
-        with open('foods/'+str(poid)+'.json','w',encoding='utf-8') as fout:
+        print("正在爬取：",poid)
+        with open('foods2/'+str(poid)+'.json','w',encoding='utf-8') as fout:
             json.dump(response.json(),fout,indent=4,ensure_ascii=False)
-        time.sleep(3)
+        time.sleep(6)

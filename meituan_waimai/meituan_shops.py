@@ -9,7 +9,7 @@ import csv
 cols = ['mtWmPoiId', 'shopName', 'wmPoiScore', 'monthSalesTip', 'picUrl', 'poiTypeIcon', 'deliveryTimeTip',
         'deliveryType', 'minPriceTip', 'shippingFeeTip', 'origin_shipping_fee_tip', 'status', 'statusDesc',
         'distance', 'averagePriceTip', 'recommendInfo', 'discounts2', 'address', 'shipping_time']
-with open('meituan1.csv', 'w', encoding='utf-8', newline='') as fout:
+with open('meituan2.csv', 'w', encoding='utf-8', newline='') as fout:
     csv_writer = csv.writer(fout)
     csv_writer.writerow(cols)
 
@@ -44,19 +44,22 @@ def get(startIndex):
         'originUrl': 'http://h5.waimai.meituan.com/waimai/mindex/home',
         'riskLevel': 71,
         'optimusCode': 10,
-        'wm_latitude': 24514600,
-        'wm_longitude': 117655920,
+        # 'wm_latitude': 24514600,
+        # 'wm_longitude': 117655920,
+        'wm_latitude': 24512394,
+        'wm_longitude': 117645668,
         'wm_actual_latitude': 0,
         'wm_actual_longitude': 0
     }
     url = 'http://i.waimai.meituan.com/openh5/homepage/poilist?_=1557062578676&X-FOR-WITH=AuOxmX3mZnBzmrSs0CtZH1lX2EWeewkuMsW60i8mEwoBAYyeGz' \
           'PzG36B9CYWWcatIg%2B7D8GB%2BxAqULL1qdd3kU2NdTMPY1XjlKvbAaFlBoDI5AMQls62Pcn%2FpQRQ8UCldaMn%2BZABoEerAT4dPRZSKQ%3D%3D'
     response = requests.post(url=url, headers=headers, data=data)
+    print(response.json())
     return response.json()
 
 
 def main():
-    with open('meituan1.csv', 'a', encoding='utf-8', newline='') as fout:
+    with open('meituan2.csv', 'a', encoding='utf-8', newline='') as fout:
         csv_writer = csv.writer(fout)
         response = get(0)
         while response['data']['shopList']:
