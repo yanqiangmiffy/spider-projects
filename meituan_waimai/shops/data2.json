@@ -1,0 +1,2480 @@
+{
+    "tgt_stids": "",
+    "data": {
+        "activity_id": 0,
+        "activity_type": 0,
+        "boldingList": [],
+        "coupon_nologin_background": "",
+        "footprint_entrance": {
+            "icon_url": "http://p1.meituan.net/aichequan/6dd136c9612331817f952475d749770b4238.png",
+            "is_show": true
+        },
+        "guideTime": 0,
+        "has_activity": false,
+        "judas_field": {
+            "rank_trace_id": ""
+        },
+        "need_login": false,
+        "poi_has_next_page": true,
+        "poi_total_num": 1,
+        "poilist": [
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥20",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "536m",
+                "id": 847909330679060,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥15",
+                "month_sales_tip": "月售1142",
+                "name": "现炸哩叽（文昌门店）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p0.meituan.net/waimaipoi/c9e75f23df93b5c3dd879cd6f4356444119007.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "",
+                "shipping_fee_tip": "配送 ¥2",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "炸鸡炸串",
+                "wm_poi_score": 4.7
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥20",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满30减10;满50减20;满70减26",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品5折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "932m",
+                "id": 965668743980439,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "30减10",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "50减20",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "70减26",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "5折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 2,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥20",
+                "month_sales_tip": "月售1183",
+                "name": "华莱士炸鸡汉堡（延安北店）",
+                "origin_shipping_fee_tip": "¥3",
+                "pic_url": "http://p1.meituan.net/waimaipoi/7272aaac9ccda9058b303e8a29d3ab9e30019.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥1",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "西式快餐",
+                "wm_poi_score": 4.2
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥30",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "33分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满25减2;满40减4;满60减5",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品7.5折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "684m",
+                "id": 945147390219693,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "25减2",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "40减4",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "60减5",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "7.5折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 33,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥20",
+                "month_sales_tip": "月售2016",
+                "name": "今日饭堂（漳州旗舰店）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/business/021c9916d6563b7d6349705b061b9b3e84006.png@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "芗城区日韩料理人气第3名",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "",
+                "shipping_fee_tip": "配送 ¥2",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "日式简餐",
+                "wm_poi_score": 4.7
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥17",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "33分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满30减1",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品5折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.9km",
+                "id": 962769641074246,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "30减1",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "5折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 33,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥15",
+                "month_sales_tip": "月售4535",
+                "name": "好而优沙茶面（生烫拌面粥肉粽）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/business/8ec92302b5b2e50ac580ab5515cef9ce78704.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“很喜欢他们家的沙茶汤”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥2",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "面馆",
+                "wm_poi_score": 4.5
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥46",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满10减5;满20减15;满50减25",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品1折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                        "info": "实际支付20元返5元商家代金券",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.5km",
+                "id": 1047715504201863,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "10减5",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "20减15",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "50减25",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "1折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "返5元券",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    },
+                    {
+                        "content": "极速退款",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 1,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥20",
+                "month_sales_tip": "月售1631",
+                "name": "大陽北京烤鸭（竹围店）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/waimaipoi/94a9c28f2f87cdd972298a7741e02a1784332.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥2",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "卤味熟食",
+                "wm_poi_score": 4.6
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥24",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "55分钟",
+                "delivery_type": 0,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满45减15;满75减25;满100减43",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+                        "info": "本店新用户立减1元",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品5.48折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.1km",
+                "id": 927031218198506,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "45减15",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "75减25",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "100减43",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "新客减1",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "5.48折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    },
+                    {
+                        "content": "极速退款",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 1,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 55,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥20",
+                "month_sales_tip": "月售3876",
+                "name": "叫了个炸鸡（专门做炸鸡的店）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p0.meituan.net/waimaipoi/09e7ac561e65eeb390f8cce0922eb18a138933.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "免配送费",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "炸鸡炸串",
+                "wm_poi_score": 4.6
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥26",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "41分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满20减10;满35减15;满50减20;满100减30",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品2折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+                        "info": "领1元券",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.2km",
+                "id": 975353895225210,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "20减10",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "35减15",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "50减20",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "100减30",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "2折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "领1元券",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 41,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥15",
+                "month_sales_tip": "月售493",
+                "name": "玛格利塔现烤披萨（华元店）",
+                "origin_shipping_fee_tip": "¥3",
+                "pic_url": "http://p0.meituan.net/business/4479e04144c64892b8385a8428d383d9359954.png@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“玛格丽塔的披萨不错”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥1.5",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "意面披萨",
+                "wm_poi_score": 4.6
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥36",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "58分钟",
+                "delivery_type": 0,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品5折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+                        "info": "满50元赠送迷你海草小菜一份",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.6km",
+                "id": 995828004342870,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "5折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "满50得赠品",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 58,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥50",
+                "month_sales_tip": "月售1195",
+                "name": "秦风卷（寿司.刺身）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/waimaipoi/a104869ef66f0a7df2a5418d784405ff262125.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“寿司非常美味,值得推荐”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "免配送费",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "刺身寿司",
+                "wm_poi_score": 4.7
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥25",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满20减2;满30减3;满50减5",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减11元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.5km",
+                "id": 913759769221122,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "20减2",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "30减3",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "50减5",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减11",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥20",
+                "month_sales_tip": "月售2079",
+                "name": "坤发小笼包炖品",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/waimaipoi/194016d65b37070db7d72aae2903a74c305552.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“炖品的品种繁多”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥2",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "快餐小吃",
+                "wm_poi_score": 4.4
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥30",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "314m",
+                "id": 1063886056068074,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥15",
+                "month_sales_tip": "月售477",
+                "name": "安徽芜湖菜馆",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/waimaipoi/4a1ebe7d1c99c2868701b8285632fc80309224.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥3",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "徽菜",
+                "wm_poi_score": 4.5
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥29",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "40分钟",
+                "delivery_type": 0,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满15减2;满30减5;满60减12",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品3.82折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.2km",
+                "id": 1103412640129970,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "15减2",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "30减5",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "60减12",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "3.82折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 40,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥35",
+                "month_sales_tip": "月售517",
+                "name": "茵籽川菜（夜市店）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p0.meituan.net/waimaipoi/4372df019d3e07ab86e24428097339dc28672.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“田鸡超级多的,分量很足,很好吃”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "免配送费",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "川湘菜",
+                "wm_poi_score": 4.6
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥15",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "34分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满15减7;满25减15;满35减20;满45减30",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品0.87折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/04d485a1b8e040bff21c02c19a9731d92048.png",
+                        "info": "购买指定商品有赠品",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "629m",
+                "id": 1094311604447578,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "15减7",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "25减15",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "35减20",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "45减30",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "0.87折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "买1赠1",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    },
+                    {
+                        "content": "极速退款",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 1,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 34,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥15",
+                "month_sales_tip": "月售4720",
+                "name": "壹号基（炸鸡汉堡）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/waimaipoi/2e91cb68bd3f66a18a2ddb73c4a7539d84973.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "免配送费",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "西式快餐",
+                "wm_poi_score": 4.5
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥16",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满20减19;满50减26;满120减56",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品0.01折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.1km",
+                "id": 998911790859747,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "20减19",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "50减26",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "120减56",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "0.01折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥12",
+                "month_sales_tip": "月售5563",
+                "name": "一道水煮牛肉饭（酸菜牛肉饭）",
+                "origin_shipping_fee_tip": "¥2",
+                "pic_url": "http://p1.meituan.net/waimaipoi/f40e2b4a32eebbe901990a9df7fd6a56169467.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥1",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "中式简餐",
+                "wm_poi_score": 4.2
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥31",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "37分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满30减15;满60减24;满100减40",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品4.54折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.8km",
+                "id": 1125175239414273,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "30减15",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "60减24",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "100减40",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "4.54折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 37,
+                    "poi_type_icon_type": 2,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥10",
+                "month_sales_tip": "月售954",
+                "name": "豪客来外卖（沃尔玛店0504）",
+                "origin_shipping_fee_tip": "¥3",
+                "pic_url": "http://p0.meituan.net/waimaipoi/b1f201e38c3d600f7861018da3d81d2f28076.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“水果挺新鲜的,吃撑了都”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥2",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "西式快餐",
+                "wm_poi_score": 4.8
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥20",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满20减12;满45减18;满60减22;满100减30",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品0.67折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                        "info": "实际支付35元返2元商家代金券",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减14元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.3km",
+                "id": 877037798831509,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "20减12",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "45减18",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "60减22",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "100减30",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "0.67折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "返2元券",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减14",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥10",
+                "month_sales_tip": "月售3627",
+                "name": "福记港式套餐",
+                "origin_shipping_fee_tip": "¥2",
+                "pic_url": "http://p0.meituan.net/waimaipoi/1f2673b35f41f878ca7c81e3f714482d69902.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥1.8",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "中式简餐",
+                "wm_poi_score": 4.2
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥24",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "40分钟",
+                "delivery_type": 0,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满10减6;满60减10;满80减12",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+                        "info": "本店新用户立减1元",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品0.5折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+                        "info": "领3元券;领5元券;领10元券",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                        "info": "实际支付1元返4元商家代金券",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+                        "info": "满88元赠送酷黑鸡米花一份",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/04d485a1b8e040bff21c02c19a9731d92048.png",
+                        "info": "购买指定商品有赠品",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "201m",
+                "id": 1041517866394549,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "10减6",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "60减10",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "80减12",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "新客减1",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "0.5折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "领3元券",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "领5元券",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "领10元券",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "返4元券",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "满88得赠品",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "买1赠1",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    },
+                    {
+                        "content": "极速退款",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 1,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 40,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥30",
+                "month_sales_tip": "月售1041",
+                "name": "汤姆披萨",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/waimaipoi/6efd1670feac3dfe0445034bb3d2ea8e170602.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "芗城区西餐口碑第9名",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "免配送费",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "意面披萨",
+                "wm_poi_score": 4.8
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥24",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满25减4;满35减8;满55减10",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "416m",
+                "id": 1097313786587624,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "25减4",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "35减8",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "55减10",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥20",
+                "month_sales_tip": "月售1518",
+                "name": "集集小镇",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p0.meituan.net/waimaipoi/85d6a3e13484b3420d516de8bc097e14118166.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“同样的鸡排饭就没这么好吃了”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "",
+                "shipping_fee_tip": "配送 ¥3",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "中式简餐",
+                "wm_poi_score": 4.5
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥18",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "53分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满30减6",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+                        "info": "本店新用户立减1元",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品5折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "2.8km",
+                "id": 1059745707629387,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "30减6",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "新客减1",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "5折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 53,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥10",
+                "month_sales_tip": "月售1188",
+                "name": "比哥鸡排（桂溪店）",
+                "origin_shipping_fee_tip": "¥2.5",
+                "pic_url": "http://p1.meituan.net/business/92ef63b4d311250b4825ef123e75ac70217696.png@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“地瓜、盐苏鸡,还有鱿鱼都好吃哦”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "配送 ¥2.4",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "炸鸡炸串",
+                "wm_poi_score": 4.7
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥30",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "40分钟",
+                "delivery_type": 0,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+                        "info": "满20减18;满40减30;满50减40",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+                        "info": "本店新用户立减1元",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品1.47折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.9km",
+                "id": 865291063303934,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "20减18",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "40减30",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "50减40",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "新客减1",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "1.47折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "支持自取",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 2,
+                        "priority": 1,
+                        "type": 3
+                    },
+                    {
+                        "content": "极速退款",
+                        "content_color": "#15B0A0",
+                        "label_background_color": "",
+                        "label_frame_color": "#B4ECE6",
+                        "poi_service_type": 1,
+                        "priority": 1,
+                        "type": 3
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 40,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥15",
+                "month_sales_tip": "月售1258",
+                "name": "南姜北京烤鸭（江滨店）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/business/274ca8c33e972fe0bb5131252f61cb2c2019266.jpg@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_type": 0,
+                "scheme": "",
+                "self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+                "shipping_fee_tip": "免配送费",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "卤味熟食",
+                "wm_poi_score": 4.7
+            },
+            {
+                "ad_attr": "",
+                "ad_mark": false,
+                "ad_type": 0,
+                "average_price_tip": "人均 ¥23",
+                "charge_info": "",
+                "closing_tips": "",
+                "container_template": {
+                    "tag_icon": "",
+                    "type": 0
+                },
+                "delivery_time_tip": "30分钟",
+                "delivery_type": 1,
+                "discounts2": [
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+                        "info": "折扣商品8折起",
+                        "promotion_type": 2
+                    },
+                    {
+                        "activity_id": 0,
+                        "icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+                        "info": "新用户立减9元",
+                        "promotion_type": 2
+                    }
+                ],
+                "distance": "1.1km",
+                "id": 1109567328268579,
+                "insurance_icon": "",
+                "insurance_type": 0,
+                "is_favorite": 0,
+                "label_info": [
+                    {
+                        "content": "8折起",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    },
+                    {
+                        "content": "首单减9",
+                        "content_color": "#FB4E44",
+                        "label_background_color": "",
+                        "label_frame_color": "#FDC9C6",
+                        "poi_service_type": 0,
+                        "priority": 0,
+                        "type": 2
+                    }
+                ],
+                "log_field": {
+                    "average_delivery_time": 30,
+                    "poi_type_icon_type": 0,
+                    "recommend_type": 0,
+                    "search_log_id": ""
+                },
+                "min_price_tip": "起送 ¥15",
+                "month_sales_tip": "月售444",
+                "name": "迪可士（悦华餐厅）",
+                "origin_shipping_fee_tip": "",
+                "pic_url": "http://p1.meituan.net/business/60bc85dd22752f3dbe600356f0613ddc17515.png@152w_114h_1e_1c",
+                "poi_promotion_pic": "",
+                "poi_type_icon": "",
+                "recommend_level_list": [
+                    {
+                        "content_color": "#FF6D27",
+                        "icon": "",
+                        "recommend_reason": "“很美味,鸡很大只,量很足”",
+                        "type": 5
+                    }
+                ],
+                "recommend_level_type": 1,
+                "scheme": "",
+                "self_delivery_icon": "",
+                "shipping_fee_tip": "配送 ¥2",
+                "status": 1,
+                "status_desc": "",
+                "story_icon": "",
+                "third_category": "西式快餐",
+                "wm_poi_score": 4.5
+            }
+        ],
+        "rank_strategy_tag": "RK4021,RK7068,RK8006",
+        "rank_strategy_version": "",
+        "world_cup_activity": {
+            "coupon_activity_img": "",
+            "coupon_activity_link": ""
+        }
+    },
+    "code": 0,
+    "msg": "成功"
+}
