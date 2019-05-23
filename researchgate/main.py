@@ -8,24 +8,76 @@
 @description:
 """
 import requests
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+import researchGate_id
+import time
+from tqdm import tqdm
 
-headers = {
-    # ':method': 'GET',
-    # ':authority': 'www.researchgate.net',
-    # ':scheme': 'https',
-    # ':path': '/profile.ProfileFeaturedResearchItems.html?accountId=AC%3A1247637',
-    # 'accept': 'application/json',
-    'rg-request-token': 'aad-QyCRDncoZ0OZVoNFYY/wFFZ42KiBaFckt/mcJ8BSustVMxeLg34vhWxF8bCWjrt5StrkZ8/mAeri019pxfR0XcriEJ5iLe/rcKBrTgTUnOqs+Fhstzi19hGl/K30txdWX700s9H7pN11U6isHbd9Svdg8sQHTLd6YUx3JbDyVF6wGcVwIwo5R0n5s1OyVq3FEqPG/AMX/8MY3E1LVGOQAy1ZKtWXaA4HRFGLIxt2WGQZsmH+/HiiuUkCQGLCFJUKge+BYKKThWJUUy5F3jdzOno3Z0GA',
-    'x-requested-with': 'XMLHttpRequest',
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
-    'referer': 'https://www.researchgate.net/profile/Antonio_Di_Martino3',
-    'accept-encoding': 'gzip, deflate, br',
-    'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
-    'cookie': '__cfduid=d5908767f32d93c057f5d8e88ad8ef4b21557599185; ptc=RG1.7388656050694273863.1557599186; did=jL8qBhrhzplf0h11lmEIoCSdta2OTUvzrTXJBekSL9W0xnZGKYF8ucvFkYwe3msf; _ga=GA1.2.620069123.1557599187; cc=1; rghfp=true; _gid=GA1.2.1549704099.1558577112; isResearcher=yes; classification=institution; pl=i1fRL2MMFZFuRNpGE7HFDnN2CfM5wn8yIEK0DO2vfvjnILvdVt04lLMqTKVICouKvXZLkafwzKwr6O0uXFxfYkC5HQyGQCWQ4MkUQ2Kzhul3ndbTbpZmPpk2DMSL17jn; sid=2Iv0f7sT8pgD0BfqObjlh9cuzy3qnY3Xd6jKjIY0vJ6MXoTmsGAaRrF9iydOqT8ZdOiei4vYFO3jNK5uUkAFPbF1gUigeqx31vxWOyjlebVUqJFu1LsnkuT7wp1A7B7R; cili=_2_YzY4MThlYmQwMjc0NzNmYTJiY2I5MWQyMDk5YjQwNGEyYzRlYjg4NDBkMTM3ZGJjNGY4YWJjYzljYWVjNWYxN18xNTc3NTUxMjsw; cirgu=_1_ndqavgf9ViYxg2HCYh4fBaoAC32TSJzSVOExUiQLoMsqgzxtUrwbeNv94rU4uj7uMCJXeS8%3D; _mkto_trk=id:931-FMK-151&token:_mch-researchgate.net-1558578329714-44690; _gat=1',
-    'referer': 'https://www.researchgate.net/profile/Antonio_Di_Martino3',
-    'rg-request-token': 'aad-QyCRDncoZ0OZVoNFYY/wFFZ42KiBaFckt/mcJ8BSustVMxeLg34vhWxF8bCWjrt5StrkZ8/mAeri019pxfR0XcriEJ5iLe/rcKBrTgTUnOqs+Fhstzi19hGl/K30txdWX700s9H7pN11U6isHbd9Svdg8sQHTLd6YUx3JbDyVF6wGcVwIwo5R0n5s1OyVq3FEqPG/AMX/8MY3E1LVGOQAy1ZKtWXaA4HRFGLIxt2WGQZsmH+/HiiuUkCQGLCFJUKge+BYKKThWJUUy5F3jdzOno3Z0GA',
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
-    'x-requested-with': 'XMLHttpRequest'
-}
-res = requests.get(url=' https://www.researchgate.net/profile.ProfileFeaturedResearchItems.html?accountId=AC%3A1247637',headers=headers)
-print(res.text)
+
+def login():
+    # 加载驱动
+    driver = webdriver.Chrome('./chromedriver')
+    # 设置最大窗口
+    driver.maximize_window()
+    # 隐性等待5秒
+    driver.implicitly_wait(3)
+    # WebDriverWait(driver, 3)
+    print("正在加载网页元素...")
+    # 打开登录网页
+    driver.get(url='https://www.researchgate.net/login')
+    # 输入用户名和密码
+    username = researchGate_id.user
+    password = researchGate_id.password
+    driver.find_element_by_id('input-login').send_keys(username)
+    driver.find_element_by_id('input-password').send_keys(password)
+    print("输入name和pass 完毕")
+    # 点击登录按钮
+    driver.find_element_by_xpath('//button[@data-testid="loginCta"]').click()
+    print("登录成功")
+    # 等待5秒 加载元素
+    # driver.implicitly_wait(3)
+    WebDriverWait(driver, 3)
+    return driver
+
+
+driver = login()
+# driver.get(url='https://www.researchgate.net/browse.BrowseSuggestResearcher.html')
+# # 模拟下滑到底部操作
+# for i in range(1, 5):
+#     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+#     WebDriverWait(driver,10)
+
+driver.get(url='https://www.researchgate.net/directory/profiles/A')
+
+links_e1 = driver.find_elements_by_xpath('//ul[@class="list-directory"]/li/a')
+
+print("正在爬取一级标签")
+links_1 = []
+for link_e1 in links_e1:
+    # print(link_e1.get_attribute('href'))
+    link_1 = link_e1.get_attribute('href')
+    links_1.append(link_1)
+
+print("正在爬取二级标签")
+links_2 = []
+for link_1 in links_1:
+    driver.get(url=link_1)
+    time.sleep(1)
+    links_e2 = driver.find_elements_by_xpath('//ul[@class="list-directory"]/li/a')
+    for link_e2 in links_e2:
+        link_2 = link_e2.get_attribute('href')
+        links_2.append(link_2)
+
+print("正在爬取三级标签")
+with open('author.txt', 'a', encoding='utf-8') as f:
+    for link_2 in links_2:
+        driver.get(url=link_2)
+        time.sleep(2)
+        links_e3 = driver.find_elements_by_xpath('//ul[@class="list-directory"]/li/a')
+        for link_e3 in links_e3:
+            link_3 = link_e3.get_attribute('href')
+            f.write(link_3 + '\n')
+
+driver.quit()
+driver.close()

@@ -64,7 +64,7 @@ def get_profiles(source):
     # If we passed a string with a valid URL, scrape data
     if source != "":
         # We'll use Google Chrome
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome('./chromedriver')
         # Make the driver wait 10 seconds when needed
         driver.implicitly_wait(5)
         # Log into an account
