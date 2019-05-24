@@ -11,7 +11,6 @@ import jieba
 import pandas as pd
 import numpy as np
 
-
 # ------ 负面词 ----------
 def load_negative():
     """
@@ -84,7 +83,7 @@ def judgeodd(num):
 
 
 def sentiment_score_list(dataset):
-    seg_sentence = dataset.split('。')
+    seg_sentence = dataset.replace('。','').split('。')
 
     count1 = []
     count2 = []
@@ -162,6 +161,7 @@ def sentiment_score_list(dataset):
 
 def sentiment_score(senti_score_list):
     score = []
+    # print(len(senti_score_list),senti_score_list)
     for review in senti_score_list:
         score_array = np.array(review)
         Pos = np.sum(score_array[:, 0])
@@ -183,9 +183,11 @@ if __name__ == '__main__':
     labels = []
     pos_scores = []
     neg_scores = []
-    df = pd.read_excel('data/sample.xlsx', header=None)
+    df = pd.read_excel('data/sample(1).xlsx', header=None)
     df.columns = ['text']
     for s in df.text.values:
+        # print(s)
+
         score = sentiment_score(sentiment_score_list(s))
         if score[0][0] > score[0][1]:
             labels.append(1)
