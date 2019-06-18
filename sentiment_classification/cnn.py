@@ -38,7 +38,7 @@ sequences = tokenizer.texts_to_sequences(texts)
 word_index = tokenizer.word_index
 print('Number of Unique Tokens', len(word_index))
 
-data = pad_sequences(sequences, maxlen=500)
+data = pad_sequences(sequences, maxlen=400)
 
 lb = LabelBinarizer()
 labels = lb.fit_transform(df['label'].values)
@@ -57,19 +57,36 @@ y_train = labels[:train_size]
 x_test = data[train_size:]
 y_test = labels[train_size:]
 
-embedding_matrix = np.random.random((len(word_index) + 1, 100))
-embedding_layer = Embedding(len(word_index) + 1,
-                            100, weights=[embedding_matrix],
-                            input_length=500, trainable=True)
+embeddings_index = {}
+f = open('sgns.weibo.word',encoding='utf8')
+for line in f:
+    values = line.split()
+    word = values[0]
+    coefs = np.asarray(values[1:], dtype='float32')
+    embeddings_index[word] = coefs
+f.close()
 
-sequence_input = Input(shape=(500,), dtype='int32')
+print('Total %s word vectors in 新浪微博 300维.' % len(embeddings_index))
+
+
+embedding_matrix = np.random.random((len(word_index) + 1, 300))
+for word, i in word_index.items():
+    embedding_vector = embeddings_index.get(word)
+    if embedding_vector is not None:
+        embedding_matrix[i] = embedding_vector
+
+embedding_layer = Embedding(len(word_index) + 1,
+                            300, weights=[embedding_matrix],
+                            input_length=400, trainable=True)
+
+sequence_input = Input(shape=(400,), dtype='int32')
 embedded_sequences = embedding_layer(sequence_input)
 l_cov1 = Conv1D(128, 5, activation='relu')(embedded_sequences)
 l_pool1 = MaxPooling1D(5)(l_cov1)
-l_cov2 = Conv1D(128, 5, activation='relu')(l_pool1)
+l_cov2 = Conv1D(64, 5, activation='relu')(l_pool1)
 l_pool2 = MaxPooling1D(5)(l_cov2)
-l_cov3 = Conv1D(128, 5, activation='relu')(l_pool2)
-l_pool3 = MaxPooling1D(10)(l_cov3)  # global max pooling
+l_cov3 = Conv1D(32, 5, activation='relu')(l_pool2)
+l_pool3 = MaxPooling1D(3)(l_cov3)  # global max pooling
 l_flat = Flatten()(l_pool3)
 l_dense = Dense(128, activation='relu')(l_flat)
 preds = Dense(len(df['label'].value_counts()), activation='softmax')(l_dense)
@@ -82,7 +99,7 @@ model.compile(loss='categorical_crossentropy',
 print("Simplified convolutional neural network")
 model.summary()
 cp = ModelCheckpoint('models/model_cnn.hdf5', monitor='val_acc', verbose=1, save_best_only=True)
-history = model.fit(x_train, y_train, validation_data=(x_test, y_test), epochs=5, batch_size=32, callbacks=[cp])
+history = model.fit(x_train, y_train, validation_data=(x_test, y_test), epochs=10, batch_size=32, callbacks=[cp])
 
 fig1 = plt.figure()
 plt.plot(history.history['loss'])
@@ -113,5 +130,5 @@ y_pred = model.predict(x_test)
 
 y_test,y_pred=np.argmax(y_test,axis=1),np.argmax(y_pred,axis=1)
 print("accuracy score:", accuracy_score(y_test, y_pred))
-print("micro f1-score:", f1_score(y_test, y_pred, average='macro'))
+print("micro f1-score:", f1_score(y_test, y_pred, average='micro'))
 print(pearsonr(y_test,y_pred))
