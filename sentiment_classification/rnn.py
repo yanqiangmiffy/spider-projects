@@ -101,3 +101,8 @@ plt.show()
 from keras.utils.vis_utils import plot_model
 
 plot_model(model, to_file='pictures/rnn_model.png', show_shapes=True, show_layer_names=True)
+y_pred = model.predict(x_test)
+y_test,y_pred=np.argmax(y_test,axis=1),np.argmax(y_pred,axis=1)
+print("accuracy score:", accuracy_score(y_test, y_pred))
+print("micro f1-score:", f1_score(y_test, y_pred, average='micro'))
+print(pearsonr(y_test,y_pred))

@@ -113,5 +113,5 @@ y_pred = model.predict(x_test)
 
 y_test,y_pred=np.argmax(y_test,axis=1),np.argmax(y_pred,axis=1)
 print("accuracy score:", accuracy_score(y_test, y_pred))
-print("micro f1-score:", f1_score(y_test, y_pred, average='micro'))
+print("micro f1-score:", f1_score(y_test, y_pred, average='macro'))
 print(pearsonr(y_test,y_pred))

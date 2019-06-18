@@ -45,3 +45,11 @@ print(lb.inverse_transform(y))
 print("accuracy score:", accuracy_score(y_test, y_pred))
 print("micro f1-score:", f1_score(y_test, y_pred, average='micro'))
 print(pearsonr(np.argmax(y_test,axis=1),np.argmax(y_pred,axis=1)))
+
+
+y_test,y_pred=np.argmax(y_test,axis=1),np.argmax(y_pred,axis=1)
+print(y_test)
+print(y_pred)
+print("accuracy score:", accuracy_score(y_test, y_pred))
+print("macro f1-score:", f1_score(y_test, y_pred, average='macro'))
+print(pearsonr(y_test,y_pred))
