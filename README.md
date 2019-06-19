@@ -22,3 +22,15 @@
 
 基于情感词典进行情感分析
 
+## 5 sale_prediction
+
+- 时间序列数据集
+- rnn,lstm进行预测
+
+## 6 sentiment_classification
+
+新闻文本情感分类
+
+- TF-IDF+逻辑回归
+- CNN
+- RNN
