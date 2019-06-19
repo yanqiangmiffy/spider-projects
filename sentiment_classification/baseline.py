@@ -29,7 +29,7 @@ df['label'] = df['sentiment'].apply(lambda x: set_label(x))
 # print(df['label'].value_counts())
 # 1 构建训练集和测试集
 # 提取tf-idf特征
-tf_vec = TfidfVectorizer(ngram_range=(1, 1), max_df=0.95, min_df=2)
+tf_vec = TfidfVectorizer(ngram_range=(1, 2), max_df=0.95, min_df=2)
 X = tf_vec.fit_transform(df['news'])
 # 标签one hot
 lb = LabelBinarizer()
@@ -47,9 +47,3 @@ print("micro f1-score:", f1_score(y_test, y_pred, average='micro'))
 print(pearsonr(np.argmax(y_test,axis=1),np.argmax(y_pred,axis=1)))
 
 
-y_test,y_pred=np.argmax(y_test,axis=1),np.argmax(y_pred,axis=1)
-print(y_test)
-print(y_pred)
-print("accuracy score:", accuracy_score(y_test, y_pred))
-print("macro f1-score:", f1_score(y_test, y_pred, average='macro'))
-print(pearsonr(y_test,y_pred))

@@ -36,7 +36,7 @@ texts = df['news']
 tokenizer.fit_on_texts(texts)
 sequences = tokenizer.texts_to_sequences(texts)
 word_index = tokenizer.word_index
-print('Number of Unique Tokens', len(word_index))
+print('不同词汇的个数', len(word_index))
 
 data = pad_sequences(sequences, maxlen=500)
 
